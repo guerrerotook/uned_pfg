@@ -1,0 +1,72 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+
+El perfil de seguridad descrito para TIOTROPIO BROMURO es coherente con su actividad farmacológica local y sistémica tras la administración inhalada. En la práctica clínica, tiotropio se utiliza de forma continuada y la valoración de tolerabilidad debe considerar la edad, las enfermedades concomitantes y el uso correcto del dispositivo. Spiriva Respimat puede asociarse a manifestaciones de intensidad variable; la mayoría se identifican durante el seguimiento habitual y no requieren una actuación específica si son leves y transitorias. La información siguiente se presenta con terminología compatible con MedDRA y se agrupa por sistema de clasificación de órganos. Dentro de cada grupo, las reacciones se ordenan por la categoría comunicada en los datos disponibles.
+
+Lista tabulada de reacciones adversas
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+poco frecuentes: Aumento de la presión intraocular, Glaucoma, Visón borrosa.
+frecuencia no conocida: Aumento de la presión intraocular, Glaucoma, Visón borrosa.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+poco frecuentes: Broncoespasmo, Disfonía, Epistaxis, Faringitis, Laringitis, Tos.
+frecuencia no conocida: Laringitis, Sinusitis.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+frecuentes: Sequedad de boca (boca seca).
+poco frecuentes: Candidiasis orofaríngea, Caries dental, Disfagia, Estomatitis, Estreñimiento, Gingivitis, Glositis, Reflujo gastroesofágico, Sequedad de boca.
+frecuencia no conocida: Caries dental, Disfagia, Estomatitis, Glositis, Náuseas, Obstrucción intestinal, incluyendo íleo paralítico, Reflujo gastroesofágico.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+poco frecuentes: Cefalea, Insonmio, Mareos.
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN
+frecuencia no conocida: Deshidratación.
+
+TRASTORNOS DEL SISTEMA EXCRETOR
+poco frecuentes: Disuria, Infección del tracto urinario, Retención urinaria.
+frecuencia no conocida: Disuria, Infección del tracto urinario, Retención urinaria.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+poco frecuentes: Edema angioneurótico, Erupción, Hipersensibilidad, Infección de la piel/úlcera en la piel, Piel seca, Prurito, Urticaria.
+frecuencia no conocida: Hipersensibilidad, Infección de la piel/úlcera en la piel, Piel seca, Reacción anafiláctica.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+poco frecuentes: Fibrilación auricular, Palpitaciones, Taquicardia, Taquicardia supraventricular.
+frecuencia no conocida: Fibrilación auricular, Taquicardia, Taquicardia supraventricular.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+frecuencia no conocida: Tumefacción en articulación.
+
+Descripción de reacciones adversas seleccionadas
+
+La sensación descrita como boca seca puede aparecer al inicio o durante el tratamiento mantenido. En general, se recomienda revisar la técnica de inhalación y valorar factores predisponentes antes de modificar la pauta. Si persiste o se acompaña de molestias orales, puede ser útil una evaluación clínica individualizada.
+
+Los signos oculares como Aumento de la presión intraocular, Glaucoma o Visón borrosa deben interpretarse en relación con la posibilidad de exposición accidental del ojo al aerosol. Se aconseja instruir al paciente para evitar la pulverización hacia la cara y solicitar atención médica si aparecen síntomas compatibles.
+
+En pacientes predispuestos, Retención urinaria o Disuria pueden requerir seguimiento, especialmente si existe antecedente urológico. Broncoespasmo tras la inhalación y Reacción anafiláctica requieren valoración inmediata y la decisión terapéutica deberá basarse en la gravedad del cuadro.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En el sistema de clasificación de órganos TRASTORNOS DEL SISTEMA RESPIRATORIO se ha identificado la siguiente reacción adversa asociada al tratamiento inhalado con TIOTROPIO BROMURO (tiotropio):
+
+- Sinusitis: frecuencia no conocida.
+
+La Sinusitis se considera compatible con la exposición local en vías respiratorias durante el uso de anticolinérgicos inhalados, aunque los datos disponibles no permiten estimar su incidencia. Se recomienda valorar la evolución clínica y las posibles condiciones predisponentes, manteniendo el seguimiento habitual del paciente. Si los síntomas persisten o resultan clínicamente relevantes, debe reconsiderarse la relación temporal con el tratamiento.
+
+-- Caso 2 --
+En el tratamiento inhalado con tiotropio bromuro (tiotropio), la sequedad de boca se ha notificado como reacción adversa de carácter anticolinérgico, generalmente leve y relacionada con el efecto farmacológico local. En la clasificación por órganos y sistemas, se incluye en Trastornos del sistema digestivo y se considera dentro de las reacciones frecuentes.
+
+Tabla de reacciones adversas:
+- Trastornos del sistema digestivo: Sequedad de boca (frecuentes).
+
+Se recomienda informar al paciente de que mantenga una adecuada higiene oral y comunique la persistencia o molestia relevante durante el seguimiento clínico.
+
+-- Caso 3 --
+Dentro del sistema de clasificación de órganos Trastornos de piel y tejidos, se ha notificado:
+- Edema angioneurótico: poco frecuentes.
+
+En pacientes tratados con TIOTROPIO BROMURO (Spiriva), este hallazgo es compatible con una reacción de hipersensibilidad y debe valorarse en relación temporal con la administración inhalada. Se recomienda vigilar la evolución clínica y considerar la interrupción del tratamiento si el cuadro progresa, especialmente cuando afecte a zonas anatómicas de riesgo, de acuerdo con la práctica clínica.

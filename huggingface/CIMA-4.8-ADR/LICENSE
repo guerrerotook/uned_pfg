@@ -1,0 +1,35 @@
+Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Luis Miguel Guerrero Guirado — Universidad Nacional de Educación a Distancia (UNED)
+
+This dataset is licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0). You are free to:
+
+  - Share — copy and redistribute the material in any medium or format
+  - Adapt — remix, transform, and build upon the material for any
+    purpose, even commercially.
+
+Under the following terms:
+
+  - Attribution — You must give appropriate credit, provide a link to
+    the license, and indicate if changes were made. You may do so in
+    any reasonable manner, but not in any way that suggests the
+    licensor endorses you or your use.
+
+The full legal code is available at:
+  https://creativecommons.org/licenses/by/4.0/legalcode
+
+ATTRIBUTION
+-----------
+The underlying section-4.8 text is sourced from the Spanish drug fact
+sheets (fichas técnicas / Summary of Product Characteristics, SmPC)
+published by the Spanish Agency for Medicines and Medical Devices
+(Agencia Española de Medicamentos y Productos Sanitarios, AEMPS)
+through the CIMA portal (https://cima.aemps.es/). When redistributing
+or building upon this dataset, please attribute both:
+
+  1. Guerrero Guirado, L. M. (2026). CIMA Sección 4.8 — Reacciones
+     Adversas (corpus completo para pre-entrenamiento). UNED PFG.
+     https://huggingface.co/datasets/guerrerotook/CIMA-4.8-Reacciones-Adversas
+  2. AEMPS — Centro de Información Online de Medicamentos (CIMA).
+     https://cima.aemps.es/

@@ -1,0 +1,50 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil de seguridad de SULFADIAZINA corresponde al observado con medicamentos de esta clase, con manifestaciones que pueden afectar a distintos aparatos y funciones. En general, los acontecimientos descritos se han comunicado durante el uso clínico y requieren valoración individual, especialmente cuando aparecen de forma persistente o con intensidad progresiva. La información se presenta por clasificación de órganos y por categoría, utilizando una terminología homogénea para facilitar su lectura. La aparición de signos clínicos relevantes debe conducir a una evaluación del tratamiento y de las medidas de seguimiento apropiadas. En pacientes con factores predisponentes, la vigilancia clínica y analítica puede contribuir a identificar precozmente cambios compatibles con intolerancia.
+
+Lista tabulada de reacciones adversas
+
+Trastornos del sistema nervioso
+poco frecuentes: agitación, ataxia, cefalea, insomio, mareo, neuropatía periférica, somnolencia.
+
+Trastornos de la sangre y órganos hematopoyéticos
+poco frecuentes: agranulocitosis, anemia aplásica, anemia hemolítica, eosinofilia, hipoprotrombinemia, leucopenia, metahemoglobinemia, trombopenia.
+
+Trastornos de órganos de los sentidos
+poco frecuentes: alteraciones del equilibrio, tinnitus.
+
+Trastornos psiquiátricos
+poco frecuentes: alucinaciones, confusión, depresión, psicosis.
+
+Trastornos del sistema excretor
+poco frecuentes: cristaluria, cálculos renale, hematuria, incremento de los valores de nitrógeno ureico en sangre, oliguria, proteinuria.
+
+Trastornos de piel y tejidos
+poco frecuentes: dermatitis exfoliativa, eritema multiforme, eritema nudoso, erupciones exantemáticas, prurito, reacciones de fotosensibilidad.
+
+Trastornos del sistema inmunológico
+poco frecuentes: enfermedad del suero, fiebre.
+no frecuente: síndrome de Stevens-Johnson.
+
+Trastornos del sistema digestivo
+frecuentes: náuseas, vomitos.
+poco frecuentes: ictericia, necrosis hepática.
+
+Descripción de reacciones adversas seleccionadas
+Las manifestaciones cutáneas deben interpretarse con cautela, ya que pueden representar un espectro clínico variable. Ante una evolución rápida, afectación extensa o signos acompañantes, se recomienda una valoración médica inmediata y la reconsideración del tratamiento. La identificación temprana de cambios en la piel o en mucosas es importante para evitar progresión clínica.
+
+Las alteraciones hematológicas notificadas justifican especial atención en tratamientos prolongados o en pacientes con antecedentes relevantes. Puede ser necesario realizar controles analíticos si la situación clínica lo requiere. La presencia de síntomas generales, palidez, cansancio inusual o tendencia al sangrado debe evaluarse de acuerdo con la práctica clínica habitual.
+
+Las manifestaciones renales y hepáticas se han incluido por su relevancia potencial durante la exposición. Una hidratación adecuada, la revisión de tratamientos concomitantes y el seguimiento de parámetros biológicos pueden ser útiles en pacientes seleccionados. La decisión de continuar o interrumpir el tratamiento debe basarse en la gravedad del cuadro y en el balance clínico individual.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En el sistema TRASTORNOS DE PIEL Y TEJIDOS, se ha descrito eritema multiforme asociado al tratamiento con SULFADIAZINA, clasificado con una frecuencia poco frecuentes. Este hallazgo es compatible con una respuesta individual durante la exposición al fármaco. Se recomienda valorar periódicamente la aparición de signos clínicos compatibles y reconsiderar la continuidad del tratamiento si el cuadro es sugestivo, atendiendo a la evolución y a la relación temporal con la administración. La evaluación debe integrarse en el balance beneficio-riesgo del paciente.
+
+-- Caso 2 --
+Dentro de TRASTORNOS DEL SISTEMA INMUNOLÓGICO, se ha notificado síndrome de Stevens-Johnson asociado al tratamiento con SULFADIAZINA, con frecuencia no frecuente. Esta reacción debe considerarse potencialmente grave y requiere valoración clínica inmediata ante signos compatibles durante la administración. Se recomienda suspender el tratamiento y no reintroducirlo si se confirma la relación causal, de acuerdo con la evaluación médica individual.
+
+-- Caso 3 --
+En la clasificación de órganos Trastornos del sistema digestivo, se han notificado vómitos, clasificados como frecuentes, durante el tratamiento con SULFADIAZINA. La aparición de este cuadro puede relacionarse con la exposición sistémica al principio activo y debe valorarse en el contexto clínico del paciente. Se recomienda realizar seguimiento de la tolerabilidad y considerar medidas de soporte si la intensidad compromete la administración del tratamiento. La continuidad o interrupción debe decidirse según la evolución y el balance beneficio/riesgo individual.

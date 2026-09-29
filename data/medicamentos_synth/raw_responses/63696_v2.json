@@ -1,0 +1,750 @@
+{
+  "codigo": "63696",
+  "variante": 2,
+  "codigo_variant": "63696_v2",
+  "medicamento": "LORATADINA CINFA 10 mg COMPRIMIDOS EFG",
+  "model": "gpt-5.5",
+  "style_variant_idx": 1,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "Resumen del perfil de seguridad\nEl perfil de seguridad descrito para LORATADINA resulta compatible con el uso de un antihistamínico administrado por vía oral en condiciones habituales. La denominación loratadina se emplea en esta sección como nombre común del principio activo, sin que ello implique diferencias de formulación o de respuesta clínica. Las notificaciones consideradas se presentan de forma agrupada para facilitar la lectura y no sustituyen la valoración individual de cada caso. La interpretación debe tener en cuenta la dosis, la duración del tratamiento, los antecedentes del paciente y la posible presencia de factores concomitantes. En general, la información disponible permite identificar acontecimientos de carácter leve o moderado, aunque algunos hallazgos requieren atención clínica si aparecen de forma persistente o inesperada.\n\nLista tabulada de reacciones adversas\nLas reacciones se ordenan por sistema de clasificación de órganos y por categoría de frecuencia.\n\nTRASTORNOS PSIQUIÁTRICOS\nfrecuencia no conocida: Agresión; Comportamiento anormal; Estado de ánimo deprimido.\n\nTRASTORNOS DEL SISTEMA GENERAL\nfrecuentes: Fatiga.\nfrecuencia no conocida: Astenia.\n\nTRASTORNOS DEL SISTEMA HEPATOBILIAR\nfrecuencia no conocida: Ictericia.\n\nEXPLORACIONES COMPLEMENTARIAS\nfrecuencia no conocida: Aumento de peso.\n\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN\nfrecuencia no conocida: Aumento del apetito.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nfrecuentes: Boca seca.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nfrecuentes: Cefalea.\n\nTRASTORNOS DE PIEL Y TEJIDOS\nfrecuencia no conocida: Fotosensibilidad.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\nNo se consignan términos específicos en esta tabla.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\nfrecuencia no conocida: QT prolongado.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\nfrecuencia no conocida: Sequedad del ojo.\n\nDescripción de reacciones adversas seleccionadas\nLa Fatiga y la Boca seca suelen registrarse durante el seguimiento habitual y, en la mayoría de los casos, pueden valorarse mediante medidas clínicas generales y revisión de la evolución. La Cefalea (dolor de cabeza) debe interpretarse atendiendo al momento de aparición y a la exposición al tratamiento, especialmente si el paciente ya presentaba episodios previos similares. La Astenia puede comunicarse de manera inespecífica, por lo que resulta útil confirmar su intensidad, duración y relación temporal.\n\nCuando se notifiquen QT prolongado o Ictericia, se recomienda una evaluación médica dirigida, considerando antecedentes, tratamientos concomitantes y datos analíticos disponibles. La Fotosensibilidad y la Sequedad del ojo pueden requerir consejo preventivo y seguimiento si interfieren con la actividad diaria. Las comunicaciones clasificadas como frecuencia no conocida proceden de fuentes en las que no siempre es posible estimar una incidencia fiable, por lo que la información debe revisarse de forma acumulada y con criterios clínicos homogéneos.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nTrastornos del sistema hepatobiliar\n\nSe ha notificado hepatitis con loratadina, incluida LORATADINA CINFA 10 mg COMPRIMIDOS EFG, con frecuencia no conocida. Esta reacción se incluye dentro de los trastornos del sistema hepatobiliar y debe valorarse en el contexto clínico del paciente.\n\nTabla de reacciones adversas:\n- Hepatitis: frecuencia no conocida.\n\nEn caso de sospecha de afectación hepática durante el tratamiento con loratadina, se recomienda una evaluación médica y considerar la interrupción del medicamento según criterio clínico.\n\n-- Caso 2 --\nDentro de TRASTORNOS DEL SISTEMA GENERAL, se ha notificado astenia durante el uso de LORATADINA, con frecuencia no conocida a partir de los datos disponibles. La intensidad comunicada puede variar y debe valorarse en el contexto clínico del paciente y de la evolución temporal respecto al tratamiento.\n\nListado de la reacción adversa:\n- Astenia (sensación de cansancio): frecuencia no conocida.\n\nSe recomienda realizar seguimiento si el síntoma persiste o interfiere con las actividades habituales. La evaluación debe considerar factores concomitantes antes de atribuir causalidad al tratamiento.\n\n-- Caso 3 --\nDurante el tratamiento con loratadina, este acontecimiento puede aparecer de forma aislada y debe interpretarse según la situación clínica del paciente y la relación temporal con la administración. La descripción no implica, por sí sola, interrupción automática; se recomienda seguimiento si el síntoma persiste o resulta relevante para las actividades habituales, considerando otras causas posibles sin modificar la categoría comunicada. En pacientes que conduzcan o manejen maquinaria, conviene confirmar la evolución individual antes de atribuirlo exclusivamente al medicamento.\n\nLista tabulada:\n- Sistema de clasificación de órganos: TRASTORNOS DEL SISTEMA GENERAL\n- Reacción adversa: Fatiga (cansancio)\n- Frecuencia: frecuentes\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "LORATADINA",
+      "surface": "LORATADINA",
+      "start": 69,
+      "end": 79
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "LORATADINA",
+      "surface": "loratadina",
+      "start": 69,
+      "end": 79
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 992,
+      "end": 1016
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 1017,
+      "end": 1039
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agresión",
+      "surface": "Agresión",
+      "start": 1041,
+      "end": 1049
+    },
+    {
+      "type": "REACT",
+      "canonical": "Comportamiento anormal",
+      "surface": "Comportamiento anormal",
+      "start": 1051,
+      "end": 1073
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estado de ánimo deprimido",
+      "surface": "Estado de ánimo deprimido",
+      "start": 1075,
+      "end": 1100
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 1103,
+      "end": 1133
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 1134,
+      "end": 1144
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "Fatiga",
+      "start": 1146,
+      "end": 1152
+    },
+    {
+      "type": "REACT",
+      "canonical": "Astenia",
+      "surface": "Astenia",
+      "start": 1178,
+      "end": 1185
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "surface": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "start": 1188,
+      "end": 1223
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ictericia",
+      "surface": "Ictericia",
+      "start": 1248,
+      "end": 1257
+    },
+    {
+      "type": "SYS",
+      "canonical": "EXPLORACIONES COMPLEMENTARIAS",
+      "surface": "EXPLORACIONES COMPLEMENTARIAS",
+      "start": 1260,
+      "end": 1289
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de peso",
+      "surface": "Aumento de peso",
+      "start": 1314,
+      "end": 1329
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "start": 1332,
+      "end": 1373
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento del apetito",
+      "surface": "Aumento del apetito",
+      "start": 1398,
+      "end": 1417
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1420,
+      "end": 1452
+    },
+    {
+      "type": "REACT",
+      "canonical": "Boca seca",
+      "surface": "Boca seca",
+      "start": 1465,
+      "end": 1474
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1477,
+      "end": 1508
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea",
+      "start": 1521,
+      "end": 1528
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 1531,
+      "end": 1559
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fotosensibilidad",
+      "surface": "Fotosensibilidad",
+      "start": 1584,
+      "end": 1600
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 1603,
+      "end": 1645
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1699,
+      "end": 1736
+    },
+    {
+      "type": "REACT",
+      "canonical": "QT prolongado",
+      "surface": "QT prolongado",
+      "start": 1761,
+      "end": 1774
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 1777,
+      "end": 1814
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad del ojo",
+      "surface": "Sequedad del ojo",
+      "start": 1839,
+      "end": 1855
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "dolor de cabeza",
+      "start": 2107,
+      "end": 2122
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hepatitis",
+      "surface": "hepatitis",
+      "start": 3100,
+      "end": 3109
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "surface": "trastornos del sistema hepatobiliar",
+      "start": 1188,
+      "end": 1223
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hepatitis",
+      "surface": "Hepatitis",
+      "start": 3100,
+      "end": 3109
+    },
+    {
+      "type": "REACT",
+      "canonical": "Astenia",
+      "surface": "astenia",
+      "start": 1178,
+      "end": 1185
+    },
+    {
+      "type": "REACT",
+      "canonical": "Astenia",
+      "surface": "sensación de cansancio",
+      "start": 3948,
+      "end": 3970
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "cansancio",
+      "start": 3961,
+      "end": 3970
+    }
+  ],
+  "raw_long_doc_text": "Resumen del perfil de seguridad\nEl perfil de seguridad descrito para LORATADINA resulta compatible con el uso de un antihistamínico administrado por vía oral en condiciones habituales. La denominación loratadina se emplea en esta sección como nombre común del principio activo, sin que ello implique diferencias de formulación o de respuesta clínica. Las notificaciones consideradas se presentan de forma agrupada para facilitar la lectura y no sustituyen la valoración individual de cada caso. La interpretación debe tener en cuenta la dosis, la duración del tratamiento, los antecedentes del paciente y la posible presencia de factores concomitantes. En general, la información disponible permite identificar acontecimientos de carácter leve o moderado, aunque algunos hallazgos requieren atención clínica si aparecen de forma persistente o inesperada.\n\nLista tabulada de reacciones adversas\nLas reacciones se ordenan por sistema de clasificación de órganos y por categoría de frecuencia.\n\nTRASTORNOS PSIQUIÁTRICOS\nfrecuencia no conocida: Agresión; Comportamiento anormal; Estado de ánimo deprimido.\n\nTRASTORNOS DEL SISTEMA GENERAL\nfrecuentes: Fatiga.\nfrecuencia no conocida: Astenia.\n\nTRASTORNOS DEL SISTEMA HEPATOBILIAR\nfrecuencia no conocida: Ictericia.\n\nEXPLORACIONES COMPLEMENTARIAS\nfrecuencia no conocida: Aumento de peso.\n\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN\nfrecuencia no conocida: Aumento del apetito.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nfrecuentes: Boca seca.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nfrecuentes: Cefalea.\n\nTRASTORNOS DE PIEL Y TEJIDOS\nfrecuencia no conocida: Fotosensibilidad.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\nNo se consignan términos específicos en esta tabla.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\nfrecuencia no conocida: QT prolongado.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\nfrecuencia no conocida: Sequedad del ojo.\n\nDescripción de reacciones adversas seleccionadas\nLa Fatiga y la Boca seca suelen registrarse durante el seguimiento habitual y, en la mayoría de los casos, pueden valorarse mediante medidas clínicas generales y revisión de la evolución. La Cefalea (dolor de cabeza) debe interpretarse atendiendo al momento de aparición y a la exposición al tratamiento, especialmente si el paciente ya presentaba episodios previos similares. La Astenia puede comunicarse de manera inespecífica, por lo que resulta útil confirmar su intensidad, duración y relación temporal.\n\nCuando se notifiquen QT prolongado o Ictericia, se recomienda una evaluación médica dirigida, considerando antecedentes, tratamientos concomitantes y datos analíticos disponibles. La Fotosensibilidad y la Sequedad del ojo pueden requerir consejo preventivo y seguimiento si interfieren con la actividad diaria. Las comunicaciones clasificadas como frecuencia no conocida proceden de fuentes en las que no siempre es posible estimar una incidencia fiable, por lo que la información debe revisarse de forma acumulada y con criterios clínicos homogéneos.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "LORATADINA",
+      "surface": "LORATADINA"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "LORATADINA",
+      "surface": "loratadina"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agresión",
+      "surface": "Agresión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Comportamiento anormal",
+      "surface": "Comportamiento anormal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estado de ánimo deprimido",
+      "surface": "Estado de ánimo deprimido"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "Fatiga"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Astenia",
+      "surface": "Astenia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "surface": "TRASTORNOS DEL SISTEMA HEPATOBILIAR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ictericia",
+      "surface": "Ictericia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "EXPLORACIONES COMPLEMENTARIAS",
+      "surface": "EXPLORACIONES COMPLEMENTARIAS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de peso",
+      "surface": "Aumento de peso"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento del apetito",
+      "surface": "Aumento del apetito"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Boca seca",
+      "surface": "Boca seca"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fotosensibilidad",
+      "surface": "Fotosensibilidad"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "QT prolongado",
+      "surface": "QT prolongado"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad del ojo",
+      "surface": "Sequedad del ojo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "Fatiga"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Boca seca",
+      "surface": "Boca seca"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "dolor de cabeza"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Astenia",
+      "surface": "Astenia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "QT prolongado",
+      "surface": "QT prolongado"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ictericia",
+      "surface": "Ictericia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fotosensibilidad",
+      "surface": "Fotosensibilidad"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad del ojo",
+      "surface": "Sequedad del ojo"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "LORATADINA CINFA 10 mg COMPRIMIDOS EFG",
+        "pactivo": "LORATADINA",
+        "reaccion": "Hepatitis",
+        "frecuencia": "nan",
+        "sistema": "TRASTORNOS DEL SISTEMA HEPATOBILIAR"
+      },
+      "text": "Trastornos del sistema hepatobiliar\n\nSe ha notificado hepatitis con loratadina, incluida LORATADINA CINFA 10 mg COMPRIMIDOS EFG, con frecuencia no conocida. Esta reacción se incluye dentro de los trastornos del sistema hepatobiliar y debe valorarse en el contexto clínico del paciente.\n\nTabla de reacciones adversas:\n- Hepatitis: frecuencia no conocida.\n\nEn caso de sospecha de afectación hepática durante el tratamiento con loratadina, se recomienda una evaluación médica y considerar la interrupción del medicamento según criterio clínico.",
+      "declared": [
+        {
+          "type": "REACT",
+          "canonical": "Hepatitis",
+          "surface": "hepatitis"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LORATADINA",
+          "surface": "loratadina"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+          "surface": "trastornos del sistema hepatobiliar"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Hepatitis",
+          "surface": "Hepatitis"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LORATADINA",
+          "surface": "loratadina"
+        }
+      ],
+      "validated": [
+        {
+          "type": "REACT",
+          "canonical": "Hepatitis",
+          "surface": "hepatitis",
+          "start": 54,
+          "end": 63
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LORATADINA",
+          "surface": "loratadina",
+          "start": 68,
+          "end": 78
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida",
+          "start": 133,
+          "end": 155
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+          "surface": "trastornos del sistema hepatobiliar",
+          "start": 0,
+          "end": 35
+        },
+        {
+          "type": "REACT",
+          "canonical": "Hepatitis",
+          "surface": "Hepatitis",
+          "start": 54,
+          "end": 63
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "LORATADINA CINFA 10 mg COMPRIMIDOS EFG",
+        "pactivo": "LORATADINA",
+        "reaccion": "Astenia",
+        "frecuencia": "SIN FRECUENCIA",
+        "sistema": "TRASTORNOS DEL SISTEMA GENERAL"
+      },
+      "text": "Dentro de TRASTORNOS DEL SISTEMA GENERAL, se ha notificado astenia durante el uso de LORATADINA, con frecuencia no conocida a partir de los datos disponibles. La intensidad comunicada puede variar y debe valorarse en el contexto clínico del paciente y de la evolución temporal respecto al tratamiento.\n\nListado de la reacción adversa:\n- Astenia (sensación de cansancio): frecuencia no conocida.\n\nSe recomienda realizar seguimiento si el síntoma persiste o interfiere con las actividades habituales. La evaluación debe considerar factores concomitantes antes de atribuir causalidad al tratamiento.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+          "surface": "TRASTORNOS DEL SISTEMA GENERAL"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Astenia",
+          "surface": "astenia"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LORATADINA",
+          "surface": "LORATADINA"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Astenia",
+          "surface": "Astenia"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Astenia",
+          "surface": "sensación de cansancio"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+          "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+          "start": 10,
+          "end": 40
+        },
+        {
+          "type": "REACT",
+          "canonical": "Astenia",
+          "surface": "astenia",
+          "start": 59,
+          "end": 66
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LORATADINA",
+          "surface": "LORATADINA",
+          "start": 85,
+          "end": 95
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida",
+          "start": 101,
+          "end": 123
+        },
+        {
+          "type": "REACT",
+          "canonical": "Astenia",
+          "surface": "Astenia",
+          "start": 59,
+          "end": 66
+        },
+        {
+          "type": "REACT",
+          "canonical": "Astenia",
+          "surface": "sensación de cansancio",
+          "start": 346,
+          "end": 368
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "LORATADINA CINFA 10 mg COMPRIMIDOS EFG",
+        "pactivo": "LORATADINA",
+        "reaccion": "Fatiga",
+        "frecuencia": "FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA GENERAL"
+      },
+      "text": "Durante el tratamiento con loratadina, este acontecimiento puede aparecer de forma aislada y debe interpretarse según la situación clínica del paciente y la relación temporal con la administración. La descripción no implica, por sí sola, interrupción automática; se recomienda seguimiento si el síntoma persiste o resulta relevante para las actividades habituales, considerando otras causas posibles sin modificar la categoría comunicada. En pacientes que conduzcan o manejen maquinaria, conviene confirmar la evolución individual antes de atribuirlo exclusivamente al medicamento.\n\nLista tabulada:\n- Sistema de clasificación de órganos: TRASTORNOS DEL SISTEMA GENERAL\n- Reacción adversa: Fatiga (cansancio)\n- Frecuencia: frecuentes",
+      "declared": [
+        {
+          "type": "ACTIVE",
+          "canonical": "LORATADINA",
+          "surface": "loratadina"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+          "surface": "TRASTORNOS DEL SISTEMA GENERAL"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Fatiga",
+          "surface": "Fatiga"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Fatiga",
+          "surface": "cansancio"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        }
+      ],
+      "validated": [
+        {
+          "type": "ACTIVE",
+          "canonical": "LORATADINA",
+          "surface": "loratadina",
+          "start": 27,
+          "end": 37
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+          "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+          "start": 638,
+          "end": 668
+        },
+        {
+          "type": "REACT",
+          "canonical": "Fatiga",
+          "surface": "Fatiga",
+          "start": 689,
+          "end": 695
+        },
+        {
+          "type": "REACT",
+          "canonical": "Fatiga",
+          "surface": "cansancio",
+          "start": 697,
+          "end": 706
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes",
+          "start": 722,
+          "end": 732
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

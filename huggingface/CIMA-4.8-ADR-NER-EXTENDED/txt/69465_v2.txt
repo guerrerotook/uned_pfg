@@ -1,0 +1,46 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+
+Este preparado contiene GLUCONATO CALCIO MONOHIDRATO y se administra por vía parenteral en un entorno en el que la técnica de administración y la vigilancia clínica son relevantes. En la práctica asistencial, el gluconato cálcico, denominado de forma abreviada Suplecal en algunos ámbitos, presenta un perfil de seguridad condicionado por la velocidad de administración, la vía utilizada y la situación clínica del paciente. Las observaciones descritas proceden principalmente de la experiencia poscomercialización y de comunicaciones clínicas, por lo que no siempre es posible establecer una relación temporal precisa ni calcular una incidencia fiable. La evaluación debe realizarse caso por caso, teniendo en cuenta la indicación, la dosis administrada y la respuesta del paciente durante y después de la administración. Ante cualquier manifestación inesperada, se recomienda valorar la interrupción o ajuste de la administración y aplicar las medidas clínicas habituales.
+
+Lista tabulada de reacciones adversas
+
+Trastornos del sistema cardiovascular
+frecuencia no conocida: Arritmia cardíaca; Bradicardia; colapso circulatorio (potencialmente mortal); hipotensión; rubor, especialmente después de una administración demasiado rápida; vasodilatación.
+
+Trastornos del sistema general
+frecuencia no conocida: la administración intramuscular puede ir acompañada de sensación de dolor o eritema; sensación de calor; sudoración.
+
+Trastornos del sistema digestivo
+frecuencia no conocida: náuseas; vómitos.
+
+Descripción de reacciones adversas seleccionadas
+
+Las manifestaciones registradas durante la administración pueden aparecer de forma transitoria y resolverse al reducir la velocidad o al suspender temporalmente el aporte, según la valoración clínica. La hipotensión y la bradicardia requieren observación, especialmente si coinciden con otros signos de mala tolerancia hemodinámica. El colapso circulatorio (potencialmente mortal) constituye una situación que exige actuación inmediata y monitorización estrecha.
+
+El rubor, especialmente después de una administración demasiado rápida (enrojecimiento), puede ser percibido por el paciente como una sensación súbita y pasajera. En algunos casos se acompaña de sensación de calor o sudoración, sin que ello implique necesariamente gravedad si el cuadro es autolimitado. Las náuseas y los vómitos deben valorarse junto con el contexto clínico y la tolerabilidad general del tratamiento.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En la experiencia de uso con GLUCONATO CALCIO MONOHIDRATO, también descrito de forma práctica como calcio, se han notificado acontecimientos incluidos en TRASTORNOS DEL SISTEMA DIGESTIVO. La reacción adversa identificada es:
+
+- vómitos (devolver): frecuencia no conocida.
+
+La aparición de vómitos puede estar relacionada con la administración parenteral de sales de calcio y debe valorarse en el contexto clínico del paciente. Si el cuadro persiste o se considera clínicamente relevante, se recomienda seguimiento y revisión de la pauta de administración.
+
+-- Caso 2 --
+En la experiencia de uso con GLUCONATO CALCIO MONOHIDRATO (gluconato cálcico), se ha descrito hipotensión con frecuencia no conocida. Esta reacción se clasifica dentro de TRASTORNOS DEL SISTEMA CARDIOVASCULAR y puede relacionarse con cambios hemodinámicos durante o tras la administración parenteral, especialmente si la perfusión no se ajusta a las recomendaciones.
+
+Lista tabulada de reacciones adversas:
+- TRASTORNOS DEL SISTEMA CARDIOVASCULAR: hipotensión (frecuencia no conocida).
+
+Se recomienda monitorizar la presión arterial durante la administración y valorar la interrupción o reducción de la velocidad si se observan descensos clínicamente relevantes (bajada de tensión).
+
+-- Caso 3 --
+En la clasificación por órganos y sistemas, dentro de Trastornos del sistema cardiovascular, se ha notificado la siguiente reacción adversa asociada a GLUCONATO CALCIO MONOHIDRATO (gluconato cálcico):
+
+- colapso circulatorio (potencialmente mortal): frecuencia no conocida.
+
+Este acontecimiento puede relacionarse con la administración parenteral y requiere vigilancia clínica durante y después de la administración, especialmente si se utilizan velocidades de perfusión elevadas. Ante signos de inestabilidad hemodinámica, debe interrumpirse la administración y aplicarse el manejo clínico adecuado.

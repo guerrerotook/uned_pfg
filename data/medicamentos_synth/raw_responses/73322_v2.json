@@ -1,0 +1,1107 @@
+{
+  "codigo": "73322",
+  "variante": 2,
+  "codigo_variant": "73322_v2",
+  "medicamento": "BROMAZEPAM KERN PHARMA 1,5 MG CAPSULAS EFG",
+  "model": "gpt-5.5",
+  "style_variant_idx": 1,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "Resumen del perfil de seguridad\nEl perfil observado con BROMAZEPAM es coherente con el de un ansiolítico de acción central y requiere una valoración individual de la respuesta clínica. En la práctica clínica, el bromazepam puede producir acontecimientos relacionados con la vigilancia, la coordinación y la conducta, por lo que se recomienda revisar periódicamente la necesidad de continuar el tratamiento. En algunos países se identifica por nombres comerciales breves como Lexatin; esta denominación no modifica las precauciones aplicables. La información disponible procede de notificación espontánea y de la experiencia acumulada, por lo que no siempre es posible estimar una incidencia precisa. La aparición de cualquier acontecimiento debe interpretarse considerando la dosis, la duración del uso y las características del paciente.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS PSIQUIÁTRICOS\nfrecuencia no conocida: Abuso, Agitación, Agresividad, Alteraciones del humor, Alucinación, Amnesia anterógrada, Ansiedad, Comportamiento inadecuado, Confusión, Dependencia, Depresión (puede desenmascarar una depresión existente), Derilio, Desorientación, Hiperactividad, Intranquilidad, Ira, Irritabilidad, Pesadillas, Psicosis, Pérdida de memoria, Sueños anormales, Síndrome de abstinencia, Trastornos de la libido.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\nfrecuencia no conocida: Angioedema, Hipersensibilidad, Shock anafiláctico.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nfrecuencia no conocida: Ataxia, Cefalea, Mareos (sensación de mareo), Reducción del estado de alerta, Somnolencia.\n\nLESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS\nfrecuencia no conocida: Caídas, Fracturas.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\nfrecuencia no conocida: Debilidad muscular.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\nfrecuencia no conocida: Depresión respiratoria.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\nfrecuencia no conocida: Diplopia.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nfrecuencia no conocida: Estreñimiento, Náuseas, Vómitos.\n\nTRASTORNOS DEL SISTEMA GENERAL\nfrecuencia no conocida: Fatiga.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\nfrecuencia no conocida: Insuficiencia cardiaca, Parada cardiaca.\n\nTRASTORNOS DE PIEL Y TEJIDOS\nfrecuencia no conocida: Prurito, Rash cutáneo, Urticaria.\n\nTRASTORNOS DEL SISTEMA EXCRETOR\nfrecuencia no conocida: Retención urinaria.\n\nDescripción de acontecimientos seleccionados\nLa evaluación de la tolerabilidad debe realizarse de forma continuada, especialmente al inicio del tratamiento o tras cambios de dosis. La intensidad de los acontecimientos puede variar y, en algunos casos, mejorar con el ajuste de la pauta o con la retirada gradual indicada por el médico. Debe evitarse la interrupción brusca cuando el tratamiento se haya mantenido durante periodos prolongados, ya que la adaptación del paciente puede requerir una reducción escalonada.\n\nSe aconseja informar al paciente y a sus cuidadores de que consulten si observan cambios inesperados del comportamiento, disminución importante de la capacidad de reacción o cualquier manifestación que comprometa la seguridad cotidiana. En personas de edad avanzada o con comorbilidad relevante, la vigilancia clínica debe ser más estrecha. La notificación de sospechas tras la autorización permite mantener actualizada la relación beneficio-riesgo del medicamento.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nEn el tratamiento con bromazepam se ha descrito el siguiente acontecimiento dentro del sistema LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS:\n- Caídas: frecuencia no conocida.\n\nEste acontecimiento puede relacionarse con los efectos depresores centrales propios de las benzodiazepinas, especialmente en pacientes de edad avanzada o con factores que aumenten la vulnerabilidad al tropiezo. Se recomienda valorar periódicamente la necesidad de tratamiento, utilizar la dosis eficaz más baja y advertir al paciente de que extreme las precauciones en situaciones que requieran estabilidad o coordinación.\n\n-- Caso 2 --\nEn el sistema Trastornos de órganos de los sentidos se ha notificado la siguiente reacción adversa asociada al tratamiento con BROMAZEPAM:\n\n- Diplopia: frecuencia no conocida.\n\nLa Diplopia (visión doble) puede relacionarse con el efecto depresor central propio de las benzodiazepinas y suele valorarse en el contexto de la dosis administrada y de la sensibilidad individual del paciente. Si aparece durante el tratamiento, se recomienda realizar seguimiento clínico y considerar la adecuación de la pauta, especialmente cuando pueda interferir con actividades que requieran atención visual sostenida.\n\n-- Caso 3 --\nDentro de los Trastornos del sistema nervioso, se ha notificado con bromazepam una Reducción del estado de alerta, con frecuencia no conocida. Esta manifestación es coherente con el efecto depresor central de las benzodiazepinas y puede ser más evidente al inicio del tratamiento o tras incrementos de dosis.\n\nLista tabulada:\n- Trastornos del sistema nervioso: Reducción del estado de alerta (menor alerta), frecuencia no conocida.\n\nDebe valorarse la situación clínica del paciente y advertirle de que evite actividades que requieran atención sostenida si se produce este efecto. Con Lexatin o bromazepam, la revisión periódica de la necesidad de tratamiento ayuda a limitar la exposición.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "BROMAZEPAM",
+      "surface": "BROMAZEPAM",
+      "start": 56,
+      "end": 66
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "BROMAZEPAM",
+      "surface": "bromazepam",
+      "start": 56,
+      "end": 66
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "BROMAZEPAM",
+      "surface": "Lexatin",
+      "start": 475,
+      "end": 482
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 879,
+      "end": 903
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 904,
+      "end": 926
+    },
+    {
+      "type": "REACT",
+      "canonical": "Abuso",
+      "surface": "Abuso",
+      "start": 928,
+      "end": 933
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agitación",
+      "surface": "Agitación",
+      "start": 935,
+      "end": 944
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agresividad",
+      "surface": "Agresividad",
+      "start": 946,
+      "end": 957
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones del humor",
+      "surface": "Alteraciones del humor",
+      "start": 959,
+      "end": 981
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alucinación",
+      "surface": "Alucinación",
+      "start": 983,
+      "end": 994
+    },
+    {
+      "type": "REACT",
+      "canonical": "Amnesia anterógrada",
+      "surface": "Amnesia anterógrada",
+      "start": 996,
+      "end": 1015
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ansiedad",
+      "surface": "Ansiedad",
+      "start": 1017,
+      "end": 1025
+    },
+    {
+      "type": "REACT",
+      "canonical": "Comportamiento inadecuado",
+      "surface": "Comportamiento inadecuado",
+      "start": 1027,
+      "end": 1052
+    },
+    {
+      "type": "REACT",
+      "canonical": "Confusión",
+      "surface": "Confusión",
+      "start": 1054,
+      "end": 1063
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dependencia",
+      "surface": "Dependencia",
+      "start": 1065,
+      "end": 1076
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión (puede desenmascarar una depresión existente)",
+      "surface": "Depresión (puede desenmascarar una depresión existente)",
+      "start": 1078,
+      "end": 1133
+    },
+    {
+      "type": "REACT",
+      "canonical": "Derilio",
+      "surface": "Derilio",
+      "start": 1135,
+      "end": 1142
+    },
+    {
+      "type": "REACT",
+      "canonical": "Desorientación",
+      "surface": "Desorientación",
+      "start": 1144,
+      "end": 1158
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperactividad",
+      "surface": "Hiperactividad",
+      "start": 1160,
+      "end": 1174
+    },
+    {
+      "type": "REACT",
+      "canonical": "Intranquilidad",
+      "surface": "Intranquilidad",
+      "start": 1176,
+      "end": 1190
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ira",
+      "surface": "Ira",
+      "start": 1192,
+      "end": 1195
+    },
+    {
+      "type": "REACT",
+      "canonical": "Irritabilidad",
+      "surface": "Irritabilidad",
+      "start": 1197,
+      "end": 1210
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pesadillas",
+      "surface": "Pesadillas",
+      "start": 1212,
+      "end": 1222
+    },
+    {
+      "type": "REACT",
+      "canonical": "Psicosis",
+      "surface": "Psicosis",
+      "start": 1224,
+      "end": 1232
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pérdida de memoria",
+      "surface": "Pérdida de memoria",
+      "start": 1234,
+      "end": 1252
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sueños anormales",
+      "surface": "Sueños anormales",
+      "start": 1254,
+      "end": 1270
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de abstinencia",
+      "surface": "Síndrome de abstinencia",
+      "start": 1272,
+      "end": 1295
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastornos de la libido",
+      "surface": "Trastornos de la libido",
+      "start": 1297,
+      "end": 1320
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 1323,
+      "end": 1358
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angioedema",
+      "surface": "Angioedema",
+      "start": 1383,
+      "end": 1393
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipersensibilidad",
+      "surface": "Hipersensibilidad",
+      "start": 1395,
+      "end": 1412
+    },
+    {
+      "type": "REACT",
+      "canonical": "Shock anafiláctico",
+      "surface": "Shock anafiláctico",
+      "start": 1414,
+      "end": 1432
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1435,
+      "end": 1466
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ataxia",
+      "surface": "Ataxia",
+      "start": 1491,
+      "end": 1497
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea",
+      "start": 1499,
+      "end": 1506
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareos",
+      "surface": "Mareos",
+      "start": 1508,
+      "end": 1514
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareos",
+      "surface": "sensación de mareo",
+      "start": 1516,
+      "end": 1534
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reducción del estado de alerta",
+      "surface": "Reducción del estado de alerta",
+      "start": 1537,
+      "end": 1567
+    },
+    {
+      "type": "REACT",
+      "canonical": "Somnolencia",
+      "surface": "Somnolencia",
+      "start": 1569,
+      "end": 1580
+    },
+    {
+      "type": "SYS",
+      "canonical": "LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS",
+      "surface": "LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS",
+      "start": 1583,
+      "end": 1666
+    },
+    {
+      "type": "REACT",
+      "canonical": "Caídas",
+      "surface": "Caídas",
+      "start": 1691,
+      "end": 1697
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fracturas",
+      "surface": "Fracturas",
+      "start": 1699,
+      "end": 1708
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 1711,
+      "end": 1753
+    },
+    {
+      "type": "REACT",
+      "canonical": "Debilidad muscular",
+      "surface": "Debilidad muscular",
+      "start": 1778,
+      "end": 1796
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 1799,
+      "end": 1834
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión respiratoria",
+      "surface": "Depresión respiratoria",
+      "start": 1859,
+      "end": 1881
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 1884,
+      "end": 1921
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diplopia",
+      "surface": "Diplopia",
+      "start": 1946,
+      "end": 1954
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1957,
+      "end": 1989
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento",
+      "start": 2014,
+      "end": 2027
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 2029,
+      "end": 2036
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos",
+      "start": 2038,
+      "end": 2045
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 2048,
+      "end": 2078
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "Fatiga",
+      "start": 2103,
+      "end": 2109
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 2112,
+      "end": 2149
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia cardiaca",
+      "surface": "Insuficiencia cardiaca",
+      "start": 2174,
+      "end": 2196
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parada cardiaca",
+      "surface": "Parada cardiaca",
+      "start": 2198,
+      "end": 2213
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 2216,
+      "end": 2244
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito",
+      "start": 2269,
+      "end": 2276
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rash cutáneo",
+      "surface": "Rash cutáneo",
+      "start": 2278,
+      "end": 2290
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria",
+      "start": 2292,
+      "end": 2301
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "start": 2304,
+      "end": 2335
+    },
+    {
+      "type": "REACT",
+      "canonical": "Retención urinaria",
+      "surface": "Retención urinaria",
+      "start": 2360,
+      "end": 2378
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "Trastornos de órganos de los sentidos",
+      "start": 1884,
+      "end": 1921
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diplopia",
+      "surface": "visión doble",
+      "start": 4285,
+      "end": 4297
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "Trastornos del sistema nervioso",
+      "start": 1435,
+      "end": 1466
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reducción del estado de alerta",
+      "surface": "menor alerta",
+      "start": 5103,
+      "end": 5115
+    }
+  ],
+  "raw_long_doc_text": "Resumen del perfil de seguridad\nEl perfil observado con BROMAZEPAM es coherente con el de un ansiolítico de acción central y requiere una valoración individual de la respuesta clínica. En la práctica clínica, el bromazepam puede producir acontecimientos relacionados con la vigilancia, la coordinación y la conducta, por lo que se recomienda revisar periódicamente la necesidad de continuar el tratamiento. En algunos países se identifica por nombres comerciales breves como Lexatin; esta denominación no modifica las precauciones aplicables. La información disponible procede de notificación espontánea y de la experiencia acumulada, por lo que no siempre es posible estimar una incidencia precisa. La aparición de cualquier acontecimiento debe interpretarse considerando la dosis, la duración del uso y las características del paciente.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS PSIQUIÁTRICOS\nfrecuencia no conocida: Abuso, Agitación, Agresividad, Alteraciones del humor, Alucinación, Amnesia anterógrada, Ansiedad, Comportamiento inadecuado, Confusión, Dependencia, Depresión (puede desenmascarar una depresión existente), Derilio, Desorientación, Hiperactividad, Intranquilidad, Ira, Irritabilidad, Pesadillas, Psicosis, Pérdida de memoria, Sueños anormales, Síndrome de abstinencia, Trastornos de la libido.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\nfrecuencia no conocida: Angioedema, Hipersensibilidad, Shock anafiláctico.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nfrecuencia no conocida: Ataxia, Cefalea, Mareos (sensación de mareo), Reducción del estado de alerta, Somnolencia.\n\nLESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS\nfrecuencia no conocida: Caídas, Fracturas.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\nfrecuencia no conocida: Debilidad muscular.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\nfrecuencia no conocida: Depresión respiratoria.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\nfrecuencia no conocida: Diplopia.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nfrecuencia no conocida: Estreñimiento, Náuseas, Vómitos.\n\nTRASTORNOS DEL SISTEMA GENERAL\nfrecuencia no conocida: Fatiga.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\nfrecuencia no conocida: Insuficiencia cardiaca, Parada cardiaca.\n\nTRASTORNOS DE PIEL Y TEJIDOS\nfrecuencia no conocida: Prurito, Rash cutáneo, Urticaria.\n\nTRASTORNOS DEL SISTEMA EXCRETOR\nfrecuencia no conocida: Retención urinaria.\n\nDescripción de acontecimientos seleccionados\nLa evaluación de la tolerabilidad debe realizarse de forma continuada, especialmente al inicio del tratamiento o tras cambios de dosis. La intensidad de los acontecimientos puede variar y, en algunos casos, mejorar con el ajuste de la pauta o con la retirada gradual indicada por el médico. Debe evitarse la interrupción brusca cuando el tratamiento se haya mantenido durante periodos prolongados, ya que la adaptación del paciente puede requerir una reducción escalonada.\n\nSe aconseja informar al paciente y a sus cuidadores de que consulten si observan cambios inesperados del comportamiento, disminución importante de la capacidad de reacción o cualquier manifestación que comprometa la seguridad cotidiana. En personas de edad avanzada o con comorbilidad relevante, la vigilancia clínica debe ser más estrecha. La notificación de sospechas tras la autorización permite mantener actualizada la relación beneficio-riesgo del medicamento.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "BROMAZEPAM",
+      "surface": "BROMAZEPAM"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "BROMAZEPAM",
+      "surface": "bromazepam"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "BROMAZEPAM",
+      "surface": "Lexatin"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Abuso",
+      "surface": "Abuso"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agitación",
+      "surface": "Agitación"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agresividad",
+      "surface": "Agresividad"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones del humor",
+      "surface": "Alteraciones del humor"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alucinación",
+      "surface": "Alucinación"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Amnesia anterógrada",
+      "surface": "Amnesia anterógrada"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ansiedad",
+      "surface": "Ansiedad"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Comportamiento inadecuado",
+      "surface": "Comportamiento inadecuado"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Confusión",
+      "surface": "Confusión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dependencia",
+      "surface": "Dependencia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión (puede desenmascarar una depresión existente)",
+      "surface": "Depresión (puede desenmascarar una depresión existente)"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Derilio",
+      "surface": "Derilio"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Desorientación",
+      "surface": "Desorientación"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperactividad",
+      "surface": "Hiperactividad"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Intranquilidad",
+      "surface": "Intranquilidad"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ira",
+      "surface": "Ira"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Irritabilidad",
+      "surface": "Irritabilidad"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pesadillas",
+      "surface": "Pesadillas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Psicosis",
+      "surface": "Psicosis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pérdida de memoria",
+      "surface": "Pérdida de memoria"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sueños anormales",
+      "surface": "Sueños anormales"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de abstinencia",
+      "surface": "Síndrome de abstinencia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastornos de la libido",
+      "surface": "Trastornos de la libido"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angioedema",
+      "surface": "Angioedema"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipersensibilidad",
+      "surface": "Hipersensibilidad"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Shock anafiláctico",
+      "surface": "Shock anafiláctico"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ataxia",
+      "surface": "Ataxia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareos",
+      "surface": "Mareos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareos",
+      "surface": "sensación de mareo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reducción del estado de alerta",
+      "surface": "Reducción del estado de alerta"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Somnolencia",
+      "surface": "Somnolencia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS",
+      "surface": "LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Caídas",
+      "surface": "Caídas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fracturas",
+      "surface": "Fracturas"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Debilidad muscular",
+      "surface": "Debilidad muscular"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión respiratoria",
+      "surface": "Depresión respiratoria"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diplopia",
+      "surface": "Diplopia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "Fatiga"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia cardiaca",
+      "surface": "Insuficiencia cardiaca"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parada cardiaca",
+      "surface": "Parada cardiaca"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rash cutáneo",
+      "surface": "Rash cutáneo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Retención urinaria",
+      "surface": "Retención urinaria"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "BROMAZEPAM KERN PHARMA 1,5 MG CAPSULAS EFG",
+        "pactivo": "BROMAZEPAM",
+        "reaccion": "Caídas",
+        "frecuencia": "SIN FRECUENCIA",
+        "sistema": "LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS"
+      },
+      "text": "En el tratamiento con bromazepam se ha descrito el siguiente acontecimiento dentro del sistema LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS:\n- Caídas: frecuencia no conocida.\n\nEste acontecimiento puede relacionarse con los efectos depresores centrales propios de las benzodiazepinas, especialmente en pacientes de edad avanzada o con factores que aumenten la vulnerabilidad al tropiezo. Se recomienda valorar periódicamente la necesidad de tratamiento, utilizar la dosis eficaz más baja y advertir al paciente de que extreme las precauciones en situaciones que requieran estabilidad o coordinación.",
+      "declared": [
+        {
+          "type": "ACTIVE",
+          "canonical": "BROMAZEPAM",
+          "surface": "bromazepam"
+        },
+        {
+          "type": "SYS",
+          "canonical": "LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS",
+          "surface": "LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Caídas",
+          "surface": "Caídas"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida"
+        }
+      ],
+      "validated": [
+        {
+          "type": "ACTIVE",
+          "canonical": "BROMAZEPAM",
+          "surface": "bromazepam",
+          "start": 22,
+          "end": 32
+        },
+        {
+          "type": "SYS",
+          "canonical": "LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS",
+          "surface": "LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS",
+          "start": 95,
+          "end": 178
+        },
+        {
+          "type": "REACT",
+          "canonical": "Caídas",
+          "surface": "Caídas",
+          "start": 182,
+          "end": 188
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida",
+          "start": 190,
+          "end": 212
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "BROMAZEPAM KERN PHARMA 1,5 MG CAPSULAS EFG",
+        "pactivo": "BROMAZEPAM",
+        "reaccion": "Diplopia",
+        "frecuencia": "SIN FRECUENCIA",
+        "sistema": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS"
+      },
+      "text": "En el sistema Trastornos de órganos de los sentidos se ha notificado la siguiente reacción adversa asociada al tratamiento con BROMAZEPAM:\n\n- Diplopia: frecuencia no conocida.\n\nLa Diplopia (visión doble) puede relacionarse con el efecto depresor central propio de las benzodiazepinas y suele valorarse en el contexto de la dosis administrada y de la sensibilidad individual del paciente. Si aparece durante el tratamiento, se recomienda realizar seguimiento clínico y considerar la adecuación de la pauta, especialmente cuando pueda interferir con actividades que requieran atención visual sostenida.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+          "surface": "Trastornos de órganos de los sentidos"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "BROMAZEPAM",
+          "surface": "BROMAZEPAM"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Diplopia",
+          "surface": "Diplopia"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Diplopia",
+          "surface": "Diplopia"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Diplopia",
+          "surface": "visión doble"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+          "surface": "Trastornos de órganos de los sentidos",
+          "start": 14,
+          "end": 51
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "BROMAZEPAM",
+          "surface": "BROMAZEPAM",
+          "start": 127,
+          "end": 137
+        },
+        {
+          "type": "REACT",
+          "canonical": "Diplopia",
+          "surface": "Diplopia",
+          "start": 142,
+          "end": 150
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida",
+          "start": 152,
+          "end": 174
+        },
+        {
+          "type": "REACT",
+          "canonical": "Diplopia",
+          "surface": "visión doble",
+          "start": 190,
+          "end": 202
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "BROMAZEPAM KERN PHARMA 1,5 MG CAPSULAS EFG",
+        "pactivo": "BROMAZEPAM",
+        "reaccion": "Reducción del estado de alerta",
+        "frecuencia": "SIN FRECUENCIA",
+        "sistema": "TRASTORNOS DEL SISTEMA NERVIOSO"
+      },
+      "text": "Dentro de los Trastornos del sistema nervioso, se ha notificado con bromazepam una Reducción del estado de alerta, con frecuencia no conocida. Esta manifestación es coherente con el efecto depresor central de las benzodiazepinas y puede ser más evidente al inicio del tratamiento o tras incrementos de dosis.\n\nLista tabulada:\n- Trastornos del sistema nervioso: Reducción del estado de alerta (menor alerta), frecuencia no conocida.\n\nDebe valorarse la situación clínica del paciente y advertirle de que evite actividades que requieran atención sostenida si se produce este efecto. Con Lexatin o bromazepam, la revisión periódica de la necesidad de tratamiento ayuda a limitar la exposición.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "surface": "Trastornos del sistema nervioso"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "BROMAZEPAM",
+          "surface": "bromazepam"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Reducción del estado de alerta",
+          "surface": "Reducción del estado de alerta"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "surface": "Trastornos del sistema nervioso"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Reducción del estado de alerta",
+          "surface": "Reducción del estado de alerta"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Reducción del estado de alerta",
+          "surface": "menor alerta"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "BROMAZEPAM",
+          "surface": "Lexatin"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "BROMAZEPAM",
+          "surface": "bromazepam"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "surface": "Trastornos del sistema nervioso",
+          "start": 14,
+          "end": 45
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "BROMAZEPAM",
+          "surface": "bromazepam",
+          "start": 68,
+          "end": 78
+        },
+        {
+          "type": "REACT",
+          "canonical": "Reducción del estado de alerta",
+          "surface": "Reducción del estado de alerta",
+          "start": 83,
+          "end": 113
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida",
+          "start": 119,
+          "end": 141
+        },
+        {
+          "type": "REACT",
+          "canonical": "Reducción del estado de alerta",
+          "surface": "menor alerta",
+          "start": 393,
+          "end": 405
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "BROMAZEPAM",
+          "surface": "Lexatin",
+          "start": 584,
+          "end": 591
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

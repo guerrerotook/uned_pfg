@@ -1,0 +1,57 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil de seguridad de RIOCIGUAT se ha definido a partir de la exposición de pacientes tratados en estudios controlados y en el seguimiento posterior. En conjunto, los acontecimientos observados fueron coherentes con el mecanismo farmacológico y con la situación clínica de la población tratada. Adempas debe iniciarse y ajustarse conforme a la tolerabilidad individual, prestando atención a los cambios clínicos durante las primeras semanas. La comunicación espontánea puede modificar la precisión de las estimaciones, por lo que la interpretación debe hacerse de forma clínica y no exclusivamente numérica. Cuando se observe un signo persistente o clínicamente relevante, se recomienda valorar la continuidad, el ajuste de dosis o medidas de apoyo según el criterio médico.
+
+Lista tabulada de reacciones adversas
+Las reacciones adversas se presentan agrupadas por sistema de clasificación de órganos y utilizando los términos textuales indicados para la categoría de presentación.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+frecuentes: Congestión nasal, Epixtasis (sangrado por la nariz), Hemoptisis.
+poco frecuentes: Hemorragia pulmonar.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+frecuentes: Anemia (incl. los parámetros de laboratorio respectivos).
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+muy frecuentes: Cefalea, Mareo.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+muy frecuentes: Diarrea, Dispepsia, Náuseas, Vómitos.
+frecuentes: Disfagia, Distensión abdominal, Dolor gastrointestinal y abdominal, Enfermedad por reflujo gastroesofágico, Estreñimiento, Gastritis.
+
+TRASTORNOS DEL SISTEMA GENERAL
+muy frecuentes: Edema periférico.
+
+INFECCIONES E INFESTACIONES
+frecuentes: Gastroenteritis.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+frecuentes: Hipotensión, Palpitaciones.
+
+Descripción de reacciones adversas seleccionadas
+La presencia de Hemoptisis debe evaluarse en el contexto clínico del paciente, especialmente si existe empeoramiento de síntomas previos o necesidad de intervención médica. La Hemorragia pulmonar requiere una valoración cuidadosa y seguimiento estrecho, ya que puede condicionar decisiones terapéuticas. En estos casos, la información disponible debe integrarse con la situación basal y con otros factores individuales, evitando atribuciones automáticas sin una evaluación completa.
+
+En pacientes con Hipotensión o Palpitaciones, la observación clínica y la revisión de la pauta pueden ser necesarias durante el ajuste del tratamiento. Anemia (incl. los parámetros de laboratorio respectivos) puede requerir control analítico cuando sea clínicamente apropiado. Edema periférico, así como manifestaciones como Diarrea, Náuseas o Vómitos, suelen manejarse mediante medidas de soporte y vigilancia de la evolución, de acuerdo con la intensidad y la duración del cuadro.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+Durante el tratamiento con riociguat (Adempas) se han observado efectos compatibles con su acción hemodinámica, por lo que la evaluación clínica debe tener en cuenta la tolerabilidad individual, especialmente al inicio y durante los ajustes de dosis. En caso de síntomas que interfieran con actividades que requieran atención, se recomienda valorar la situación del paciente y reforzar las medidas de seguimiento habituales.
+
+Lista tabulada de reacciones adversas:
+- Trastornos del sistema nervioso: Mareo; frecuencia: muy frecuentes.
+
+Esta notificación resume la clasificación utilizada en los ensayos y en la experiencia clínica disponible.
+
+-- Caso 2 --
+En la clasificación por órganos y sistemas Trastornos del sistema respiratorio, se ha identificado Hemorragia pulmonar como reacción adversa poco frecuentes asociada al tratamiento con riociguat (Adempas). Dado el efecto vasodilatador del medicamento, se recomienda valorar los factores de riesgo individuales y mantener vigilancia clínica en pacientes con antecedentes respiratorios relevantes. Ante la sospecha de Hemorragia pulmonar, el profesional sanitario debe considerar la evaluación del balance beneficio-riesgo y las medidas clínicas apropiadas.
+
+- Hemorragia pulmonar: poco frecuentes.
+
+-- Caso 3 --
+Dentro de los trastornos del sistema digestivo, se ha notificado Gastritis como reacción adversa frecuentes durante el tratamiento con riociguat (Adempas). En la lista tabulada de reacciones adversas debe mantenerse la denominación MedDRA:
+
+- Trastornos del sistema digestivo: Gastritis; frecuentes.
+
+La aparición de Gastritis puede relacionarse con la susceptibilidad gastrointestinal individual durante la exposición al tratamiento. Se recomienda valorar la evolución clínica y considerar medidas de seguimiento habitual si los síntomas persisten o resultan clínicamente relevantes.

@@ -1,0 +1,83 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil de seguridad de AMIODARONA HIDROCLORURO por vía parenteral debe interpretarse en el contexto de una administración controlada y de la situación clínica del paciente. La amiodarona requiere seguimiento durante y después de la perfusión, especialmente cuando existen factores predisponentes o tratamiento concomitante. En la práctica clínica, Trangorex puede asociarse a acontecimientos locales en el punto de administración y a efectos sistémicos que precisan valoración individual. La notificación de cualquier sospecha permite completar la información disponible y ajustar las medidas de manejo. Las categorías que se indican a continuación proceden de la experiencia acumulada y se presentan por sistema de clasificación de órganos.
+
+Lista tabulada de reacciones adversas
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+frecuencia no conocida: Agranulocitosis, Neutropenia.
+
+TRASTORNOS PSIQUIÁTRICOS
+frecuencia no conocida: Alucinaciones, Delirium.
+frecuentes: Disminución de la libido.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+no frecuente: Apnea, Broncoespasmo, Pneumonitis intersticial o fibrosis, Síndrome de distrés respiratorio agudo (SDRA).
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+no frecuente: Arritmias, Bradicardia acusada, Parada cardiaca, Paro sinusal, Sofocos.
+frecuentes: Bradicardia moderada, Disminución de la presión sanguínea.
+frecuencia no conocida: Torsade de pointes.
+
+TRASTORNOS DEL SISTEMA GENERAL
+frecuentes: Cambios de la pigmentación, Celulitis, Dolor, Edema, Eritema, Extravasación, Flebitis, Induración, Infección, Infiltración, Inflamación, Necrosis, Tromboflebitis.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+no frecuente: Cefalea, Hipertensión intracraneal benigna (pseudotumor cerebri).
+
+TRASTORNOS DE PIEL Y TEJIDOS
+frecuencia no conocida: Dermatitis bullosa, Necrolisis epidérmica tóxica (NET), Reacción medicamentosa con eosinofilia y síntomas sistémicos (DRESS), Síndrome de Stevens - Johnson (SSJ), Urticaria.
+frecuentes: Eczema.
+no frecuente: Sudoración.
+
+LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS
+frecuencia no conocida: Disfunción primaria del injerto (DPI) post trasplante cardiaco.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+frecuencia no conocida: Dolor de espalda.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+frecuencia no conocida: Edema angioneurótico (edema de Quincke).
+no frecuente: Shock anafiláctico.
+
+TRASTORNOS DEL SISTEMA ENDOCRINO
+frecuencia no conocida: Hipertiroidismo.
+no frecuente: Síndrome de secreción inadecuada de hormona antidiurética (SIADH).
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+no frecuente: Ictericia, Incremento de transaminasas, Insuficiencia hepática, Náuseas (ganas de vomitar).
+frecuencia no conocida: Pancreatitis aguda.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+frecuencia no conocida: Neuritis óptica, Neuropatía.
+
+Descripción de reacciones adversas seleccionadas
+Durante la administración intravenosa se recomienda observar la tolerancia local, utilizar una técnica adecuada y revisar periódicamente el lugar de perfusión. La aparición de signos clínicos relevantes debe motivar una evaluación inmediata y, cuando proceda, la interrupción de la administración. En situaciones de compromiso clínico, la relación temporal con la perfusión y la evolución tras las medidas adoptadas son elementos importantes para la valoración.
+
+Algunas manifestaciones pueden presentarse de forma brusca y requerir soporte especializado. Debe prestarse atención a pacientes con antecedentes de sensibilidad, alteraciones previas o exposición a tratamientos que puedan modificar la respuesta. La vigilancia debe mantenerse aunque la administración haya finalizado, ya que determinados cuadros pueden reconocerse de manera diferida. El manejo debe basarse en la gravedad, en el estado basal del paciente y en el balance entre beneficio esperado y riesgo observado.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+Dentro del sistema Trastornos de piel y tejidos, se ha notificado Dermatitis bullosa (cuadro con ampollas) asociada al tratamiento con amiodarona, incluida la formulación inyectable de Trangorex. La frecuencia se clasifica como frecuencia no conocida, ya que no puede estimarse a partir de los datos disponibles.
+
+Lista tabulada:
+- Trastornos de piel y tejidos: Dermatitis bullosa; frecuencia no conocida.
+
+Se recomienda vigilar la aparición de lesiones cutáneas durante el tratamiento y valorar la continuidad de la administración según la gravedad y la evolución clínica. La notificación de sospechas permite mejorar el conocimiento del perfil de seguridad.
+
+-- Caso 2 --
+Trastornos del sistema endocrino
+
+- Síndrome de secreción inadecuada de hormona antidiurética (SIADH): no frecuente.
+
+Durante el tratamiento con amiodarona, puede presentarse Síndrome de secreción inadecuada de hormona antidiurética (SIADH), notificado con frecuencia no frecuente. Este cuadro se considera relacionado con una alteración de la regulación hídrica y debe valorarse en el contexto clínico del paciente. Se recomienda seguimiento clínico y analítico cuando aparezcan datos compatibles, especialmente en pacientes con factores predisponentes o en tratamiento concomitante que pueda modificar el equilibrio hidroelectrolítico.
+
+-- Caso 3 --
+En el sistema de clasificación de órganos TRASTORNOS DEL SISTEMA GENERAL, se ha notificado Flebitis con la administración intravenosa de amiodarona hidrocloruro (amiodarona), clasificada como frecuentes.
+
+Lista tabulada:
+- Flebitis: frecuentes.
+
+La aparición de Flebitis puede relacionarse con la vía de administración y la concentración de la solución; se recomienda vigilar el lugar de perfusión y aplicar las medidas habituales de manejo si se observa este hallazgo. En pacientes tratados con amiodarona, la evaluación clínica debe considerar la continuidad de la perfusión y las condiciones de administración.

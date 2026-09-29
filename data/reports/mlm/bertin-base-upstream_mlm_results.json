@@ -1,0 +1,59 @@
+{
+  "model_name": "bertin-base-upstream",
+  "model_id_or_path": "bertin-project/bertin-base-gaussian-exp-512seqlen",
+  "tokenizer_family": "bertin",
+  "device": "mps",
+  "timestamp": "2026-05-16T09:34:52.021755+00:00",
+  "summary": {
+    "codigos_evaluated": 49,
+    "total_codigos_requested": 49,
+    "missing_txt_files": [],
+    "skipped_empty_files": [],
+    "total_windows": 565,
+    "total_tokens": 69039,
+    "total_masked_tokens": 13151,
+    "category_counts": {
+      "medical": 4750,
+      "generic": 8401
+    },
+    "mask_settings": {
+      "max_length": 128,
+      "mlm_probability": 0.18,
+      "seed": 42,
+      "whole_word_masking": true
+    }
+  },
+  "mlm": {
+    "n_masked": 13151,
+    "cross_entropy": 4.089436,
+    "pseudo_perplexity": 59.706196,
+    "top1_accuracy": 0.444529,
+    "top5_accuracy": 0.569919
+  },
+  "per_category": {
+    "medical": {
+      "n_masked": 4750,
+      "cross_entropy": 5.090973,
+      "pseudo_perplexity": 162.547925,
+      "top1_accuracy": 0.345474,
+      "top5_accuracy": 0.451368
+    },
+    "generic": {
+      "n_masked": 8401,
+      "cross_entropy": 3.523158,
+      "pseudo_perplexity": 33.891283,
+      "top1_accuracy": 0.500536,
+      "top5_accuracy": 0.636948
+    }
+  },
+  "per_document": {
+    "n_documents": 49,
+    "mean_loss": 4.087563,
+    "median_loss": 4.039598,
+    "p25_loss": 3.513427,
+    "p75_loss": 4.535055,
+    "min_loss": 2.864138,
+    "max_loss": 5.769136
+  },
+  "notes": "MLM cross-entropy and pseudo-perplexity depend on the tokenizer; numbers are only directly comparable WITHIN a tokenizer family (e.g. CIMA-BERTIN-4.8 vs its upstream bertin-base-gaussian-exp-512seqlen). Comparing BERTIN to RoBERTa-bne directly is not meaningful — use top-1 / top-5 accuracy or the relative drop vs the upstream baseline."
+}

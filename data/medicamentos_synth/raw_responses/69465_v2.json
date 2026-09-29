@@ -1,0 +1,612 @@
+{
+  "codigo": "69465",
+  "variante": 2,
+  "codigo_variant": "69465_v2",
+  "medicamento": "SUPLECAL MINIPLASCO SOLUCION INYECTABLE",
+  "model": "gpt-5.5",
+  "style_variant_idx": 1,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\n\nEste preparado contiene GLUCONATO CALCIO MONOHIDRATO y se administra por vía parenteral en un entorno en el que la técnica de administración y la vigilancia clínica son relevantes. En la práctica asistencial, el gluconato cálcico, denominado de forma abreviada Suplecal en algunos ámbitos, presenta un perfil de seguridad condicionado por la velocidad de administración, la vía utilizada y la situación clínica del paciente. Las observaciones descritas proceden principalmente de la experiencia poscomercialización y de comunicaciones clínicas, por lo que no siempre es posible establecer una relación temporal precisa ni calcular una incidencia fiable. La evaluación debe realizarse caso por caso, teniendo en cuenta la indicación, la dosis administrada y la respuesta del paciente durante y después de la administración. Ante cualquier manifestación inesperada, se recomienda valorar la interrupción o ajuste de la administración y aplicar las medidas clínicas habituales.\n\nLista tabulada de reacciones adversas\n\nTrastornos del sistema cardiovascular\nfrecuencia no conocida: Arritmia cardíaca; Bradicardia; colapso circulatorio (potencialmente mortal); hipotensión; rubor, especialmente después de una administración demasiado rápida; vasodilatación.\n\nTrastornos del sistema general\nfrecuencia no conocida: la administración intramuscular puede ir acompañada de sensación de dolor o eritema; sensación de calor; sudoración.\n\nTrastornos del sistema digestivo\nfrecuencia no conocida: náuseas; vómitos.\n\nDescripción de reacciones adversas seleccionadas\n\nLas manifestaciones registradas durante la administración pueden aparecer de forma transitoria y resolverse al reducir la velocidad o al suspender temporalmente el aporte, según la valoración clínica. La hipotensión y la bradicardia requieren observación, especialmente si coinciden con otros signos de mala tolerancia hemodinámica. El colapso circulatorio (potencialmente mortal) constituye una situación que exige actuación inmediata y monitorización estrecha.\n\nEl rubor, especialmente después de una administración demasiado rápida (enrojecimiento), puede ser percibido por el paciente como una sensación súbita y pasajera. En algunos casos se acompaña de sensación de calor o sudoración, sin que ello implique necesariamente gravedad si el cuadro es autolimitado. Las náuseas y los vómitos deben valorarse junto con el contexto clínico y la tolerabilidad general del tratamiento.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nEn la experiencia de uso con GLUCONATO CALCIO MONOHIDRATO, también descrito de forma práctica como calcio, se han notificado acontecimientos incluidos en TRASTORNOS DEL SISTEMA DIGESTIVO. La reacción adversa identificada es:\n\n- vómitos (devolver): frecuencia no conocida.\n\nLa aparición de vómitos puede estar relacionada con la administración parenteral de sales de calcio y debe valorarse en el contexto clínico del paciente. Si el cuadro persiste o se considera clínicamente relevante, se recomienda seguimiento y revisión de la pauta de administración.\n\n-- Caso 2 --\nEn la experiencia de uso con GLUCONATO CALCIO MONOHIDRATO (gluconato cálcico), se ha descrito hipotensión con frecuencia no conocida. Esta reacción se clasifica dentro de TRASTORNOS DEL SISTEMA CARDIOVASCULAR y puede relacionarse con cambios hemodinámicos durante o tras la administración parenteral, especialmente si la perfusión no se ajusta a las recomendaciones.\n\nLista tabulada de reacciones adversas:\n- TRASTORNOS DEL SISTEMA CARDIOVASCULAR: hipotensión (frecuencia no conocida).\n\nSe recomienda monitorizar la presión arterial durante la administración y valorar la interrupción o reducción de la velocidad si se observan descensos clínicamente relevantes (bajada de tensión).\n\n-- Caso 3 --\nEn la clasificación por órganos y sistemas, dentro de Trastornos del sistema cardiovascular, se ha notificado la siguiente reacción adversa asociada a GLUCONATO CALCIO MONOHIDRATO (gluconato cálcico):\n\n- colapso circulatorio (potencialmente mortal): frecuencia no conocida.\n\nEste acontecimiento puede relacionarse con la administración parenteral y requiere vigilancia clínica durante y después de la administración, especialmente si se utilizan velocidades de perfusión elevadas. Ante signos de inestabilidad hemodinámica, debe interrumpirse la administración y aplicarse el manejo clínico adecuado.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "GLUCONATO CALCIO MONOHIDRATO",
+      "surface": "GLUCONATO CALCIO MONOHIDRATO",
+      "start": 82,
+      "end": 110
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "GLUCONATO CALCIO MONOHIDRATO",
+      "surface": "gluconato cálcico",
+      "start": 270,
+      "end": 287
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "GLUCONATO CALCIO MONOHIDRATO",
+      "surface": "Suplecal",
+      "start": 319,
+      "end": 327
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "Trastornos del sistema cardiovascular",
+      "start": 1073,
+      "end": 1110
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 1111,
+      "end": 1133
+    },
+    {
+      "type": "REACT",
+      "canonical": "Arritmia cardíaca",
+      "surface": "Arritmia cardíaca",
+      "start": 1135,
+      "end": 1152
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bradicardia",
+      "surface": "Bradicardia",
+      "start": 1154,
+      "end": 1165
+    },
+    {
+      "type": "REACT",
+      "canonical": "colapso circulatorio (potencialmente mortal)",
+      "surface": "colapso circulatorio (potencialmente mortal)",
+      "start": 1167,
+      "end": 1211
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipotensión",
+      "surface": "hipotensión",
+      "start": 1213,
+      "end": 1224
+    },
+    {
+      "type": "REACT",
+      "canonical": "rubor, especialmente después de una administración demasiado rápida",
+      "surface": "rubor, especialmente después de una administración demasiado rápida",
+      "start": 1226,
+      "end": 1293
+    },
+    {
+      "type": "REACT",
+      "canonical": "vasodilatación",
+      "surface": "vasodilatación",
+      "start": 1295,
+      "end": 1309
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "Trastornos del sistema general",
+      "start": 1312,
+      "end": 1342
+    },
+    {
+      "type": "REACT",
+      "canonical": "la administración intramuscular puede ir acompañada de sensación de dolor o eritema",
+      "surface": "la administración intramuscular puede ir acompañada de sensación de dolor o eritema",
+      "start": 1367,
+      "end": 1450
+    },
+    {
+      "type": "REACT",
+      "canonical": "sensación de calor",
+      "surface": "sensación de calor",
+      "start": 1452,
+      "end": 1470
+    },
+    {
+      "type": "REACT",
+      "canonical": "sudoración",
+      "surface": "sudoración",
+      "start": 1472,
+      "end": 1482
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "Trastornos del sistema digestivo",
+      "start": 1485,
+      "end": 1517
+    },
+    {
+      "type": "REACT",
+      "canonical": "náuseas",
+      "surface": "náuseas",
+      "start": 1542,
+      "end": 1549
+    },
+    {
+      "type": "REACT",
+      "canonical": "vómitos",
+      "surface": "vómitos",
+      "start": 1551,
+      "end": 1558
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bradicardia",
+      "surface": "bradicardia",
+      "start": 1154,
+      "end": 1165
+    },
+    {
+      "type": "REACT",
+      "canonical": "rubor, especialmente después de una administración demasiado rápida",
+      "surface": "enrojecimiento",
+      "start": 2147,
+      "end": 2161
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "GLUCONATO CALCIO MONOHIDRATO",
+      "surface": "calcio",
+      "start": 92,
+      "end": 98
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1485,
+      "end": 1517
+    },
+    {
+      "type": "REACT",
+      "canonical": "vómitos",
+      "surface": "devolver",
+      "start": 2809,
+      "end": 2817
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1073,
+      "end": 1110
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipotensión",
+      "surface": "bajada de tensión",
+      "start": 3805,
+      "end": 3822
+    }
+  ],
+  "raw_long_doc_text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\n\nEste preparado contiene GLUCONATO CALCIO MONOHIDRATO y se administra por vía parenteral en un entorno en el que la técnica de administración y la vigilancia clínica son relevantes. En la práctica asistencial, el gluconato cálcico, denominado de forma abreviada Suplecal en algunos ámbitos, presenta un perfil de seguridad condicionado por la velocidad de administración, la vía utilizada y la situación clínica del paciente. Las observaciones descritas proceden principalmente de la experiencia poscomercialización y de comunicaciones clínicas, por lo que no siempre es posible establecer una relación temporal precisa ni calcular una incidencia fiable. La evaluación debe realizarse caso por caso, teniendo en cuenta la indicación, la dosis administrada y la respuesta del paciente durante y después de la administración. Ante cualquier manifestación inesperada, se recomienda valorar la interrupción o ajuste de la administración y aplicar las medidas clínicas habituales.\n\nLista tabulada de reacciones adversas\n\nTrastornos del sistema cardiovascular\nfrecuencia no conocida: Arritmia cardíaca; Bradicardia; colapso circulatorio (potencialmente mortal); hipotensión; rubor, especialmente después de una administración demasiado rápida; vasodilatación.\n\nTrastornos del sistema general\nfrecuencia no conocida: la administración intramuscular puede ir acompañada de sensación de dolor o eritema; sensación de calor; sudoración.\n\nTrastornos del sistema digestivo\nfrecuencia no conocida: náuseas; vómitos.\n\nDescripción de reacciones adversas seleccionadas\n\nLas manifestaciones registradas durante la administración pueden aparecer de forma transitoria y resolverse al reducir la velocidad o al suspender temporalmente el aporte, según la valoración clínica. La hipotensión y la bradicardia requieren observación, especialmente si coinciden con otros signos de mala tolerancia hemodinámica. El colapso circulatorio (potencialmente mortal) constituye una situación que exige actuación inmediata y monitorización estrecha.\n\nEl rubor, especialmente después de una administración demasiado rápida (enrojecimiento), puede ser percibido por el paciente como una sensación súbita y pasajera. En algunos casos se acompaña de sensación de calor o sudoración, sin que ello implique necesariamente gravedad si el cuadro es autolimitado. Las náuseas y los vómitos deben valorarse junto con el contexto clínico y la tolerabilidad general del tratamiento.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "GLUCONATO CALCIO MONOHIDRATO",
+      "surface": "GLUCONATO CALCIO MONOHIDRATO"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "GLUCONATO CALCIO MONOHIDRATO",
+      "surface": "gluconato cálcico"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "GLUCONATO CALCIO MONOHIDRATO",
+      "surface": "Suplecal"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "Trastornos del sistema cardiovascular"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Arritmia cardíaca",
+      "surface": "Arritmia cardíaca"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bradicardia",
+      "surface": "Bradicardia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "colapso circulatorio (potencialmente mortal)",
+      "surface": "colapso circulatorio (potencialmente mortal)"
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipotensión",
+      "surface": "hipotensión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "rubor, especialmente después de una administración demasiado rápida",
+      "surface": "rubor, especialmente después de una administración demasiado rápida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "vasodilatación",
+      "surface": "vasodilatación"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "Trastornos del sistema general"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "la administración intramuscular puede ir acompañada de sensación de dolor o eritema",
+      "surface": "la administración intramuscular puede ir acompañada de sensación de dolor o eritema"
+    },
+    {
+      "type": "REACT",
+      "canonical": "sensación de calor",
+      "surface": "sensación de calor"
+    },
+    {
+      "type": "REACT",
+      "canonical": "sudoración",
+      "surface": "sudoración"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "Trastornos del sistema digestivo"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "náuseas",
+      "surface": "náuseas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "vómitos",
+      "surface": "vómitos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipotensión",
+      "surface": "hipotensión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bradicardia",
+      "surface": "bradicardia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "colapso circulatorio (potencialmente mortal)",
+      "surface": "colapso circulatorio (potencialmente mortal)"
+    },
+    {
+      "type": "REACT",
+      "canonical": "rubor, especialmente después de una administración demasiado rápida",
+      "surface": "rubor, especialmente después de una administración demasiado rápida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "rubor, especialmente después de una administración demasiado rápida",
+      "surface": "enrojecimiento"
+    },
+    {
+      "type": "REACT",
+      "canonical": "sensación de calor",
+      "surface": "sensación de calor"
+    },
+    {
+      "type": "REACT",
+      "canonical": "sudoración",
+      "surface": "sudoración"
+    },
+    {
+      "type": "REACT",
+      "canonical": "náuseas",
+      "surface": "náuseas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "vómitos",
+      "surface": "vómitos"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "SUPLECAL MINIPLASCO SOLUCION INYECTABLE",
+        "pactivo": "GLUCONATO CALCIO MONOHIDRATO",
+        "reaccion": "vómitos",
+        "frecuencia": "SIN FRECUENCIA",
+        "sistema": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+      },
+      "text": "En la experiencia de uso con GLUCONATO CALCIO MONOHIDRATO, también descrito de forma práctica como calcio, se han notificado acontecimientos incluidos en TRASTORNOS DEL SISTEMA DIGESTIVO. La reacción adversa identificada es:\n\n- vómitos (devolver): frecuencia no conocida.\n\nLa aparición de vómitos puede estar relacionada con la administración parenteral de sales de calcio y debe valorarse en el contexto clínico del paciente. Si el cuadro persiste o se considera clínicamente relevante, se recomienda seguimiento y revisión de la pauta de administración.",
+      "declared": [
+        {
+          "type": "ACTIVE",
+          "canonical": "GLUCONATO CALCIO MONOHIDRATO",
+          "surface": "GLUCONATO CALCIO MONOHIDRATO"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "GLUCONATO CALCIO MONOHIDRATO",
+          "surface": "calcio"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+        },
+        {
+          "type": "REACT",
+          "canonical": "vómitos",
+          "surface": "vómitos"
+        },
+        {
+          "type": "REACT",
+          "canonical": "vómitos",
+          "surface": "devolver"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida"
+        },
+        {
+          "type": "REACT",
+          "canonical": "vómitos",
+          "surface": "vómitos"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "GLUCONATO CALCIO MONOHIDRATO",
+          "surface": "calcio"
+        }
+      ],
+      "validated": [
+        {
+          "type": "ACTIVE",
+          "canonical": "GLUCONATO CALCIO MONOHIDRATO",
+          "surface": "GLUCONATO CALCIO MONOHIDRATO",
+          "start": 29,
+          "end": 57
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "GLUCONATO CALCIO MONOHIDRATO",
+          "surface": "calcio",
+          "start": 39,
+          "end": 45
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "start": 154,
+          "end": 186
+        },
+        {
+          "type": "REACT",
+          "canonical": "vómitos",
+          "surface": "vómitos",
+          "start": 228,
+          "end": 235
+        },
+        {
+          "type": "REACT",
+          "canonical": "vómitos",
+          "surface": "devolver",
+          "start": 237,
+          "end": 245
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida",
+          "start": 248,
+          "end": 270
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "SUPLECAL MINIPLASCO SOLUCION INYECTABLE",
+        "pactivo": "GLUCONATO CALCIO MONOHIDRATO",
+        "reaccion": "hipotensión",
+        "frecuencia": "SIN FRECUENCIA",
+        "sistema": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+      },
+      "text": "En la experiencia de uso con GLUCONATO CALCIO MONOHIDRATO (gluconato cálcico), se ha descrito hipotensión con frecuencia no conocida. Esta reacción se clasifica dentro de TRASTORNOS DEL SISTEMA CARDIOVASCULAR y puede relacionarse con cambios hemodinámicos durante o tras la administración parenteral, especialmente si la perfusión no se ajusta a las recomendaciones.\n\nLista tabulada de reacciones adversas:\n- TRASTORNOS DEL SISTEMA CARDIOVASCULAR: hipotensión (frecuencia no conocida).\n\nSe recomienda monitorizar la presión arterial durante la administración y valorar la interrupción o reducción de la velocidad si se observan descensos clínicamente relevantes (bajada de tensión).",
+      "declared": [
+        {
+          "type": "ACTIVE",
+          "canonical": "GLUCONATO CALCIO MONOHIDRATO",
+          "surface": "GLUCONATO CALCIO MONOHIDRATO"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "GLUCONATO CALCIO MONOHIDRATO",
+          "surface": "gluconato cálcico"
+        },
+        {
+          "type": "REACT",
+          "canonical": "hipotensión",
+          "surface": "hipotensión"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+        },
+        {
+          "type": "REACT",
+          "canonical": "hipotensión",
+          "surface": "hipotensión"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida"
+        },
+        {
+          "type": "REACT",
+          "canonical": "hipotensión",
+          "surface": "bajada de tensión"
+        }
+      ],
+      "validated": [
+        {
+          "type": "ACTIVE",
+          "canonical": "GLUCONATO CALCIO MONOHIDRATO",
+          "surface": "GLUCONATO CALCIO MONOHIDRATO",
+          "start": 29,
+          "end": 57
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "GLUCONATO CALCIO MONOHIDRATO",
+          "surface": "gluconato cálcico",
+          "start": 59,
+          "end": 76
+        },
+        {
+          "type": "REACT",
+          "canonical": "hipotensión",
+          "surface": "hipotensión",
+          "start": 94,
+          "end": 105
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida",
+          "start": 110,
+          "end": 132
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "start": 171,
+          "end": 208
+        },
+        {
+          "type": "REACT",
+          "canonical": "hipotensión",
+          "surface": "bajada de tensión",
+          "start": 663,
+          "end": 680
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "SUPLECAL MINIPLASCO SOLUCION INYECTABLE",
+        "pactivo": "GLUCONATO CALCIO MONOHIDRATO",
+        "reaccion": "colapso circulatorio (potencialmente mortal)",
+        "frecuencia": "SIN FRECUENCIA",
+        "sistema": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+      },
+      "text": "En la clasificación por órganos y sistemas, dentro de Trastornos del sistema cardiovascular, se ha notificado la siguiente reacción adversa asociada a GLUCONATO CALCIO MONOHIDRATO (gluconato cálcico):\n\n- colapso circulatorio (potencialmente mortal): frecuencia no conocida.\n\nEste acontecimiento puede relacionarse con la administración parenteral y requiere vigilancia clínica durante y después de la administración, especialmente si se utilizan velocidades de perfusión elevadas. Ante signos de inestabilidad hemodinámica, debe interrumpirse la administración y aplicarse el manejo clínico adecuado.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "surface": "Trastornos del sistema cardiovascular"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "GLUCONATO CALCIO MONOHIDRATO",
+          "surface": "GLUCONATO CALCIO MONOHIDRATO"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "GLUCONATO CALCIO MONOHIDRATO",
+          "surface": "gluconato cálcico"
+        },
+        {
+          "type": "REACT",
+          "canonical": "colapso circulatorio (potencialmente mortal)",
+          "surface": "colapso circulatorio (potencialmente mortal)"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "surface": "Trastornos del sistema cardiovascular",
+          "start": 54,
+          "end": 91
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "GLUCONATO CALCIO MONOHIDRATO",
+          "surface": "GLUCONATO CALCIO MONOHIDRATO",
+          "start": 151,
+          "end": 179
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "GLUCONATO CALCIO MONOHIDRATO",
+          "surface": "gluconato cálcico",
+          "start": 181,
+          "end": 198
+        },
+        {
+          "type": "REACT",
+          "canonical": "colapso circulatorio (potencialmente mortal)",
+          "surface": "colapso circulatorio (potencialmente mortal)",
+          "start": 204,
+          "end": 248
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida",
+          "start": 250,
+          "end": 272
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

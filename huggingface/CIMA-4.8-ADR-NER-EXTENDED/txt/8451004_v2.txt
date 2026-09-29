@@ -1,0 +1,69 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+
+El perfil de seguridad descrito a continuación corresponde a la experiencia clínica recopilada de forma agregada y se presenta con terminología médica normalizada. Durante el tratamiento con AMBRISENTAN, denominado también ambrisentán y comercialmente Volibris, los acontecimientos se notificaron con intensidad variable y, en general, se manejaron mediante seguimiento clínico, medidas de soporte o ajuste de la atención habitual. La interpretación debe realizarse considerando la situación basal del paciente, la evolución de la enfermedad y los tratamientos concomitantes. La notificación espontánea puede influir en la estimación de algunos acontecimientos, por lo que la clasificación por frecuencia debe entenderse como una guía orientativa. No se incluyen en esta relación hallazgos no recogidos en la tabla de referencia.
+
+Lista tabulada de reacciones adversas
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+frecuentes: Acúfenos, Alteración visual, Visión borrosa.
+poco frecuentes: Pérdida auditiva súbita.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+muy frecuentes: Anemia (disminución de la hemoglobina y hematocrito).
+
+TRASTORNOS DEL SISTEMA GENERAL
+frecuentes: Astenia.
+muy frecuentes: Dolor torácico, Edema periférico, Fatiga, Retención de fluidos.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+muy frecuentes: Cefalea (incluyendo cefalea sinusal, migraña), Mareos.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+muy frecuentes: Congestión del tracto respiratorio superior, Disnea, Nasofaringitis.
+frecuentes: Epixtasis, Rinitis, Sinusitis.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+poco frecuentes: Daño hepático, Hepatitis autoinmune.
+muy frecuentes: Diarrea, Náuseas, Vómitos.
+frecuentes: Dolor abdominal, Estreñimiento, Incremento de transaminasas.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+frecuentes: Erupción.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+frecuentes: Fallo cardiaco, Hipotensión, Síncope.
+muy frecuentes: Palpitaciones, Rubefacción.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+frecuentes: Reacciones de hipersensibilidad (angioedema, erupción cutánea, prurito).
+
+Descripción de reacciones adversas seleccionadas
+
+La aparición de Edema periférico y Retención de fluidos debe valorarse dentro del contexto clínico global, especialmente cuando exista variación del peso corporal, cambios en la tolerancia al esfuerzo o necesidad de revisar el tratamiento de soporte. En muchos casos, la evaluación periódica permite diferenciar un hallazgo transitorio de una situación que requiere una actuación más estrecha. La educación del paciente para comunicar cambios persistentes resulta útil para mantener una vigilancia adecuada.
+
+La Anemia (disminución de la hemoglobina y hematocrito) puede requerir controles analíticos, sobre todo al inicio del tratamiento o cuando concurran factores que dificulten la interpretación de los resultados. El Incremento de transaminasas debe confirmarse mediante determinaciones repetidas y valoración clínica. Si se sospecha Daño hepático o Hepatitis autoinmune, se recomienda una evaluación individualizada y seguimiento conforme a la práctica clínica establecida.
+
+Las manifestaciones relacionadas con la audición o la visión se deben recoger de forma precisa. Acúfenos (pitidos en los oídos) puede ser referido por el paciente con términos no técnicos, por lo que conviene preguntar de manera dirigida. Ante Pérdida auditiva súbita, la valoración clínica debe ser rápida y documentada, sin asumir de entrada una causa alternativa no confirmada.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En el perfil de seguridad de ambrisentán (Volibris), dentro del sistema de clasificación de órganos Trastornos del sistema respiratorio, se ha identificado la siguiente reacción adversa:
+- Epixtasis: frecuentes.
+
+Este acontecimiento debe interpretarse en el contexto clínico del paciente y de los factores predisponentes locales. Se recomienda valorar su evolución durante el seguimiento habitual y considerar medidas de manejo sintomático si persiste o resulta clínicamente relevante, sin modificar la evaluación global de seguridad salvo criterio médico.
+
+-- Caso 2 --
+En pacientes tratados con AMBRISENTAN (Volibris), las palpitaciones se notificaron como muy frecuentes y se encuadran en TRASTORNOS DEL SISTEMA CARDIOVASCULAR.
+Lista tabulada:
+- TRASTORNOS DEL SISTEMA CARDIOVASCULAR: Palpitaciones (sensación de latido cardíaco perceptible), muy frecuentes.
+La aparición de Palpitaciones debe valorarse en el contexto clínico y en relación temporal con el tratamiento. Se recomienda seguimiento habitual de la tolerabilidad, especialmente si los síntomas persisten o se consideran relevantes para el paciente, sin que esta descripción implique por sí misma una modificación automática del tratamiento.
+
+-- Caso 3 --
+En la tabla de reacciones adversas, dentro de la clase TRASTORNOS DEL SISTEMA DIGESTIVO, se ha notificado Hepatitis autoinmune con ambrisentán (Volibris), con una frecuencia de poco frecuentes.
+
+- Hepatitis autoinmune
+
+La aparición de este cuadro debe considerarse en el contexto del seguimiento clínico habitual del paciente tratado, especialmente si existen datos analíticos compatibles con afectación hepática. Se recomienda valorar la continuidad del tratamiento de acuerdo con la evolución clínica y las medidas de monitorización establecidas para este tipo de medicamento.

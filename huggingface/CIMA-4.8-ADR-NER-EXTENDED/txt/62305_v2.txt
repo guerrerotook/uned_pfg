@@ -1,0 +1,83 @@
+Resumen del perfil de seguridad
+CAPTOPRIL, también citado en la práctica como captopril o Captopril Cinfa, presenta un perfil de seguridad coherente con su mecanismo farmacológico y con la experiencia clínica acumulada. La mayoría de las notificaciones son de intensidad leve o moderada y suelen detectarse al inicio del tratamiento o tras ajustes de dosis. La interpretación debe considerar la situación basal del paciente, la medicación concomitante y la evolución clínica. En caso de síntomas persistentes, progresivos o clínicamente relevantes, se recomienda una valoración individualizada y el seguimiento habitual.
+
+Lista tabulada de reacciones adversas
+TRASTORNOS DEL SISTEMA NERVIOSO
+- no frecuente: Accidente cerebrovascular incluyendo ictus y síncope, Somnolencia.
+- frecuentes: Alteración del gusto, Cefalea, Mareos, Parestesias.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+- no frecuente: Agranulocitosis, Anemia (incluyendo anemia aplásica y hemolítica), Enfermedades autoinmunes, Eosinofilia, Linfadenopatía, Neutropenia, Pancitopenia (especialmente en pacientes con disfunción renal), Test ANA-positivo, Trombocitopenia.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+- frecuentes: Alopecia, Erupción cutánea, Prurito.
+- poco frecuentes: Angioedema.
+- no frecuente: Dermatitis exfoliativa, Eritema multiforme, Eritrodermia, Fotosensibilidad, Reacciones penfigoides, Síndrome de Stevens - Johnson (SSJ), Urticaria.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+- no frecuente: Alveolitis alérgica/ neumonía eosinofílica, Broncoespasmo, Rinitis.
+- frecuentes: Disnea, Tos irrtativa (no productiva), Tos seca.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+- poco frecuentes: Angina de pecho, Hipotensión, Palidez, Palpitaciones, Rubor, Síndrome de Raynaud, Taquiarritmia.
+- no frecuente: Parada cardiaca, Shock cardiogénico.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+- no frecuente: Angioedema intestinal, Colestasis (incluyendo ictericia), Elevación de la bilirrubina, Estomatitis, Función hepática deteriorada, Glositis, Hepatitis, Incremento de transaminasas y fosfatasa alcalina, Necrosis hepática, Pancreatitis, Ulceraciones aftosas.
+- frecuentes: Diarrea, Dolor abdominal, Estreñimiento, Irritación gástrica, Náuseas, Sequedad de boca, Vómitos, Úlcera péptica.
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN
+- frecuentes: Anorexia.
+- no frecuente: Hiperkalemia, Hipoglucemia.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+- no frecuente: Artralgia, Mialgia.
+
+TRASTORNOS DEL SISTEMA GENERAL
+- frecuencia no conocida: Astenia.
+- poco frecuentes: Dolor torácico, Fatiga, Malestar general.
+- no frecuente: Fiebre.
+
+TRASTORNOS PSIQUIÁTRICOS
+- no frecuente: Confusión, Depresión.
+- frecuentes: Trastornos del sueño.
+
+PRUEBAS COMPLEMENTARIAS
+- no frecuente: Descenso de hematocrito, Descenso de hemoglobina, Descenso de leucocitos, Descenso de plaquetas, Descenso del sodio sérico, Elevación de la VSG, Elevación de la bilirrubina sérica, Elevación de la creatinina sérica, Elevación del nitrógeno ureico (BUN), Eosinofilia, Incremento del potasio sérico, Proteinuria.
+
+TRASTORNOS DEL SISTEMA REPRODUCTOR
+- no frecuente: Disfunción eréctil, Ginecomastia.
+
+TRASTORNOS DEL SISTEMA EXCRETOR
+- no frecuente: Fallo renal, Oliguria, Polaquiuria, Poliuria, Síndrome nefrótico.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+- no frecuente: Visión borrosa.
+
+Descripción de reacciones adversas seleccionadas
+Durante el seguimiento, la aparición de Mareos (sensación de inestabilidad) debe valorarse junto con la respuesta clínica global y las condiciones del paciente. La continuidad del tratamiento, la reducción temporal o la retirada dependerán de la intensidad, de la evolución y del criterio médico. La comunicación sistemática de las sospechas permite mejorar la caracterización del perfil de seguridad en la práctica asistencial.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+Dentro del sistema de clasificación de órganos Trastornos del sistema digestivo, se ha notificado Diarrea como reacción adversa asociada al tratamiento con CAPTOPRIL; en la experiencia disponible se clasifica como frecuentes. En pacientes tratados con captopril, este efecto suele requerir valoración clínica si persiste o se intensifica, especialmente para revisar la continuidad del tratamiento y el estado de hidratación.
+
+Lista tabulada:
+- Trastornos del sistema digestivo: Diarrea (frecuentes).
+
+-- Caso 2 --
+En el perfil de seguridad de CAPTOPRIL, las alteraciones clasificadas dentro de TRASTORNOS DEL SISTEMA CARDIOVASCULAR incluyen manifestaciones clínicas generalmente transitorias que requieren valoración en el contexto del estado hemodinámico del paciente. La aparición aislada debe interpretarse junto con la presión arterial, la hidratación y la evolución clínica, especialmente al inicio del tratamiento o tras ajustes de dosis.
+
+Lista tabulada de reacciones adversas:
+- Palidez: poco frecuentes.
+
+Si se observa este signo (aspecto pálido), se recomienda seguimiento clínico y revisión de factores concomitantes antes de modificar el tratamiento.
+
+-- Caso 3 --
+Trastornos del sistema músculo-esquelético
+
+En pacientes tratados con CAPTOPRIL, incluido Captopril cinfa, se ha notificado la siguiente reacción adversa dentro de los trastornos del sistema músculo-esquelético, con frecuencia no frecuente:
+
+- Mialgia.
+
+La Mialgia puede interpretarse como dolor muscular y debe valorarse en el contexto clínico del paciente y de la evolución temporal del tratamiento. Se recomienda seguimiento si los síntomas persisten o interfieren con la actividad habitual, considerando otras posibles causas antes de modificar el tratamiento.

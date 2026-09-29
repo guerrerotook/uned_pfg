@@ -1,0 +1,67 @@
+Resumen del perfil de seguridad
+La oxitocina, administrada como Syntocinon 10 UI en ampolla, presenta un perfil de seguridad conocido en el contexto obstétrico cuando se utiliza con vigilancia clínica adecuada. La naturaleza de las reacciones observadas se relaciona principalmente con la respuesta farmacológica esperada y con la sensibilidad individual de la paciente. La velocidad de administración, la situación clínica y la monitorización durante el procedimiento son factores relevantes para interpretar cualquier acontecimiento observado. La evaluación debe considerar tanto a la madre como al feto o al recién nacido, sin atribuir automáticamente todos los hallazgos al tratamiento. En caso de aparición de signos clínicamente relevantes, se recomienda revisar la pauta y aplicar las medidas asistenciales habituales.
+
+Lista tabulada de reacciones adversas
+A continuación se presentan las reacciones adversas agrupadas según la clasificación de órganos y la frecuencia comunicada.
+
+Trastornos de piel y tejidos
+frecuencia no conocida: Angioedema.
+no frecuente: Erupción.
+
+Trastornos del sistema cardiovascular
+poco frecuentes: Arritmia.
+frecuentes: Bradicardia, Taquicardia.
+frecuencia no conocida: Hipotensión, Isquemia miocárdica, prolongación del intervalo QT del electrocardiograma.
+
+Trastornos de la sangre y órganos hematopoyéticos
+frecuencia no conocida: Coagulación intravascular diseminada.
+
+Trastornos del sistema reproductor
+frecuencia no conocida: Hipertonía uterina, Síndrome de sufrimiento fetal, asfixia y muerte, contracciones tetánicas del útero, ruptura del útero.
+
+Trastornos del sistema nervioso
+frecuentes: Dolor de cabeza.
+
+Trastornos del sistema respiratorio
+frecuencia no conocida: Edema pulmonar agudo.
+
+Trastornos del metabolismo y la nutrición
+frecuencia no conocida: Hiponatremia, Hiponatremia neonatal, Intoxicación hídrica.
+
+Trastornos del sistema digestivo
+frecuentes: Nauseas, vómitos.
+
+Trastornos del sistema inmunológico
+no frecuente: Reacción anafiláctica/anafilactoide asociada a disnea e hipotensión, shock anafiláctico/anafilactoide.
+
+Trastornos del sistema general
+frecuencia no conocida: Rubor (sofoco).
+
+Descripción de reacciones adversas seleccionadas
+La Hipertonía uterina, las contracciones tetánicas del útero y la ruptura del útero requieren una valoración inmediata, especialmente si aparecen durante la inducción o estimulación del parto. En ese mismo contexto, el Síndrome de sufrimiento fetal, asfixia y muerte representa una situación de gravedad que debe interpretarse junto con la evolución obstétrica y los datos de monitorización disponibles.
+
+La Intoxicación hídrica puede asociarse a Hiponatremia y, en el recién nacido, a Hiponatremia neonatal. La observación clínica y analítica resulta útil cuando se administran volúmenes relevantes de fluidos o cuando existen condiciones que favorecen la retención de agua.
+
+Ante Hipotensión, Isquemia miocárdica o prolongación del intervalo QT del electrocardiograma, debe considerarse la situación basal de la paciente y la exposición concomitante a otros factores clínicos. Las manifestaciones digestivas como Nauseas y vómitos suelen manejarse de forma sintomática, mientras que la Reacción anafiláctica/anafilactoide asociada a disnea e hipotensión y el shock anafiláctico/anafilactoide precisan actuación urgente.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En pacientes tratados con Syntocinon (oxitocina), la administración intravenosa requiere vigilancia clínica, especialmente cuando se emplean perfusiones o ajustes rápidos de dosis. En la clasificación Trastornos del sistema cardiovascular, se ha descrito la siguiente reacción adversa:
+
+- poco frecuentes: Arritmia (latido irregular).
+
+La aparición de este evento puede relacionarse con la respuesta cardiovascular a la estimulación uterina y al balance de líquidos durante el tratamiento. Se recomienda monitorizar el estado hemodinámico y revisar la pauta si se observan cambios clínicamente relevantes.
+
+-- Caso 2 --
+Trastornos del sistema cardiovascular
+- frecuentes: Taquicardia (pulso rápido).
+
+Durante la administración de oxitocina, especialmente por vía intravenosa, puede observarse Taquicardia como manifestación de respuesta hemodinámica al efecto uterotónico. En pacientes tratadas con Syntocinon se recomienda vigilancia clínica y control de la frecuencia cardiaca durante la perfusión o administración en bolo, ajustando la pauta según la situación obstétrica y la respuesta individual. La aparición de este efecto debe valorarse en el contexto del balance beneficio-riesgo del tratamiento.
+
+-- Caso 3 --
+En el perfil de seguridad de Syntocinon (oxitocina), dentro de Trastornos del sistema inmunológico, se ha identificado la siguiente reacción adversa:
+
+- shock anafiláctico/anafilactoide: no frecuente.
+
+Este acontecimiento puede aparecer de forma rápida tras la administración intravenosa, por lo que se recomienda mantener vigilancia clínica durante y después de la perfusión, especialmente al inicio del tratamiento. Ante signos compatibles con compromiso sistémico, debe interrumpirse la administración y aplicarse el manejo clínico habitual. La notificación de sospechas contribuye a mantener actualizada la información de seguridad del medicamento.

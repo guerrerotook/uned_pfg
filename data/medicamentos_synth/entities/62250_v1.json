@@ -1,0 +1,744 @@
+{
+  "codigo": "62250",
+  "variante": 1,
+  "codigo_variant": "62250_v1",
+  "medicamento": "SPIRAXIN 200 mg COMPRIMIDOS RECUBIERTOS CON PELICULA",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "RIFAXIMINA",
+      "surface": "RIFAXIMINA",
+      "start": 32,
+      "end": 42
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 620,
+      "end": 630
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 631,
+      "end": 663
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento",
+      "start": 665,
+      "end": 678
+    },
+    {
+      "type": "REACT",
+      "canonical": "diarrea",
+      "surface": "diarrea",
+      "start": 680,
+      "end": 687
+    },
+    {
+      "type": "REACT",
+      "canonical": "distensión abdominal",
+      "surface": "distensión abdominal",
+      "start": 689,
+      "end": 709
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor abdominal",
+      "surface": "dolor abdominal",
+      "start": 711,
+      "end": 726
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor de cabeza",
+      "surface": "dolor de cabeza",
+      "start": 728,
+      "end": 743
+    },
+    {
+      "type": "REACT",
+      "canonical": "esfuerzo involuntario y doloroso o ineficaz",
+      "surface": "esfuerzo involuntario y doloroso o ineficaz",
+      "start": 745,
+      "end": 788
+    },
+    {
+      "type": "REACT",
+      "canonical": "flatulencia",
+      "surface": "flatulencia",
+      "start": 790,
+      "end": 801
+    },
+    {
+      "type": "REACT",
+      "canonical": "náuseas",
+      "surface": "náuseas",
+      "start": 803,
+      "end": 810
+    },
+    {
+      "type": "REACT",
+      "canonical": "sensación de tener necesidad de defecar",
+      "surface": "sensación de tener necesidad de defecar",
+      "start": 812,
+      "end": 851
+    },
+    {
+      "type": "REACT",
+      "canonical": "vómitos",
+      "surface": "vómitos",
+      "start": 853,
+      "end": 860
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 862,
+      "end": 893
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fiebre",
+      "surface": "Fiebre",
+      "start": 895,
+      "end": 901
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareo",
+      "surface": "Mareo",
+      "start": 903,
+      "end": 908
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 911,
+      "end": 926
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "INFECCIONES E INFESTACIONES",
+      "start": 927,
+      "end": 954
+    },
+    {
+      "type": "REACT",
+      "canonical": "Candidiasis (infección por un tipo de hongo)",
+      "surface": "Candidiasis (infección por un tipo de hongo)",
+      "start": 956,
+      "end": 1000
+    },
+    {
+      "type": "REACT",
+      "canonical": "herpes en los labios",
+      "surface": "herpes en los labios",
+      "start": 1002,
+      "end": 1022
+    },
+    {
+      "type": "REACT",
+      "canonical": "infección de las vías respiratorias superiores",
+      "surface": "infección de las vías respiratorias superiores",
+      "start": 1024,
+      "end": 1070
+    },
+    {
+      "type": "REACT",
+      "canonical": "inflamación o infección de la nariz y/o garganta",
+      "surface": "inflamación o infección de la nariz y/o garganta",
+      "start": 1072,
+      "end": 1120
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 1122,
+      "end": 1150
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupciones cutáneas y sarpullidos que pueden ser de aparición súbita",
+      "surface": "Erupciones cutáneas y sarpullidos que pueden ser de aparición súbita",
+      "start": 1152,
+      "end": 1220
+    },
+    {
+      "type": "REACT",
+      "canonical": "brazo hinchado (edema periférico)",
+      "surface": "brazo hinchado (edema periférico)",
+      "start": 1222,
+      "end": 1255
+    },
+    {
+      "type": "REACT",
+      "canonical": "quemaduras solares",
+      "surface": "quemaduras solares",
+      "start": 1257,
+      "end": 1275
+    },
+    {
+      "type": "REACT",
+      "canonical": "sudoración abundante",
+      "surface": "sudoración abundante",
+      "start": 1277,
+      "end": 1297
+    },
+    {
+      "type": "REACT",
+      "canonical": "Acumulación de líquido en el abdomen (ascitis)",
+      "surface": "Acumulación de líquido en el abdomen (ascitis)",
+      "start": 1333,
+      "end": 1379
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pérdida de apetito",
+      "surface": "Pérdida de apetito",
+      "start": 1381,
+      "end": 1399
+    },
+    {
+      "type": "REACT",
+      "canonical": "Resultados anormales de la prueba del hígado (incremento de la aspartato aminotransferasa)",
+      "surface": "Resultados anormales de la prueba del hígado (incremento de la aspartato aminotransferasa)",
+      "start": 1401,
+      "end": 1491
+    },
+    {
+      "type": "REACT",
+      "canonical": "deshidratación",
+      "surface": "deshidratación",
+      "start": 1493,
+      "end": 1507
+    },
+    {
+      "type": "REACT",
+      "canonical": "desórdenes de la motilidad gastrointestinal",
+      "surface": "desórdenes de la motilidad gastrointestinal",
+      "start": 1509,
+      "end": 1552
+    },
+    {
+      "type": "REACT",
+      "canonical": "digestión pesada",
+      "surface": "digestión pesada",
+      "start": 1554,
+      "end": 1570
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor abdominal superior",
+      "surface": "dolor abdominal superior",
+      "start": 1572,
+      "end": 1596
+    },
+    {
+      "type": "REACT",
+      "canonical": "heces duras",
+      "surface": "heces duras",
+      "start": 1598,
+      "end": 1609
+    },
+    {
+      "type": "REACT",
+      "canonical": "heces mucosas",
+      "surface": "heces mucosas",
+      "start": 1611,
+      "end": 1624
+    },
+    {
+      "type": "REACT",
+      "canonical": "sangre en las heces",
+      "surface": "sangre en las heces",
+      "start": 1626,
+      "end": 1645
+    },
+    {
+      "type": "REACT",
+      "canonical": "sequedad labial",
+      "surface": "sequedad labial",
+      "start": 1647,
+      "end": 1662
+    },
+    {
+      "type": "REACT",
+      "canonical": "trastornos del gusto",
+      "surface": "trastornos del gusto",
+      "start": 1664,
+      "end": 1684
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 1686,
+      "end": 1716
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agotamiento",
+      "surface": "Agotamiento",
+      "start": 1718,
+      "end": 1729
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sofocos",
+      "surface": "Sofocos",
+      "start": 1731,
+      "end": 1738
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor y malestar",
+      "surface": "dolor y malestar",
+      "start": 1740,
+      "end": 1756
+    },
+    {
+      "type": "REACT",
+      "canonical": "escalofríos",
+      "surface": "escalofríos",
+      "start": 1758,
+      "end": 1769
+    },
+    {
+      "type": "REACT",
+      "canonical": "sintomatología similar a la de una gripe",
+      "surface": "sintomatología similar a la de una gripe",
+      "start": 1771,
+      "end": 1811
+    },
+    {
+      "type": "REACT",
+      "canonical": "sudor frío",
+      "surface": "sudor frío",
+      "start": 1813,
+      "end": 1823
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "start": 1825,
+      "end": 1856
+    },
+    {
+      "type": "REACT",
+      "canonical": "Resultados anormales de análisis de orina: presencia de glucosa en la orina",
+      "surface": "Resultados anormales de análisis de orina: presencia de glucosa en la orina",
+      "start": 1858,
+      "end": 1933
+    },
+    {
+      "type": "REACT",
+      "canonical": "aumento de la cantidad de orina excretada",
+      "surface": "aumento de la cantidad de orina excretada",
+      "start": 1935,
+      "end": 1976
+    },
+    {
+      "type": "REACT",
+      "canonical": "aumento de la frecuencia de orinar,",
+      "surface": "aumento de la frecuencia de orinar,",
+      "start": 1978,
+      "end": 2013
+    },
+    {
+      "type": "REACT",
+      "canonical": "presencia de proteínas en la orina",
+      "surface": "presencia de proteínas en la orina",
+      "start": 2014,
+      "end": 2048
+    },
+    {
+      "type": "REACT",
+      "canonical": "sangre en la orina",
+      "surface": "sangre en la orina",
+      "start": 2050,
+      "end": 2068
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 2070,
+      "end": 2107
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la presión sanguínea",
+      "surface": "Aumento de la presión sanguínea",
+      "start": 2109,
+      "end": 2140
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones",
+      "start": 2142,
+      "end": 2155
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 2157,
+      "end": 2199
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor de espalda",
+      "surface": "Dolor de espalda",
+      "start": 2201,
+      "end": 2217
+    },
+    {
+      "type": "REACT",
+      "canonical": "calambres musculares,",
+      "surface": "calambres musculares,",
+      "start": 2219,
+      "end": 2240
+    },
+    {
+      "type": "REACT",
+      "canonical": "debilidad muscular",
+      "surface": "debilidad muscular",
+      "start": 2241,
+      "end": 2259
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor en el cuello",
+      "surface": "dolor en el cuello",
+      "start": 2261,
+      "end": 2279
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolores musculares generalizados",
+      "surface": "dolores musculares generalizados",
+      "start": 2281,
+      "end": 2313
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 2315,
+      "end": 2350
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dificultad para respirar",
+      "surface": "Dificultad para respirar",
+      "start": 2352,
+      "end": 2376
+    },
+    {
+      "type": "REACT",
+      "canonical": "congestión nasal",
+      "surface": "congestión nasal",
+      "start": 2378,
+      "end": 2394
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor de garganta",
+      "surface": "dolor de garganta",
+      "start": 2396,
+      "end": 2413
+    },
+    {
+      "type": "REACT",
+      "canonical": "goteo de la nariz",
+      "surface": "goteo de la nariz",
+      "start": 2415,
+      "end": 2432
+    },
+    {
+      "type": "REACT",
+      "canonical": "sequedad de garganta",
+      "surface": "sequedad de garganta",
+      "start": 2434,
+      "end": 2454
+    },
+    {
+      "type": "REACT",
+      "canonical": "tos",
+      "surface": "tos",
+      "start": 2456,
+      "end": 2459
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de la sensibilidad",
+      "surface": "Disminución de la sensibilidad",
+      "start": 2494,
+      "end": 2524
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor de oído",
+      "surface": "Dolor de oído",
+      "start": 2526,
+      "end": 2539
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insomnio",
+      "surface": "Insomnio",
+      "start": 2541,
+      "end": 2549
+    },
+    {
+      "type": "REACT",
+      "canonical": "Visión doble",
+      "surface": "Visión doble",
+      "start": 2551,
+      "end": 2563
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor en la frente o en un lado de la cabeza",
+      "surface": "dolor en la frente o en un lado de la cabeza",
+      "start": 2565,
+      "end": 2609
+    },
+    {
+      "type": "REACT",
+      "canonical": "estado de ánimo deprimido",
+      "surface": "estado de ánimo deprimido",
+      "start": 2611,
+      "end": 2636
+    },
+    {
+      "type": "REACT",
+      "canonical": "migraña",
+      "surface": "migraña",
+      "start": 2638,
+      "end": 2645
+    },
+    {
+      "type": "REACT",
+      "canonical": "nerviosismo",
+      "surface": "nerviosismo",
+      "start": 2647,
+      "end": 2658
+    },
+    {
+      "type": "REACT",
+      "canonical": "sensación de hormigueo",
+      "surface": "sensación de hormigueo",
+      "start": 2660,
+      "end": 2682
+    },
+    {
+      "type": "REACT",
+      "canonical": "sensación de que la habitación da vueltas (vértigo)",
+      "surface": "sensación de que la habitación da vueltas (vértigo)",
+      "start": 2684,
+      "end": 2735
+    },
+    {
+      "type": "REACT",
+      "canonical": "somnolencia",
+      "surface": "somnolencia",
+      "start": 2737,
+      "end": 2748
+    },
+    {
+      "type": "REACT",
+      "canonical": "sueños anormales",
+      "surface": "sueños anormales",
+      "start": 2750,
+      "end": 2766
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 2768,
+      "end": 2817
+    },
+    {
+      "type": "REACT",
+      "canonical": "Recuento anormal de glóbulos blancos en la sangre (aumento de linfocitos y monocitos y disminución de neutrófilos)",
+      "surface": "Recuento anormal de glóbulos blancos en la sangre (aumento de linfocitos y monocitos y disminución de neutrófilos)",
+      "start": 2819,
+      "end": 2933
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "start": 2935,
+      "end": 2969
+    },
+    {
+      "type": "REACT",
+      "canonical": "Períodos menstruales prolongados e irregulares",
+      "surface": "Períodos menstruales prolongados e irregulares",
+      "start": 2971,
+      "end": 3017
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 3020,
+      "end": 3042
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infección causada por la bacteriaClostridium difficile",
+      "surface": "Infección causada por la bacteriaClostridium difficile",
+      "start": 3072,
+      "end": 3126
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hinchazón de piel y mucosas",
+      "surface": "Hinchazón de piel y mucosas",
+      "start": 3158,
+      "end": 3185
+    },
+    {
+      "type": "REACT",
+      "canonical": "dermatitis",
+      "surface": "dermatitis",
+      "start": 3187,
+      "end": 3197
+    },
+    {
+      "type": "REACT",
+      "canonical": "dermatitis con descamación de la piel",
+      "surface": "dermatitis con descamación de la piel",
+      "start": 3199,
+      "end": 3236
+    },
+    {
+      "type": "REACT",
+      "canonical": "eczema",
+      "surface": "eczema",
+      "start": 3238,
+      "end": 3244
+    },
+    {
+      "type": "REACT",
+      "canonical": "eritemas",
+      "surface": "eritemas",
+      "start": 3246,
+      "end": 3254
+    },
+    {
+      "type": "REACT",
+      "canonical": "manchas rojas en la piel (púrpura)",
+      "surface": "manchas rojas en la piel (púrpura)",
+      "start": 3256,
+      "end": 3290
+    },
+    {
+      "type": "REACT",
+      "canonical": "picor",
+      "surface": "picor",
+      "start": 3292,
+      "end": 3297
+    },
+    {
+      "type": "REACT",
+      "canonical": "urticaria",
+      "surface": "urticaria",
+      "start": 3299,
+      "end": 3308
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anomalías en las pruebas de la función del hígado",
+      "surface": "Anomalías en las pruebas de la función del hígado",
+      "start": 3344,
+      "end": 3393
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sensación de desmayo",
+      "surface": "Sensación de desmayo",
+      "start": 3428,
+      "end": 3448
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución del número de plaquetas en la sangre",
+      "surface": "Disminución del número de plaquetas en la sangre",
+      "start": 3501,
+      "end": 3549
+    },
+    {
+      "type": "REACT",
+      "canonical": "Valores anormales en las pruebas de coagulacion sanguínea (Relación Normalizada Internacional)",
+      "surface": "Valores anormales en las pruebas de coagulacion sanguínea (Relación Normalizada Internacional)",
+      "start": 3551,
+      "end": 3645
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 3647,
+      "end": 3682
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacciones alérgicas graves",
+      "surface": "Reacciones alérgicas graves",
+      "start": 3684,
+      "end": 3711
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipersensibilidad",
+      "surface": "hipersensibilidad",
+      "start": 3713,
+      "end": 3730
+    },
+    {
+      "type": "REACT",
+      "canonical": "copiar",
+      "surface": "copiar",
+      "start": 5372,
+      "end": 5378
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NAN",
+      "surface": "nan",
+      "start": 5477,
+      "end": 5480
+    },
+    {
+      "type": "SYS",
+      "canonical": "nan",
+      "surface": "nan",
+      "start": 5477,
+      "end": 5480
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "Infecciones e infestaciones",
+      "start": 927,
+      "end": 954
+    }
+  ]
+}

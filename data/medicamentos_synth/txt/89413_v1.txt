@@ -1,0 +1,63 @@
+Resumen del perfil de seguridad
+
+El perfil de seguridad de SOTALOL HIDROCLORURO es concordante con su actividad farmacológica y con la experiencia clínica acumulada en el uso terapéutico. Las reacciones notificadas fueron generalmente identificables durante el seguimiento clínico habitual y, en la mayoría de los casos, permitieron una valoración individual de la continuidad del tratamiento. La evaluación debe considerar la situación clínica basal, la dosis administrada y la presencia de factores predisponentes. En caso de aparición de manifestaciones clínicamente relevantes, se recomienda valorar la relación temporal con el tratamiento y aplicar las medidas habituales de monitorización. La información siguiente se presenta según el sistema de clasificación de órganos y la categoría de frecuencia comunicada.
+
+Lista tabulada de reacciones adversas
+
+TRASTORNOS DE PIEL Y TEJIDOS
+Frecuentes: Alopecia, Erupción, Hiperhidrosis, Prurito, pirexia.
+Frecuencia no conocida: Trastornos psoriásicos.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+Frecuentes: Alteración visual, Discapacidad auditiva.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+Muy frecuentes: Bradicardia, Disnea, Dolor torácico, Edema, Electrocardiografía anormal, Palpitaciones.
+Frecuentes: Arritmia, Hipotensión, Insuficiencia cardíaca, Presíncope, Síncope, Torsade de pointes.
+Frecuencia no conocida: Angina de pecho, Bloqueo auriculoventricular, Enfermedad vascular periférica (síndrome de Raynaud, claudicación intermitente).
+
+TRASTORNOS PSIQUIÁTRICOS
+Muy frecuentes: Trastornos del sueño.
+Frecuentes: Ansiedad, Cambios del estado de ánimo, Depresión.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+Frecuentes: Artralgia, Espasmos musculares, Mialgia.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+Frecuentes: Asma.
+Frecuencia no conocida: Broncoespasmo.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+Muy frecuentes: Astenia, Cefaleas, Mareo, Vahído.
+Frecuentes: Disgeusia, Fatiga, Parestesia, Presíncope, Síncope.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+Muy frecuentes: Diarrea, Vómitos.
+Frecuentes: Dispepsia, Dolor abdominal, Flatulencia, Náuseas.
+
+TRASTORNOS DEL SISTEMA REPRODUCTOR
+Frecuentes: Disfunción sexual.
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN
+Frecuencia no conocida: Hipoglucemia.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+Frecuencia no conocida: Trombocitopenia.
+
+Descripción de reacciones adversas seleccionadas
+
+Algunas manifestaciones requieren especial atención por su posible repercusión sobre la tolerabilidad del tratamiento. La interpretación clínica debe realizarse de forma integrada, teniendo en cuenta los antecedentes del paciente, la indicación terapéutica y los tratamientos concomitantes. Cuando se observen cambios relevantes, debe considerarse una evaluación médica completa antes de modificar la pauta.
+
+La comunicación de sospechas después de la autorización permite mantener actualizada la información de seguridad. Los profesionales sanitarios deben notificar cualquier acontecimiento sospechoso mediante los procedimientos establecidos. La decisión de continuar, ajustar o interrumpir el tratamiento debe basarse en la gravedad del cuadro, la evolución clínica y el balance individual entre beneficio y riesgo.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+Dentro de Trastornos del sistema cardiovascular, se ha notificado Bradicardia con SOTALOL HIDROCLORURO; de acuerdo con la clasificación de frecuencia, estas reacciones son muy frecuentes. Este hallazgo es coherente con el efecto farmacológico del principio activo sobre la conducción y la respuesta cronotrópica cardiaca. Se recomienda valorar la frecuencia cardiaca y la situación clínica durante el tratamiento, especialmente al inicio y tras ajustes de dosis; si el cuadro es clínicamente relevante, debe considerarse la modificación del tratamiento conforme al criterio médico.
+
+-- Caso 2 --
+En la clasificación por órganos y sistemas, Disgeusia se incluye dentro de Trastornos del sistema nervioso y se ha notificado como una de las reacciones adversas frecuentes durante el tratamiento con SOTALOL HIDROCLORURO. Su aparición puede relacionarse con cambios funcionales en la percepción gustativa durante la exposición al tratamiento, sin que implique necesariamente la suspensión inmediata. Se recomienda valorar la intensidad, la duración y la posible relación temporal con la administración, así como realizar seguimiento clínico si el síntoma persiste o interfiere con la adherencia terapéutica.
+
+-- Caso 3 --
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN: Hipoglucemia (frecuencia no conocida).
+Durante el tratamiento con SOTALOL HIDROCLORURO se ha descrito Hipoglucemia, especialmente en situaciones en las que la respuesta adrenérgica puede estar atenuada. Se recomienda valorar los factores de riesgo metabólico y realizar un seguimiento clínico adecuado, en particular en pacientes con control glucémico estrecho. La notificación de este acontecimiento debe considerarse conforme a los procedimientos habituales de farmacovigilancia.

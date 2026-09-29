@@ -1,0 +1,72 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil de seguridad de ACETILSALICILICO ACIDO se corresponde con su acción farmacológica y con la experiencia acumulada en el uso clínico prolongado. La aparición de efectos no deseados puede depender de la dosis, de la duración del tratamiento y de las características del paciente. En la práctica clínica, la vigilancia debe mantenerse durante todo el periodo de administración, especialmente cuando existan factores que puedan aumentar la susceptibilidad individual. La valoración médica debe considerar la evolución temporal, la gravedad y la posible relación con el tratamiento. En caso de manifestaciones clínicamente relevantes, se recomienda revisar la necesidad de continuar la administración y aplicar las medidas habituales de seguimiento.
+
+Lista tabulada de reacciones adversas
+
+Trastornos de la sangre y órganos hematopoyéticos
+frecuentes: Hipotrombinemia (con dosis altas).
+poco frecuentes: Anemia ferropénica.
+no frecuente: Anemia hemorrágica.
+frecuencia no conocida: Anemia hemolítica, Hemólisis.
+
+Trastornos del sistema respiratorio
+frecuentes: Epixtasis, Rinitis.
+poco frecuentes: Congestión nasal.
+frecuencia no conocida: Enfermedad respiratoria exacerbada por ácido acetilsalicílico (EREA).
+
+Trastornos del sistema digestivo
+frecuentes: Dispepsia, Dolor gastrointestinal y abdominal, Hemorragia del tracto gastrointestinal, Inflamación gastrointestinal.
+poco frecuentes: Erosión gastrointestinal y úlcera, Hepatitis (particularmente en pacientes con artritis juvenil), Insuficiencia hepática, Sangrado gingival.
+no frecuente: Incremento de transaminasas, Perforación de úlcera gastrointestinal.
+frecuencia no conocida: Enfermedad diafragmática intestinal.
+
+Trastornos del sistema cardiovascular
+poco frecuentes: Hematoma.
+no frecuente: Hemorragia, Hemorragia muscular.
+frecuencia no conocida: Distrés cardiorrespiratorio, Hemorragia procedimental.
+
+Trastornos del sistema inmunológico
+poco frecuentes: Edema alérgico y angioedema, Hipersensibilidad, Hipersensibilidad inducida por fármacos.
+no frecuente: Reacción anafiláctica.
+frecuencia no conocida: Shock anafiláctico.
+
+Trastornos de piel y tejidos
+frecuentes: Erupción cutánea, Prurito.
+poco frecuentes: Urticaria.
+
+Trastornos del sistema excretor
+frecuentes: Hemorragia del tracto urogenital.
+no frecuente: Fallo renal agudo, Insuficiencia renal.
+
+Trastornos del sistema nervioso
+frecuentes: Mareo.
+poco frecuentes: Hemorragia cerebral e intracraneal.
+
+Trastornos del sistema general
+poco frecuentes: Síndrome de Reye (en menores de 16 años con procesos febriles, gripe o varicela).
+
+Lesiones traumáticas, intoxicaciones, complicaciones de procedimientos terapéuticos
+frecuentes: Sobredosis.
+
+Trastornos de órganos de los sentidos
+frecuentes: Tinnitus.
+
+Descripción de reacciones adversas seleccionadas
+La notificación tras la autorización permite una supervisión continuada de la relación beneficio-riesgo. Los profesionales sanitarios deben comunicar cualquier sospecha mediante los sistemas establecidos, aportando información sobre cronología, tratamientos concomitantes y evolución. La identificación precoz facilita la adopción de medidas de soporte y la reevaluación del tratamiento en situaciones clínicas complejas.
+
+La interpretación de los acontecimientos debe realizarse de forma individualizada. Determinadas circunstancias clínicas pueden modificar la presentación o la intensidad de los hallazgos observados. Cuando los signos sean persistentes, progresivos o clínicamente significativos, se aconseja una evaluación médica completa y seguimiento hasta su resolución o estabilización.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En el sistema TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS se ha notificado Hemólisis asociada al uso de ACETILSALICILICO ACIDO, con frecuencia no conocida. Este acontecimiento puede relacionarse con susceptibilidad individual y debe valorarse en el contexto clínico del paciente. Si se observan signos compatibles, se recomienda interrumpir temporalmente la administración y realizar seguimiento analítico según criterio médico, considerando la relación temporal con el tratamiento y otros factores concomitantes.
+
+-- Caso 2 --
+Dentro del sistema de clasificación de órganos TRASTORNOS DEL SISTEMA DIGESTIVO, se ha notificado Dispepsia como una de las reacciones adversas frecuentes asociadas al tratamiento con ACETILSALICILICO ACIDO. Este acontecimiento puede relacionarse con la acción local y sistémica sobre la mucosa gastrointestinal, por lo que se recomienda valorar la persistencia de los síntomas durante el seguimiento clínico. En pacientes que presenten molestias digestivas durante el uso continuado, debe revisarse la tolerabilidad del tratamiento y la necesidad de medidas de control según criterio médico. La interpretación clínica debe considerar la dosis, la duración del tratamiento y los factores individuales del paciente.
+
+-- Caso 3 --
+En TRASTORNOS DEL SISTEMA INMUNOLÓGICO, Hipersensibilidad inducida por fármacos se clasifica como poco frecuentes durante el tratamiento con ACETILSALICILICO ACIDO. Este acontecimiento debe valorarse en el contexto clínico del paciente, especialmente cuando existan antecedentes compatibles o exposición concomitante a medicamentos con potencial inmunológico.
+
+Ante la sospecha de relación temporal con el tratamiento, se recomienda la evaluación médica y la adopción de las medidas habituales de seguimiento y manejo. La notificación de sospechas permite continuar evaluando el perfil de seguridad del medicamento en la práctica clínica.

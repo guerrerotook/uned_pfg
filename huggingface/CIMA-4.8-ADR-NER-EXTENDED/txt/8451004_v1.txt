@@ -1,0 +1,59 @@
+Resumen del perfil de seguridad
+
+El perfil de seguridad descrito para AMBRISENTAN se basa en la experiencia acumulada en pacientes tratados en condiciones controladas y en el seguimiento posterior. En la evaluación clínica se observaron principalmente acontecimientos de intensidad leve o moderada, aunque en algunos casos fue necesario adoptar medidas de vigilancia o ajuste del tratamiento concomitante. La interpretación de los acontecimientos debe considerar la situación basal del paciente, la evolución de la enfermedad subyacente y la exposición a otros medicamentos. La notificación sistemática permite caracterizar mejor el balance de seguridad durante el uso continuado.
+
+Las categorías incluidas a continuación se presentan de acuerdo con una clasificación por órganos y sistemas y con intervalos de frecuencia convencionales. Dentro de cada grupo, los términos se recogen utilizando la denominación clínica habitual y sin establecer una jerarquía de gravedad. La aparición de un acontecimiento no implica necesariamente una relación causal individual, pero sí que fue observado en asociación temporal con el tratamiento. La evaluación médica debe ser individualizada, especialmente cuando concurran factores de riesgo o signos de empeoramiento clínico.
+
+Lista tabulada de reacciones adversas
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+frecuentes: Acúfenos, Alteración visual, Visión borrosa.
+poco frecuentes: Pérdida auditiva súbita.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+muy frecuentes: Anemia (disminución de la hemoglobina y hematocrito).
+
+TRASTORNOS DEL SISTEMA GENERAL
+muy frecuentes: Dolor torácico, Edema periférico, Fatiga, Retención de fluidos.
+frecuentes: Astenia.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+muy frecuentes: Cefalea (incluyendo cefalea sinusal, migraña), Mareos.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+muy frecuentes: Congestión del tracto respiratorio superior, Disnea, Nasofaringitis.
+frecuentes: Epixtasis, Rinitis, Sinusitis.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+muy frecuentes: Diarrea, Náuseas, Vómitos.
+frecuentes: Dolor abdominal, Estreñimiento, Incremento de transaminasas.
+poco frecuentes: Daño hepático, Hepatitis autoinmune.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+frecuentes: Erupción.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+muy frecuentes: Palpitaciones, Rubefacción.
+frecuentes: Fallo cardiaco, Hipotensión, Síncope.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+frecuentes: Reacciones de hipersensibilidad (angioedema, erupción cutánea, prurito).
+
+Descripción de reacciones adversas seleccionadas
+
+Durante el tratamiento se recomienda revisar periódicamente los datos analíticos y los signos clínicos relevantes. La valoración debe realizarse antes de iniciar la terapia y repetirse cuando existan cambios en el estado general, tratamientos asociados o síntomas nuevos. La decisión de continuar, interrumpir o modificar la pauta debe basarse en una evaluación clínica global y no exclusivamente en la presencia aislada de un hallazgo.
+
+Los acontecimientos relacionados con el equilibrio de líquidos y la tolerabilidad general requieren atención en pacientes con enfermedad avanzada o con comorbilidades. En estos casos, la evolución puede estar influida por la situación hemodinámica previa y por la necesidad de tratamientos de soporte. La educación del paciente para comunicar cambios recientes facilita una detección precoz y una intervención adecuada.
+
+Cuando se observen manifestaciones compatibles con afectación sistémica o con alteraciones de laboratorio clínicamente significativas, debe considerarse una reevaluación completa. La confirmación, el seguimiento temporal y la exclusión de causas alternativas ayudan a interpretar la relevancia del hallazgo. La comunicación de sospechas contribuye a mantener actualizada la información de seguridad disponible.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En la clasificación por órganos y sistemas Trastornos del sistema digestivo, Diarrea se incluye en la categoría de frecuencia muy frecuentes durante el tratamiento con AMBRISENTAN. Su aparición suele valorarse en el contexto clínico del paciente y no requiere, por sí sola, establecer una relación con progresión de la enfermedad subyacente. Se recomienda realizar seguimiento clínico y considerar medidas de soporte según la intensidad y la persistencia, de acuerdo con la práctica médica habitual. La continuidad del tratamiento debe decidirse mediante evaluación individual del balance beneficio-riesgo.
+
+-- Caso 2 --
+En la clasificación de TRASTORNOS DEL SISTEMA DIGESTIVO, se ha notificado Daño hepático asociado al tratamiento con AMBRISENTAN con una frecuencia de poco frecuentes. Este acontecimiento debe considerarse en pacientes con signos clínicos o analíticos compatibles durante el tratamiento, especialmente cuando exista una relación temporal con el inicio o la continuación de la administración. Se recomienda realizar seguimiento de la función hepática conforme a la práctica clínica habitual y valorar la continuidad del tratamiento si los hallazgos lo justifican. La sospecha debe comunicarse mediante los procedimientos establecidos de farmacovigilancia.
+
+-- Caso 3 --
+En la clasificación de TRASTORNOS DEL SISTEMA GENERAL, Astenia se incluye entre las reacciones adversas frecuentes notificadas durante el tratamiento con AMBRISENTAN. La evaluación clínica debe considerar la intensidad, la duración y la relación temporal con la administración del medicamento, especialmente si el cuadro interfiere con las actividades habituales del paciente. En caso de persistencia, se recomienda seguimiento clínico y valoración individual de la continuidad del tratamiento, de acuerdo con el perfil de seguridad esperado y la situación basal del paciente.

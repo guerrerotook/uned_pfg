@@ -1,0 +1,75 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil de seguridad de VERAPAMILO HIDROCLORURO es coherente con su acción farmacológica y con la experiencia acumulada durante su uso clínico. La mayoría de las notificaciones descritas fueron de intensidad leve o moderada y se controlaron mediante seguimiento clínico, ajuste de la pauta o interrupción del tratamiento cuando fue necesario. La valoración individual debe tener en cuenta la situación basal del paciente, la medicación concomitante y la respuesta observada durante la exposición. En pacientes con factores predisponentes se recomienda una vigilancia más estrecha, especialmente al inicio del tratamiento o tras modificaciones de dosis. Las categorías indicadas a continuación proceden de datos clínicos y de notificación espontánea, por lo que algunas estimaciones no pueden calcularse de forma fiable.
+
+Lista tabulada de reacciones adversas
+
+TRASTORNOS DE PIEL Y TEJIDOS
+Frecuencia no conocida: Alopecia, Angioedema, Eritema multiforme, Exantema maculopapular, Picazón, Prurito, Púrpura, Síndrome de Stevens-Johnson, Urticaria.
+No frecuente: Hiperhidrosis.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+Frecuencia no conocida: Artralgia, Debilidad muscular, Mialgia.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+Frecuencia no conocida: Asístole, Bloqueo auriculoventricular, Bradicardia sinusal, Insuficiencia cardíaca, Pausa sinusal.
+Frecuentes: Bradicardia, Hipotensión, Sofocos.
+Poco frecuentes: Palpitaciones, Taquicardia.
+
+EXPLORACIONES COMPLEMENTARIAS
+Frecuencia no conocida: Aumento de la prolactina en sangre.
+
+TRASTORNOS DEL SISTEMA HEPATOBILIAR
+Frecuencia no conocida: Aumento de las enzimas hepáticas.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+Frecuencia no conocida: Broncoespasmo, Disnea.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+Frecuentes: Cefalea, Mareos.
+Frecuencia no conocida: Convulsiones, Parálisis (tetraparesia con el uso de colchicina), Trastornos extrapiramidales.
+No frecuente: Parestesia, Temblor.
+
+TRASTORNOS DEL SISTEMA REPRODUCTOR
+Frecuencia no conocida: Disfunción eréctil, Galactorrea, Ginecomastia.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+Poco frecuentes: Dolor abdominal.
+Frecuentes: Estreñimiento, Náuseas.
+Frecuencia no conocida: Hiperplasia gingival, Molestias abdominales, Oclusión intestinal.
+No frecuente: Vómitos.
+
+TRASTORNOS DEL SISTEMA GENERAL
+Frecuentes: Edema periférico.
+Poco frecuentes: Fatiga.
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN
+Frecuencia no conocida: Hiperpotasemia.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+Frecuencia no conocida: Hipersensibilidad.
+
+TRASTORNOS DEL SISTEMA EXCRETOR
+Frecuencia no conocida: Insuficiencia renal.
+
+TRASTORNOS PSIQUIÁTRICOS
+No frecuente: Somnolencia.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+No frecuente: Tinnitus.
+Frecuencia no conocida: Vértigo.
+
+Descripción de reacciones adversas seleccionadas
+Durante el tratamiento debe prestarse atención a los pacientes que presenten antecedentes relevantes o tratamientos concomitantes que puedan modificar la tolerancia. La aparición de manifestaciones clínicamente significativas requiere una evaluación individual del balance beneficio-riesgo. Cuando los signos sean persistentes, progresivos o clínicamente importantes, se considerará la revisión de la medicación y la adopción de medidas de soporte apropiadas. La comunicación de sospechas permite mantener actualizada la información de seguridad y contribuye a una mejor caracterización del medicamento en la práctica clínica habitual.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En el sistema TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS, se ha descrito Vértigo con frecuencia no conocida en pacientes tratados con VERAPAMILO HIDROCLORURO. Este hallazgo debe interpretarse en el contexto del perfil farmacológico del medicamento y de la situación clínica del paciente. Si aparece durante el tratamiento, se recomienda valorar su evolución y la necesidad de medidas de seguimiento, especialmente cuando pueda interferir con actividades que requieran atención mantenida.
+
+-- Caso 2 --
+En la clasificación por sistemas y órganos, dentro de Trastornos del sistema digestivo, se ha notificado Dolor abdominal con VERAPAMILO HIDROCLORURO. La frecuencia asignada es poco frecuentes. Este acontecimiento puede relacionarse con la acción farmacológica del principio activo sobre la musculatura lisa y la motilidad gastrointestinal, y debe valorarse en el contexto clínico del paciente. En caso de persistencia o intensidad relevante, se recomienda seguimiento clínico y reconsiderar el balance beneficio-riesgo según la evolución, sin modificar la notificación de frecuencia establecida.
+
+-- Caso 3 --
+Dentro del sistema Trastornos de piel y tejidos, se ha notificado Hiperhidrosis con una frecuencia no frecuente durante el tratamiento con VERAPAMILO HIDROCLORURO. La aparición de este acontecimiento debe evaluarse en el contexto clínico del paciente y de la evolución temporal respecto al inicio o ajuste de la dosis. Si el cuadro persiste o resulta clínicamente relevante, se recomienda valorar el seguimiento habitual y la necesidad de revisar el tratamiento conforme a la práctica clínica.

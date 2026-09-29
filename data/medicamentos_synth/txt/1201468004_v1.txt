@@ -1,0 +1,32 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil de seguridad de NOVALE se ha evaluado a partir de datos clínicos y de seguimiento en pacientes expuestos al tratamiento en condiciones controladas. En conjunto, las reacciones descritas fueron coherentes con el estado basal de la población tratada y con la vigilancia habitual durante el uso del medicamento. La mayoría de los acontecimientos comunicados no requirió medidas distintas de la observación clínica, aunque se recomienda valorar cada caso según la situación del paciente. La información disponible no sugiere un patrón inesperado cuando el medicamento se administra conforme a las recomendaciones de la ficha técnica. La interpretación de los datos debe considerar la duración de la exposición, las enfermedades concomitantes y la medicación administrada de forma simultánea.
+
+Lista tabulada de reacciones adversas
+Las reacciones adversas se presentan a continuación según la clasificación por órganos y las categorías de frecuencia utilizadas en la ficha técnica. Dentro de cada grupo, los términos se enumeran de forma preferente según la terminología médica estándar.
+
+INFECCIONES E INFESTACIONES
+muy frecuentes: Infección de las vías respiratorias altas, nasofaringitis.
+frecuentes: Gripe, Rinitis.
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN
+frecuentes: Hipoglucemia.
+
+Descripción de reacciones adversas seleccionadas
+Las manifestaciones incluidas en INFECCIONES E INFESTACIONES se notificaron principalmente durante los periodos de seguimiento clínico y fueron evaluadas en el contexto de la situación respiratoria previa del paciente. Infección de las vías respiratorias altas y nasofaringitis se comunicaron de forma habitual y, por lo general, se manejaron con las medidas clínicas estándar. La notificación de Gripe o Rinitis no implicó necesariamente la interrupción del tratamiento, aunque se recomienda una valoración individual si el cuadro se prolonga o se acompaña de deterioro clínico.
+
+En TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN, Hipoglucemia se registró como reacción que requiere especial atención en pacientes con factores predisponentes o con tratamientos concomitantes que puedan modificar el control metabólico. Cuando se observe Hipoglucemia, debe considerarse la revisión de la situación clínica y de las medidas de control habituales, sin perjuicio de otras actuaciones que el profesional sanitario estime necesarias.
+
+Durante el tratamiento con NOVALE se recomienda informar al paciente o cuidador de la conveniencia de comunicar cualquier cambio clínicamente relevante. La continuidad del tratamiento con NOVALE debe basarse en la evaluación del beneficio esperado y de la tolerabilidad individual. La notificación de sospechas de reacciones adversas tras la autorización del medicamento es importante para mantener una supervisión continua de su perfil de seguridad.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+Durante el tratamiento con NOVALE, la nasofaringitis se ha identificado como reacción adversa dentro del sistema de clasificación de órganos INFECCIONES E INFESTACIONES y se clasifica entre las reacciones adversas muy frecuentes. En la evaluación clínica, este acontecimiento se consideró generalmente compatible con el perfil de seguridad observado y no requiere una caracterización adicional específica en la tabla de reacciones adversas. Se recomienda valorar su evolución en el contexto del estado clínico del paciente y aplicar las medidas habituales de seguimiento, especialmente si los síntomas persisten o interfieren con la continuidad del tratamiento.
+
+-- Caso 2 --
+En el sistema de clasificación de órganos Trastornos del metabolismo y la nutrición, se ha notificado Hipoglucemia como una de las reacciones adversas frecuentes asociadas al tratamiento con NOVALE. La aparición de episodios compatibles puede relacionarse con cambios en el equilibrio metabólico del paciente durante el tratamiento y debe valorarse en el contexto clínico individual. Se recomienda considerar la monitorización de la glucemia en pacientes con factores predisponentes o tratamiento concomitante relevante, así como revisar las medidas habituales de manejo si se observan alteraciones clínicamente significativas.
+
+-- Caso 3 --
+En el sistema Infecciones e infestaciones, Infección de las vías respiratorias altas se clasifica en la categoría de frecuencia muy frecuentes en pacientes tratados con NOVALE. Esta notificación debe interpretarse en el contexto del perfil clínico de la población tratada y de la exposición habitual a agentes respiratorios. Se recomienda realizar seguimiento clínico según la práctica médica habitual, valorando la evolución del episodio y la necesidad de medidas de soporte sin modificar la clasificación de frecuencia establecida.

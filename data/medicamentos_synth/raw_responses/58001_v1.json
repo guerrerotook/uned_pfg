@@ -1,0 +1,1069 @@
+{
+  "codigo": "58001",
+  "variante": 1,
+  "codigo_variant": "58001_v1",
+  "medicamento": "STESOLID 5 mg solución rectal",
+  "model": "gpt-5.5",
+  "style_variant_idx": 0,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nDIAZEPAM administrado por vía rectal presenta un perfil de seguridad compatible con el observado para este grupo terapéutico cuando se emplea en situaciones que requieren un efecto rápido. La intensidad de las manifestaciones comunicadas suele depender de la dosis, la edad, el estado clínico previo y el uso concomitante de otros medicamentos. En pacientes vulnerables se recomienda una vigilancia estrecha tras la administración y durante el periodo posterior de observación. La evaluación individual debe tener en cuenta la duración del tratamiento, la respuesta obtenida y la posibilidad de efectos residuales.\n\nLista tabulada de reacciones adversas\nLas reacciones adversas se presentan a continuación agrupadas por sistema de clasificación de órganos y por categoría de frecuencia.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nno frecuente: disminuir la temperatura corporal.\npoco frecuentes: alteraciones del habla, convulsiones de rebote, hiperactividad, temblor.\nfrecuentes: confusión, dolor de cabeza, falta de coordinación muscular, mareos.\nmuy frecuentes: somnolencia.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\nno frecuente: alergias.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\npoco frecuentes: alteración del ritmo del corazón e inflamación de venas con formación de trombos, bajada de tensión severa, colapso circulatorio, disminución de la frecuencia cardíaca.\nno frecuente: vasculitis bullosa.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\npoco frecuentes: alteraciones de la salivación, estreñimiento, náuseas, trastornos gastrointestinales.\nno frecuente: coloración amarilla de la piel, elevación de enzimas hepáticos.\n\nTRASTORNOS PSIQUIÁTRICOS\npoco frecuentes: Alteraciones mentales leves: pérdida de memoria, enlentecimiento del tiempo de reacción.\ndepresión, disminución del deseo sexual, excitación paradójica que puede conllevar: hostilidad, agresión y desinhibición, ansiedad, alucinaciones, insomnio, alteraciones del sueño.\nno frecuente: dificultad para recordar algunas cosas.\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS\nno frecuente: anemia, disminución de las plaquetas, pacientes con baja concentración de sodio en sangre se puede producir dolor y debilidad muscular, pancitopenia.\npoco frecuentes: inflamación de las venas, irritación local, neutropenia.\n\nTRASTORNOS DEL SISTEMA ENDOCRINO\nno frecuente: aumento del volumen de las mamas en hombres, secreción de leche por el pezón.\n\nTRASTORNOS DEL SISTEMA GENERAL\nno frecuente: cuadro clínico que cursa con fiebre, erupciones y alteraciones de la sangre (síndrome de Sweet).\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\nfrecuentes: depresión respiratoria.\n\nTRASTORNOS DE PIEL Y TEJIDOS\npoco frecuentes: erupción y urticaria, hinchazón, irritación local tras administración rectal, sudoración.\n\nTRASTORNOS DEL SISTEMA EXCRETOR\npoco frecuentes: incontinencia, retención urinaria.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\npoco frecuentes: movimientos involuntarios de los ojos, visión borrosa, visión doble, vértigo.\n\nDescripción de reacciones adversas seleccionadas\nEn la práctica clínica, la monitorización tras la administración debe mantenerse hasta que el paciente recupere una respuesta adecuada y estable. En personas de edad avanzada, debilitadas o con patología concomitante, puede ser necesario ajustar la pauta y reforzar las medidas de observación. Si aparece una manifestación clínicamente relevante, se debe valorar la continuidad del tratamiento y aplicar las medidas de soporte habituales. La comunicación de sospechas contribuye a una mejor caracterización del perfil de seguridad del medicamento.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nEn la clasificación por órganos y sistemas, dentro de Trastornos del sistema nervioso, se incluye somnolencia entre las reacciones adversas muy frecuentes asociadas al uso de DIAZEPAM. Este efecto es coherente con el perfil farmacológico del medicamento y debe considerarse especialmente tras la administración, recomendándose observar al paciente y valorar la necesidad de medidas de precaución en actividades que requieran atención. La intensidad puede depender de la sensibilidad individual y del contexto clínico, por lo que el seguimiento debe ajustarse a la respuesta observada.\n\n-- Caso 2 --\nDentro de TRASTORNOS DEL SISTEMA ENDOCRINO, durante el tratamiento con DIAZEPAM se ha descrito secreción de leche por el pezón con frecuencia no frecuente. Esta manifestación debe interpretarse en el contexto del perfil farmacológico del medicamento y de la posible influencia sobre la regulación neuroendocrina. Si aparece durante el uso clínico, se recomienda valorar la evolución del cuadro y la necesidad de seguimiento, especialmente cuando la manifestación sea persistente o clínicamente relevante.\n\n-- Caso 3 --\nEn el sistema de clasificación de órganos TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS, se ha notificado vértigo con DIAZEPAM como reacción adversa incluida entre las poco frecuentes. La aparición de este síntoma puede relacionarse con la acción depresora central del principio activo y suele requerir valoración clínica según la intensidad y el contexto del paciente. Se recomienda considerar el seguimiento del paciente y la revisión de la administración si el episodio persiste o interfiere con la actividad habitual, sin perjuicio de la evaluación individual del balance beneficio-riesgo.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "DIAZEPAM",
+      "surface": "DIAZEPAM",
+      "start": 57,
+      "end": 65
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 845,
+      "end": 876
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 877,
+      "end": 889
+    },
+    {
+      "type": "REACT",
+      "canonical": "disminuir la temperatura corporal",
+      "surface": "disminuir la temperatura corporal",
+      "start": 891,
+      "end": 924
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 926,
+      "end": 941
+    },
+    {
+      "type": "REACT",
+      "canonical": "alteraciones del habla",
+      "surface": "alteraciones del habla",
+      "start": 943,
+      "end": 965
+    },
+    {
+      "type": "REACT",
+      "canonical": "convulsiones de rebote",
+      "surface": "convulsiones de rebote",
+      "start": 967,
+      "end": 989
+    },
+    {
+      "type": "REACT",
+      "canonical": "hiperactividad",
+      "surface": "hiperactividad",
+      "start": 991,
+      "end": 1005
+    },
+    {
+      "type": "REACT",
+      "canonical": "temblor",
+      "surface": "temblor",
+      "start": 1007,
+      "end": 1014
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 931,
+      "end": 941
+    },
+    {
+      "type": "REACT",
+      "canonical": "confusión",
+      "surface": "confusión",
+      "start": 1028,
+      "end": 1037
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor de cabeza",
+      "surface": "dolor de cabeza",
+      "start": 1039,
+      "end": 1054
+    },
+    {
+      "type": "REACT",
+      "canonical": "falta de coordinación muscular",
+      "surface": "falta de coordinación muscular",
+      "start": 1056,
+      "end": 1086
+    },
+    {
+      "type": "REACT",
+      "canonical": "mareos",
+      "surface": "mareos",
+      "start": 1088,
+      "end": 1094
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes",
+      "start": 1096,
+      "end": 1110
+    },
+    {
+      "type": "REACT",
+      "canonical": "somnolencia",
+      "surface": "somnolencia",
+      "start": 1112,
+      "end": 1123
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 1126,
+      "end": 1161
+    },
+    {
+      "type": "REACT",
+      "canonical": "alergias",
+      "surface": "alergias",
+      "start": 1176,
+      "end": 1184
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1187,
+      "end": 1224
+    },
+    {
+      "type": "REACT",
+      "canonical": "alteración del ritmo del corazón e inflamación de venas con formación de trombos",
+      "surface": "alteración del ritmo del corazón e inflamación de venas con formación de trombos",
+      "start": 1242,
+      "end": 1322
+    },
+    {
+      "type": "REACT",
+      "canonical": "bajada de tensión severa",
+      "surface": "bajada de tensión severa",
+      "start": 1324,
+      "end": 1348
+    },
+    {
+      "type": "REACT",
+      "canonical": "colapso circulatorio",
+      "surface": "colapso circulatorio",
+      "start": 1350,
+      "end": 1370
+    },
+    {
+      "type": "REACT",
+      "canonical": "disminución de la frecuencia cardíaca",
+      "surface": "disminución de la frecuencia cardíaca",
+      "start": 1372,
+      "end": 1409
+    },
+    {
+      "type": "REACT",
+      "canonical": "vasculitis bullosa",
+      "surface": "vasculitis bullosa",
+      "start": 1425,
+      "end": 1443
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1446,
+      "end": 1478
+    },
+    {
+      "type": "REACT",
+      "canonical": "alteraciones de la salivación",
+      "surface": "alteraciones de la salivación",
+      "start": 1496,
+      "end": 1525
+    },
+    {
+      "type": "REACT",
+      "canonical": "estreñimiento",
+      "surface": "estreñimiento",
+      "start": 1527,
+      "end": 1540
+    },
+    {
+      "type": "REACT",
+      "canonical": "náuseas",
+      "surface": "náuseas",
+      "start": 1542,
+      "end": 1549
+    },
+    {
+      "type": "REACT",
+      "canonical": "trastornos gastrointestinales",
+      "surface": "trastornos gastrointestinales",
+      "start": 1551,
+      "end": 1580
+    },
+    {
+      "type": "REACT",
+      "canonical": "coloración amarilla de la piel",
+      "surface": "coloración amarilla de la piel",
+      "start": 1596,
+      "end": 1626
+    },
+    {
+      "type": "REACT",
+      "canonical": "elevación de enzimas hepáticos",
+      "surface": "elevación de enzimas hepáticos",
+      "start": 1628,
+      "end": 1658
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 1661,
+      "end": 1685
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones mentales leves: pérdida de memoria, enlentecimiento del tiempo de reacción.",
+      "surface": "Alteraciones mentales leves: pérdida de memoria, enlentecimiento del tiempo de reacción.",
+      "start": 1703,
+      "end": 1791
+    },
+    {
+      "type": "REACT",
+      "canonical": "depresión",
+      "surface": "depresión",
+      "start": 1792,
+      "end": 1801
+    },
+    {
+      "type": "REACT",
+      "canonical": "disminución del deseo sexual",
+      "surface": "disminución del deseo sexual",
+      "start": 1803,
+      "end": 1831
+    },
+    {
+      "type": "REACT",
+      "canonical": "excitación paradójica que puede conllevar: hostilidad, agresión y desinhibición, ansiedad, alucinaciones, insomnio, alteraciones del sueño.",
+      "surface": "excitación paradójica que puede conllevar: hostilidad, agresión y desinhibición, ansiedad, alucinaciones, insomnio, alteraciones del sueño.",
+      "start": 1833,
+      "end": 1972
+    },
+    {
+      "type": "REACT",
+      "canonical": "dificultad para recordar algunas cosas",
+      "surface": "dificultad para recordar algunas cosas",
+      "start": 1987,
+      "end": 2025
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 2028,
+      "end": 2077
+    },
+    {
+      "type": "REACT",
+      "canonical": "anemia",
+      "surface": "anemia",
+      "start": 2092,
+      "end": 2098
+    },
+    {
+      "type": "REACT",
+      "canonical": "disminución de las plaquetas",
+      "surface": "disminución de las plaquetas",
+      "start": 2100,
+      "end": 2128
+    },
+    {
+      "type": "REACT",
+      "canonical": "pacientes con baja concentración de sodio en sangre se puede producir dolor y debilidad muscular",
+      "surface": "pacientes con baja concentración de sodio en sangre se puede producir dolor y debilidad muscular",
+      "start": 2130,
+      "end": 2226
+    },
+    {
+      "type": "REACT",
+      "canonical": "pancitopenia",
+      "surface": "pancitopenia",
+      "start": 2228,
+      "end": 2240
+    },
+    {
+      "type": "REACT",
+      "canonical": "inflamación de las venas",
+      "surface": "inflamación de las venas",
+      "start": 2259,
+      "end": 2283
+    },
+    {
+      "type": "REACT",
+      "canonical": "irritación local",
+      "surface": "irritación local",
+      "start": 2285,
+      "end": 2301
+    },
+    {
+      "type": "REACT",
+      "canonical": "neutropenia",
+      "surface": "neutropenia",
+      "start": 2303,
+      "end": 2314
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "surface": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "start": 2317,
+      "end": 2349
+    },
+    {
+      "type": "REACT",
+      "canonical": "aumento del volumen de las mamas en hombres",
+      "surface": "aumento del volumen de las mamas en hombres",
+      "start": 2364,
+      "end": 2407
+    },
+    {
+      "type": "REACT",
+      "canonical": "secreción de leche por el pezón",
+      "surface": "secreción de leche por el pezón",
+      "start": 2409,
+      "end": 2440
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 2443,
+      "end": 2473
+    },
+    {
+      "type": "REACT",
+      "canonical": "cuadro clínico que cursa con fiebre, erupciones y alteraciones de la sangre (síndrome de Sweet)",
+      "surface": "cuadro clínico que cursa con fiebre, erupciones y alteraciones de la sangre (síndrome de Sweet)",
+      "start": 2488,
+      "end": 2583
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 2586,
+      "end": 2621
+    },
+    {
+      "type": "REACT",
+      "canonical": "depresión respiratoria",
+      "surface": "depresión respiratoria",
+      "start": 2634,
+      "end": 2656
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 2659,
+      "end": 2687
+    },
+    {
+      "type": "REACT",
+      "canonical": "erupción y urticaria",
+      "surface": "erupción y urticaria",
+      "start": 2705,
+      "end": 2725
+    },
+    {
+      "type": "REACT",
+      "canonical": "hinchazón",
+      "surface": "hinchazón",
+      "start": 2727,
+      "end": 2736
+    },
+    {
+      "type": "REACT",
+      "canonical": "irritación local tras administración rectal",
+      "surface": "irritación local tras administración rectal",
+      "start": 2738,
+      "end": 2781
+    },
+    {
+      "type": "REACT",
+      "canonical": "sudoración",
+      "surface": "sudoración",
+      "start": 2783,
+      "end": 2793
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "start": 2796,
+      "end": 2827
+    },
+    {
+      "type": "REACT",
+      "canonical": "incontinencia",
+      "surface": "incontinencia",
+      "start": 2845,
+      "end": 2858
+    },
+    {
+      "type": "REACT",
+      "canonical": "retención urinaria",
+      "surface": "retención urinaria",
+      "start": 2860,
+      "end": 2878
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 2881,
+      "end": 2918
+    },
+    {
+      "type": "REACT",
+      "canonical": "movimientos involuntarios de los ojos",
+      "surface": "movimientos involuntarios de los ojos",
+      "start": 2936,
+      "end": 2973
+    },
+    {
+      "type": "REACT",
+      "canonical": "visión borrosa",
+      "surface": "visión borrosa",
+      "start": 2975,
+      "end": 2989
+    },
+    {
+      "type": "REACT",
+      "canonical": "visión doble",
+      "surface": "visión doble",
+      "start": 2991,
+      "end": 3003
+    },
+    {
+      "type": "REACT",
+      "canonical": "vértigo",
+      "surface": "vértigo",
+      "start": 3005,
+      "end": 3012
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "Trastornos del sistema nervioso",
+      "start": 845,
+      "end": 876
+    }
+  ],
+  "raw_long_doc_text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nDIAZEPAM administrado por vía rectal presenta un perfil de seguridad compatible con el observado para este grupo terapéutico cuando se emplea en situaciones que requieren un efecto rápido. La intensidad de las manifestaciones comunicadas suele depender de la dosis, la edad, el estado clínico previo y el uso concomitante de otros medicamentos. En pacientes vulnerables se recomienda una vigilancia estrecha tras la administración y durante el periodo posterior de observación. La evaluación individual debe tener en cuenta la duración del tratamiento, la respuesta obtenida y la posibilidad de efectos residuales.\n\nLista tabulada de reacciones adversas\nLas reacciones adversas se presentan a continuación agrupadas por sistema de clasificación de órganos y por categoría de frecuencia.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nno frecuente: disminuir la temperatura corporal.\npoco frecuentes: alteraciones del habla, convulsiones de rebote, hiperactividad, temblor.\nfrecuentes: confusión, dolor de cabeza, falta de coordinación muscular, mareos.\nmuy frecuentes: somnolencia.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\nno frecuente: alergias.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\npoco frecuentes: alteración del ritmo del corazón e inflamación de venas con formación de trombos, bajada de tensión severa, colapso circulatorio, disminución de la frecuencia cardíaca.\nno frecuente: vasculitis bullosa.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\npoco frecuentes: alteraciones de la salivación, estreñimiento, náuseas, trastornos gastrointestinales.\nno frecuente: coloración amarilla de la piel, elevación de enzimas hepáticos.\n\nTRASTORNOS PSIQUIÁTRICOS\npoco frecuentes: Alteraciones mentales leves: pérdida de memoria, enlentecimiento del tiempo de reacción.\ndepresión, disminución del deseo sexual, excitación paradójica que puede conllevar: hostilidad, agresión y desinhibición, ansiedad, alucinaciones, insomnio, alteraciones del sueño.\nno frecuente: dificultad para recordar algunas cosas.\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS\nno frecuente: anemia, disminución de las plaquetas, pacientes con baja concentración de sodio en sangre se puede producir dolor y debilidad muscular, pancitopenia.\npoco frecuentes: inflamación de las venas, irritación local, neutropenia.\n\nTRASTORNOS DEL SISTEMA ENDOCRINO\nno frecuente: aumento del volumen de las mamas en hombres, secreción de leche por el pezón.\n\nTRASTORNOS DEL SISTEMA GENERAL\nno frecuente: cuadro clínico que cursa con fiebre, erupciones y alteraciones de la sangre (síndrome de Sweet).\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\nfrecuentes: depresión respiratoria.\n\nTRASTORNOS DE PIEL Y TEJIDOS\npoco frecuentes: erupción y urticaria, hinchazón, irritación local tras administración rectal, sudoración.\n\nTRASTORNOS DEL SISTEMA EXCRETOR\npoco frecuentes: incontinencia, retención urinaria.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\npoco frecuentes: movimientos involuntarios de los ojos, visión borrosa, visión doble, vértigo.\n\nDescripción de reacciones adversas seleccionadas\nEn la práctica clínica, la monitorización tras la administración debe mantenerse hasta que el paciente recupere una respuesta adecuada y estable. En personas de edad avanzada, debilitadas o con patología concomitante, puede ser necesario ajustar la pauta y reforzar las medidas de observación. Si aparece una manifestación clínicamente relevante, se debe valorar la continuidad del tratamiento y aplicar las medidas de soporte habituales. La comunicación de sospechas contribuye a una mejor caracterización del perfil de seguridad del medicamento.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "DIAZEPAM",
+      "surface": "DIAZEPAM"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "disminuir la temperatura corporal",
+      "surface": "disminuir la temperatura corporal"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "alteraciones del habla",
+      "surface": "alteraciones del habla"
+    },
+    {
+      "type": "REACT",
+      "canonical": "convulsiones de rebote",
+      "surface": "convulsiones de rebote"
+    },
+    {
+      "type": "REACT",
+      "canonical": "hiperactividad",
+      "surface": "hiperactividad"
+    },
+    {
+      "type": "REACT",
+      "canonical": "temblor",
+      "surface": "temblor"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "confusión",
+      "surface": "confusión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor de cabeza",
+      "surface": "dolor de cabeza"
+    },
+    {
+      "type": "REACT",
+      "canonical": "falta de coordinación muscular",
+      "surface": "falta de coordinación muscular"
+    },
+    {
+      "type": "REACT",
+      "canonical": "mareos",
+      "surface": "mareos"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "somnolencia",
+      "surface": "somnolencia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "alergias",
+      "surface": "alergias"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "alteración del ritmo del corazón e inflamación de venas con formación de trombos",
+      "surface": "alteración del ritmo del corazón e inflamación de venas con formación de trombos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "bajada de tensión severa",
+      "surface": "bajada de tensión severa"
+    },
+    {
+      "type": "REACT",
+      "canonical": "colapso circulatorio",
+      "surface": "colapso circulatorio"
+    },
+    {
+      "type": "REACT",
+      "canonical": "disminución de la frecuencia cardíaca",
+      "surface": "disminución de la frecuencia cardíaca"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "vasculitis bullosa",
+      "surface": "vasculitis bullosa"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "alteraciones de la salivación",
+      "surface": "alteraciones de la salivación"
+    },
+    {
+      "type": "REACT",
+      "canonical": "estreñimiento",
+      "surface": "estreñimiento"
+    },
+    {
+      "type": "REACT",
+      "canonical": "náuseas",
+      "surface": "náuseas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "trastornos gastrointestinales",
+      "surface": "trastornos gastrointestinales"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "coloración amarilla de la piel",
+      "surface": "coloración amarilla de la piel"
+    },
+    {
+      "type": "REACT",
+      "canonical": "elevación de enzimas hepáticos",
+      "surface": "elevación de enzimas hepáticos"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones mentales leves: pérdida de memoria, enlentecimiento del tiempo de reacción.",
+      "surface": "Alteraciones mentales leves: pérdida de memoria, enlentecimiento del tiempo de reacción."
+    },
+    {
+      "type": "REACT",
+      "canonical": "depresión",
+      "surface": "depresión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "disminución del deseo sexual",
+      "surface": "disminución del deseo sexual"
+    },
+    {
+      "type": "REACT",
+      "canonical": "excitación paradójica que puede conllevar: hostilidad, agresión y desinhibición, ansiedad, alucinaciones, insomnio, alteraciones del sueño.",
+      "surface": "excitación paradójica que puede conllevar: hostilidad, agresión y desinhibición, ansiedad, alucinaciones, insomnio, alteraciones del sueño."
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "dificultad para recordar algunas cosas",
+      "surface": "dificultad para recordar algunas cosas"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "anemia",
+      "surface": "anemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "disminución de las plaquetas",
+      "surface": "disminución de las plaquetas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "pacientes con baja concentración de sodio en sangre se puede producir dolor y debilidad muscular",
+      "surface": "pacientes con baja concentración de sodio en sangre se puede producir dolor y debilidad muscular"
+    },
+    {
+      "type": "REACT",
+      "canonical": "pancitopenia",
+      "surface": "pancitopenia"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "inflamación de las venas",
+      "surface": "inflamación de las venas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "irritación local",
+      "surface": "irritación local"
+    },
+    {
+      "type": "REACT",
+      "canonical": "neutropenia",
+      "surface": "neutropenia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "surface": "TRASTORNOS DEL SISTEMA ENDOCRINO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "aumento del volumen de las mamas en hombres",
+      "surface": "aumento del volumen de las mamas en hombres"
+    },
+    {
+      "type": "REACT",
+      "canonical": "secreción de leche por el pezón",
+      "surface": "secreción de leche por el pezón"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "cuadro clínico que cursa con fiebre, erupciones y alteraciones de la sangre (síndrome de Sweet)",
+      "surface": "cuadro clínico que cursa con fiebre, erupciones y alteraciones de la sangre (síndrome de Sweet)"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "depresión respiratoria",
+      "surface": "depresión respiratoria"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "erupción y urticaria",
+      "surface": "erupción y urticaria"
+    },
+    {
+      "type": "REACT",
+      "canonical": "hinchazón",
+      "surface": "hinchazón"
+    },
+    {
+      "type": "REACT",
+      "canonical": "irritación local tras administración rectal",
+      "surface": "irritación local tras administración rectal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "sudoración",
+      "surface": "sudoración"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "incontinencia",
+      "surface": "incontinencia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "retención urinaria",
+      "surface": "retención urinaria"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "movimientos involuntarios de los ojos",
+      "surface": "movimientos involuntarios de los ojos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "visión borrosa",
+      "surface": "visión borrosa"
+    },
+    {
+      "type": "REACT",
+      "canonical": "visión doble",
+      "surface": "visión doble"
+    },
+    {
+      "type": "REACT",
+      "canonical": "vértigo",
+      "surface": "vértigo"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "STESOLID 5 mg solución rectal",
+        "pactivo": "DIAZEPAM",
+        "reaccion": "somnolencia",
+        "frecuencia": "MUY FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA NERVIOSO"
+      },
+      "text": "En la clasificación por órganos y sistemas, dentro de Trastornos del sistema nervioso, se incluye somnolencia entre las reacciones adversas muy frecuentes asociadas al uso de DIAZEPAM. Este efecto es coherente con el perfil farmacológico del medicamento y debe considerarse especialmente tras la administración, recomendándose observar al paciente y valorar la necesidad de medidas de precaución en actividades que requieran atención. La intensidad puede depender de la sensibilidad individual y del contexto clínico, por lo que el seguimiento debe ajustarse a la respuesta observada.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "surface": "Trastornos del sistema nervioso"
+        },
+        {
+          "type": "REACT",
+          "canonical": "somnolencia",
+          "surface": "somnolencia"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "MUY FRECUENTE",
+          "surface": "muy frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "DIAZEPAM",
+          "surface": "DIAZEPAM"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "surface": "Trastornos del sistema nervioso",
+          "start": 54,
+          "end": 85
+        },
+        {
+          "type": "REACT",
+          "canonical": "somnolencia",
+          "surface": "somnolencia",
+          "start": 98,
+          "end": 109
+        },
+        {
+          "type": "FREQ",
+          "canonical": "MUY FRECUENTE",
+          "surface": "muy frecuentes",
+          "start": 140,
+          "end": 154
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "DIAZEPAM",
+          "surface": "DIAZEPAM",
+          "start": 175,
+          "end": 183
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "STESOLID 5 mg solución rectal",
+        "pactivo": "DIAZEPAM",
+        "reaccion": "secreción de leche por el pezón",
+        "frecuencia": "NO FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA ENDOCRINO"
+      },
+      "text": "Dentro de TRASTORNOS DEL SISTEMA ENDOCRINO, durante el tratamiento con DIAZEPAM se ha descrito secreción de leche por el pezón con frecuencia no frecuente. Esta manifestación debe interpretarse en el contexto del perfil farmacológico del medicamento y de la posible influencia sobre la regulación neuroendocrina. Si aparece durante el uso clínico, se recomienda valorar la evolución del cuadro y la necesidad de seguimiento, especialmente cuando la manifestación sea persistente o clínicamente relevante.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+          "surface": "TRASTORNOS DEL SISTEMA ENDOCRINO"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "DIAZEPAM",
+          "surface": "DIAZEPAM"
+        },
+        {
+          "type": "REACT",
+          "canonical": "secreción de leche por el pezón",
+          "surface": "secreción de leche por el pezón"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+          "surface": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+          "start": 10,
+          "end": 42
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "DIAZEPAM",
+          "surface": "DIAZEPAM",
+          "start": 71,
+          "end": 79
+        },
+        {
+          "type": "REACT",
+          "canonical": "secreción de leche por el pezón",
+          "surface": "secreción de leche por el pezón",
+          "start": 95,
+          "end": 126
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente",
+          "start": 142,
+          "end": 154
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "STESOLID 5 mg solución rectal",
+        "pactivo": "DIAZEPAM",
+        "reaccion": "vértigo",
+        "frecuencia": "POCO FRECUENTE",
+        "sistema": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS"
+      },
+      "text": "En el sistema de clasificación de órganos TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS, se ha notificado vértigo con DIAZEPAM como reacción adversa incluida entre las poco frecuentes. La aparición de este síntoma puede relacionarse con la acción depresora central del principio activo y suele requerir valoración clínica según la intensidad y el contexto del paciente. Se recomienda considerar el seguimiento del paciente y la revisión de la administración si el episodio persiste o interfiere con la actividad habitual, sin perjuicio de la evaluación individual del balance beneficio-riesgo.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+          "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS"
+        },
+        {
+          "type": "REACT",
+          "canonical": "vértigo",
+          "surface": "vértigo"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "DIAZEPAM",
+          "surface": "DIAZEPAM"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+          "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+          "start": 42,
+          "end": 79
+        },
+        {
+          "type": "REACT",
+          "canonical": "vértigo",
+          "surface": "vértigo",
+          "start": 98,
+          "end": 105
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "DIAZEPAM",
+          "surface": "DIAZEPAM",
+          "start": 110,
+          "end": 118
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes",
+          "start": 160,
+          "end": 175
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

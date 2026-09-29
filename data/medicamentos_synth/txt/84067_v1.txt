@@ -1,0 +1,73 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil de seguridad de ATAZANAVIR SULFATO se ha evaluado a partir de datos clínicos y de la experiencia acumulada tras la comercialización. En general, los acontecimientos observados fueron de intensidad leve o moderada y se manejaron mediante vigilancia clínica, medidas de soporte o ajuste del seguimiento. La evaluación debe considerar la situación basal del paciente, la exposición concomitante a otros medicamentos y la posible contribución de enfermedades intercurrentes. La interrupción del tratamiento se valorará de forma individual cuando la intensidad, la persistencia o la relevancia clínica del acontecimiento lo justifiquen.
+
+Las categorías incluidas a continuación se presentan siguiendo una ordenación convencional por clasificación de órganos y por categoría de frecuencia. Dentro de cada apartado, los términos se enumeran de forma concisa y sin establecer una relación de gravedad entre ellos. La aparición de un acontecimiento aislado no implica necesariamente suspensión inmediata, pero debe motivar una valoración adecuada. La notificación de sospechas permite mantener actualizada la caracterización del medicamento en condiciones reales de uso.
+
+Lista tabulada de reacciones adversas
+
+TRASTORNOS DE PIEL Y TEJIDOS
+frecuentes: Rash.
+poco frecuentes: Alopecia, Angioedema, Eritema multiforme, Erupciones cutáneas tóxicas, Prurito, Reacción medicamentosa con eosinofilia y síntomas sistémicos (DRESS), Urticaria.
+no frecuente: Eczema, Rash vesiculobulloso, Síndrome de Stevens - Johnson (SSJ), Vasodilatación.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+frecuentes: Cefalea.
+poco frecuentes: Amnesia, Disgeusia, Mareos, Neuropatía periférica, Somnolencia, Síncope.
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN
+poco frecuentes: Anorexia, Aumento de apetito, Aumento de peso, Disminución de peso.
+
+TRASTORNOS PSIQUIÁTRICOS
+poco frecuentes: Ansiedad, Depresión, Desorientación, Insomnio, Sueños anormales, Trastorno del sueño.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+poco frecuentes: Artralgia, Atrofia muscular, Mialgia.
+no frecuente: Miopatía.
+
+TRASTORNOS DEL SISTEMA GENERAL
+frecuentes: Fatiga.
+poco frecuentes: Astenia, Dolor torácico, Fiebre, Malestar general.
+no frecuente: Marcha anormal.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+frecuentes: Diarrea, Dispepsia, Dolor abdominal, Ictericia, Náuseas, Vómitos.
+poco frecuentes: Colelitiasis, Colestasis, Distensión abdominal, Estomatitis aftosa, Flatulencia, Gastritis, Hepatitis, Pancreatitis, Sequedad de boca.
+no frecuente: Colecistitis, Hepatoesplenomegalia.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+poco frecuentes: Disnea.
+
+TRASTORNOS DEL SISTEMA EXCRETOR
+poco frecuentes: Enfermedad renal crónica, Hematuria, Nefritis intersticial, Nefrolitiasis, Polaquiuria, Proteinuria.
+no frecuente: Dolor renal.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+poco frecuentes: Hipertensión, Torsade de pointes.
+no frecuente: Edema, Palpitaciones, Prolongación del QT.
+
+TRASTORNOS DEL SISTEMA REPRODUCTOR
+poco frecuentes: Ginecomastia.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+poco frecuentes: Hipersensibilidad.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+frecuentes: Ictericia ocular.
+
+Descripción de reacciones adversas seleccionadas
+La valoración clínica debe realizarse con atención a la cronología, la evolución tras la continuación o retirada del tratamiento y la presencia de factores predisponentes. Cuando el cuadro afecte de forma relevante a la tolerabilidad, se recomienda una revisión completa de la medicación concomitante y del estado general del paciente. En pacientes con antecedentes complejos, la interpretación puede requerir pruebas complementarias y seguimiento estrecho.
+
+Los profesionales sanitarios deben registrar la intensidad, duración, medidas adoptadas y desenlace. La información procedente de la práctica clínica complementa los datos disponibles y facilita la detección de patrones de seguridad. La comunicación de sospechas se realizará conforme al procedimiento nacional establecido, incluso cuando exista incertidumbre sobre la relación causal.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En el sistema de clasificación de órganos TRASTORNOS DEL SISTEMA GENERAL, se ha identificado Marcha anormal como reacción adversa de frecuencia no frecuente durante el tratamiento con ATAZANAVIR SULFATO. La notificación debe interpretarse dentro del perfil de seguridad conocido del medicamento y valorarse en relación temporal con el inicio o la modificación de la pauta. Se recomienda realizar seguimiento clínico si el síntoma persiste o interfiere con las actividades habituales, considerando la evolución del paciente y otros factores concomitantes, sin modificar por ello la clasificación indicada.
+
+-- Caso 2 --
+En el sistema de clasificación de órganos TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN, Anorexia se ha notificado entre las reacciones adversas poco frecuentes durante el tratamiento con ATAZANAVIR SULFATO. Este hallazgo debe interpretarse dentro del perfil de seguridad conocido del medicamento y valorarse junto con la situación clínica del paciente. Se recomienda realizar seguimiento clínico cuando la disminución de la ingesta sea persistente o pueda comprometer el estado nutricional, considerando las medidas habituales de soporte y la reevaluación del tratamiento según criterio médico.
+
+-- Caso 3 --
+Dentro de la clasificación TRASTORNOS DEL SISTEMA GENERAL, se ha notificado Fatiga como una de las reacciones adversas frecuentes asociadas al tratamiento con ATAZANAVIR SULFATO. Este acontecimiento suele evaluarse en el contexto clínico del paciente y de la evolución temporal tras el inicio del tratamiento, sin que por sí solo implique necesariamente la interrupción. Se recomienda valorar su persistencia, intensidad y relación temporal con la administración, así como considerar factores concomitantes que puedan contribuir a la disminución de la tolerancia al tratamiento.

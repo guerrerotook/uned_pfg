@@ -1,0 +1,62 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil de seguridad de SULPIRIDA, denominada también sulpirida o Sulpirida Kern en el uso habitual, es coherente con el de un antipsicótico benzamídico empleado en práctica clínica. La información disponible procede de ensayos, experiencia poscomercialización y comunicación espontánea, por lo que algunas estimaciones deben interpretarse con cautela. En general, los acontecimientos descritos requieren valoración individual, teniendo en cuenta dosis, duración del tratamiento, edad y tratamiento concomitante. Debe informarse al paciente de la conveniencia de comunicar cualquier cambio clínico persistente o inesperado. La vigilancia es especialmente relevante al inicio del tratamiento y tras ajustes de dosis.
+
+Lista tabulada de reacciones adversas
+Las reacciones se presentan por sistema de clasificación y por categoría de frecuencia, utilizando la terminología médica habitual.
+
+Trastornos del sistema nervioso
+frecuentes: Parkinsonismo, acatisia, sedación, somnolencia, temblor, trastorno extrapiramidal.
+no frecuente: crisis oculógiras.
+poco frecuentes: discinesia, distonía, hipertonía.
+frecuencia no conocida: convulsiones, discinesia tardía, hipoquinesia, síndrome maligno, síndrome neuroléptico maligno.
+
+Trastornos del sistema cardiovascular
+poco frecuentes: Hipotensión postural, arritmias ventriculares, taquicardia ventricular.
+frecuencia no conocida: Prolongación del intervalo QT.
+
+Trastornos del sistema digestivo
+frecuentes: Aumento de peso; Incremento de enzimas hepáticas.
+
+Trastornos psiquiátricos
+frecuentes: insomnio.
+frecuencia no conocida: confusion.
+
+Trastornos del sistema reproductor
+frecuentes: hiperprolactemia.
+
+Trastornos del sistema endocrino
+frecuentes: Hiperprolactinemia.
+
+Trastornos de piel y tejidos
+frecuentes: Rash máculo-papular.
+
+Trastornos de la sangre y órganos hematopoyéticos
+frecuencia no conocida: Tromboembolismo venoso.
+
+Descripción de reacciones adversas seleccionadas
+En la práctica clínica, la sedación y la somnolencia (sensación de sueño) pueden requerir medidas prudentes respecto a actividades que precisen atención mantenida. Estos efectos deben evaluarse junto con el estado basal del paciente y con otros tratamientos que puedan modificar la respuesta clínica. Los cuadros de tipo motor, como Parkinsonismo o acatisia, deben valorarse de forma temprana para decidir si procede ajustar la pauta o instaurar medidas de seguimiento.
+
+Ante un cuadro compatible con síndrome neuroléptico maligno, se recomienda una evaluación médica inmediata y la adopción de las medidas clínicas apropiadas. En pacientes con antecedentes relevantes o tratamientos concomitantes, la aparición de Prolongación del intervalo QT debe considerarse dentro de una valoración global del riesgo. La notificación de sospechas de reacciones contribuye a mantener actualizada la información de seguridad del medicamento.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En el sistema de clasificación de órganos Trastornos del sistema cardiovascular, se han notificado arritmias ventriculares con sulpirida. La frecuencia comunicada es poco frecuentes. En la tabla de reacciones adversas se recoge:
+- arritmias ventriculares: poco frecuentes.
+Este hallazgo debe considerarse durante el seguimiento clínico, especialmente cuando concurran factores que puedan aumentar la susceptibilidad cardíaca. La evaluación periódica de la situación clínica y de la medicación concomitante puede ayudar a identificar precozmente cambios relevantes y a decidir la continuidad del tratamiento con SULPIRIDA.
+
+-- Caso 2 --
+En la evaluación de seguridad, el insomnio se ha notificado como reacción adversa de frecuencia frecuentes asociada al tratamiento con SULPIRIDA (Sulpirida Kern). Se incluye dentro del sistema de clasificación de órganos TRASTORNOS PSIQUIÁTRICOS.
+
+Lista tabulada:
+- TRASTORNOS PSIQUIÁTRICOS: frecuentes: insomnio (dificultad para dormir).
+
+Este efecto puede relacionarse con la actividad central del fármaco y debe valorarse junto con el momento de administración y la situación clínica del paciente. Si el cuadro persiste o resulta clínicamente relevante, se recomienda seguimiento y reconsiderar la pauta conforme al criterio médico.
+
+-- Caso 3 --
+Dentro del sistema de clasificación Trastornos del sistema nervioso, se han notificado crisis oculógiras con sulpirida, con una frecuencia no frecuente. Esta reacción puede aparecer en el contexto del efecto farmacodinámico central del principio activo; en la práctica clínica, sulpirida también se reconoce por denominaciones comerciales como Dogmatil. La presentación puede describirse por el paciente como desviación involuntaria de la mirada ("ojos en blanco"), por lo que se recomienda valorar la relación temporal con el tratamiento y el seguimiento clínico.
+
+Listado tabulado:
+- Trastornos del sistema nervioso: no frecuente: crisis oculógiras.

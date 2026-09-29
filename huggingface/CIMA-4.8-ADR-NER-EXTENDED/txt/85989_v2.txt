@@ -1,0 +1,47 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil observado con SUNITINIB MALATO es coherente con el de un inhibidor multicinasa administrado de forma continuada o intermitente. En la práctica clínica, sunitinib requiere valoración periódica del estado general, hidratación, tolerancia digestiva y parámetros analíticos. La intensidad de los acontecimientos puede variar según la pauta, la situación basal y la exposición acumulada. La decisión de modificar la dosis debe basarse en la gravedad, la evolución temporal y la recuperación tras medidas de soporte. La información siguiente resume los acontecimientos comunicados, ordenados de forma convencional para facilitar su consulta.
+
+La interpretación debe realizarse junto con la historia clínica y la medicación concomitante. Es recomendable confirmar los hallazgos relevantes mediante exploración dirigida y pruebas complementarias cuando proceda. En pacientes con factores predisponentes, la vigilancia inicial puede ser más estrecha. La comunicación de sospechas contribuye a actualizar el conocimiento del balance beneficio-riesgo.
+
+Lista tabulada de reacciones adversas
+INFECCIONES E INFESTACIONES: frecuentes: Abscesosc,*, Infecciones cutánease, Infecciones por hongosd, Infecciones respiratoriasb,*, Infecciones víricasa, Infección del tracto urinario, Sepsisf,*; poco frecuentes: Fascitis necrotizante*, Infecciones bacterianasg.
+TRASTORNOS DEL SISTEMA NERVIOSO: muy frecuentes: Alteración del gusto, Cefalea, Mareo; frecuentes: Hiperestesia, Hipoestesia, Neuropatía periférica, Parestesia; poco frecuentes: Accidente cerebrovascular*, Accidente isquémico transitorio, Hemorragia cerebral*; no frecuente: Síndrome de leucoencefalopatía posterior reversible; frecuencia no conocida: Encefalopatía hiperamonémica.
+TRASTORNOS DE PIEL Y TEJIDOS: muy frecuentes: Cambio de color de la pielt, Cambio de coloración del pelo, Erupciónu, Sequedad de piel, Síndrome de eritrodisestesia palmoplantar (mano-pie); frecuentes: Acné, Alopecia, Ampollas, Dermatitis, Eczema, Eritema, Exfoliación de la piel, Hiperpigmentación de la piel, Hiperqueratosis, Lesión de la piel, Prurito, Reacción cutáneav, Trastornos en las uñasw; no frecuente: Eritema multiforme*, Necrolisis epidérmica tóxica*, Pioderma gangrenoso, Síndrome de Stevens-Johnson*.
+TRASTORNOS DEL SISTEMA GENERAL: muy frecuentes: Edemay, Fatigax, Inflamación de las mucosas, Pirexia; frecuentes: Amilasa elevadaz, Aumento de la alanina aminotransferasa, Aumento de la aspartato aminotransferasa, Aumento de la creatinina en sangre, Aumento de la presión sanguínea, Aumento del ácido úrico en sangre, Disminución de la hemoglobina, Disminución del peso, Disminución del recuento de glóbulos blancos, Dolor, Dolor torácico, Enfermedad similar a la influenza, Escalofríos, Lipasa elevada, Recuento disminuido de plaquetas; poco frecuentes: Alteración en la cicatrización, Aumento de la hormona estimulante de la tiroides en sangre, Creatinina fosfoquinasa sanguínea elevada.
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS: muy frecuentes: Anemia, Leucopenia, Neutropenia, Trombocitopenia; frecuentes: Linfopenia; poco frecuentes: Pancitopenia; no frecuente: Microangiopatía trombótica.
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR: muy frecuentes: Hipertensión; frecuentes: Disminución de la fracción de eyección, Isquemia de miocardiok,*, Rubefacción, Sofocos, Trombosis venosa profunda; poco frecuentes: Cardiomiopatía*, Derrame pericárdico, Hemorragia tumoral, Infarto de miocardiom,*, Insuficiencia cardiaca congestiva, Insuficiencia cardiaca*, Intervalo QT del electrocardiograma prolongado; no frecuente: Insuficiencia ventricular izquierda*, Torsade de pointes; frecuencia no conocida: Aneurismas y disecciones arteriales.
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO: poco frecuentes: Hipersensibilidad; no frecuente: Angioedema.
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO: muy frecuentes: Artralgia, Dolor de espalda, Dolor en las extremidades; frecuentes: Debilidad muscular, Dolor musculoesquelético, Espasmos musculares, Mialgia; poco frecuentes: Fístula*, Osteonecrosis mandibular; no frecuente: Miopatía, Rabdomiolisis*.
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS: frecuentes: Aumento del lagrimeo, Edema del párpado, Edema periorbital.
+TRASTORNOS DEL SISTEMA DIGESTIVO: muy frecuentes: Diarrea, Dispepsia, Dolor abdominalp, Estomatitiso, Estreñimiento, Náuseas, Vómitos; frecuentes: Disfagia, Distensión abdominal, Dolor bucal, Enfermedad de reflujo gastroesofágico, Eructos, Esofagitis*, Flatulencia, Glosodinia, Hemorragia gastrointestinal*, Hemorragia rectal, Hemorroides, Molestia abdominal, Molestias orales, Proctalgia, Queilitis, Sangrado gingival, Sequedad de boca, Ulceración de la boca; poco frecuentes: Colecistitiss,*, Colitisr, Función hepática anormal, Fístula anal, Insuficiencia hepática*, Pancreatitis, Perforación gastrointestinalq,*; no frecuente: Hepatitis.
+TRASTORNOS DEL SISTEMA RESPIRATORIO: muy frecuentes: Disnea, Epistaxis, Tos; frecuentes: Congestión nasal, Derrame pleural*, Disnea de esfuerzo, Dolor orofaríngeon, Embolismo pulmonar*, Hemoptisis, Sequedad nasal; poco frecuentes: Hemorragia pulmonar*, Insuficiencia respiratoria*.
+TRASTORNOS DEL SISTEMA EXCRETOR: frecuentes: Cromaturia, Fallo renal*, Insuficiencia renal aguda*, Proteinuria; poco frecuentes: Hemorragia del tracto urinario; no frecuente: Síndrome nefrótico.
+TRASTORNOS PSIQUIÁTRICOS: muy frecuentes: Insomnio; frecuentes: Depresión.
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN: muy frecuentes: Disminución del apetito; frecuentes: Deshidratación, Hipoglucemia; no frecuente: Síndrome de lisis tumoral.
+TRASTORNOS DEL SISTEMA ENDOCRINO: muy frecuentes: Hipotiroidismo; poco frecuentes: Hipertiroidismo; no frecuente: Tiroiditis.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En la evaluación de seguridad con sunitinib, la reacción incluida en el sistema Trastornos del sistema digestivo puede manifestarse como dificultad para tragar y requerir seguimiento clínico dirigido a la ingesta y a la hidratación. Debe valorarse la continuidad del tratamiento y las medidas de soporte según la intensidad y la evolución, sin retrasar la consulta si el síntoma persiste.
+
+Listado de reacciones adversas:
+- Disfagia: frecuentes.
+
+La información debe interpretarse junto con el resto del perfil de seguridad del medicamento y las condiciones clínicas del paciente.
+
+-- Caso 2 --
+En la clasificación de TRASTORNOS DEL SISTEMA INMUNOLÓGICO, se ha notificado Angioedema con una frecuencia no frecuente durante el tratamiento con SUNITINIB MALATO. Este acontecimiento es compatible con una respuesta de tipo inmunitario y puede requerir valoración clínica si aparece de forma súbita o progresa.
+
+Lista tabulada:
+- TRASTORNOS DEL SISTEMA INMUNOLÓGICO: Angioedema (no frecuente).
+
+En pacientes tratados con sunitinib, se recomienda interrumpir temporalmente el tratamiento y establecer las medidas de seguimiento que procedan según la intensidad del cuadro y la evolución clínica.
+
+-- Caso 3 --
+En el sistema de clasificación Trastornos del sistema nervioso se ha notificado:
+- Encefalopatía hiperamonémica: frecuencia no conocida.
+
+Durante el tratamiento con sunitinib malato, también denominado sunitinib, este cuadro debe considerarse ante deterioro clínico no explicado. La relación puede estar vinculada a cambios metabólicos inducidos por el tratamiento; se recomienda valorar amonio plasmático y el estado clínico, así como interrumpir temporalmente o ajustar el tratamiento según la gravedad y la evolución del paciente. En la revisión de seguridad, la vigilancia estrecha es especialmente relevante cuando el inicio es rápido o no existe una causa alternativa evidente.

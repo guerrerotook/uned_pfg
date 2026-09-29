@@ -1,0 +1,248 @@
+[
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Deshidratación",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Mareos",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Cefalea",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Insomnio",
+    "frecuencia": "EPOC: RARA; ASMA: POCO FRECUENTE",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Glaucoma",
+    "frecuencia": "EPOC: RARA; ASMA: FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Aumento de la presión intraocular",
+    "frecuencia": "EPOC: RARA; ASMA: FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Visión borrosa",
+    "frecuencia": "EPOC: RARA; ASMA: FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Fibrilación auricular",
+    "frecuencia": "EPOC: RARA; ASMA: FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Palpitaciones",
+    "frecuencia": "EPOC: RARA; ASMA: POCO FRECUENTE",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Taquicardia supraventricular",
+    "frecuencia": "EPOC: RARA; ASMA: FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Taquicardia",
+    "frecuencia": "EPOC: RARA; ASMA: FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Tos",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Faringitis",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Disfonía",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Epistaxis",
+    "frecuencia": "RARA",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Broncoespasmo",
+    "frecuencia": "EPOC: RARA; ASMA: POCO FRECUENTE",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Laringitis",
+    "frecuencia": "EPOC: RARA; ASMA: FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Sinusitis",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Sequedad de boca",
+    "frecuencia": "EPOC: FRECUENTE; ASMA: POCO FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Estreñimiento",
+    "frecuencia": "EPOC: POCO FRECUENTE; ASMA: RARA",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Candidiasis orofaríngea",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Disfagia",
+    "frecuencia": "EPOC: RARA; ASMA: FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Reflujo gastroesofágico",
+    "frecuencia": "EPOC: RARA; ASMA: FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Caries dental",
+    "frecuencia": "EPOC: RARA; ASMA: FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Gingivitis",
+    "frecuencia": "RARA",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Glositis",
+    "frecuencia": "EPOC: RARA; ASMA: FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Estomatitis",
+    "frecuencia": "EPOC: FRECUENCIA NO CONOCIDA; ASMA: RARA",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Obstrucción intestinal, incluyendo íleo paralítico",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Náuseas",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Erupción",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo, trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Prurito",
+    "frecuencia": "EPOC: POCO FRECUENTE; ASMA: RARA",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo, trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Edema angioneurótico",
+    "frecuencia": "RARA",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo, trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Urticaria",
+    "frecuencia": "RARA",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo, trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Infección de la piel/úlcera en la piel",
+    "frecuencia": "EPOC: RARA; ASMA: FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo, trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Piel seca",
+    "frecuencia": "EPOC: RARA; ASMA: FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo, trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Hipersensibilidad (incluyendo reacciones inmediatas)",
+    "frecuencia": "EPOC: FRECUENCIA NO CONOCIDA; ASMA: RARA",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo, trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Reacción anafiláctica",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo, trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Tumefacción en articulación",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Retención urinaria",
+    "frecuencia": "EPOC: POCO FRECUENTE; ASMA: FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Disuria",
+    "frecuencia": "EPOC: POCO FRECUENTE; ASMA: FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "TIOTROPIO BROMURO",
+    "reacción adversa": "Infección del tracto urinario",
+    "frecuencia": "RARA",
+    "trastorno": "Trastornos renales y urinarios"
+  }
+]

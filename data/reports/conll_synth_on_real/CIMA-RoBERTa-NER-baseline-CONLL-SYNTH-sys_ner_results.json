@@ -1,0 +1,154 @@
+{
+  "model_name": "CIMA-RoBERTa-NER-baseline-CONLL-SYNTH-sys",
+  "timestamp": "2026-05-24T12:51:04.620872+00:00",
+  "entity_types": [
+    "SYS"
+  ],
+  "labels": [
+    "O",
+    "B-SYS",
+    "I-SYS"
+  ],
+  "summary": {
+    "total_codes": 15,
+    "total_sentences": 941,
+    "total_tokens": 17316,
+    "label_counts": {
+      "O": 17179,
+      "B-SYS": 40,
+      "I-SYS": 97
+    },
+    "missing_txt_files": [],
+    "docs_with_no_tags": [
+      "77045",
+      "39411"
+    ]
+  },
+  "seqeval": {
+    "precision": 0.14705882352941177,
+    "recall": 0.75,
+    "f1": 0.2459016393442623,
+    "per_entity": {
+      "SYS": {
+        "precision": 0.14705882352941177,
+        "recall": 0.75,
+        "f1-score": 0.2459016393442623,
+        "support": 40
+      },
+      "micro avg": {
+        "precision": 0.14705882352941177,
+        "recall": 0.75,
+        "f1-score": 0.2459016393442623,
+        "support": 40
+      },
+      "macro avg": {
+        "precision": 0.14705882352941177,
+        "recall": 0.75,
+        "f1-score": 0.2459016393442623,
+        "support": 40
+      },
+      "weighted avg": {
+        "precision": 0.14705882352941177,
+        "recall": 0.75,
+        "f1-score": 0.2459016393442623,
+        "support": 40
+      }
+    }
+  },
+  "overall": {
+    "ent_type": {
+      "correct": 35,
+      "incorrect": 0,
+      "partial": 0,
+      "missed": 5,
+      "spurious": 169,
+      "precision": 0.1716,
+      "recall": 0.875,
+      "f1": 0.2869
+    },
+    "exact": {
+      "correct": 30,
+      "incorrect": 5,
+      "partial": 0,
+      "missed": 5,
+      "spurious": 169,
+      "precision": 0.1471,
+      "recall": 0.75,
+      "f1": 0.2459
+    },
+    "partial": {
+      "correct": 30,
+      "incorrect": 0,
+      "partial": 5,
+      "missed": 5,
+      "spurious": 169,
+      "precision": 0.1593,
+      "recall": 0.8125,
+      "f1": 0.2664
+    },
+    "strict": {
+      "correct": 30,
+      "incorrect": 5,
+      "partial": 0,
+      "missed": 5,
+      "spurious": 169,
+      "precision": 0.1471,
+      "recall": 0.75,
+      "f1": 0.2459
+    }
+  },
+  "entities": {
+    "SYS": {
+      "ent_type": {
+        "correct": 35,
+        "incorrect": 0,
+        "partial": 0,
+        "missed": 5,
+        "spurious": 169,
+        "precision": 0.1716,
+        "recall": 0.875,
+        "f1": 0.2869
+      },
+      "exact": {
+        "correct": 30,
+        "incorrect": 5,
+        "partial": 0,
+        "missed": 5,
+        "spurious": 169,
+        "precision": 0.1471,
+        "recall": 0.75,
+        "f1": 0.2459
+      },
+      "partial": {
+        "correct": 30,
+        "incorrect": 0,
+        "partial": 5,
+        "missed": 5,
+        "spurious": 169,
+        "precision": 0.1593,
+        "recall": 0.8125,
+        "f1": 0.2664
+      },
+      "strict": {
+        "correct": 30,
+        "incorrect": 5,
+        "partial": 0,
+        "missed": 5,
+        "spurious": 169,
+        "precision": 0.1471,
+        "recall": 0.75,
+        "f1": 0.2459
+      }
+    }
+  },
+  "loose_overlap": {
+    "SYS": {
+      "precision": 0.1814,
+      "recall": 0.875,
+      "f1": 0.3005,
+      "matched_pred": 37,
+      "gold": 40,
+      "pred": 204
+    }
+  }
+}

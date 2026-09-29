@@ -1,0 +1,61 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+
+La SULFADIAZINA, también identificada en este contexto como sulfamida y como Sulfadiazina Reig Jofre, presenta un perfil de seguridad compatible con el observado para medicamentos antibacterianos de uso sistémico. La mayoría de las notificaciones descritas en este apartado proceden de la experiencia clínica y de la vigilancia tras la comercialización, por lo que la relación temporal y la situación basal del paciente deben considerarse de forma individual. La aparición de manifestaciones persistentes, intensas o de instauración brusca requiere valoración médica y, si procede, reconsideración del tratamiento. En pacientes con factores predisponentes, la hidratación adecuada y el control analítico pueden ayudar a detectar precozmente cambios clínicamente relevantes. La información se presenta siguiendo la clasificación por órganos y la frecuencia comunicada.
+
+Lista tabulada de reacciones adversas
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+poco frecuentes: agitación, ataxia, cefalea, insomio, mareo, neuropatía periférica, somnolencia.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+poco frecuentes: agranulocitosis, anemia aplásica, anemia hemolítica, eosinofilia, hipoprotrombinemia, leucopenia, metahemoglobinemia, trombopenia.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+poco frecuentes: alteraciones del equilibrio, tinnitus (pitidos).
+
+TRASTORNOS PSIQUIÁTRICOS
+poco frecuentes: alucinaciones, confusión, depresión, psicosis.
+
+TRASTORNOS DEL SISTEMA EXCRETOR
+poco frecuentes: cristaluria, cálculos renale, hematuria, incremento de los valores de nitrógeno ureico en sangre, oliguria, proteinuria.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+poco frecuentes: dermatitis exfoliativa, eritema multiforme, eritema nudoso, erupciones exantemáticas, prurito, reacciones de fotosensibilidad.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+poco frecuentes: enfermedad del suero, fiebre.
+no frecuente: síndrome de Stevens-Johnson.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+frecuentes: náuseas, vomitos.
+poco frecuentes: ictericia, necrosis hepática.
+
+Descripción de reacciones adversas seleccionadas
+
+En el seguimiento clínico, la presencia de cristaluria, hematuria, proteinuria u oliguria requiere comprobar el estado de hidratación, la función renal y la continuidad del tratamiento. La interpretación de estos hallazgos debe hacerse junto con los datos analíticos disponibles y con la evolución de los síntomas.
+
+La ictericia y la necrosis hepática se consideran manifestaciones que precisan evaluación inmediata. Las náuseas y los vomitos suelen manejarse con medidas de soporte, aunque deben valorarse si condicionan deshidratación o impiden la administración correcta. Las lesiones cutáneas como dermatitis exfoliativa, eritema multiforme o síndrome de Stevens-Johnson exigen una actuación rápida y la adopción de las medidas clínicas oportunas.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En la experiencia clínica con sulfadiazina, incluida Sulfadiazina Reig Jofre, se ha identificado síndrome de Stevens-Johnson, clasificado dentro de TRASTORNOS DEL SISTEMA INMUNOLÓGICO, con frecuencia no frecuente. Se considera una manifestación inmunomediada grave, por lo que debe vigilarse la aparición de signos cutáneos o mucosos y valorar la interrupción del tratamiento si se sospecha este cuadro. La notificación de casos contribuye a caracterizar mejor su perfil de seguridad.
+
+Lista tabulada:
+- TRASTORNOS DEL SISTEMA INMUNOLÓGICO: síndrome de Stevens-Johnson (no frecuente).
+
+-- Caso 2 --
+En el sistema de clasificación de órganos Trastornos del sistema digestivo, se han descrito náuseas asociadas al tratamiento con sulfadiazina, incluyendo SULFADIAZINA REIG JOFRE. Esta reacción se considera frecuente dentro del perfil de seguridad observado para este tipo de antibacterianos.
+
+Tabla de reacciones adversas:
+- Trastornos del sistema digestivo: náuseas (ganas de vomitar), frecuentes.
+
+La aparición de náuseas suele requerir únicamente vigilancia clínica y valoración de la tolerabilidad, especialmente al inicio del tratamiento. Si persisten o dificultan la administración correcta, debe reevaluarse la continuidad del tratamiento según el criterio clínico.
+
+-- Caso 3 --
+Dentro del sistema Trastornos del sistema nervioso, se ha identificado la cefalea como reacción adversa asociada al tratamiento con sulfadiazina. En la lista tabulada de reacciones adversas se recoge como sigue:
+- Trastornos del sistema nervioso: cefalea (dolor de cabeza), poco frecuentes.
+
+La aparición de este síntoma durante el uso de sulfadiazina suele valorarse en el contexto clínico del paciente y de la evolución del tratamiento. Si la cefalea persiste o resulta clínicamente relevante, se recomienda considerar la evaluación médica y revisar la necesidad de continuar el tratamiento, de acuerdo con la situación individual.

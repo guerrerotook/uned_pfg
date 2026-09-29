@@ -1,0 +1,40 @@
+{
+  "config": "active",
+  "entity_types": [
+    "ACTIVE"
+  ],
+  "labels": [
+    "O",
+    "B-ACTIVE",
+    "I-ACTIVE"
+  ],
+  "train": {
+    "documents": 18,
+    "sentences": 1134,
+    "tokens": 18440,
+    "label_counts": {
+      "O": 18376,
+      "B-ACTIVE": 61,
+      "I-ACTIVE": 3
+    },
+    "missing_txt_files": [],
+    "docs_with_no_tags": [
+      "23622",
+      "39411",
+      "65044",
+      "81115"
+    ]
+  },
+  "test": {
+    "documents": 8,
+    "sentences": 552,
+    "tokens": 9090,
+    "label_counts": {
+      "O": 9044,
+      "B-ACTIVE": 44,
+      "I-ACTIVE": 2
+    },
+    "missing_txt_files": [],
+    "docs_with_no_tags": []
+  }
+}

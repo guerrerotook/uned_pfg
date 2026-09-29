@@ -1,0 +1,500 @@
+[
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "hipersensibilidad",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "disminución de peso",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "aumento de peso",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "anorexia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "aumento del apetito",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "depresión",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "desorientación",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "ansiedad",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "insomnio",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "trastornos del sueño",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "sueños anormales",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "dolor de cabeza",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "neuropatía periférica",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "síncope",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "amnesia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "mareos",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "somnolencia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "disgeusia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "ictericia ocular",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "torsades de pointes",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "prolongación del QTc",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "edema",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "palpitaciones",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "hipertensión",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "disnea",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "vómitos",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "diarrea",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "dolor abdominal",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "náuseas",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "dispepsia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "pancreatitis",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "gastritis",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "distensión abdominal",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "estomatitis aftosa",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "flatulencia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "sequedad de boca",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "ictericia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "hepatitis",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "colelitiasis",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "colestasis",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "hepatoesplenomegalia",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "colecistitis",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "rash",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "eritema multiforme",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "erupciones cutáneas tóxicas",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "síndrome de rash medicamentoso con eosinofilia y síntomas sistémicos (DRESS)",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "angioedema",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "urticaria",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "alopecia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "prurito",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "síndrome de Stevens-Johnson",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "rash vesiculobulloso",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "eccema",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "vasodilatación",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "atrofia muscular",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "artralgia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "mialgia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "miopatía",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "nefrolitiasis",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "hematuria",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "proteinuria",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "polaquiuria",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "nefritis intersticial",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "enfermedad renal crónica",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "dolor renal",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "ginecomastia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del aparato reproductor y de la mama"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "fatiga",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "dolor torácico",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "malestar",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "fiebre",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "astenia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "marcha anormal",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "síndrome inflamatorio de reconstitución inmune",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "trastornos autoinmunitarios (enfermedad de Graves, hepatitis autoinmune)",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "osteonecrosis",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "aumento de la bilirrubina total",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "elevación de creatinquinasa",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "elevación de ALT/SGPT",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "descenso de los neutrófilos",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "elevación de AST/SGOT",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "elevación de lipasa",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "bloqueo auriculoventricular asintomático (población pediátrica)",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "ATAZANAVIR SULFATO",
+    "reacción adversa": "aumento de amilasa (población pediátrica)",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  }
+]

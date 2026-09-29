@@ -1,0 +1,688 @@
+{
+  "codigo": "40537",
+  "variante": 1,
+  "codigo_variant": "40537_v1",
+  "medicamento": "INACID 25 mg CAPSULAS DURAS",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "INDOMETACINA",
+      "surface": "INDOMETACINA",
+      "start": 88,
+      "end": 100
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 826,
+      "end": 857
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes",
+      "start": 858,
+      "end": 872
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aturdimiento",
+      "surface": "Aturdimiento",
+      "start": 874,
+      "end": 886
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea",
+      "start": 888,
+      "end": 895
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareos",
+      "surface": "Mareos",
+      "start": 897,
+      "end": 903
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vértigo",
+      "surface": "Vértigo",
+      "start": 905,
+      "end": 912
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 862,
+      "end": 872
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cansancio, malestar, languidez",
+      "surface": "Cansancio, malestar, languidez",
+      "start": 926,
+      "end": 956
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 958,
+      "end": 970
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ansiedad",
+      "surface": "Ansiedad",
+      "start": 972,
+      "end": 980
+    },
+    {
+      "type": "REACT",
+      "canonical": "Coma",
+      "surface": "Coma",
+      "start": 982,
+      "end": 986
+    },
+    {
+      "type": "REACT",
+      "canonical": "Convulsiones",
+      "surface": "Convulsiones",
+      "start": 988,
+      "end": 1000
+    },
+    {
+      "type": "REACT",
+      "canonical": "Debilidad muscular",
+      "surface": "Debilidad muscular",
+      "start": 1002,
+      "end": 1020
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disartria",
+      "surface": "Disartria",
+      "start": 1022,
+      "end": 1031
+    },
+    {
+      "type": "REACT",
+      "canonical": "Empeoramiento de la epilepsia o de la enfermedad de Parkinson",
+      "surface": "Empeoramiento de la epilepsia o de la enfermedad de Parkinson",
+      "start": 1033,
+      "end": 1094
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insomnio",
+      "surface": "Insomnio",
+      "start": 1096,
+      "end": 1104
+    },
+    {
+      "type": "REACT",
+      "canonical": "Movimientos involuntarios",
+      "surface": "Movimientos involuntarios",
+      "start": 1106,
+      "end": 1131
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neuropatía periférica",
+      "surface": "Neuropatía periférica",
+      "start": 1133,
+      "end": 1154
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parestesia",
+      "surface": "Parestesia",
+      "start": 1156,
+      "end": 1166
+    },
+    {
+      "type": "REACT",
+      "canonical": "Somnolencia",
+      "surface": "Somnolencia",
+      "start": 1168,
+      "end": 1179
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síncopes",
+      "surface": "Síncopes",
+      "start": 1181,
+      "end": 1189
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1192,
+      "end": 1224
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anorexia",
+      "surface": "Anorexia",
+      "start": 1237,
+      "end": 1245
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea",
+      "start": 1247,
+      "end": 1254
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor abdominal",
+      "surface": "Dolor abdominal",
+      "start": 1256,
+      "end": 1271
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor epigástrico",
+      "surface": "Dolor epigástrico",
+      "start": 1273,
+      "end": 1290
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento",
+      "start": 1292,
+      "end": 1305
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 1307,
+      "end": 1314
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos",
+      "start": 1316,
+      "end": 1323
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 1325,
+      "end": 1340
+    },
+    {
+      "type": "REACT",
+      "canonical": "Empeoramiento del dolor abdominal principalmente en pacientes con colitis ulcerosa",
+      "surface": "Empeoramiento del dolor abdominal principalmente en pacientes con colitis ulcerosa",
+      "start": 1342,
+      "end": 1424
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estomatitis",
+      "surface": "Estomatitis",
+      "start": 1426,
+      "end": 1437
+    },
+    {
+      "type": "REACT",
+      "canonical": "Flatulencia",
+      "surface": "Flatulencia",
+      "start": 1439,
+      "end": 1450
+    },
+    {
+      "type": "REACT",
+      "canonical": "Gastritis",
+      "surface": "Gastritis",
+      "start": 1452,
+      "end": 1461
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia en el cólon sigmoide",
+      "surface": "Hemorragia en el cólon sigmoide",
+      "start": 1463,
+      "end": 1494
+    },
+    {
+      "type": "REACT",
+      "canonical": "Perforación de lesiones pre-existentes en el colon sigmoide",
+      "surface": "Perforación de lesiones pre-existentes en el colon sigmoide",
+      "start": 1496,
+      "end": 1555
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sangrado gastrointestinal",
+      "surface": "Sangrado gastrointestinal",
+      "start": 1557,
+      "end": 1582
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estomatitis ulcerosa",
+      "surface": "Estomatitis ulcerosa",
+      "start": 1598,
+      "end": 1618
+    },
+    {
+      "type": "REACT",
+      "canonical": "Úlcera gastrointestinal con estenosis y obstrucción",
+      "surface": "Úlcera gastrointestinal con estenosis y obstrucción",
+      "start": 1620,
+      "end": 1671
+    },
+    {
+      "type": "REACT",
+      "canonical": "Úlceras únicas o múltiples en el esófago, estómago, duodeno e intestino delgado o grueso (incluida perforación y hemorrágia)",
+      "surface": "Úlceras únicas o múltiples en el esófago, estómago, duodeno e intestino delgado o grueso (incluida perforación y hemorrágia)",
+      "start": 1673,
+      "end": 1797
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 1799,
+      "end": 1821
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pancreatitis",
+      "surface": "Pancreatitis",
+      "start": 1823,
+      "end": 1835
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 1838,
+      "end": 1875
+    },
+    {
+      "type": "REACT",
+      "canonical": "Acúfenos",
+      "surface": "Acúfenos",
+      "start": 1893,
+      "end": 1901
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diplopia",
+      "surface": "Diplopia",
+      "start": 1917,
+      "end": 1925
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor orbitario y periorbitario",
+      "surface": "Dolor orbitario y periorbitario",
+      "start": 1927,
+      "end": 1958
+    },
+    {
+      "type": "REACT",
+      "canonical": "Epistaxis",
+      "surface": "Epistaxis",
+      "start": 1960,
+      "end": 1969
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipoacusia",
+      "surface": "Hipoacusia",
+      "start": 1971,
+      "end": 1981
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastornos auditivos",
+      "surface": "Trastornos auditivos",
+      "start": 1983,
+      "end": 2003
+    },
+    {
+      "type": "REACT",
+      "canonical": "Visión borrosa",
+      "surface": "Visión borrosa",
+      "start": 2005,
+      "end": 2019
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 2022,
+      "end": 2050
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alopecia",
+      "surface": "Alopecia",
+      "start": 2068,
+      "end": 2076
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 2079,
+      "end": 2114
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anafilaxia aguda",
+      "surface": "Anafilaxia aguda",
+      "start": 2129,
+      "end": 2145
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angioedema",
+      "surface": "Angioedema",
+      "start": 2147,
+      "end": 2157
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angitis",
+      "surface": "Angitis",
+      "start": 2159,
+      "end": 2166
+    },
+    {
+      "type": "REACT",
+      "canonical": "Asma",
+      "surface": "Asma",
+      "start": 2168,
+      "end": 2172
+    },
+    {
+      "type": "REACT",
+      "canonical": "Caída rápida de la presión arterial parecida a un estado de shock",
+      "surface": "Caída rápida de la presión arterial parecida a un estado de shock",
+      "start": 2174,
+      "end": 2239
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disnea súbita",
+      "surface": "Disnea súbita",
+      "start": 2241,
+      "end": 2254
+    },
+    {
+      "type": "REACT",
+      "canonical": "Distrés respiratorio agudo",
+      "surface": "Distrés respiratorio agudo",
+      "start": 2256,
+      "end": 2282
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema pulmonar",
+      "surface": "Edema pulmonar",
+      "start": 2284,
+      "end": 2298
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eritema nudoso",
+      "surface": "Eritema nudoso",
+      "start": 2300,
+      "end": 2314
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción cutánea",
+      "surface": "Erupción cutánea",
+      "start": 2316,
+      "end": 2332
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito",
+      "start": 2334,
+      "end": 2341
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria",
+      "start": 2343,
+      "end": 2352
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 2355,
+      "end": 2392
+    },
+    {
+      "type": "REACT",
+      "canonical": "Arritmia",
+      "surface": "Arritmia",
+      "start": 2407,
+      "end": 2415
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor torácico",
+      "surface": "Dolor torácico",
+      "start": 2417,
+      "end": 2431
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertensión",
+      "surface": "Hipertensión",
+      "start": 2433,
+      "end": 2445
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión",
+      "start": 2447,
+      "end": 2458
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia cardíaca congestiva",
+      "surface": "Insuficiencia cardíaca congestiva",
+      "start": 2460,
+      "end": 2493
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones",
+      "start": 2495,
+      "end": 2508
+    },
+    {
+      "type": "REACT",
+      "canonical": "Taquicardia",
+      "surface": "Taquicardia",
+      "start": 2510,
+      "end": 2521
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "start": 2524,
+      "end": 2558
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de las mamas",
+      "surface": "Aumento de las mamas",
+      "start": 2573,
+      "end": 2593
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ginecomastia",
+      "surface": "Ginecomastia",
+      "start": 2595,
+      "end": 2607
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia vaginal",
+      "surface": "Hemorragia vaginal",
+      "start": 2609,
+      "end": 2627
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sensibilidad",
+      "surface": "Sensibilidad",
+      "start": 2629,
+      "end": 2641
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "surface": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "start": 2644,
+      "end": 2679
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de las transaminasas séricas (3 veces por encima del límite normal)",
+      "surface": "Aumento de las transaminasas séricas (3 veces por encima del límite normal)",
+      "start": 2697,
+      "end": 2772
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hepatitis con o sin ictericia",
+      "surface": "Hepatitis con o sin ictericia",
+      "start": 2788,
+      "end": 2817
+    },
+    {
+      "type": "REACT",
+      "canonical": "Lesión hepática",
+      "surface": "Lesión hepática",
+      "start": 2819,
+      "end": 2834
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 2837,
+      "end": 2861
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión",
+      "surface": "Depresión",
+      "start": 2874,
+      "end": 2883
+    },
+    {
+      "type": "REACT",
+      "canonical": "Confusión mental",
+      "surface": "Confusión mental",
+      "start": 2899,
+      "end": 2915
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estados psicóticos",
+      "surface": "Estados psicóticos",
+      "start": 2917,
+      "end": 2935
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastornos psicológicos (despersonalización)",
+      "surface": "Trastornos psicológicos (despersonalización)",
+      "start": 2937,
+      "end": 2981
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "start": 2984,
+      "end": 3025
+    },
+    {
+      "type": "REACT",
+      "canonical": "Elevación de la urea",
+      "surface": "Elevación de la urea",
+      "start": 3040,
+      "end": 3060
+    },
+    {
+      "type": "REACT",
+      "canonical": "Glucosuria",
+      "surface": "Glucosuria",
+      "start": 3062,
+      "end": 3072
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperglucemia",
+      "surface": "Hiperglucemia",
+      "start": 3074,
+      "end": 3087
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperpotasemia",
+      "surface": "Hiperpotasemia",
+      "start": 3089,
+      "end": 3103
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 3106,
+      "end": 3136
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rubefacción",
+      "surface": "Rubefacción",
+      "start": 3151,
+      "end": 3162
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sudoración",
+      "surface": "Sudoración",
+      "start": 3164,
+      "end": 3174
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "surface": "Trastornos del sistema hepatobiliar",
+      "start": 2644,
+      "end": 2679
+    }
+  ]
+}

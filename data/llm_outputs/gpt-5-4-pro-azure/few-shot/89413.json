@@ -1,0 +1,398 @@
+[
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "trombocitopenia",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "depresión",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "confusión",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "trastornos del sueño",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "cambios del estado de ánimo",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "ansiedad",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "alucinaciones",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "sueños inusuales",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "mareos",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "vahídos",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "cefalea",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "parestesia",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "disgeusia",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "trastornos visuales",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS OCULARES"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "visión borrosa",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS OCULARES"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "conjuntivitis",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS OCULARES"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "queratoconjuntivitis",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS OCULARES"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "sequedad ocular",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS OCULARES"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "trastornos de la audición",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DEL OÍDO Y DEL LABERINTO"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "bradicardia",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS CARDÍACOS"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "disnea",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS CARDÍACOS"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "dolor de pecho",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS CARDÍACOS"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "palpitaciones",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS CARDÍACOS"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "edema",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS CARDÍACOS"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "anomalías en el ECG",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS CARDÍACOS"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "torsade de pointes",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS CARDÍACOS"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "prolongación del intervalo QT",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS CARDÍACOS"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "trastornos de la conducción AV",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS CARDÍACOS"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "taquicardia ventricular",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS CARDÍACOS"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "agravamiento de la angina de pecho",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS CARDÍACOS"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "arritmia",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS CARDÍACOS"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "síncope",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS CARDÍACOS"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "insuficiencia cardíaca",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS CARDÍACOS"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "presíncope",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS CARDÍACOS"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "parada cardiaca",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS CARDÍACOS"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "proarritmia",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS CARDÍACOS"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "hipotensión",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS VASCULARES"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "agravamiento de la vasculopatía periférica oclusiva",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS VASCULARES"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "extremidades frías",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS VASCULARES"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "fenómeno de Raynaud",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS VASCULARES"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "agravamiento de la claudicación intermitente preexistente",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS VASCULARES"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "extremidades cianóticas",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS VASCULARES"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "náuseas",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "vómitos",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "diarrea",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "dolor abdominal",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "flatulencia",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "dispepsia",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "sequedad de boca",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "erupción cutánea",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "reacciones en la piel",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "psoriasis",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "agravamiento de la psoriasis",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "exantema psoriásico",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "alopecia",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "hiperhidrosis",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "espasmos musculares",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS MUSCULOESQUELÉTICOS Y DEL TEJIDO CONJUNTIVO"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "disfunción sexual",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DEL APARATO REPRODUCTOR Y DE LA MAMA"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "impotencia",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DEL APARATO REPRODUCTOR Y DE LA MAMA"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "pirexia",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "fatiga",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "astenia",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "aumento de los niveles de colesterol total",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "aumento de los niveles de triglicéridos",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "disminución del colesterol HDL",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  },
+  {
+    "principio activo": "SOTALOL HIDROCLORURO",
+    "reacción adversa": "hipoglucemia",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  }
+]

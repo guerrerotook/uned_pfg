@@ -1,0 +1,87 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil de seguridad de CARBOPLATINO es el esperado para un agente citotóxico utilizado por perfusión intravenosa. La tolerabilidad depende de la dosis, del estado basal del paciente y de la exposición previa a tratamientos de naturaleza similar. El carboplatino requiere seguimiento clínico y analítico periódico durante todo el ciclo terapéutico. En algunos entornos asistenciales puede identificarse con un nombre breve como Paraplatin, aunque la evaluación de seguridad debe mantenerse vinculada al mismo principio activo. Las incidencias notificadas deben valorarse junto con la evolución de la enfermedad de base y con los tratamientos concomitantes.
+
+Lista tabulada de reacciones adversas
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+frecuencia no conocida: Accidente cerebrovascular, Síndrome de leucoencefalopatía posterior reversible (SLPR).
+frecuentes: Alteraciones sensoriales, Disgeusia, Disminución de reflejos osteotendinosos, Neuropatía periférica, Parestesias (hormigueo).
+
+TRASTORNOS DE PIEL Y TEJIDOS
+frecuentes: Alopecia, Alteraciones de la piel.
+frecuencia no conocida: Eritema, Prurito, Rash, Urticaria.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+frecuentes: Alteración de las membranas mucosas, Diarrea, Estreñimiento.
+muy frecuentes: Dolor abdominal, Náuseas, Vómitos.
+frecuencia no conocida: Estomatitis, Pancreatitis.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+frecuentes: Alteraciones cardiacas.
+frecuencia no conocida: Embolismo, Fallo cardiaco, Hipertensión, Hipotensión, Síndrome de Kounis.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+frecuentes: Alteraciones musculoesqueléticas.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+frecuentes: Alteraciones respiratorias, Broncoespasmo, Enfermedad pulmonar intersticial.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+frecuentes: Alteraciones visuales, Ceguera, Ototoxicidad.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+muy frecuentes: Anemia, Leucopenia, Neutropenia, Trombocitopenia.
+frecuencia no conocida: Anemia hemolítica, Fallo de médula ósea, Neutropenia febril, Síndrome hemolítico urémico.
+frecuentes: Hemorragia.
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN
+frecuencia no conocida: Anorexia, Deshidratación, Hiponatremia, Síndrome de lisis tumoral.
+
+TRASTORNOS DEL SISTEMA GENERAL
+frecuentes: Astenia.
+muy frecuentes: Disminución del aclaramiento de creatinina.
+frecuencia no conocida: Eritema en el lugar de inyección, Extravasación del lugar de inyección, Malestar general, Necrosis en el lugar de inyección, Neoplasia, Reacción en el lugar de inyección.
+
+PRUEBAS COMPLEMENTARIAS
+muy frecuentes: Aumento de la AST en sangre, Aumento de la fosfatasa alcalina en sangre, Aumento de la urea en sangre, Disminución de los niveles de calcio en sangre, Disminución de los niveles de magnesio en sangre, Disminución de los niveles de potasio en sangre, Disminución de los niveles de sodio en sangre.
+frecuentes: Aumento de la bilirrubina en sangre, Aumento de la creatinina en sangre, Aumento del ácido úrico en sangre.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+frecuentes: Hipersensibilidad, Reacciones de tipo anafiláctico.
+
+INFECCIONES E INFESTACIONES
+frecuentes: Infecciones.
+frecuencia no conocida: Neumonía.
+
+TRASTORNOS DEL SISTEMA EXCRETOR
+frecuentes: Trastornos urogenitales.
+
+Descripción de reacciones adversas seleccionadas
+La interpretación de la lista debe realizarse considerando el momento de aparición, la intensidad y la reversibilidad tras la interrupción o el ajuste del tratamiento. En pacientes con factores de riesgo, la vigilancia estrecha permite detectar cambios clínicos relevantes antes de que condicionen la continuidad de la administración. Las determinaciones de laboratorio son útiles para confirmar tendencias y apoyar decisiones de manejo.
+
+Las alteraciones incluidas en la lista pueden presentarse de forma aislada o asociadas entre sí. Debe prestarse atención a los síntomas comunicados por el paciente, especialmente cuando se describan con términos no técnicos, y registrar la denominación clínica adecuada en la historia. Las manifestaciones relacionadas con el lugar de administración requieren comprobación de la vía de perfusión y medidas locales según la práctica clínica habitual.
+
+La notificación de sospechas de reacciones adversas después de la autorización del medicamento es importante. Permite una supervisión continuada de la relación beneficio/riesgo y contribuye a identificar patrones de aparición en la práctica real. Los profesionales sanitarios deben comunicar cualquier sospecha por los canales establecidos.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En pacientes tratados con carboplatino, también conocido como CBDCA, se ha notificado la siguiente reacción adversa dentro del sistema INFECCIONES E INFESTACIONES. La frecuencia se considera frecuencia no conocida, ya que no puede estimarse a partir de los datos disponibles.
+
+- Neumonía.
+
+Esta reacción debe valorarse en el contexto del estado clínico del paciente y de los controles habituales durante el tratamiento. Ante signos clínicos compatibles con un proceso respiratorio, se recomienda seguimiento médico y aplicar las medidas asistenciales pertinentes, considerando la relación temporal con la administración del medicamento.
+
+-- Caso 2 --
+Durante el tratamiento con carboplatino, también referido de forma abreviada como Carboplatino Pharmacia, las Náuseas (ganas de vomitar) forman parte de Trastornos del sistema digestivo y se clasifican como muy frecuentes. La aparición suele relacionarse con la exposición al fármaco y debe valorarse en el contexto del esquema de perfusión y de las medidas de soporte habituales, sin modificar por ello la categoría de frecuencia.
+
+Lista tabulada:
+- Trastornos del sistema digestivo: Náuseas; muy frecuentes.
+
+-- Caso 3 --
+En el sistema TRASTORNOS DEL SISTEMA INMUNOLÓGICO, se han notificado Reacciones de tipo anafiláctico con carboplatino (CBDCA); se clasifican como frecuentes. Se recomienda vigilancia durante la perfusión y disponer de medidas de actuación inmediata, especialmente en pacientes con exposición previa. Estos episodios pueden aparecer durante la administración o poco después, sin que ello implique una frecuencia distinta a la descrita.
+
+Lista tabulada:
+- Reacciones de tipo anafiláctico: frecuentes.

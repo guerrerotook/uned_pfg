@@ -1,0 +1,1157 @@
+{
+  "codigo": "1171225001",
+  "variante": 2,
+  "codigo_variant": "1171225001_v2",
+  "medicamento": "SYMTUZA 800/150/200/10 mg comp recubC/30",
+  "model": "gpt-5.5",
+  "style_variant_idx": 1,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "Resumen del perfil de seguridad\nLa pauta combina darunavir, cobicistat, emtricitabina y tenofovir alafenamida; también pueden encontrarse las abreviaturas FTC y TAF en documentación clínica. En conjunto, el perfil de tolerabilidad observado es coherente con el de una asociación antirretroviral administrada una vez al día. La evaluación debe considerar la situación basal del paciente, los tratamientos concomitantes y la evolución analítica durante el seguimiento. La mayoría de los acontecimientos se identifican mediante vigilancia clínica habitual y revisión periódica de parámetros bioquímicos. Ante manifestaciones extensas, persistentes o acompañadas de afectación sistémica, se recomienda valorar la continuidad del tratamiento de acuerdo con el juicio clínico.\n\nLista tabulada de reacciones adversas\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS\nfrecuentes: Anemia.\n\nTRASTORNOS DE PIEL Y TEJIDOS\nmuy frecuentes: erupción (incluyendo erupción macular, maculopapular, papular, eritematosa, prurítica, erupción generalizada y dermatitis alérgica).\nfrecuentes: prurito, urticaria.\npoco frecuentes: angioedema.\nno frecuente: reacción al medicamento con eosinofilia y síntomas sistémicos, síndrome de Stevens-Johnson.\nfrecuencia no conocida: necrólisis epidérmica tóxica, pustulosis exantemática generalizada aguda.\n\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN\nfrecuentes: anorexia, aumento de lipoproteína de baja densidad, diabetes mellitus, dislipidemia, hipercolesterolemia, hiperlipidemia, hipertrigliceridemia.\npoco frecuentes: hiperglucemia.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\nfrecuentes: artralgia, mialgia.\npoco frecuentes: osteonecrosis.\n\nTRASTORNOS DEL SISTEMA GENERAL\nfrecuentes: astenia, aumento de la creatinina en sangre, cansancio.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nmuy frecuentes: diarrea.\nfrecuentes: Nauseas (náuseas), aumento de las enzimas hepáticas, dispepsia, distensión abdominal, dolor abdominal, flatulencia, vómitos.\npoco frecuentes: aumento de las enzimas pancreáticas, hepatitis aguda, hepatitis citolítica, pancreatitis aguda.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nmuy frecuentes: cefalea.\nfrecuentes: mareo.\n\nTRASTORNOS DEL SISTEMA REPRODUCTOR\npoco frecuentes: ginecomastia.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\nfrecuentes: hipersensibilidad (al medicamento).\npoco frecuentes: síndrome inflamatorio de reconstitución inmunitaria.\n\nTRASTORNOS DEL SISTEMA EXCRETOR\nno frecuente: nefropatía por depósito de cristales.\n\nTRASTORNOS PSIQUIÁTRICOS\nfrecuentes: sueños anormales.\n\nDescripción de reacciones adversas seleccionadas\nLos acontecimientos de tipo cutáneo deben interpretarse teniendo en cuenta su extensión, el tiempo hasta el inicio y la presencia de signos generales. En la práctica asistencial, se aconseja documentar la evolución y descartar otros factores contribuyentes antes de establecer una relación definitiva.\n\nLas variaciones analíticas pueden requerir confirmación mediante determinaciones repetidas, especialmente cuando existen antecedentes relevantes o exposición a otros medicamentos. La actuación clínica debe individualizarse y apoyarse en la valoración global del beneficio terapéutico.\n\nEn pacientes con enfermedad avanzada o con respuesta inmunitaria inicial, pueden observarse cuadros inflamatorios relacionados con la recuperación de la respuesta del huésped. La notificación de sospechas permite mantener actualizada la información de seguridad y contribuye a una mejor caracterización del perfil del medicamento.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nEn el sistema Trastornos de piel y tejidos, durante el uso de SYMTUZA (darunavir, cobicistat, emtricitabina, tenofovir alafenamida) se ha notificado la siguiente reacción adversa grave; debido a su naturaleza, debe valorarse clínicamente de forma inmediata si aparecen manifestaciones compatibles. La relación temporal y la posible contribución de cada componente deben revisarse junto con la historia farmacológica del paciente.\n\n- necrólisis epidérmica tóxica: frecuencia no conocida.\n\nCuando se sospeche este cuadro, se recomienda interrumpir el tratamiento y aplicar las medidas de soporte apropiadas conforme a la práctica clínica.\n\n-- Caso 2 --\nEn la clasificación por órganos y sistemas TRASTORNOS DEL SISTEMA DIGESTIVO, se ha identificado la siguiente reacción adversa asociada al tratamiento con darunavir, cobicistat, emtricitabina, tenofovir alafenamida (Symtuza):\n\n- Nauseas: frecuentes.\n\nEste acontecimiento puede aparecer durante las primeras fases de la administración y debe interpretarse dentro del perfil de tolerabilidad de la combinación. Se recomienda valorar su evolución en el seguimiento clínico habitual, especialmente si persiste o afecta a la adherencia. No se considera necesario interrumpir la pauta de forma sistemática; la decisión debe basarse en la intensidad del episodio y en la situación clínica del paciente.\n\n-- Caso 3 --\nEn el sistema TRASTORNOS DE PIEL Y TEJIDOS, la categoría de reacciones adversas muy frecuentes incluye la erupción (sarpullido) durante el tratamiento con darunavir, cobicistat, emtricitabina, tenofovir alafenamida. En la tabla de reacciones adversas debe recogerse literalmente:\n- erupción (incluyendo erupción macular, maculopapular, papular, eritematosa, prurítica, erupción generalizada y dermatitis alérgica).\nEstos acontecimientos se consideran coherentes con el perfil de seguridad de la combinación y requieren seguimiento clínico según la intensidad y la evolución. Se recomienda valorar de forma individual la continuidad del tratamiento y documentar la resolución o persistencia en controles posteriores.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "darunavir",
+      "surface": "darunavir",
+      "start": 49,
+      "end": 58
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "cobicistat",
+      "surface": "cobicistat",
+      "start": 60,
+      "end": 70
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "emtricitabina",
+      "surface": "emtricitabina",
+      "start": 72,
+      "end": 85
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "tenofovir alafenamida",
+      "surface": "tenofovir alafenamida",
+      "start": 88,
+      "end": 109
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "emtricitabina",
+      "surface": "FTC",
+      "start": 155,
+      "end": 158
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "tenofovir alafenamida",
+      "surface": "TAF",
+      "start": 161,
+      "end": 164
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 810,
+      "end": 859
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 860,
+      "end": 870
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia",
+      "surface": "Anemia",
+      "start": 872,
+      "end": 878
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 881,
+      "end": 909
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes",
+      "start": 910,
+      "end": 924
+    },
+    {
+      "type": "REACT",
+      "canonical": "erupción (incluyendo erupción macular, maculopapular, papular, eritematosa, prurítica, erupción generalizada y dermatitis alérgica)",
+      "surface": "erupción (incluyendo erupción macular, maculopapular, papular, eritematosa, prurítica, erupción generalizada y dermatitis alérgica)",
+      "start": 926,
+      "end": 1057
+    },
+    {
+      "type": "REACT",
+      "canonical": "prurito",
+      "surface": "prurito",
+      "start": 1071,
+      "end": 1078
+    },
+    {
+      "type": "REACT",
+      "canonical": "urticaria",
+      "surface": "urticaria",
+      "start": 1080,
+      "end": 1089
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 1091,
+      "end": 1106
+    },
+    {
+      "type": "REACT",
+      "canonical": "angioedema",
+      "surface": "angioedema",
+      "start": 1108,
+      "end": 1118
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 1120,
+      "end": 1132
+    },
+    {
+      "type": "REACT",
+      "canonical": "reacción al medicamento con eosinofilia y síntomas sistémicos",
+      "surface": "reacción al medicamento con eosinofilia y síntomas sistémicos",
+      "start": 1134,
+      "end": 1195
+    },
+    {
+      "type": "REACT",
+      "canonical": "síndrome de Stevens-Johnson",
+      "surface": "síndrome de Stevens-Johnson",
+      "start": 1197,
+      "end": 1224
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 1226,
+      "end": 1248
+    },
+    {
+      "type": "REACT",
+      "canonical": "necrólisis epidérmica tóxica",
+      "surface": "necrólisis epidérmica tóxica",
+      "start": 1250,
+      "end": 1278
+    },
+    {
+      "type": "REACT",
+      "canonical": "pustulosis exantemática generalizada aguda",
+      "surface": "pustulosis exantemática generalizada aguda",
+      "start": 1280,
+      "end": 1322
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "start": 1325,
+      "end": 1366
+    },
+    {
+      "type": "REACT",
+      "canonical": "anorexia",
+      "surface": "anorexia",
+      "start": 1379,
+      "end": 1387
+    },
+    {
+      "type": "REACT",
+      "canonical": "aumento de lipoproteína de baja densidad",
+      "surface": "aumento de lipoproteína de baja densidad",
+      "start": 1389,
+      "end": 1429
+    },
+    {
+      "type": "REACT",
+      "canonical": "diabetes mellitus",
+      "surface": "diabetes mellitus",
+      "start": 1431,
+      "end": 1448
+    },
+    {
+      "type": "REACT",
+      "canonical": "dislipidemia",
+      "surface": "dislipidemia",
+      "start": 1450,
+      "end": 1462
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipercolesterolemia",
+      "surface": "hipercolesterolemia",
+      "start": 1464,
+      "end": 1483
+    },
+    {
+      "type": "REACT",
+      "canonical": "hiperlipidemia",
+      "surface": "hiperlipidemia",
+      "start": 1485,
+      "end": 1499
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipertrigliceridemia",
+      "surface": "hipertrigliceridemia",
+      "start": 1501,
+      "end": 1521
+    },
+    {
+      "type": "REACT",
+      "canonical": "hiperglucemia",
+      "surface": "hiperglucemia",
+      "start": 1540,
+      "end": 1553
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 1556,
+      "end": 1598
+    },
+    {
+      "type": "REACT",
+      "canonical": "artralgia",
+      "surface": "artralgia",
+      "start": 1611,
+      "end": 1620
+    },
+    {
+      "type": "REACT",
+      "canonical": "mialgia",
+      "surface": "mialgia",
+      "start": 1622,
+      "end": 1629
+    },
+    {
+      "type": "REACT",
+      "canonical": "osteonecrosis",
+      "surface": "osteonecrosis",
+      "start": 1648,
+      "end": 1661
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 1664,
+      "end": 1694
+    },
+    {
+      "type": "REACT",
+      "canonical": "astenia",
+      "surface": "astenia",
+      "start": 1707,
+      "end": 1714
+    },
+    {
+      "type": "REACT",
+      "canonical": "aumento de la creatinina en sangre",
+      "surface": "aumento de la creatinina en sangre",
+      "start": 1716,
+      "end": 1750
+    },
+    {
+      "type": "REACT",
+      "canonical": "cansancio",
+      "surface": "cansancio",
+      "start": 1752,
+      "end": 1761
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1764,
+      "end": 1796
+    },
+    {
+      "type": "REACT",
+      "canonical": "diarrea",
+      "surface": "diarrea",
+      "start": 1813,
+      "end": 1820
+    },
+    {
+      "type": "REACT",
+      "canonical": "Nauseas",
+      "surface": "Nauseas",
+      "start": 1834,
+      "end": 1841
+    },
+    {
+      "type": "REACT",
+      "canonical": "Nauseas",
+      "surface": "náuseas",
+      "start": 1834,
+      "end": 1841
+    },
+    {
+      "type": "REACT",
+      "canonical": "aumento de las enzimas hepáticas",
+      "surface": "aumento de las enzimas hepáticas",
+      "start": 1853,
+      "end": 1885
+    },
+    {
+      "type": "REACT",
+      "canonical": "dispepsia",
+      "surface": "dispepsia",
+      "start": 1887,
+      "end": 1896
+    },
+    {
+      "type": "REACT",
+      "canonical": "distensión abdominal",
+      "surface": "distensión abdominal",
+      "start": 1898,
+      "end": 1918
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor abdominal",
+      "surface": "dolor abdominal",
+      "start": 1920,
+      "end": 1935
+    },
+    {
+      "type": "REACT",
+      "canonical": "flatulencia",
+      "surface": "flatulencia",
+      "start": 1937,
+      "end": 1948
+    },
+    {
+      "type": "REACT",
+      "canonical": "vómitos",
+      "surface": "vómitos",
+      "start": 1950,
+      "end": 1957
+    },
+    {
+      "type": "REACT",
+      "canonical": "aumento de las enzimas pancreáticas",
+      "surface": "aumento de las enzimas pancreáticas",
+      "start": 1976,
+      "end": 2011
+    },
+    {
+      "type": "REACT",
+      "canonical": "hepatitis aguda",
+      "surface": "hepatitis aguda",
+      "start": 2013,
+      "end": 2028
+    },
+    {
+      "type": "REACT",
+      "canonical": "hepatitis citolítica",
+      "surface": "hepatitis citolítica",
+      "start": 2030,
+      "end": 2050
+    },
+    {
+      "type": "REACT",
+      "canonical": "pancreatitis aguda",
+      "surface": "pancreatitis aguda",
+      "start": 2052,
+      "end": 2070
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 2073,
+      "end": 2104
+    },
+    {
+      "type": "REACT",
+      "canonical": "cefalea",
+      "surface": "cefalea",
+      "start": 2121,
+      "end": 2128
+    },
+    {
+      "type": "REACT",
+      "canonical": "mareo",
+      "surface": "mareo",
+      "start": 2142,
+      "end": 2147
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "start": 2150,
+      "end": 2184
+    },
+    {
+      "type": "REACT",
+      "canonical": "ginecomastia",
+      "surface": "ginecomastia",
+      "start": 2202,
+      "end": 2214
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 2217,
+      "end": 2252
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipersensibilidad (al medicamento)",
+      "surface": "hipersensibilidad (al medicamento)",
+      "start": 2265,
+      "end": 2299
+    },
+    {
+      "type": "REACT",
+      "canonical": "síndrome inflamatorio de reconstitución inmunitaria",
+      "surface": "síndrome inflamatorio de reconstitución inmunitaria",
+      "start": 2318,
+      "end": 2369
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "start": 2372,
+      "end": 2403
+    },
+    {
+      "type": "REACT",
+      "canonical": "nefropatía por depósito de cristales",
+      "surface": "nefropatía por depósito de cristales",
+      "start": 2418,
+      "end": 2454
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 2457,
+      "end": 2481
+    },
+    {
+      "type": "REACT",
+      "canonical": "sueños anormales",
+      "surface": "sueños anormales",
+      "start": 2494,
+      "end": 2510
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "Trastornos de piel y tejidos",
+      "start": 881,
+      "end": 909
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "darunavir, cobicistat, emtricitabina, tenofovir alafenamida",
+      "surface": "SYMTUZA",
+      "start": 3621,
+      "end": 3628
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "darunavir, cobicistat, emtricitabina, tenofovir alafenamida",
+      "surface": "darunavir, cobicistat, emtricitabina, tenofovir alafenamida",
+      "start": 3630,
+      "end": 3689
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "darunavir, cobicistat, emtricitabina, tenofovir alafenamida",
+      "surface": "Symtuza",
+      "start": 3621,
+      "end": 3628
+    },
+    {
+      "type": "REACT",
+      "canonical": "erupción (incluyendo erupción macular, maculopapular, papular, eritematosa, prurítica, erupción generalizada y dermatitis alérgica)",
+      "surface": "erupción",
+      "start": 926,
+      "end": 934
+    },
+    {
+      "type": "REACT",
+      "canonical": "erupción (incluyendo erupción macular, maculopapular, papular, eritematosa, prurítica, erupción generalizada y dermatitis alérgica)",
+      "surface": "sarpullido",
+      "start": 5035,
+      "end": 5045
+    }
+  ],
+  "raw_long_doc_text": "Resumen del perfil de seguridad\nLa pauta combina darunavir, cobicistat, emtricitabina y tenofovir alafenamida; también pueden encontrarse las abreviaturas FTC y TAF en documentación clínica. En conjunto, el perfil de tolerabilidad observado es coherente con el de una asociación antirretroviral administrada una vez al día. La evaluación debe considerar la situación basal del paciente, los tratamientos concomitantes y la evolución analítica durante el seguimiento. La mayoría de los acontecimientos se identifican mediante vigilancia clínica habitual y revisión periódica de parámetros bioquímicos. Ante manifestaciones extensas, persistentes o acompañadas de afectación sistémica, se recomienda valorar la continuidad del tratamiento de acuerdo con el juicio clínico.\n\nLista tabulada de reacciones adversas\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS\nfrecuentes: Anemia.\n\nTRASTORNOS DE PIEL Y TEJIDOS\nmuy frecuentes: erupción (incluyendo erupción macular, maculopapular, papular, eritematosa, prurítica, erupción generalizada y dermatitis alérgica).\nfrecuentes: prurito, urticaria.\npoco frecuentes: angioedema.\nno frecuente: reacción al medicamento con eosinofilia y síntomas sistémicos, síndrome de Stevens-Johnson.\nfrecuencia no conocida: necrólisis epidérmica tóxica, pustulosis exantemática generalizada aguda.\n\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN\nfrecuentes: anorexia, aumento de lipoproteína de baja densidad, diabetes mellitus, dislipidemia, hipercolesterolemia, hiperlipidemia, hipertrigliceridemia.\npoco frecuentes: hiperglucemia.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\nfrecuentes: artralgia, mialgia.\npoco frecuentes: osteonecrosis.\n\nTRASTORNOS DEL SISTEMA GENERAL\nfrecuentes: astenia, aumento de la creatinina en sangre, cansancio.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nmuy frecuentes: diarrea.\nfrecuentes: Nauseas (náuseas), aumento de las enzimas hepáticas, dispepsia, distensión abdominal, dolor abdominal, flatulencia, vómitos.\npoco frecuentes: aumento de las enzimas pancreáticas, hepatitis aguda, hepatitis citolítica, pancreatitis aguda.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nmuy frecuentes: cefalea.\nfrecuentes: mareo.\n\nTRASTORNOS DEL SISTEMA REPRODUCTOR\npoco frecuentes: ginecomastia.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\nfrecuentes: hipersensibilidad (al medicamento).\npoco frecuentes: síndrome inflamatorio de reconstitución inmunitaria.\n\nTRASTORNOS DEL SISTEMA EXCRETOR\nno frecuente: nefropatía por depósito de cristales.\n\nTRASTORNOS PSIQUIÁTRICOS\nfrecuentes: sueños anormales.\n\nDescripción de reacciones adversas seleccionadas\nLos acontecimientos de tipo cutáneo deben interpretarse teniendo en cuenta su extensión, el tiempo hasta el inicio y la presencia de signos generales. En la práctica asistencial, se aconseja documentar la evolución y descartar otros factores contribuyentes antes de establecer una relación definitiva.\n\nLas variaciones analíticas pueden requerir confirmación mediante determinaciones repetidas, especialmente cuando existen antecedentes relevantes o exposición a otros medicamentos. La actuación clínica debe individualizarse y apoyarse en la valoración global del beneficio terapéutico.\n\nEn pacientes con enfermedad avanzada o con respuesta inmunitaria inicial, pueden observarse cuadros inflamatorios relacionados con la recuperación de la respuesta del huésped. La notificación de sospechas permite mantener actualizada la información de seguridad y contribuye a una mejor caracterización del perfil del medicamento.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "darunavir",
+      "surface": "darunavir"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "cobicistat",
+      "surface": "cobicistat"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "emtricitabina",
+      "surface": "emtricitabina"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "tenofovir alafenamida",
+      "surface": "tenofovir alafenamida"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "emtricitabina",
+      "surface": "FTC"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "tenofovir alafenamida",
+      "surface": "TAF"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia",
+      "surface": "Anemia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "erupción (incluyendo erupción macular, maculopapular, papular, eritematosa, prurítica, erupción generalizada y dermatitis alérgica)",
+      "surface": "erupción (incluyendo erupción macular, maculopapular, papular, eritematosa, prurítica, erupción generalizada y dermatitis alérgica)"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "prurito",
+      "surface": "prurito"
+    },
+    {
+      "type": "REACT",
+      "canonical": "urticaria",
+      "surface": "urticaria"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "angioedema",
+      "surface": "angioedema"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "reacción al medicamento con eosinofilia y síntomas sistémicos",
+      "surface": "reacción al medicamento con eosinofilia y síntomas sistémicos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "síndrome de Stevens-Johnson",
+      "surface": "síndrome de Stevens-Johnson"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "necrólisis epidérmica tóxica",
+      "surface": "necrólisis epidérmica tóxica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "pustulosis exantemática generalizada aguda",
+      "surface": "pustulosis exantemática generalizada aguda"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "anorexia",
+      "surface": "anorexia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "aumento de lipoproteína de baja densidad",
+      "surface": "aumento de lipoproteína de baja densidad"
+    },
+    {
+      "type": "REACT",
+      "canonical": "diabetes mellitus",
+      "surface": "diabetes mellitus"
+    },
+    {
+      "type": "REACT",
+      "canonical": "dislipidemia",
+      "surface": "dislipidemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipercolesterolemia",
+      "surface": "hipercolesterolemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "hiperlipidemia",
+      "surface": "hiperlipidemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipertrigliceridemia",
+      "surface": "hipertrigliceridemia"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "hiperglucemia",
+      "surface": "hiperglucemia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "artralgia",
+      "surface": "artralgia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "mialgia",
+      "surface": "mialgia"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "osteonecrosis",
+      "surface": "osteonecrosis"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "astenia",
+      "surface": "astenia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "aumento de la creatinina en sangre",
+      "surface": "aumento de la creatinina en sangre"
+    },
+    {
+      "type": "REACT",
+      "canonical": "cansancio",
+      "surface": "cansancio"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "diarrea",
+      "surface": "diarrea"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Nauseas",
+      "surface": "Nauseas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Nauseas",
+      "surface": "náuseas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "aumento de las enzimas hepáticas",
+      "surface": "aumento de las enzimas hepáticas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "dispepsia",
+      "surface": "dispepsia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "distensión abdominal",
+      "surface": "distensión abdominal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor abdominal",
+      "surface": "dolor abdominal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "flatulencia",
+      "surface": "flatulencia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "vómitos",
+      "surface": "vómitos"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "aumento de las enzimas pancreáticas",
+      "surface": "aumento de las enzimas pancreáticas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "hepatitis aguda",
+      "surface": "hepatitis aguda"
+    },
+    {
+      "type": "REACT",
+      "canonical": "hepatitis citolítica",
+      "surface": "hepatitis citolítica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "pancreatitis aguda",
+      "surface": "pancreatitis aguda"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "cefalea",
+      "surface": "cefalea"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "mareo",
+      "surface": "mareo"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "ginecomastia",
+      "surface": "ginecomastia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipersensibilidad (al medicamento)",
+      "surface": "hipersensibilidad (al medicamento)"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "síndrome inflamatorio de reconstitución inmunitaria",
+      "surface": "síndrome inflamatorio de reconstitución inmunitaria"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "nefropatía por depósito de cristales",
+      "surface": "nefropatía por depósito de cristales"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "sueños anormales",
+      "surface": "sueños anormales"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "SYMTUZA 800/150/200/10 mg comp recubC/30",
+        "pactivo": "darunavir, cobicistat, emtricitabina, tenofovir alafenamida",
+        "reaccion": "necrólisis epidérmica tóxica",
+        "frecuencia": "SIN FRECUENCIA",
+        "sistema": "TRASTORNOS DE PIEL Y TEJIDOS"
+      },
+      "text": "En el sistema Trastornos de piel y tejidos, durante el uso de SYMTUZA (darunavir, cobicistat, emtricitabina, tenofovir alafenamida) se ha notificado la siguiente reacción adversa grave; debido a su naturaleza, debe valorarse clínicamente de forma inmediata si aparecen manifestaciones compatibles. La relación temporal y la posible contribución de cada componente deben revisarse junto con la historia farmacológica del paciente.\n\n- necrólisis epidérmica tóxica: frecuencia no conocida.\n\nCuando se sospeche este cuadro, se recomienda interrumpir el tratamiento y aplicar las medidas de soporte apropiadas conforme a la práctica clínica.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "surface": "Trastornos de piel y tejidos"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "darunavir, cobicistat, emtricitabina, tenofovir alafenamida",
+          "surface": "SYMTUZA"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "darunavir, cobicistat, emtricitabina, tenofovir alafenamida",
+          "surface": "darunavir, cobicistat, emtricitabina, tenofovir alafenamida"
+        },
+        {
+          "type": "REACT",
+          "canonical": "necrólisis epidérmica tóxica",
+          "surface": "necrólisis epidérmica tóxica"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "surface": "Trastornos de piel y tejidos",
+          "start": 14,
+          "end": 42
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "darunavir, cobicistat, emtricitabina, tenofovir alafenamida",
+          "surface": "SYMTUZA",
+          "start": 62,
+          "end": 69
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "darunavir, cobicistat, emtricitabina, tenofovir alafenamida",
+          "surface": "darunavir, cobicistat, emtricitabina, tenofovir alafenamida",
+          "start": 71,
+          "end": 130
+        },
+        {
+          "type": "REACT",
+          "canonical": "necrólisis epidérmica tóxica",
+          "surface": "necrólisis epidérmica tóxica",
+          "start": 433,
+          "end": 461
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida",
+          "start": 463,
+          "end": 485
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "SYMTUZA 800/150/200/10 mg comp recubC/30",
+        "pactivo": "darunavir, cobicistat, emtricitabina, tenofovir alafenamida",
+        "reaccion": "Nauseas",
+        "frecuencia": "FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+      },
+      "text": "En la clasificación por órganos y sistemas TRASTORNOS DEL SISTEMA DIGESTIVO, se ha identificado la siguiente reacción adversa asociada al tratamiento con darunavir, cobicistat, emtricitabina, tenofovir alafenamida (Symtuza):\n\n- Nauseas: frecuentes.\n\nEste acontecimiento puede aparecer durante las primeras fases de la administración y debe interpretarse dentro del perfil de tolerabilidad de la combinación. Se recomienda valorar su evolución en el seguimiento clínico habitual, especialmente si persiste o afecta a la adherencia. No se considera necesario interrumpir la pauta de forma sistemática; la decisión debe basarse en la intensidad del episodio y en la situación clínica del paciente.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "darunavir, cobicistat, emtricitabina, tenofovir alafenamida",
+          "surface": "darunavir, cobicistat, emtricitabina, tenofovir alafenamida"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "darunavir, cobicistat, emtricitabina, tenofovir alafenamida",
+          "surface": "Symtuza"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Nauseas",
+          "surface": "Nauseas"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "start": 43,
+          "end": 75
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "darunavir, cobicistat, emtricitabina, tenofovir alafenamida",
+          "surface": "darunavir, cobicistat, emtricitabina, tenofovir alafenamida",
+          "start": 154,
+          "end": 213
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "darunavir, cobicistat, emtricitabina, tenofovir alafenamida",
+          "surface": "Symtuza",
+          "start": 215,
+          "end": 222
+        },
+        {
+          "type": "REACT",
+          "canonical": "Nauseas",
+          "surface": "Nauseas",
+          "start": 228,
+          "end": 235
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes",
+          "start": 237,
+          "end": 247
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "SYMTUZA 800/150/200/10 mg comp recubC/30",
+        "pactivo": "darunavir, cobicistat, emtricitabina, tenofovir alafenamida",
+        "reaccion": "erupción (incluyendo erupción macular, maculopapular, papular, eritematosa, prurítica, erupción generalizada y dermatitis alérgica)",
+        "frecuencia": "MUY FRECUENTE",
+        "sistema": "TRASTORNOS DE PIEL Y TEJIDOS"
+      },
+      "text": "En el sistema TRASTORNOS DE PIEL Y TEJIDOS, la categoría de reacciones adversas muy frecuentes incluye la erupción (sarpullido) durante el tratamiento con darunavir, cobicistat, emtricitabina, tenofovir alafenamida. En la tabla de reacciones adversas debe recogerse literalmente:\n- erupción (incluyendo erupción macular, maculopapular, papular, eritematosa, prurítica, erupción generalizada y dermatitis alérgica).\nEstos acontecimientos se consideran coherentes con el perfil de seguridad de la combinación y requieren seguimiento clínico según la intensidad y la evolución. Se recomienda valorar de forma individual la continuidad del tratamiento y documentar la resolución o persistencia en controles posteriores.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "MUY FRECUENTE",
+          "surface": "muy frecuentes"
+        },
+        {
+          "type": "REACT",
+          "canonical": "erupción (incluyendo erupción macular, maculopapular, papular, eritematosa, prurítica, erupción generalizada y dermatitis alérgica)",
+          "surface": "erupción"
+        },
+        {
+          "type": "REACT",
+          "canonical": "erupción (incluyendo erupción macular, maculopapular, papular, eritematosa, prurítica, erupción generalizada y dermatitis alérgica)",
+          "surface": "sarpullido"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "darunavir, cobicistat, emtricitabina, tenofovir alafenamida",
+          "surface": "darunavir, cobicistat, emtricitabina, tenofovir alafenamida"
+        },
+        {
+          "type": "REACT",
+          "canonical": "erupción (incluyendo erupción macular, maculopapular, papular, eritematosa, prurítica, erupción generalizada y dermatitis alérgica)",
+          "surface": "erupción (incluyendo erupción macular, maculopapular, papular, eritematosa, prurítica, erupción generalizada y dermatitis alérgica)"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "start": 14,
+          "end": 42
+        },
+        {
+          "type": "FREQ",
+          "canonical": "MUY FRECUENTE",
+          "surface": "muy frecuentes",
+          "start": 80,
+          "end": 94
+        },
+        {
+          "type": "REACT",
+          "canonical": "erupción (incluyendo erupción macular, maculopapular, papular, eritematosa, prurítica, erupción generalizada y dermatitis alérgica)",
+          "surface": "erupción",
+          "start": 106,
+          "end": 114
+        },
+        {
+          "type": "REACT",
+          "canonical": "erupción (incluyendo erupción macular, maculopapular, papular, eritematosa, prurítica, erupción generalizada y dermatitis alérgica)",
+          "surface": "sarpullido",
+          "start": 116,
+          "end": 126
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "darunavir, cobicistat, emtricitabina, tenofovir alafenamida",
+          "surface": "darunavir, cobicistat, emtricitabina, tenofovir alafenamida",
+          "start": 155,
+          "end": 214
+        },
+        {
+          "type": "REACT",
+          "canonical": "erupción (incluyendo erupción macular, maculopapular, papular, eritematosa, prurítica, erupción generalizada y dermatitis alérgica)",
+          "surface": "erupción (incluyendo erupción macular, maculopapular, papular, eritematosa, prurítica, erupción generalizada y dermatitis alérgica)",
+          "start": 282,
+          "end": 413
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

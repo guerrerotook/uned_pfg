@@ -1,0 +1,470 @@
+[
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "nasofaringitis",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "infección",
+    "frecuencia": "Raras",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "trombocitopenia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "leucopenia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "pancitopenia",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "neutropenia",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "agranulocitosis",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "reacción de hipersensibilidad al medicamento con eosinofilia y síntomas sistémicos (DRESS)",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "hipersensibilidad (incluyendo angioedema y anafilaxis)",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "anorexia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "pérdida de peso",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "aumento de peso",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "hiponatremia",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "depresión",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "hostilidad/agresividad",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "ansiedad",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "insomnio",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "nerviosismo/irritabilidad",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "intento de suicidio",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "ideación suicida",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "alteraciones psicóticas",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "comportamiento anormal",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "alucinaciones",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "cólera",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "estado confusional",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "ataque de pánico",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "inestabilidad emocional/cambios de humor",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "agitación",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "suicidio completado",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "trastornos de personalidad",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "pensamiento anormal",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "delirio",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "somnolencia",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "cefalea",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "convulsión",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "trastorno del equilibrio",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "mareo",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "letargo",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "temblor",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "amnesia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "deterioro de la memoria",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "coordinación anormal/ataxia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "parestesia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "alteración de la atención",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "coreoatetosis",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "discinesia",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "hipercinesia",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "alteración de la marcha",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "encefalopatía",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "crisis epilépticas agravadas",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "síndrome neuroléptico maligno",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "diplopía",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "visión borrosa",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "vértigo",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del oído y del laberinto"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "prolongación del intervalo QT en el electrocardiograma",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "tos",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "dolor abdominal",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "diarrea",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "dispepsia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "vómitos",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "náuseas",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "pancreatitis",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "pruebas anormales de la función hepática",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "fallo hepático",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "hepatitis",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "lesión renal aguda",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "rash",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "alopecia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "eczema",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "prurito",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "necrólisis epidérmica tóxica",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "síndrome de Stevens-Johnson",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "eritema multiforme",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "debilidad muscular",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "mialgia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "rabdomiólisis y aumento de creatinfosfoquinasa sanguínea",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "astenia/fatiga",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "LEVETIRACETAM",
+    "reacción adversa": "lesión",
+    "frecuencia": "Raras",
+    "trastorno": "Lesiones traumáticas, intoxicaciones y complicaciones de procedimientos terapéuticos"
+  }
+]

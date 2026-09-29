@@ -1,0 +1,59 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil de seguridad descrito para Sulmetin procede de la administración clínica de preparaciones parenterales con CITRATO TRISODIO y debe interpretarse considerando la velocidad de administración, la situación basal del paciente y la vigilancia durante el tratamiento. En general, las manifestaciones notificadas fueron reversibles tras la interrupción o el ajuste de la perfusión y la aplicación de medidas de soporte habituales. El citrato trisódico puede producir efectos relacionados con cambios transitorios en el tono vascular, la conducción neuromuscular y el estado de alerta. La valoración clínica debe centrarse en la detección temprana de signos de intolerancia, especialmente en pacientes frágiles o con reserva funcional reducida. La información siguiente se presenta siguiendo la clasificación por órganos y la frecuencia indicada en la evaluación disponible.
+
+Lista tabulada de reacciones adversas
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+frecuentes: bradicardia, hipotensión por vasodilatación periférica, rubor.
+poco frecuentes: parada cardiaca o colapso circulatorio, vasodilatación consensación de calor.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+poco frecuentes: coma, confusión, depresión del SNC que puede preceder a la parálisis respiratoria, dolor de cabeza, mareos, somnolencia.
+frecuentes: pérdida de reflejo tendinoso.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+poco frecuentes: debilidad muscular.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+poco frecuentes: depresión respiratoria debido al bloqueo neuromuscular.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+poco frecuentes: dolor en el punto de inyección.
+
+TRASTORNOS DEL SISTEMA GENERAL
+poco frecuentes: hipotermia.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+poco frecuentes: náuseas, sed, vómitos.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+poco frecuentes: problemas de la visión, problemas del habla.
+
+TRASTORNOS DEL SISTEMA ENDOCRINO
+poco frecuentes: sudoración excesiva.
+
+Descripción de reacciones adversas seleccionadas
+Las alteraciones hemodinámicas pueden aparecer durante la administración o poco después de la misma. En este contexto se han descrito bradicardia, hipotensión por vasodilatación periférica y rubor (sofoco), por lo que se recomienda mantener observación clínica adecuada durante el periodo de exposición. En casos aislados dentro de la experiencia disponible se ha comunicado parada cardiaca o colapso circulatorio, situación que requiere actuación inmediata y medidas de soporte.
+
+Las manifestaciones relacionadas con el nivel de conciencia o la transmisión neuromuscular deben evaluarse de forma continuada. La aparición de depresión del SNC que puede preceder a la parálisis respiratoria, coma o depresión respiratoria debido al bloqueo neuromuscular puede indicar una respuesta excesiva al tratamiento o una acumulación funcional en pacientes susceptibles. También pueden presentarse náuseas, vómitos, sed y dolor en el punto de inyección, que generalmente se manejan con vigilancia, ajuste de la administración y tratamiento sintomático si procede.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+Dentro del sistema de clasificación de órganos Trastornos del sistema nervioso, se han descrito mareos (sensación de inestabilidad) con una frecuencia poco frecuentes durante el tratamiento con citrato trisodio. En la lista tabulada de reacciones adversas se mantiene la denominación MedDRA: mareos. Este efecto puede relacionarse con cambios transitorios en la tolerabilidad durante la administración de citrato sódico, sin que ello implique necesariamente la interrupción del tratamiento. Se recomienda valorar la evolución clínica y las circunstancias de aparición, especialmente en pacientes que reciben Sulmetin simple en perfusión o inyección.
+
+-- Caso 2 --
+En la experiencia clínica con Sulmetin simple, el citrato trisódico (citrato de sodio) se ha asociado con una manifestación transitoria, generalmente autolimitada y compatible con el manejo habitual del paciente.
+Trastornos del sistema cardiovascular
+- frecuentes: rubor (enrojecimiento pasajero).
+Esta manifestación debe interpretarse en el contexto de la vía de administración y de la velocidad de perfusión. Se recomienda observar la evolución clínica durante y tras la administración, especialmente en pacientes con antecedentes de intolerancia a soluciones intravenosas, sin modificar por ello la clasificación de frecuencia descrita.
+
+-- Caso 3 --
+En los datos de seguridad disponibles para citrato trisodio, la somnolencia se clasifica dentro de Trastornos del sistema nervioso y se ha comunicado con una frecuencia de poco frecuentes. Este efecto puede relacionarse con la respuesta individual al tratamiento y suele requerir valoración clínica si interfiere con actividades que precisan atención mantenida.
+
+Lista tabulada:
+- Trastornos del sistema nervioso: somnolencia (poco frecuentes).
+
+Se recomienda informar al paciente de que observe la posible aparición de somnolencia (sueño excesivo) tras la administración y que consulte si el cuadro persiste o resulta clínicamente relevante. La notificación de sospechas contribuye a caracterizar mejor el perfil de seguridad del medicamento.

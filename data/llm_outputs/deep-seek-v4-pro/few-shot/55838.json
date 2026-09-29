@@ -1,0 +1,20 @@
+[
+  {
+    "principio activo": "GLUCOSA",
+    "reacción adversa": "Vómitos",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "GLUCOSA",
+    "reacción adversa": "Hipernatremia",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "GLUCOSA",
+    "reacción adversa": "Hiperpotasemia",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  }
+]

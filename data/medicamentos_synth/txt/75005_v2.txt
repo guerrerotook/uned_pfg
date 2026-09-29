@@ -1,0 +1,95 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil de seguridad descrito para LEVETIRACETAM procede de la experiencia acumulada en pacientes tratados en condiciones controladas y en la práctica clínica. En conjunto, las notificaciones suelen ser de intensidad leve o moderada y aparecen con mayor probabilidad durante el inicio del tratamiento o tras los ajustes de dosis. La valoración clínica debe considerar la enfermedad de base, los tratamientos concomitantes y la evolución temporal de los síntomas. En la práctica habitual, levetiracetam también puede citarse de forma abreviada como LEV, sin que ello implique diferencias en la interpretación del perfil descrito. La información siguiente se presenta con terminología normalizada y pretende facilitar la identificación, seguimiento y comunicación de los acontecimientos observados.
+
+Lista tabulada de reacciones adversas
+Las reacciones se enumeran por sistema de clasificación de órganos y por categoría de frecuencia comunicada.
+
+TRASTORNOS PSIQUIÁTRICOS
+frecuentes: Depresión, agresividad, ansiedad, insomnio, nerviosismo.
+poco frecuentes: Intento de suicidio, agitación, alteraciones psicóticas, alucinaciones, ataque de pánico, cambios de humor, cólera, estado confusiona.
+no frecuente: Suicidio, delirio, trastornos de personalidad.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+poco frecuentes: Trombocitopenia, leucopenia.
+no frecuente: Pancitopenia, agranulocitosis, neutropenia.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+frecuentes: Rash.
+poco frecuentes: Alopecia, eczema, prurito.
+no frecuente: Necrólisis epidérmica tóxica, eritema multiforme, síndrome de Stevens- Johnson.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+muy frecuentes: Somnolencia, cefalea.
+frecuentes: Convulsión, letargo, mareo, temblor, trastorno del equilibrio.
+poco frecuentes: Amnesia, alteración de la atención, coordinación anorma.
+no frecuente: Coreoatetosis, alteración de la marcha, crisis epilépticas agravadas, discinesia, encefalopatia, síndrome neuroléptico maligno.
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN
+frecuentes: Anorexia.
+poco frecuentes: Pérdida de peso, aumento de peso.
+no frecuente: Hiponatremia.
+
+TRASTORNOS DEL SISTEMA GENERAL
+frecuentes: Astenia.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+poco frecuentes: Debilidad muscular, Lesión, mialgia.
+no frecuente: Cefalea, Rabdomiólisis.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+frecuentes: Dolor abdominal, diarrea, dispepsia, náuseas.
+poco frecuentes: Pruebas anormales de la función hepática.
+no frecuente: Pancreatitis, hepatitis.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+frecuentes: Vértigo.
+poco frecuentes: Diplopía (visión doble), visión borrosa.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+no frecuente: hipersensibilidad.
+
+INFECCIONES E INFESTACIONES
+muy frecuentes: Nasofaringitis.
+no frecuente: Infección.
+
+TRASTORNOS DEL SISTEMA EXCRETOR
+no frecuente: Lesión renal aguda.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+no frecuente: Prolongación del intervalo QT.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+frecuentes: Tos.
+
+Descripción de reacciones adversas seleccionadas
+Cuando se observen cambios conductuales o del estado mental, se recomienda una evaluación individualizada, especialmente si existe antecedente clínico relevante o una modificación reciente de la pauta. La comunicación temprana por parte del paciente o del cuidador facilita ajustar el seguimiento y decidir si procede una revisión del tratamiento.
+
+Las manifestaciones cutáneas o sistémicas que progresen, se acompañen de deterioro general o muestren signos de gravedad deben valorarse sin demora. En estos casos es importante documentar la cronología, la medicación concomitante y cualquier antecedente de sensibilidad previa para apoyar la evaluación de causalidad.
+
+En pacientes con factores predisponentes, la vigilancia clínica y analítica puede ser útil durante el tratamiento. La interpretación de los hallazgos debe realizarse en el contexto del cuadro clínico completo, evitando atribuciones automáticas y considerando otras causas posibles.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En el tratamiento con LEVETIRACETAM, se ha notificado la siguiente reacción adversa dentro del sistema de clasificación de órganos Trastornos psiquiátricos. Según la terminología de frecuencia utilizada en fichas técnicas, se incluye entre las reacciones frecuentes.
+
+- ansiedad
+
+La aparición de este síntoma puede observarse durante el seguimiento clínico habitual, especialmente tras cambios de dosis o en pacientes con antecedentes relevantes, sin que ello implique necesariamente la interrupción del tratamiento. Se recomienda valorar la evolución, la repercusión funcional y la relación temporal con la administración, aplicando las medidas clínicas apropiadas en cada caso.
+
+-- Caso 2 --
+Dentro del sistema de clasificación de órganos Infecciones e infestaciones, se ha identificado Nasofaringitis como reacción adversa asociada al tratamiento con levetiracetam, incluyendo presentaciones como LEVETIRACETAM CINFA. En la información de seguridad disponible, esta reacción se clasifica como muy frecuentes.
+
+- Nasofaringitis (catarro nasal): muy frecuentes.
+
+La aparición de este cuadro suele requerir únicamente seguimiento clínico habitual, valorando la evolución de los síntomas en el contexto del tratamiento antiepiléptico. No se considera necesario modificar la pauta de forma sistemática salvo que la intensidad o persistencia del cuadro lo justifique según criterio clínico.
+
+-- Caso 3 --
+En el sistema de clasificación de órganos Trastornos del sistema inmunológico, se ha descrito hipersensibilidad asociada al tratamiento con levetiracetam (también conocido por su marca Keppra), con frecuencia no frecuente.
+
+Lista tabulada de reacciones adversas:
+- Trastornos del sistema inmunológico: hipersensibilidad; no frecuente.
+
+La aparición de hipersensibilidad (alergia) puede reflejar una respuesta inmunitaria individual y requiere valoración clínica. Se recomienda informar al paciente para que comunique cualquier manifestación compatible y considerar la continuidad del tratamiento según la evolución y el balance beneficio-riesgo.

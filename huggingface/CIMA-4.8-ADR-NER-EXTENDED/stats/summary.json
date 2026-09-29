@@ -1,0 +1,82 @@
+{
+  "corpus": "synthetic",
+  "source": "data/medicamentos_synth",
+  "documents": 98,
+  "drugs": 49,
+  "excluded_from_test": [],
+  "codigo_normalisation": {
+    "08451004_v1": "8451004_v1",
+    "07387014_v1": "7387014_v1",
+    "07387014_v2": "7387014_v2",
+    "08451004_v2": "8451004_v2"
+  },
+  "configs": {
+    "react": {
+      "labels": [
+        "O",
+        "B-REACT",
+        "I-REACT"
+      ],
+      "train_sentences": 4023,
+      "test_sentences": 1577,
+      "train_tokens": 60386,
+      "test_tokens": 26213
+    },
+    "active": {
+      "labels": [
+        "O",
+        "B-ACTIVE",
+        "I-ACTIVE"
+      ],
+      "train_sentences": 4023,
+      "test_sentences": 1577,
+      "train_tokens": 60386,
+      "test_tokens": 26213
+    },
+    "freq": {
+      "labels": [
+        "O",
+        "B-FREQ",
+        "I-FREQ"
+      ],
+      "train_sentences": 4023,
+      "test_sentences": 1577,
+      "train_tokens": 60386,
+      "test_tokens": 26213
+    },
+    "sys": {
+      "labels": [
+        "O",
+        "B-SYS",
+        "I-SYS"
+      ],
+      "train_sentences": 4023,
+      "test_sentences": 1577,
+      "train_tokens": 60386,
+      "test_tokens": 26213
+    },
+    "react-active-freq-sys": {
+      "labels": [
+        "O",
+        "B-REACT",
+        "I-REACT",
+        "B-ACTIVE",
+        "I-ACTIVE",
+        "B-FREQ",
+        "I-FREQ",
+        "B-SYS",
+        "I-SYS"
+      ],
+      "train_sentences": 4023,
+      "test_sentences": 1577,
+      "train_tokens": 60386,
+      "test_tokens": 26213
+    },
+    "documents": {
+      "train_documents": 70,
+      "test_documents": 28,
+      "train_entities": 4913,
+      "test_entities": 2537
+    }
+  }
+}

@@ -1,0 +1,380 @@
+{
+  "codigo": "61184",
+  "variante": 1,
+  "codigo_variant": "61184_v1",
+  "medicamento": "ATROVENT MONODOSIS 500 mcg/ 2ml SOLUCION PARA INHALACION POR NEBULIZADOR",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "IPRATROPIO BROMURO",
+      "surface": "IPRATROPIO BROMURO",
+      "start": 84,
+      "end": 102
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 1121,
+      "end": 1149
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "Poco frecuentes",
+      "start": 1150,
+      "end": 1165
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angioedema",
+      "surface": "Angioedema",
+      "start": 1167,
+      "end": 1177
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción",
+      "surface": "Erupción",
+      "start": 1179,
+      "end": 1187
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito",
+      "start": 1189,
+      "end": 1196
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria",
+      "start": 1198,
+      "end": 1207
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1210,
+      "end": 1247
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la frecuencia cardíaca",
+      "surface": "Aumento de la frecuencia cardíaca",
+      "start": 1265,
+      "end": 1298
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fibrilación auricular",
+      "surface": "Fibrilación auricular",
+      "start": 1300,
+      "end": 1321
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones",
+      "start": 1323,
+      "end": 1336
+    },
+    {
+      "type": "REACT",
+      "canonical": "Taquicardia supraventricular",
+      "surface": "Taquicardia supraventricular",
+      "start": 1338,
+      "end": 1366
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 1369,
+      "end": 1406
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la presión intraocular",
+      "surface": "Aumento de la presión intraocular",
+      "start": 1424,
+      "end": 1457
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor ocular",
+      "surface": "Dolor ocular",
+      "start": 1459,
+      "end": 1471
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema de córnea",
+      "surface": "Edema de córnea",
+      "start": 1473,
+      "end": 1488
+    },
+    {
+      "type": "REACT",
+      "canonical": "Glaucoma",
+      "surface": "Glaucoma",
+      "start": 1490,
+      "end": 1498
+    },
+    {
+      "type": "REACT",
+      "canonical": "Haalos visuales",
+      "surface": "Haalos visuales",
+      "start": 1500,
+      "end": 1515
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperemia conjuntival",
+      "surface": "Hiperemia conjuntival",
+      "start": 1517,
+      "end": 1538
+    },
+    {
+      "type": "REACT",
+      "canonical": "Midriasis",
+      "surface": "Midriasis",
+      "start": 1540,
+      "end": 1549
+    },
+    {
+      "type": "REACT",
+      "canonical": "Visión borrosa",
+      "surface": "Visión borrosa",
+      "start": 1551,
+      "end": 1565
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastorno de la acomodación",
+      "surface": "Trastorno de la acomodación",
+      "start": 1567,
+      "end": 1594
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 1597,
+      "end": 1632
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "Frecuentes",
+      "start": 1155,
+      "end": 1165
+    },
+    {
+      "type": "REACT",
+      "canonical": "Irritación de garganta",
+      "surface": "Irritación de garganta",
+      "start": 1645,
+      "end": 1667
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tos",
+      "surface": "Tos",
+      "start": 1669,
+      "end": 1672
+    },
+    {
+      "type": "REACT",
+      "canonical": "Broncoespasmo",
+      "surface": "Broncoespasmo",
+      "start": 1691,
+      "end": 1704
+    },
+    {
+      "type": "REACT",
+      "canonical": "Broncoespasmo paradójico",
+      "surface": "Broncoespasmo paradójico",
+      "start": 1706,
+      "end": 1730
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema faríngeo",
+      "surface": "Edema faríngeo",
+      "start": 1732,
+      "end": 1746
+    },
+    {
+      "type": "REACT",
+      "canonical": "Laringoespasmo",
+      "surface": "Laringoespasmo",
+      "start": 1748,
+      "end": 1762
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad de garganta",
+      "surface": "Sequedad de garganta",
+      "start": 1764,
+      "end": 1784
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1787,
+      "end": 1819
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 1832,
+      "end": 1839
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad de boca",
+      "surface": "Sequedad de boca",
+      "start": 1841,
+      "end": 1857
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastornos de la motilidad gastrointestinal",
+      "surface": "Trastornos de la motilidad gastrointestinal",
+      "start": 1859,
+      "end": 1902
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea",
+      "start": 1921,
+      "end": 1928
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema bucal",
+      "surface": "Edema bucal",
+      "start": 1930,
+      "end": 1941
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estomatitis",
+      "surface": "Estomatitis",
+      "start": 1943,
+      "end": 1954
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento",
+      "start": 1956,
+      "end": 1969
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos",
+      "start": 1971,
+      "end": 1978
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1981,
+      "end": 2012
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor de cabeza",
+      "surface": "Dolor de cabeza",
+      "start": 2025,
+      "end": 2040
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareo",
+      "surface": "Mareo",
+      "start": 2042,
+      "end": 2047
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 2050,
+      "end": 2085
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipersensibilidad",
+      "surface": "Hipersensibilidad",
+      "start": 2103,
+      "end": 2120
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacción anafiláctica",
+      "surface": "Reacción anafiláctica",
+      "start": 2122,
+      "end": 2143
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "start": 2146,
+      "end": 2177
+    },
+    {
+      "type": "REACT",
+      "canonical": "Retención urinaria",
+      "surface": "Retención urinaria",
+      "start": 2195,
+      "end": 2213
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 1150,
+      "end": 1165
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "Trastornos del sistema digestivo",
+      "start": 1787,
+      "end": 1819
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 1155,
+      "end": 1165
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "Trastornos del sistema cardiovascular",
+      "start": 1210,
+      "end": 1247
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 4507,
+      "end": 4519
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "model_name": "CIMA-BERTIN-4.8-NER-CONLL-SYNTH-sys",
+  "timestamp": "2026-05-15T16:47:32.771213+00:00",
+  "entity_types": [
+    "SYS"
+  ],
+  "labels": [
+    "O",
+    "B-SYS",
+    "I-SYS"
+  ],
+  "summary": {
+    "total_codes": 28,
+    "total_sentences": 1577,
+    "total_tokens": 26213,
+    "label_counts": {
+      "O": 24446,
+      "B-SYS": 413,
+      "I-SYS": 1354
+    },
+    "missing_txt_files": [],
+    "docs_with_no_tags": []
+  },
+  "seqeval": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "per_entity": {
+      "SYS": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 413
+      },
+      "micro avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 413
+      },
+      "macro avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 413
+      },
+      "weighted avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 413
+      }
+    }
+  },
+  "overall": {
+    "ent_type": {
+      "correct": 413,
+      "incorrect": 0,
+      "partial": 0,
+      "missed": 0,
+      "spurious": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "exact": {
+      "correct": 413,
+      "incorrect": 0,
+      "partial": 0,
+      "missed": 0,
+      "spurious": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "partial": {
+      "correct": 413,
+      "incorrect": 0,
+      "partial": 0,
+      "missed": 0,
+      "spurious": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "strict": {
+      "correct": 413,
+      "incorrect": 0,
+      "partial": 0,
+      "missed": 0,
+      "spurious": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    }
+  },
+  "entities": {
+    "SYS": {
+      "ent_type": {
+        "correct": 413,
+        "incorrect": 0,
+        "partial": 0,
+        "missed": 0,
+        "spurious": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "exact": {
+        "correct": 413,
+        "incorrect": 0,
+        "partial": 0,
+        "missed": 0,
+        "spurious": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "partial": {
+        "correct": 413,
+        "incorrect": 0,
+        "partial": 0,
+        "missed": 0,
+        "spurious": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "strict": {
+        "correct": 413,
+        "incorrect": 0,
+        "partial": 0,
+        "missed": 0,
+        "spurious": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      }
+    }
+  },
+  "loose_overlap": {
+    "SYS": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "matched_pred": 413,
+      "gold": 413,
+      "pred": 413
+    }
+  }
+}

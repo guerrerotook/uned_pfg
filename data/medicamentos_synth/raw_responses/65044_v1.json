@@ -1,0 +1,906 @@
+{
+  "codigo": "65044",
+  "variante": 1,
+  "codigo_variant": "65044_v1",
+  "medicamento": "SYMBICORT FORTE TURBUHALER 320 microgramos/9 microgramos/INHALACION POLVO PARA INHALACION",
+  "model": "gpt-5.5",
+  "style_variant_idx": 0,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nLa combinación de BUDESONIDA y FORMOTEROL FUMARATO DIHIDRATO presenta un perfil de seguridad concordante con el observado para sus componentes administrados por vía inhalatoria. La mayoría de los acontecimientos comunicados fueron de intensidad leve a moderada y tendieron a disminuir con la continuación del tratamiento. La evaluación debe considerar la dosis utilizada, la duración de la exposición y la situación clínica basal del paciente. La técnica de inhalación y las medidas de higiene tras la administración pueden contribuir a reducir molestias locales. En caso de síntomas persistentes, inesperados o clínicamente relevantes, se recomienda revisar el tratamiento y valorar la necesidad de medidas adicionales.\n\nLista tabulada de reacciones adversas\nLas reacciones se presentan por sistema de clasificación de órganos y por categoría de frecuencia.\n\nTRASTORNOS PSIQUIÁTRICOS\nno frecuente: Depresión, alteraciones del comportamiento (principalmente en niños).\npoco frecuentes: Agresividad, alteraciones del sueño, ansiedad, hiperactividad psicomotora.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nfrecuentes: Cefalea, temblor.\nno frecuente: Alteraciones del gusto.\npoco frecuentes: Mareo.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\nfrecuentes: Palpitaciones.\nno frecuente: Angina de pecho, Arritmias cardíacas, como fibrilación auricular, taquicardia supraventricular, extrasístoles, Variaciones en la presión arterial, prolongación del intervalo QTc.\npoco frecuentes: Taquicardia.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\nfrecuentes: Irritación leve de garganta, Tos, disfonía incluida ronquera.\nno frecuente: broncoespasmo.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\npoco frecuentes: Calambres musculares.\n\nINFECCIONES E INFESTACIONES\nfrecuentes: Candidiasis orofaríngea, Neumonía (en pacientes con EPOC).\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\nno frecuente: Cataratas y glaucoma.\npoco frecuentes: Visión borrosa.\n\nTRASTORNOS DEL SISTEMA ENDOCRINO\nno frecuente: Síndrome de Cushing, disminución de la densidad mineral ósea, retraso del crecimiento, supresión adrenal.\n\nTRASTORNOS DE PIEL Y TEJIDOS\npoco frecuentes: Hematomas.\n\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN\nno frecuente: Hiperglucemia, Hipocalemia.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\npoco frecuentes: Náuseas.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\nno frecuente: Reacciones de hipersensibilidad inmediata y retardada, como exantema, urticaria, prurito, dermatitis, angioedema y reacción anafiláctica.\n\nDescripción de reacciones adversas seleccionadas\nLos efectos locales pueden estar relacionados con el depósito del medicamento en la cavidad oral y la orofaringe. Debe instruirse al paciente para utilizar correctamente el dispositivo, inspirar de forma adecuada y mantener una rutina constante después de cada dosis. Cuando se observe mala tolerancia local, conviene comprobar la adherencia, la manipulación del inhalador y la necesidad de ajuste terapéutico.\n\nLos efectos sistémicos son más probables con dosis elevadas mantenidas durante periodos prolongados. La valoración clínica debe individualizarse y tener en cuenta factores de riesgo, tratamientos concomitantes y antecedentes relevantes. En población pediátrica se recomienda una supervisión periódica del desarrollo y de la respuesta terapéutica.\n\nLas manifestaciones cardiovasculares o de hipersensibilidad requieren especial atención cuando aparecen poco después de la administración o se acompañan de deterioro clínico. Ante cualquier cuadro importante, debe interrumpirse la administración según criterio médico y establecerse el tratamiento apropiado.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nEn el sistema TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS, las notificaciones de Visión borrosa se han clasificado como poco frecuentes durante el tratamiento con BUDESONIDA, FORMOTEROL FUMARATO DIHIDRATO. Este hallazgo debe interpretarse en el contexto del uso inhalado y de la posible susceptibilidad individual del paciente; se recomienda valorar la evolución clínica si el síntoma aparece tras el inicio del tratamiento. En caso de persistencia o interferencia con actividades habituales, debe considerarse una evaluación médica y la revisión del tratamiento según criterio clínico. La notificación de sospechas contribuye a caracterizar mejor el perfil de seguridad.\n\n-- Caso 2 --\nEn la clasificación por sistema de órganos, dentro de TRASTORNOS DEL SISTEMA CARDIOVASCULAR, se han descrito Arritmias cardíacas, como fibrilación auricular, taquicardia supraventricular, extrasístoles con frecuencia no frecuente durante el tratamiento con BUDESONIDA, FORMOTEROL FUMARATO DIHIDRATO. Estas alteraciones pueden relacionarse con la actividad farmacológica del componente broncodilatador y, por lo general, requieren valoración clínica individual. En pacientes con antecedentes cardiovasculares o factores predisponentes, se recomienda mantener un seguimiento adecuado y reconsiderar el tratamiento si los síntomas persisten o son clínicamente relevantes.\n\n-- Caso 3 --\nEn la clasificación por órganos, la Irritación leve de garganta se incluye dentro de TRASTORNOS DEL SISTEMA RESPIRATORIO y se ha notificado entre las reacciones adversas frecuentes. Durante el tratamiento con BUDESONIDA, FORMOTEROL FUMARATO DIHIDRATO, este efecto local puede relacionarse con el depósito del polvo inhalado en la orofaringe. En general, se recomienda informar al paciente de que comunique la persistencia o la intensificación de la molestia, para valorar las medidas habituales de seguimiento clínico sin modificar de forma automática el tratamiento.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "BUDESONIDA",
+      "surface": "BUDESONIDA",
+      "start": 75,
+      "end": 85
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "FORMOTEROL FUMARATO DIHIDRATO",
+      "surface": "FORMOTEROL FUMARATO DIHIDRATO",
+      "start": 88,
+      "end": 117
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 917,
+      "end": 941
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 942,
+      "end": 954
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión",
+      "surface": "Depresión",
+      "start": 956,
+      "end": 965
+    },
+    {
+      "type": "REACT",
+      "canonical": "alteraciones del comportamiento (principalmente en niños)",
+      "surface": "alteraciones del comportamiento (principalmente en niños)",
+      "start": 967,
+      "end": 1024
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 1026,
+      "end": 1041
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agresividad",
+      "surface": "Agresividad",
+      "start": 1043,
+      "end": 1054
+    },
+    {
+      "type": "REACT",
+      "canonical": "alteraciones del sueño",
+      "surface": "alteraciones del sueño",
+      "start": 1056,
+      "end": 1078
+    },
+    {
+      "type": "REACT",
+      "canonical": "ansiedad",
+      "surface": "ansiedad",
+      "start": 1080,
+      "end": 1088
+    },
+    {
+      "type": "REACT",
+      "canonical": "hiperactividad psicomotora",
+      "surface": "hiperactividad psicomotora",
+      "start": 1090,
+      "end": 1116
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1119,
+      "end": 1150
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 1031,
+      "end": 1041
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea",
+      "start": 1163,
+      "end": 1170
+    },
+    {
+      "type": "REACT",
+      "canonical": "temblor",
+      "surface": "temblor",
+      "start": 1172,
+      "end": 1179
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones del gusto",
+      "surface": "Alteraciones del gusto",
+      "start": 1195,
+      "end": 1217
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareo",
+      "surface": "Mareo",
+      "start": 1236,
+      "end": 1241
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1244,
+      "end": 1281
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones",
+      "start": 1294,
+      "end": 1307
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angina de pecho",
+      "surface": "Angina de pecho",
+      "start": 1323,
+      "end": 1338
+    },
+    {
+      "type": "REACT",
+      "canonical": "Arritmias cardíacas, como fibrilación auricular, taquicardia supraventricular, extrasístoles",
+      "surface": "Arritmias cardíacas, como fibrilación auricular, taquicardia supraventricular, extrasístoles",
+      "start": 1340,
+      "end": 1432
+    },
+    {
+      "type": "REACT",
+      "canonical": "Variaciones en la presión arterial",
+      "surface": "Variaciones en la presión arterial",
+      "start": 1434,
+      "end": 1468
+    },
+    {
+      "type": "REACT",
+      "canonical": "prolongación del intervalo QTc",
+      "surface": "prolongación del intervalo QTc",
+      "start": 1470,
+      "end": 1500
+    },
+    {
+      "type": "REACT",
+      "canonical": "Taquicardia",
+      "surface": "Taquicardia",
+      "start": 1389,
+      "end": 1400
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 1533,
+      "end": 1568
+    },
+    {
+      "type": "REACT",
+      "canonical": "Irritación leve de garganta",
+      "surface": "Irritación leve de garganta",
+      "start": 1581,
+      "end": 1608
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tos",
+      "surface": "Tos",
+      "start": 1610,
+      "end": 1613
+    },
+    {
+      "type": "REACT",
+      "canonical": "disfonía incluida ronquera",
+      "surface": "disfonía incluida ronquera",
+      "start": 1615,
+      "end": 1641
+    },
+    {
+      "type": "REACT",
+      "canonical": "broncoespasmo",
+      "surface": "broncoespasmo",
+      "start": 1657,
+      "end": 1670
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 1673,
+      "end": 1715
+    },
+    {
+      "type": "REACT",
+      "canonical": "Calambres musculares",
+      "surface": "Calambres musculares",
+      "start": 1733,
+      "end": 1753
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "INFECCIONES E INFESTACIONES",
+      "start": 1756,
+      "end": 1783
+    },
+    {
+      "type": "REACT",
+      "canonical": "Candidiasis orofaríngea",
+      "surface": "Candidiasis orofaríngea",
+      "start": 1796,
+      "end": 1819
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neumonía (en pacientes con EPOC)",
+      "surface": "Neumonía (en pacientes con EPOC)",
+      "start": 1821,
+      "end": 1853
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 1856,
+      "end": 1893
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cataratas y glaucoma",
+      "surface": "Cataratas y glaucoma",
+      "start": 1908,
+      "end": 1928
+    },
+    {
+      "type": "REACT",
+      "canonical": "Visión borrosa",
+      "surface": "Visión borrosa",
+      "start": 1947,
+      "end": 1961
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "surface": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "start": 1964,
+      "end": 1996
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de Cushing",
+      "surface": "Síndrome de Cushing",
+      "start": 2011,
+      "end": 2030
+    },
+    {
+      "type": "REACT",
+      "canonical": "disminución de la densidad mineral ósea",
+      "surface": "disminución de la densidad mineral ósea",
+      "start": 2032,
+      "end": 2071
+    },
+    {
+      "type": "REACT",
+      "canonical": "retraso del crecimiento",
+      "surface": "retraso del crecimiento",
+      "start": 2073,
+      "end": 2096
+    },
+    {
+      "type": "REACT",
+      "canonical": "supresión adrenal",
+      "surface": "supresión adrenal",
+      "start": 2098,
+      "end": 2115
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 2118,
+      "end": 2146
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hematomas",
+      "surface": "Hematomas",
+      "start": 2164,
+      "end": 2173
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "start": 2176,
+      "end": 2217
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperglucemia",
+      "surface": "Hiperglucemia",
+      "start": 2232,
+      "end": 2245
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipocalemia",
+      "surface": "Hipocalemia",
+      "start": 2247,
+      "end": 2258
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 2261,
+      "end": 2293
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 2311,
+      "end": 2318
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 2321,
+      "end": 2356
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacciones de hipersensibilidad inmediata y retardada, como exantema, urticaria, prurito, dermatitis, angioedema y reacción anafiláctica",
+      "surface": "Reacciones de hipersensibilidad inmediata y retardada, como exantema, urticaria, prurito, dermatitis, angioedema y reacción anafiláctica",
+      "start": 2371,
+      "end": 2507
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "BUDESONIDA, FORMOTEROL FUMARATO DIHIDRATO",
+      "surface": "BUDESONIDA, FORMOTEROL FUMARATO DIHIDRATO",
+      "start": 3862,
+      "end": 3903
+    }
+  ],
+  "raw_long_doc_text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nLa combinación de BUDESONIDA y FORMOTEROL FUMARATO DIHIDRATO presenta un perfil de seguridad concordante con el observado para sus componentes administrados por vía inhalatoria. La mayoría de los acontecimientos comunicados fueron de intensidad leve a moderada y tendieron a disminuir con la continuación del tratamiento. La evaluación debe considerar la dosis utilizada, la duración de la exposición y la situación clínica basal del paciente. La técnica de inhalación y las medidas de higiene tras la administración pueden contribuir a reducir molestias locales. En caso de síntomas persistentes, inesperados o clínicamente relevantes, se recomienda revisar el tratamiento y valorar la necesidad de medidas adicionales.\n\nLista tabulada de reacciones adversas\nLas reacciones se presentan por sistema de clasificación de órganos y por categoría de frecuencia.\n\nTRASTORNOS PSIQUIÁTRICOS\nno frecuente: Depresión, alteraciones del comportamiento (principalmente en niños).\npoco frecuentes: Agresividad, alteraciones del sueño, ansiedad, hiperactividad psicomotora.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nfrecuentes: Cefalea, temblor.\nno frecuente: Alteraciones del gusto.\npoco frecuentes: Mareo.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\nfrecuentes: Palpitaciones.\nno frecuente: Angina de pecho, Arritmias cardíacas, como fibrilación auricular, taquicardia supraventricular, extrasístoles, Variaciones en la presión arterial, prolongación del intervalo QTc.\npoco frecuentes: Taquicardia.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\nfrecuentes: Irritación leve de garganta, Tos, disfonía incluida ronquera.\nno frecuente: broncoespasmo.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\npoco frecuentes: Calambres musculares.\n\nINFECCIONES E INFESTACIONES\nfrecuentes: Candidiasis orofaríngea, Neumonía (en pacientes con EPOC).\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\nno frecuente: Cataratas y glaucoma.\npoco frecuentes: Visión borrosa.\n\nTRASTORNOS DEL SISTEMA ENDOCRINO\nno frecuente: Síndrome de Cushing, disminución de la densidad mineral ósea, retraso del crecimiento, supresión adrenal.\n\nTRASTORNOS DE PIEL Y TEJIDOS\npoco frecuentes: Hematomas.\n\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN\nno frecuente: Hiperglucemia, Hipocalemia.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\npoco frecuentes: Náuseas.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\nno frecuente: Reacciones de hipersensibilidad inmediata y retardada, como exantema, urticaria, prurito, dermatitis, angioedema y reacción anafiláctica.\n\nDescripción de reacciones adversas seleccionadas\nLos efectos locales pueden estar relacionados con el depósito del medicamento en la cavidad oral y la orofaringe. Debe instruirse al paciente para utilizar correctamente el dispositivo, inspirar de forma adecuada y mantener una rutina constante después de cada dosis. Cuando se observe mala tolerancia local, conviene comprobar la adherencia, la manipulación del inhalador y la necesidad de ajuste terapéutico.\n\nLos efectos sistémicos son más probables con dosis elevadas mantenidas durante periodos prolongados. La valoración clínica debe individualizarse y tener en cuenta factores de riesgo, tratamientos concomitantes y antecedentes relevantes. En población pediátrica se recomienda una supervisión periódica del desarrollo y de la respuesta terapéutica.\n\nLas manifestaciones cardiovasculares o de hipersensibilidad requieren especial atención cuando aparecen poco después de la administración o se acompañan de deterioro clínico. Ante cualquier cuadro importante, debe interrumpirse la administración según criterio médico y establecerse el tratamiento apropiado.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "BUDESONIDA",
+      "surface": "BUDESONIDA"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "FORMOTEROL FUMARATO DIHIDRATO",
+      "surface": "FORMOTEROL FUMARATO DIHIDRATO"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión",
+      "surface": "Depresión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "alteraciones del comportamiento (principalmente en niños)",
+      "surface": "alteraciones del comportamiento (principalmente en niños)"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agresividad",
+      "surface": "Agresividad"
+    },
+    {
+      "type": "REACT",
+      "canonical": "alteraciones del sueño",
+      "surface": "alteraciones del sueño"
+    },
+    {
+      "type": "REACT",
+      "canonical": "ansiedad",
+      "surface": "ansiedad"
+    },
+    {
+      "type": "REACT",
+      "canonical": "hiperactividad psicomotora",
+      "surface": "hiperactividad psicomotora"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "temblor",
+      "surface": "temblor"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones del gusto",
+      "surface": "Alteraciones del gusto"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareo",
+      "surface": "Mareo"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angina de pecho",
+      "surface": "Angina de pecho"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Arritmias cardíacas, como fibrilación auricular, taquicardia supraventricular, extrasístoles",
+      "surface": "Arritmias cardíacas, como fibrilación auricular, taquicardia supraventricular, extrasístoles"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Variaciones en la presión arterial",
+      "surface": "Variaciones en la presión arterial"
+    },
+    {
+      "type": "REACT",
+      "canonical": "prolongación del intervalo QTc",
+      "surface": "prolongación del intervalo QTc"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Taquicardia",
+      "surface": "Taquicardia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Irritación leve de garganta",
+      "surface": "Irritación leve de garganta"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tos",
+      "surface": "Tos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "disfonía incluida ronquera",
+      "surface": "disfonía incluida ronquera"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "broncoespasmo",
+      "surface": "broncoespasmo"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Calambres musculares",
+      "surface": "Calambres musculares"
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "INFECCIONES E INFESTACIONES"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Candidiasis orofaríngea",
+      "surface": "Candidiasis orofaríngea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neumonía (en pacientes con EPOC)",
+      "surface": "Neumonía (en pacientes con EPOC)"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cataratas y glaucoma",
+      "surface": "Cataratas y glaucoma"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Visión borrosa",
+      "surface": "Visión borrosa"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "surface": "TRASTORNOS DEL SISTEMA ENDOCRINO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de Cushing",
+      "surface": "Síndrome de Cushing"
+    },
+    {
+      "type": "REACT",
+      "canonical": "disminución de la densidad mineral ósea",
+      "surface": "disminución de la densidad mineral ósea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "retraso del crecimiento",
+      "surface": "retraso del crecimiento"
+    },
+    {
+      "type": "REACT",
+      "canonical": "supresión adrenal",
+      "surface": "supresión adrenal"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hematomas",
+      "surface": "Hematomas"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperglucemia",
+      "surface": "Hiperglucemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipocalemia",
+      "surface": "Hipocalemia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacciones de hipersensibilidad inmediata y retardada, como exantema, urticaria, prurito, dermatitis, angioedema y reacción anafiláctica",
+      "surface": "Reacciones de hipersensibilidad inmediata y retardada, como exantema, urticaria, prurito, dermatitis, angioedema y reacción anafiláctica"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "SYMBICORT FORTE TURBUHALER 320 microgramos/9 microgramos/INHALACION POLVO PARA INHALACION",
+        "pactivo": "BUDESONIDA, FORMOTEROL FUMARATO DIHIDRATO",
+        "reaccion": "Visión borrosa",
+        "frecuencia": "POCO FRECUENTE",
+        "sistema": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS"
+      },
+      "text": "En el sistema TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS, las notificaciones de Visión borrosa se han clasificado como poco frecuentes durante el tratamiento con BUDESONIDA, FORMOTEROL FUMARATO DIHIDRATO. Este hallazgo debe interpretarse en el contexto del uso inhalado y de la posible susceptibilidad individual del paciente; se recomienda valorar la evolución clínica si el síntoma aparece tras el inicio del tratamiento. En caso de persistencia o interferencia con actividades habituales, debe considerarse una evaluación médica y la revisión del tratamiento según criterio clínico. La notificación de sospechas contribuye a caracterizar mejor el perfil de seguridad.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+          "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Visión borrosa",
+          "surface": "Visión borrosa"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "BUDESONIDA, FORMOTEROL FUMARATO DIHIDRATO",
+          "surface": "BUDESONIDA, FORMOTEROL FUMARATO DIHIDRATO"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+          "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+          "start": 14,
+          "end": 51
+        },
+        {
+          "type": "REACT",
+          "canonical": "Visión borrosa",
+          "surface": "Visión borrosa",
+          "start": 75,
+          "end": 89
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes",
+          "start": 114,
+          "end": 129
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "BUDESONIDA, FORMOTEROL FUMARATO DIHIDRATO",
+          "surface": "BUDESONIDA, FORMOTEROL FUMARATO DIHIDRATO",
+          "start": 157,
+          "end": 198
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "SYMBICORT FORTE TURBUHALER 320 microgramos/9 microgramos/INHALACION POLVO PARA INHALACION",
+        "pactivo": "BUDESONIDA, FORMOTEROL FUMARATO DIHIDRATO",
+        "reaccion": "Arritmias cardíacas, como fibrilación auricular, taquicardia supraventricular, extrasístoles",
+        "frecuencia": "NO FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+      },
+      "text": "En la clasificación por sistema de órganos, dentro de TRASTORNOS DEL SISTEMA CARDIOVASCULAR, se han descrito Arritmias cardíacas, como fibrilación auricular, taquicardia supraventricular, extrasístoles con frecuencia no frecuente durante el tratamiento con BUDESONIDA, FORMOTEROL FUMARATO DIHIDRATO. Estas alteraciones pueden relacionarse con la actividad farmacológica del componente broncodilatador y, por lo general, requieren valoración clínica individual. En pacientes con antecedentes cardiovasculares o factores predisponentes, se recomienda mantener un seguimiento adecuado y reconsiderar el tratamiento si los síntomas persisten o son clínicamente relevantes.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Arritmias cardíacas, como fibrilación auricular, taquicardia supraventricular, extrasístoles",
+          "surface": "Arritmias cardíacas, como fibrilación auricular, taquicardia supraventricular, extrasístoles"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "BUDESONIDA, FORMOTEROL FUMARATO DIHIDRATO",
+          "surface": "BUDESONIDA, FORMOTEROL FUMARATO DIHIDRATO"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "start": 54,
+          "end": 91
+        },
+        {
+          "type": "REACT",
+          "canonical": "Arritmias cardíacas, como fibrilación auricular, taquicardia supraventricular, extrasístoles",
+          "surface": "Arritmias cardíacas, como fibrilación auricular, taquicardia supraventricular, extrasístoles",
+          "start": 109,
+          "end": 201
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente",
+          "start": 217,
+          "end": 229
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "BUDESONIDA, FORMOTEROL FUMARATO DIHIDRATO",
+          "surface": "BUDESONIDA, FORMOTEROL FUMARATO DIHIDRATO",
+          "start": 257,
+          "end": 298
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "SYMBICORT FORTE TURBUHALER 320 microgramos/9 microgramos/INHALACION POLVO PARA INHALACION",
+        "pactivo": "BUDESONIDA, FORMOTEROL FUMARATO DIHIDRATO",
+        "reaccion": "Irritación leve de garganta",
+        "frecuencia": "FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA RESPIRATORIO"
+      },
+      "text": "En la clasificación por órganos, la Irritación leve de garganta se incluye dentro de TRASTORNOS DEL SISTEMA RESPIRATORIO y se ha notificado entre las reacciones adversas frecuentes. Durante el tratamiento con BUDESONIDA, FORMOTEROL FUMARATO DIHIDRATO, este efecto local puede relacionarse con el depósito del polvo inhalado en la orofaringe. En general, se recomienda informar al paciente de que comunique la persistencia o la intensificación de la molestia, para valorar las medidas habituales de seguimiento clínico sin modificar de forma automática el tratamiento.",
+      "declared": [
+        {
+          "type": "REACT",
+          "canonical": "Irritación leve de garganta",
+          "surface": "Irritación leve de garganta"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+          "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "BUDESONIDA, FORMOTEROL FUMARATO DIHIDRATO",
+          "surface": "BUDESONIDA, FORMOTEROL FUMARATO DIHIDRATO"
+        }
+      ],
+      "validated": [
+        {
+          "type": "REACT",
+          "canonical": "Irritación leve de garganta",
+          "surface": "Irritación leve de garganta",
+          "start": 36,
+          "end": 63
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+          "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+          "start": 85,
+          "end": 120
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes",
+          "start": 170,
+          "end": 180
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "BUDESONIDA, FORMOTEROL FUMARATO DIHIDRATO",
+          "surface": "BUDESONIDA, FORMOTEROL FUMARATO DIHIDRATO",
+          "start": 209,
+          "end": 250
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

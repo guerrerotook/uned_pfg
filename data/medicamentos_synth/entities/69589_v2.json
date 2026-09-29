@@ -1,0 +1,443 @@
+{
+  "codigo": "69589",
+  "variante": 2,
+  "codigo_variant": "69589_v2",
+  "medicamento": "SPIRIVA RESPIMAT 2,5 microgramos SOLUCION PARA INHALACION",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "TIOTROPIO BROMURO",
+      "surface": "TIOTROPIO BROMURO",
+      "start": 95,
+      "end": 112
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "TIOTROPIO BROMURO",
+      "surface": "tiotropio",
+      "start": 95,
+      "end": 104
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "TIOTROPIO BROMURO",
+      "surface": "Spiriva Respimat",
+      "start": 397,
+      "end": 413
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 870,
+      "end": 907
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 908,
+      "end": 923
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la presión intraocular",
+      "surface": "Aumento de la presión intraocular",
+      "start": 925,
+      "end": 958
+    },
+    {
+      "type": "REACT",
+      "canonical": "Glaucoma",
+      "surface": "Glaucoma",
+      "start": 960,
+      "end": 968
+    },
+    {
+      "type": "REACT",
+      "canonical": "Visón borrosa",
+      "surface": "Visón borrosa",
+      "start": 970,
+      "end": 983
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 985,
+      "end": 1007
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 1070,
+      "end": 1105
+    },
+    {
+      "type": "REACT",
+      "canonical": "Broncoespasmo",
+      "surface": "Broncoespasmo",
+      "start": 1123,
+      "end": 1136
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disfonía",
+      "surface": "Disfonía",
+      "start": 1138,
+      "end": 1146
+    },
+    {
+      "type": "REACT",
+      "canonical": "Epistaxis",
+      "surface": "Epistaxis",
+      "start": 1148,
+      "end": 1157
+    },
+    {
+      "type": "REACT",
+      "canonical": "Faringitis",
+      "surface": "Faringitis",
+      "start": 1159,
+      "end": 1169
+    },
+    {
+      "type": "REACT",
+      "canonical": "Laringitis",
+      "surface": "Laringitis",
+      "start": 1171,
+      "end": 1181
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tos",
+      "surface": "Tos",
+      "start": 1183,
+      "end": 1186
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sinusitis",
+      "surface": "Sinusitis",
+      "start": 1224,
+      "end": 1233
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1236,
+      "end": 1268
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 913,
+      "end": 923
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad de boca",
+      "surface": "Sequedad de boca",
+      "start": 1281,
+      "end": 1297
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad de boca",
+      "surface": "boca seca",
+      "start": 1299,
+      "end": 1308
+    },
+    {
+      "type": "REACT",
+      "canonical": "Candidiasis orofaríngea",
+      "surface": "Candidiasis orofaríngea",
+      "start": 1328,
+      "end": 1351
+    },
+    {
+      "type": "REACT",
+      "canonical": "Caries dental",
+      "surface": "Caries dental",
+      "start": 1353,
+      "end": 1366
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disfagia",
+      "surface": "Disfagia",
+      "start": 1368,
+      "end": 1376
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estomatitis",
+      "surface": "Estomatitis",
+      "start": 1378,
+      "end": 1389
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento",
+      "start": 1391,
+      "end": 1404
+    },
+    {
+      "type": "REACT",
+      "canonical": "Gingivitis",
+      "surface": "Gingivitis",
+      "start": 1406,
+      "end": 1416
+    },
+    {
+      "type": "REACT",
+      "canonical": "Glositis",
+      "surface": "Glositis",
+      "start": 1418,
+      "end": 1426
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reflujo gastroesofágico",
+      "surface": "Reflujo gastroesofágico",
+      "start": 1428,
+      "end": 1451
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 1543,
+      "end": 1550
+    },
+    {
+      "type": "REACT",
+      "canonical": "Obstrucción intestinal, incluyendo íleo paralítico",
+      "surface": "Obstrucción intestinal, incluyendo íleo paralítico",
+      "start": 1552,
+      "end": 1602
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1630,
+      "end": 1661
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea",
+      "start": 1679,
+      "end": 1686
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insonmio",
+      "surface": "Insonmio",
+      "start": 1688,
+      "end": 1696
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareos",
+      "surface": "Mareos",
+      "start": 1698,
+      "end": 1704
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "start": 1707,
+      "end": 1748
+    },
+    {
+      "type": "REACT",
+      "canonical": "Deshidratación",
+      "surface": "Deshidratación",
+      "start": 1773,
+      "end": 1787
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "start": 1790,
+      "end": 1821
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disuria",
+      "surface": "Disuria",
+      "start": 1839,
+      "end": 1846
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infección del tracto urinario",
+      "surface": "Infección del tracto urinario",
+      "start": 1848,
+      "end": 1877
+    },
+    {
+      "type": "REACT",
+      "canonical": "Retención urinaria",
+      "surface": "Retención urinaria",
+      "start": 1879,
+      "end": 1897
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 1984,
+      "end": 2012
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema angioneurótico",
+      "surface": "Edema angioneurótico",
+      "start": 2030,
+      "end": 2050
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción",
+      "surface": "Erupción",
+      "start": 2052,
+      "end": 2060
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipersensibilidad",
+      "surface": "Hipersensibilidad",
+      "start": 2062,
+      "end": 2079
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infección de la piel/úlcera en la piel",
+      "surface": "Infección de la piel/úlcera en la piel",
+      "start": 2081,
+      "end": 2119
+    },
+    {
+      "type": "REACT",
+      "canonical": "Piel seca",
+      "surface": "Piel seca",
+      "start": 2121,
+      "end": 2130
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito",
+      "start": 2132,
+      "end": 2139
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria",
+      "start": 2141,
+      "end": 2150
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacción anafiláctica",
+      "surface": "Reacción anafiláctica",
+      "start": 2246,
+      "end": 2267
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 2270,
+      "end": 2307
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fibrilación auricular",
+      "surface": "Fibrilación auricular",
+      "start": 2325,
+      "end": 2346
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones",
+      "start": 2348,
+      "end": 2361
+    },
+    {
+      "type": "REACT",
+      "canonical": "Taquicardia",
+      "surface": "Taquicardia",
+      "start": 2363,
+      "end": 2374
+    },
+    {
+      "type": "REACT",
+      "canonical": "Taquicardia supraventricular",
+      "surface": "Taquicardia supraventricular",
+      "start": 2376,
+      "end": 2404
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 2497,
+      "end": 2539
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tumefacción en articulación",
+      "surface": "Tumefacción en articulación",
+      "start": 2564,
+      "end": 2591
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "TIOTROPIO BROMURO",
+      "surface": "tiotropio bromuro",
+      "start": 95,
+      "end": 112
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad de boca",
+      "surface": "sequedad de boca",
+      "start": 1281,
+      "end": 1297
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "Trastornos del sistema digestivo",
+      "start": 1236,
+      "end": 1268
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "Trastornos de piel y tejidos",
+      "start": 1984,
+      "end": 2012
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "TIOTROPIO BROMURO",
+      "surface": "Spiriva",
+      "start": 397,
+      "end": 404
+    }
+  ]
+}

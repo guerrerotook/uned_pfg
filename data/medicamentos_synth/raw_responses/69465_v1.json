@@ -1,0 +1,423 @@
+{
+  "codigo": "69465",
+  "variante": 1,
+  "codigo_variant": "69465_v1",
+  "medicamento": "SUPLECAL MINIPLASCO SOLUCION INYECTABLE",
+  "model": "gpt-5.5",
+  "style_variant_idx": 0,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\n\nEl perfil de seguridad de GLUCONATO CALCIO MONOHIDRATO está relacionado principalmente con la administración parenteral y con las condiciones en que se realiza la inyección. Las comunicaciones disponibles proceden de la experiencia clínica y de la notificación espontánea, por lo que no siempre es posible establecer una relación precisa con la dosis o con la duración de la exposición. La valoración de cualquier episodio debe tener en cuenta el estado clínico basal del paciente, la indicación del tratamiento y la técnica utilizada. En general, la vigilancia durante la administración permite detectar de forma temprana cambios clínicos relevantes y adaptar la velocidad de inyección cuando sea necesario.\n\nLas reacciones notificadas se presentan a continuación según el sistema de clasificación de órganos y la frecuencia. La información debe interpretarse en el contexto de un medicamento administrado bajo supervisión sanitaria. Cuando no se dispone de datos suficientes para calcular una incidencia, se utiliza la categoría correspondiente indicada en la tabla. La enumeración no implica necesariamente que todos los acontecimientos tengan la misma gravedad ni la misma probabilidad de aparición.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\nfrecuencia no conocida: Arritmia cardíaca; Bradicardia; colapso circulatorio (potencialmente mortal); hipotensión; rubor, especialmente después de una administración demasiado rápida; vasodilatación.\n\nTRASTORNOS DEL SISTEMA GENERAL\nfrecuencia no conocida: la administración intramuscular puede ir acompañada de sensación de dolor o eritema; sensación de calor; sudoración.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nfrecuencia no conocida: náuseas; vómitos.\n\nDescripción de reacciones adversas seleccionadas\n\nAlgunas manifestaciones pueden aparecer durante la administración o poco después de finalizarla. En estos casos debe revisarse la forma de administración, mantener la observación clínica y considerar la interrupción temporal o el ajuste de la velocidad según la situación del paciente. La evaluación debe realizarse de forma individual, especialmente cuando existan factores que puedan modificar la respuesta al tratamiento.\n\nLa administración por vía parenteral requiere comprobar la compatibilidad del procedimiento y asegurar una técnica adecuada. La aparición de signos durante la inyección debe valorarse de inmediato, ya que la evolución puede depender de la rapidez con la que se adopten medidas de soporte. Tras la resolución del episodio, se recomienda documentar las circunstancias de aparición, la vía utilizada y la evolución clínica, con el fin de facilitar una evaluación posterior.\n\nEs importante notificar cualquier sospecha de reacción adversa a través de los sistemas habituales de farmacovigilancia. La notificación continuada permite mantener actualizada la información de seguridad y contribuye a caracterizar mejor los acontecimientos observados durante el uso del medicamento en la práctica clínica.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nEn el sistema de clasificación de órganos TRASTORNOS DEL SISTEMA CARDIOVASCULAR, se ha descrito vasodilatación asociada al uso de GLUCONATO CALCIO MONOHIDRATO, con frecuencia no conocida, ya que no puede estimarse a partir de los datos disponibles. Este efecto puede relacionarse con la administración parenteral y con cambios transitorios del tono vascular. Se recomienda vigilancia clínica durante la administración y valoración individual de la continuidad del tratamiento si el cuadro resulta clínicamente relevante.\n\n-- Caso 2 --\nEn el sistema de clasificación de órganos Trastornos del sistema digestivo se han notificado vómitos asociados al uso de GLUCONATO CALCIO MONOHIDRATO, con frecuencia no conocida. La aparición de este acontecimiento puede estar relacionada con la administración parenteral y con la tolerabilidad individual al tratamiento. La información disponible no permite estimar la incidencia a partir de los datos existentes. Se recomienda valorar la evolución clínica del paciente y revisar las condiciones de administración cuando se observe este síntoma, considerando la interrupción o el ajuste de la perfusión según proceda.\n\n-- Caso 3 --\nEn los trastornos del sistema digestivo, se han descrito náuseas asociadas al tratamiento con GLUCONATO CALCIO MONOHIDRATO, con frecuencia no conocida, ya que no puede estimarse a partir de los datos disponibles. Este acontecimiento debe interpretarse en el contexto de la administración parenteral y de la situación clínica del paciente. Si aparece durante el tratamiento, se recomienda valorar la relación temporal con la administración, mantener la observación clínica y considerar las medidas habituales de seguimiento según la intensidad y evolución del cuadro. La decisión terapéutica se basará en la evaluación individual del beneficio y el riesgo.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "GLUCONATO CALCIO MONOHIDRATO",
+      "surface": "GLUCONATO CALCIO MONOHIDRATO",
+      "start": 84,
+      "end": 112
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1302,
+      "end": 1339
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 1340,
+      "end": 1362
+    },
+    {
+      "type": "REACT",
+      "canonical": "Arritmia cardíaca",
+      "surface": "Arritmia cardíaca",
+      "start": 1364,
+      "end": 1381
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bradicardia",
+      "surface": "Bradicardia",
+      "start": 1383,
+      "end": 1394
+    },
+    {
+      "type": "REACT",
+      "canonical": "colapso circulatorio (potencialmente mortal)",
+      "surface": "colapso circulatorio (potencialmente mortal)",
+      "start": 1396,
+      "end": 1440
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipotensión",
+      "surface": "hipotensión",
+      "start": 1442,
+      "end": 1453
+    },
+    {
+      "type": "REACT",
+      "canonical": "rubor, especialmente después de una administración demasiado rápida",
+      "surface": "rubor, especialmente después de una administración demasiado rápida",
+      "start": 1455,
+      "end": 1522
+    },
+    {
+      "type": "REACT",
+      "canonical": "vasodilatación",
+      "surface": "vasodilatación",
+      "start": 1524,
+      "end": 1538
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 1541,
+      "end": 1571
+    },
+    {
+      "type": "REACT",
+      "canonical": "la administración intramuscular puede ir acompañada de sensación de dolor o eritema",
+      "surface": "la administración intramuscular puede ir acompañada de sensación de dolor o eritema",
+      "start": 1596,
+      "end": 1679
+    },
+    {
+      "type": "REACT",
+      "canonical": "sensación de calor",
+      "surface": "sensación de calor",
+      "start": 1681,
+      "end": 1699
+    },
+    {
+      "type": "REACT",
+      "canonical": "sudoración",
+      "surface": "sudoración",
+      "start": 1701,
+      "end": 1711
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1714,
+      "end": 1746
+    },
+    {
+      "type": "REACT",
+      "canonical": "náuseas",
+      "surface": "náuseas",
+      "start": 1771,
+      "end": 1778
+    },
+    {
+      "type": "REACT",
+      "canonical": "vómitos",
+      "surface": "vómitos",
+      "start": 1780,
+      "end": 1787
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "Trastornos del sistema digestivo",
+      "start": 1714,
+      "end": 1746
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "trastornos del sistema digestivo",
+      "start": 1714,
+      "end": 1746
+    }
+  ],
+  "raw_long_doc_text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\n\nEl perfil de seguridad de GLUCONATO CALCIO MONOHIDRATO está relacionado principalmente con la administración parenteral y con las condiciones en que se realiza la inyección. Las comunicaciones disponibles proceden de la experiencia clínica y de la notificación espontánea, por lo que no siempre es posible establecer una relación precisa con la dosis o con la duración de la exposición. La valoración de cualquier episodio debe tener en cuenta el estado clínico basal del paciente, la indicación del tratamiento y la técnica utilizada. En general, la vigilancia durante la administración permite detectar de forma temprana cambios clínicos relevantes y adaptar la velocidad de inyección cuando sea necesario.\n\nLas reacciones notificadas se presentan a continuación según el sistema de clasificación de órganos y la frecuencia. La información debe interpretarse en el contexto de un medicamento administrado bajo supervisión sanitaria. Cuando no se dispone de datos suficientes para calcular una incidencia, se utiliza la categoría correspondiente indicada en la tabla. La enumeración no implica necesariamente que todos los acontecimientos tengan la misma gravedad ni la misma probabilidad de aparición.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\nfrecuencia no conocida: Arritmia cardíaca; Bradicardia; colapso circulatorio (potencialmente mortal); hipotensión; rubor, especialmente después de una administración demasiado rápida; vasodilatación.\n\nTRASTORNOS DEL SISTEMA GENERAL\nfrecuencia no conocida: la administración intramuscular puede ir acompañada de sensación de dolor o eritema; sensación de calor; sudoración.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nfrecuencia no conocida: náuseas; vómitos.\n\nDescripción de reacciones adversas seleccionadas\n\nAlgunas manifestaciones pueden aparecer durante la administración o poco después de finalizarla. En estos casos debe revisarse la forma de administración, mantener la observación clínica y considerar la interrupción temporal o el ajuste de la velocidad según la situación del paciente. La evaluación debe realizarse de forma individual, especialmente cuando existan factores que puedan modificar la respuesta al tratamiento.\n\nLa administración por vía parenteral requiere comprobar la compatibilidad del procedimiento y asegurar una técnica adecuada. La aparición de signos durante la inyección debe valorarse de inmediato, ya que la evolución puede depender de la rapidez con la que se adopten medidas de soporte. Tras la resolución del episodio, se recomienda documentar las circunstancias de aparición, la vía utilizada y la evolución clínica, con el fin de facilitar una evaluación posterior.\n\nEs importante notificar cualquier sospecha de reacción adversa a través de los sistemas habituales de farmacovigilancia. La notificación continuada permite mantener actualizada la información de seguridad y contribuye a caracterizar mejor los acontecimientos observados durante el uso del medicamento en la práctica clínica.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "GLUCONATO CALCIO MONOHIDRATO",
+      "surface": "GLUCONATO CALCIO MONOHIDRATO"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Arritmia cardíaca",
+      "surface": "Arritmia cardíaca"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bradicardia",
+      "surface": "Bradicardia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "colapso circulatorio (potencialmente mortal)",
+      "surface": "colapso circulatorio (potencialmente mortal)"
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipotensión",
+      "surface": "hipotensión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "rubor, especialmente después de una administración demasiado rápida",
+      "surface": "rubor, especialmente después de una administración demasiado rápida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "vasodilatación",
+      "surface": "vasodilatación"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "la administración intramuscular puede ir acompañada de sensación de dolor o eritema",
+      "surface": "la administración intramuscular puede ir acompañada de sensación de dolor o eritema"
+    },
+    {
+      "type": "REACT",
+      "canonical": "sensación de calor",
+      "surface": "sensación de calor"
+    },
+    {
+      "type": "REACT",
+      "canonical": "sudoración",
+      "surface": "sudoración"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "náuseas",
+      "surface": "náuseas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "vómitos",
+      "surface": "vómitos"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "SUPLECAL MINIPLASCO SOLUCION INYECTABLE",
+        "pactivo": "GLUCONATO CALCIO MONOHIDRATO",
+        "reaccion": "vasodilatación",
+        "frecuencia": "SIN FRECUENCIA",
+        "sistema": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+      },
+      "text": "En el sistema de clasificación de órganos TRASTORNOS DEL SISTEMA CARDIOVASCULAR, se ha descrito vasodilatación asociada al uso de GLUCONATO CALCIO MONOHIDRATO, con frecuencia no conocida, ya que no puede estimarse a partir de los datos disponibles. Este efecto puede relacionarse con la administración parenteral y con cambios transitorios del tono vascular. Se recomienda vigilancia clínica durante la administración y valoración individual de la continuidad del tratamiento si el cuadro resulta clínicamente relevante.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+        },
+        {
+          "type": "REACT",
+          "canonical": "vasodilatación",
+          "surface": "vasodilatación"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "GLUCONATO CALCIO MONOHIDRATO",
+          "surface": "GLUCONATO CALCIO MONOHIDRATO"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "start": 42,
+          "end": 79
+        },
+        {
+          "type": "REACT",
+          "canonical": "vasodilatación",
+          "surface": "vasodilatación",
+          "start": 96,
+          "end": 110
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "GLUCONATO CALCIO MONOHIDRATO",
+          "surface": "GLUCONATO CALCIO MONOHIDRATO",
+          "start": 130,
+          "end": 158
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida",
+          "start": 164,
+          "end": 186
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "SUPLECAL MINIPLASCO SOLUCION INYECTABLE",
+        "pactivo": "GLUCONATO CALCIO MONOHIDRATO",
+        "reaccion": "vómitos",
+        "frecuencia": "SIN FRECUENCIA",
+        "sistema": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+      },
+      "text": "En el sistema de clasificación de órganos Trastornos del sistema digestivo se han notificado vómitos asociados al uso de GLUCONATO CALCIO MONOHIDRATO, con frecuencia no conocida. La aparición de este acontecimiento puede estar relacionada con la administración parenteral y con la tolerabilidad individual al tratamiento. La información disponible no permite estimar la incidencia a partir de los datos existentes. Se recomienda valorar la evolución clínica del paciente y revisar las condiciones de administración cuando se observe este síntoma, considerando la interrupción o el ajuste de la perfusión según proceda.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "Trastornos del sistema digestivo"
+        },
+        {
+          "type": "REACT",
+          "canonical": "vómitos",
+          "surface": "vómitos"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "GLUCONATO CALCIO MONOHIDRATO",
+          "surface": "GLUCONATO CALCIO MONOHIDRATO"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "Trastornos del sistema digestivo",
+          "start": 42,
+          "end": 74
+        },
+        {
+          "type": "REACT",
+          "canonical": "vómitos",
+          "surface": "vómitos",
+          "start": 93,
+          "end": 100
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "GLUCONATO CALCIO MONOHIDRATO",
+          "surface": "GLUCONATO CALCIO MONOHIDRATO",
+          "start": 121,
+          "end": 149
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida",
+          "start": 155,
+          "end": 177
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "SUPLECAL MINIPLASCO SOLUCION INYECTABLE",
+        "pactivo": "GLUCONATO CALCIO MONOHIDRATO",
+        "reaccion": "náuseas",
+        "frecuencia": "SIN FRECUENCIA",
+        "sistema": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+      },
+      "text": "En los trastornos del sistema digestivo, se han descrito náuseas asociadas al tratamiento con GLUCONATO CALCIO MONOHIDRATO, con frecuencia no conocida, ya que no puede estimarse a partir de los datos disponibles. Este acontecimiento debe interpretarse en el contexto de la administración parenteral y de la situación clínica del paciente. Si aparece durante el tratamiento, se recomienda valorar la relación temporal con la administración, mantener la observación clínica y considerar las medidas habituales de seguimiento según la intensidad y evolución del cuadro. La decisión terapéutica se basará en la evaluación individual del beneficio y el riesgo.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "trastornos del sistema digestivo"
+        },
+        {
+          "type": "REACT",
+          "canonical": "náuseas",
+          "surface": "náuseas"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "GLUCONATO CALCIO MONOHIDRATO",
+          "surface": "GLUCONATO CALCIO MONOHIDRATO"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "trastornos del sistema digestivo",
+          "start": 7,
+          "end": 39
+        },
+        {
+          "type": "REACT",
+          "canonical": "náuseas",
+          "surface": "náuseas",
+          "start": 57,
+          "end": 64
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "GLUCONATO CALCIO MONOHIDRATO",
+          "surface": "GLUCONATO CALCIO MONOHIDRATO",
+          "start": 94,
+          "end": 122
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida",
+          "start": 128,
+          "end": 150
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

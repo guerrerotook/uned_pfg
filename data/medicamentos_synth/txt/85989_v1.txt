@@ -1,0 +1,35 @@
+Resumen del perfil de seguridad
+El perfil de seguridad de SUNITINIB MALATO se ha caracterizado en pacientes tratados en ensayos clínicos y durante la experiencia posterior a la autorización. La mayoría de los acontecimientos notificados fueron manejables mediante medidas de soporte, interrupción temporal o ajuste de la dosis, según la situación clínica. La evaluación debe considerar el estado basal del paciente, los tratamientos concomitantes y la evolución del proceso oncológico. En caso de manifestaciones persistentes o clínicamente relevantes, se recomienda una valoración individual antes de continuar el tratamiento. La información siguiente se presenta con terminología normalizada y agrupada por clasificación de órganos.
+
+Lista tabulada de reacciones adversas
+INFECCIONES E INFESTACIONES: frecuentes: Infección del tracto urinario.
+TRASTORNOS DEL SISTEMA NERVIOSO: muy frecuentes: Alteración del gusto, Cefalea, Mareo; frecuentes: Hiperestesia, Hipoestesia, Neuropatía periférica, Parestesia; poco frecuentes: Accidente isquémico transitorio; frecuencia no conocida: Encefalopatía hiperamonémica.
+TRASTORNOS DE PIEL Y TEJIDOS: muy frecuentes: Cambio de coloración del pelo, Sequedad de piel, Síndrome de eritrodisestesia palmoplantar; frecuentes: Acné, Alopecia, Ampollas, Dermatitis, Eczema, Eritema, Prurito, Hiperqueratosis.
+TRASTORNOS DEL SISTEMA GENERAL: muy frecuentes: Inflamación de las mucosas, Pirexia; frecuentes: Aumento de la presión sanguínea, Disminución de la hemoglobina, Disminución del peso, Escalofríos, Lipasa elevada.
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS: muy frecuentes: Anemia, Leucopenia, Neutropenia, Trombocitopenia; frecuentes: Linfopenia; poco frecuentes: Pancitopenia.
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR: muy frecuentes: Hipertensión; frecuentes: Disminución de la fracción de eyección, Rubefacción, Sofocos, Trombosis venosa profunda; poco frecuentes: Derrame pericárdico, Hemorragia tumoral, Insuficiencia cardiaca congestiva, Intervalo QT del electrocardiograma prolongado; frecuencia no conocida: Aneurismas y disecciones arteriales.
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO: poco frecuentes: Hipersensibilidad.
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO: muy frecuentes: Artralgia, Dolor de espalda, Dolor en las extremidades; frecuentes: Debilidad muscular, Dolor musculoesquelético, Espasmos musculares, Mialgia; poco frecuentes: Osteonecrosis mandibular.
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS: frecuentes: Aumento del lagrimeo, Edema del párpado, Edema periorbital.
+TRASTORNOS DEL SISTEMA DIGESTIVO: muy frecuentes: Diarrea, Dispepsia, Estreñimiento, Náuseas, Vómitos; frecuentes: Disfagia, Distensión abdominal, Dolor bucal, Enfermedad de reflujo gastroesofágico, Flatulencia, Hemorroides, Sequedad de boca; poco frecuentes: Función hepática anormal, Pancreatitis.
+TRASTORNOS DEL SISTEMA RESPIRATORIO: muy frecuentes: Disnea, Epistaxis, Tos; frecuentes: Congestión nasal, Disnea de esfuerzo, Hemoptisis, Sequedad nasal.
+TRASTORNOS DEL SISTEMA EXCRETOR: frecuentes: Cromaturia, Proteinuria; poco frecuentes: Hemorragia del tracto urinario.
+TRASTORNOS PSIQUIÁTRICOS: muy frecuentes: Insomnio; frecuentes: Depresión.
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN: muy frecuentes: Disminución del apetito; frecuentes: Deshidratación, Hipoglucemia.
+TRASTORNOS DEL SISTEMA ENDOCRINO: muy frecuentes: Hipotiroidismo; poco frecuentes: Hipertiroidismo.
+
+Descripción de reacciones adversas seleccionadas
+La monitorización durante el tratamiento debe incluir exploración clínica periódica y revisión de parámetros de laboratorio cuando esté indicado. La aparición de hallazgos nuevos debe interpretarse junto con la historia previa y con la exposición acumulada al medicamento. La decisión de modificar la pauta debe basarse en la intensidad, la reversibilidad y el impacto funcional de cada acontecimiento.
+
+En pacientes con factores predisponentes puede ser necesaria una vigilancia más estrecha. Deben considerarse medidas preventivas, tratamiento sintomático y seguimiento hasta la resolución o estabilización. La comunicación al paciente de los signos que requieren consulta médica facilita la detección precoz y el manejo adecuado en la práctica clínica habitual.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En la clasificación TRASTORNOS DE PIEL Y TEJIDOS, se ha identificado Pioderma gangrenoso como reacción adversa no frecuente durante el tratamiento con SUNITINIB MALATO. Este acontecimiento debe considerarse ante lesiones cutáneas compatibles de evolución progresiva, especialmente si no existe una explicación alternativa clara. El mecanismo puede relacionarse con la modulación de vías de señalización implicadas en la reparación tisular y la respuesta inflamatoria. Se recomienda evaluación clínica temprana, seguimiento adecuado y valorar la modificación del tratamiento según la gravedad y la evolución clínica.
+
+-- Caso 2 --
+En el sistema de clasificación de órganos TRASTORNOS DEL SISTEMA RESPIRATORIO, Disnea se incluye entre las reacciones adversas muy frecuentes notificadas durante el tratamiento. En pacientes tratados con SUNITINIB MALATO, su aparición debe valorarse en el contexto del estado clínico basal y de la evolución del paciente. Se recomienda realizar seguimiento clínico y considerar las medidas habituales de manejo según la intensidad del episodio, la persistencia de los síntomas y el balance beneficio-riesgo del tratamiento.
+
+-- Caso 3 --
+En la clasificación por sistema de órganos Infecciones e infestaciones, se han notificado abscesos como reacciones adversas frecuentes durante el tratamiento con SUNITINIB MALATO. Esta reacción debe valorarse en el contexto clínico del paciente y del estado general durante la administración. Se recomienda realizar seguimiento clínico y aplicar las medidas de manejo habituales cuando se sospeche la aparición de abscesos, considerando la continuidad del tratamiento según la evolución y el balance beneficio-riesgo individual.

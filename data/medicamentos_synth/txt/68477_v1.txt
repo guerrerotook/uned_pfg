@@ -1,0 +1,79 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+
+Durante el tratamiento con LORAZEPAM se han notificado acontecimientos que, en general, se relacionan con su acción farmacológica y con la sensibilidad individual del paciente. La intensidad de las manifestaciones puede variar según la dosis administrada, la duración del uso y la situación clínica de base. En pacientes de edad avanzada o debilitados puede ser necesaria una vigilancia más estrecha. La valoración clínica debe considerar la evolución temporal de los síntomas y la posible contribución de factores concomitantes. La información se presenta a continuación por clasificación de órganos y por frecuencia.
+
+Lista tabulada de reacciones adversas
+
+TRASTORNOS PSIQUIÁTRICOS
+frecuencia no conocida: Agitación, Agresividad, Alteraciones del sueño, Alucinaciones, Ansiedad, Deseo sexual, Deshinibición, Euforia, Excitación, Furia, Hostilidad, Ideas e intentos de suicidio, Insomnio.
+poco frecuentes: Cambio de  la líbido, Disminución de orgasmos.
+frecuentes: Confusión, Depresión, Desenmascaramiento de depresión.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+frecuencia no conocida: Agranulositosis, Pancitopenia, Trombocitopenia.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+frecuencia no conocida: Alopecia, Angioedema, Reaciones alérgicas en la piel.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+muy frecuentes: Sedación, Somnolencia.
+frecuentes: Ataxia, Mareos.
+frecuencia no conocida: Alteraciones de la atención/concentración, Amnesia, Coma, Convulsiones, Disartria, Dolor de cabeza, Efecto depresor del SNC a altas dosis, Síntomas extrapiramidales, Temblor, Trastorno del equilibrio.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+frecuencia no conocida: Apnea, Empeoramiento de la EPOC dosis dependiente, Empeoramiento de la apnea del sueño, Insuficiencia respiratoria.
+
+TRASTORNOS DEL SISTEMA GENERAL
+muy frecuentes: Fatiga.
+frecuentes: Astenia.
+frecuencia no conocida: Hipotermia.
+
+EXPLORACIONES COMPLEMENTARIAS
+frecuencia no conocida: Aumento de la bilirrubina, Aumento de la fosfatasa alcalina, Aumento de las transaminasas.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+frecuentes: Debilidad muscular.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+frecuencia no conocida: Dismninución de la presión sanguínea, Hipotensión.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+poco frecuentes: Náuseas.
+frecuencia no conocida: Estreñimiento.
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN
+frecuencia no conocida: Hiponatremia.
+
+TRASTORNOS DEL SISTEMA HEPATOBILIAR
+frecuencia no conocida: Ictericia.
+
+TRASTORNOS DEL SISTEMA REPRODUCTOR
+poco frecuentes: Impotencia.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+frecuencia no conocida: Problemas visuales (diplopia y visión borrosa), Vértigo.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+frecuencia no conocida: Reacciones de hipersensibilidad y anafilácticas/anafilactoides.
+
+TRASTORNOS DEL SISTEMA ENDOCRINO
+frecuencia no conocida: Síndrome de secreción inapropiada de hormona antidiurética.
+
+Descripción de reacciones adversas seleccionadas
+
+La aparición de acontecimientos inesperados debe evaluarse de forma individual, especialmente cuando exista tratamiento concomitante o enfermedad subyacente. En caso de observarse cambios clínicamente relevantes, se recomienda reconsiderar la pauta y realizar seguimiento hasta su resolución o estabilización.
+
+Algunos acontecimientos pueden comprometer la capacidad para realizar actividades que requieren atención sostenida. Por ello, se aconseja informar al paciente de que la respuesta al tratamiento puede variar y de que debe evitar situaciones de riesgo si nota afectación funcional. La notificación de sospechas permite mantener actualizada la información de seguridad del medicamento.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+Dentro de TRASTORNOS DEL SISTEMA GENERAL, la reacción adversa Fatiga se clasifica como muy frecuentes durante el tratamiento con LORAZEPAM. Este hallazgo es coherente con el perfil farmacológico del medicamento y puede observarse especialmente al inicio del tratamiento o tras ajustes de dosis. Se recomienda valorar la evolución clínica y la tolerabilidad individual, considerando las circunstancias del paciente y la necesidad de mantener, reducir o modificar la pauta según criterio médico. La información debe interpretarse en el contexto del seguimiento habitual de seguridad y de la notificación de sospechas de reacciones adversas.
+
+-- Caso 2 --
+Dentro del sistema de clasificación de órganos Trastornos psiquiátricos, se ha notificado Agresividad durante el tratamiento con LORAZEPAM, con frecuencia no conocida. Esta reacción puede aparecer de forma imprevisible y debe valorarse en el contexto clínico del paciente, especialmente cuando se observen cambios conductuales tras el inicio o ajuste de dosis. Se recomienda vigilancia clínica y reconsiderar la continuidad del tratamiento si el cuadro resulta clínicamente relevante. La evaluación debe considerar factores predisponentes, uso concomitante de otros medicamentos y la relación temporal con la exposición, sin descartar medidas de reducción o retirada gradual cuando proceda.
+
+-- Caso 3 --
+En la clasificación TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO, se incluye entre las reacciones adversas frecuentes: Debilidad muscular. Este efecto puede relacionarse con la acción depresora central de LORAZEPAM y debe considerarse al valorar la capacidad funcional del paciente durante el tratamiento, especialmente en situaciones que requieran estabilidad postural. En caso de aparición o persistencia, se recomienda seguimiento clínico y revisión de la dosis, teniendo en cuenta la evolución, la edad y la sensibilidad individual. La notificación de esta reacción contribuye a mantener actualizado el perfil de seguridad durante el uso autorizado.

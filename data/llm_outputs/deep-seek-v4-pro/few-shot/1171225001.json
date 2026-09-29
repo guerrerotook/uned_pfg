@@ -1,0 +1,254 @@
+[
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "anemia",
+    "frecuencia": "frecuente",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "hipersensibilidad (al medicamento)",
+    "frecuencia": "frecuente",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "síndrome inflamatorio de reconstitución inmunitaria",
+    "frecuencia": "poco frecuente",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "diabetes mellitus",
+    "frecuencia": "frecuente",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "anorexia",
+    "frecuencia": "frecuente",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "hipercolesterolemia",
+    "frecuencia": "frecuente",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "aumento de lipoproteína de baja densidad",
+    "frecuencia": "frecuente",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "hipertrigliceridemia",
+    "frecuencia": "frecuente",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "hiperlipidemia",
+    "frecuencia": "frecuente",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "dislipidemia",
+    "frecuencia": "frecuente",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "hiperglucemia",
+    "frecuencia": "poco frecuente",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "sueños anormales",
+    "frecuencia": "frecuente",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "cefalea",
+    "frecuencia": "muy frecuente",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "mareo",
+    "frecuencia": "frecuente",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "diarrea",
+    "frecuencia": "muy frecuente",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "vómitos",
+    "frecuencia": "frecuente",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "náuseas",
+    "frecuencia": "frecuente",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "dolor abdominal",
+    "frecuencia": "frecuente",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "distensión abdominal",
+    "frecuencia": "frecuente",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "dispepsia",
+    "frecuencia": "frecuente",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "flatulencia",
+    "frecuencia": "frecuente",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "pancreatitis aguda",
+    "frecuencia": "poco frecuente",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "aumento de las enzimas pancreáticas",
+    "frecuencia": "poco frecuente",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "aumento de las enzimas hepáticas",
+    "frecuencia": "frecuente",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "hepatitis aguda",
+    "frecuencia": "poco frecuente",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "hepatitis citolítica",
+    "frecuencia": "poco frecuente",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "erupción (incluyendo erupción macular, maculopapular, papular, eritematosa, prurítica, erupción generalizada y dermatitis alérgica)",
+    "frecuencia": "muy frecuente",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "prurito",
+    "frecuencia": "frecuente",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "urticaria",
+    "frecuencia": "frecuente",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "angioedema",
+    "frecuencia": "poco frecuente",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "reacción al medicamento con eosinofilia y síntomas sistémicos",
+    "frecuencia": "rara",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "síndrome de Stevens-Johnson",
+    "frecuencia": "rara",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "necrólisis epidérmica tóxica",
+    "frecuencia": "frecuencia no conocida",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "pustulosis exantemática generalizada aguda",
+    "frecuencia": "frecuencia no conocida",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "artralgia",
+    "frecuencia": "frecuente",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "mialgia",
+    "frecuencia": "frecuente",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "osteonecrosis",
+    "frecuencia": "poco frecuente",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "nefropatía por depósito de cristales",
+    "frecuencia": "rara",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "ginecomastia",
+    "frecuencia": "poco frecuente",
+    "trastorno": "Trastornos del aparato reproductor y de la mama"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "astenia",
+    "frecuencia": "frecuente",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "cansancio",
+    "frecuencia": "frecuente",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "DARUNAVIR ETANOLATO",
+    "reacción adversa": "aumento de la creatinina en sangre",
+    "frecuencia": "frecuente",
+    "trastorno": "Exploraciones complementarias"
+  }
+]

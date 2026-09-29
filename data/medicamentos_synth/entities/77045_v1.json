@@ -1,0 +1,58 @@
+{
+  "codigo": "77045",
+  "variante": 1,
+  "codigo_variant": "77045_v1",
+  "medicamento": "LEVOTIROXINA SODICA TEVA 100 microgramos COMPRIMIDOS EFG",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "LEVOTIROXINA SODICA",
+      "surface": "LEVOTIROXINA SODICA",
+      "start": 84,
+      "end": 103
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angioedema",
+      "surface": "Angioedema",
+      "start": 455,
+      "end": 465
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción cuttánea",
+      "surface": "Erupción cuttánea",
+      "start": 467,
+      "end": 484
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria",
+      "start": 487,
+      "end": 496
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 501,
+      "end": 523
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 1741,
+      "end": 1769
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción cuttánea",
+      "surface": "erupción cutánea",
+      "start": 4172,
+      "end": 4188
+    }
+  ]
+}

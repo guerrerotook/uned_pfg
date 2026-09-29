@@ -1,0 +1,324 @@
+{
+  "codigo": "108494005",
+  "variante": 2,
+  "codigo_variant": "108494005_v2",
+  "medicamento": "STELARA 130 MG CONCENTRADO PARA SOLUCION PARA PERFUSION",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "USTEKINUMAB",
+      "surface": "USTEKINUMAB",
+      "start": 87,
+      "end": 98
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "USTEKINUMAB",
+      "surface": "ustekinumab",
+      "start": 87,
+      "end": 98
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "USTEKINUMAB",
+      "surface": "Stelara",
+      "start": 113,
+      "end": 120
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 988,
+      "end": 1016
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 1017,
+      "end": 1027
+    },
+    {
+      "type": "REACT",
+      "canonical": "Enrojecimiento y dolor en el lugar de inyección",
+      "surface": "Enrojecimiento y dolor en el lugar de inyección",
+      "start": 1029,
+      "end": 1076
+    },
+    {
+      "type": "REACT",
+      "canonical": "Picor (“prurito”)",
+      "surface": "Picor (“prurito”)",
+      "start": 1078,
+      "end": 1095
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 1097,
+      "end": 1112
+    },
+    {
+      "type": "REACT",
+      "canonical": "Acné",
+      "surface": "Acné",
+      "start": 1114,
+      "end": 1118
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anafilaxia",
+      "surface": "Anafilaxia",
+      "start": 1120,
+      "end": 1130
+    },
+    {
+      "type": "REACT",
+      "canonical": "Descamación de la piel",
+      "surface": "Descamación de la piel",
+      "start": 1132,
+      "end": 1154
+    },
+    {
+      "type": "REACT",
+      "canonical": "Endurecimiento, hinchazón y picor en el lugar de la inyección",
+      "surface": "Endurecimiento, hinchazón y picor en el lugar de la inyección",
+      "start": 1156,
+      "end": 1217
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción cutánea",
+      "surface": "Erupción cutánea",
+      "start": 1219,
+      "end": 1235
+    },
+    {
+      "type": "REACT",
+      "canonical": "cardenales",
+      "surface": "cardenales",
+      "start": 1237,
+      "end": 1247
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1250,
+      "end": 1281
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión",
+      "surface": "Depresión",
+      "start": 1299,
+      "end": 1308
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parálisis facial (normalmente temporal)",
+      "surface": "Parálisis facial (normalmente temporal)",
+      "start": 1310,
+      "end": 1349
+    },
+    {
+      "type": "REACT",
+      "canonical": "Párpado caído",
+      "surface": "Párpado caído",
+      "start": 1351,
+      "end": 1364
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1367,
+      "end": 1399
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea",
+      "start": 1412,
+      "end": 1419
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor de garganta",
+      "surface": "Dolor de garganta",
+      "start": 1421,
+      "end": 1438
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 1440,
+      "end": 1447
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos",
+      "start": 1449,
+      "end": 1456
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dificultad para respirar y tragar",
+      "surface": "Dificultad para respirar y tragar",
+      "start": 1475,
+      "end": 1508
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 1511,
+      "end": 1541
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor de cabeza",
+      "surface": "Dolor de cabeza",
+      "start": 1554,
+      "end": 1569
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sensación de cansancio",
+      "surface": "Sensación de cansancio",
+      "start": 1571,
+      "end": 1593
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sensación de mareo",
+      "surface": "Sensación de mareo",
+      "start": 1595,
+      "end": 1613
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sentirse débil",
+      "surface": "Sentirse débil",
+      "start": 1632,
+      "end": 1646
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 1649,
+      "end": 1691
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor de espalda, muscular o articular",
+      "surface": "Dolor de espalda, muscular o articular",
+      "start": 1704,
+      "end": 1742
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 1745,
+      "end": 1794
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia",
+      "surface": "Hemorragia",
+      "start": 1812,
+      "end": 1822
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "INFECCIONES E INFESTACIONES",
+      "start": 1825,
+      "end": 1852
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infecciones nariz o garganta",
+      "surface": "Infecciones nariz o garganta",
+      "start": 1865,
+      "end": 1893
+    },
+    {
+      "type": "REACT",
+      "canonical": "Resfriado común",
+      "surface": "Resfriado común",
+      "start": 1895,
+      "end": 1910
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sinusitis",
+      "surface": "Sinusitis",
+      "start": 1912,
+      "end": 1921
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infecciones dentales",
+      "surface": "Infecciones dentales",
+      "start": 1940,
+      "end": 1960
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infecciones vaginales por levaduras",
+      "surface": "Infecciones vaginales por levaduras",
+      "start": 1962,
+      "end": 1997
+    },
+    {
+      "type": "REACT",
+      "canonical": "Taponamiento o congestión nasal",
+      "surface": "Taponamiento o congestión nasal",
+      "start": 1999,
+      "end": 2030
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 2033,
+      "end": 2070
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tensión arterial baja",
+      "surface": "Tensión arterial baja",
+      "start": 2088,
+      "end": 2109
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "Trastornos del sistema nervioso",
+      "start": 1250,
+      "end": 1281
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "Trastornos del sistema general",
+      "start": 1511,
+      "end": 1541
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sensación de cansancio",
+      "surface": "cansancio",
+      "start": 1584,
+      "end": 1593
+    }
+  ]
+}

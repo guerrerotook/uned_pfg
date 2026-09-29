@@ -1,0 +1,356 @@
+[
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Leucopenia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Neutropenia",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Agranulocitosis",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Reacciones anafilácticas",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Urticaria",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Disnea",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Hipotensión",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Shock anafiláctico",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Hiperprolactinemia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos endocrinos"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Hiponatremia",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Síndrome de secreción inadecuada de hormona antidiurética (SIHAD)",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Insomnio",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Confusión",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Sedación o somnolencia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Trastorno extrapiramidal",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Parkinsonismo",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Temblor",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Acatisia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Hipertonía",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Discinesia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Distonía",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Crisis oculógiras",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Convulsiones",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Síndrome neuroléptico maligno",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Hipoquinesia",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Discinesia tardía",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Arritmia ventricular",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Taquicardia ventricular",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Fibrilación ventricular",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Prolongación del intervalo QT en electrocardiograma",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Paro cardiaco",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Torsade de pointes",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Muerte súbita",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Hipotensión ortostática",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Tromboembolismo venoso",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Embolismo pulmonar",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Trombosis venosa profunda",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Aumento de la presión sanguínea",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Neumonía por aspiración",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Estreñimiento",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Hipersecreción salival",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Incremento de enzimas hepáticas",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Daño hepático hepatocelular, colestásico o mixto",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Rash maculopapular",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Tortícolis",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Trismo",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Rabdomiólisis",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Síntomas extrapiramidales en recién nacidos",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Embarazo, puerperio y enfermedades perinatales"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Síndrome de retirada en recién nacidos",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Embarazo, puerperio y enfermedades perinatales"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Dolor de pecho",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del aparato reproductor y de la mama"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Galactorrea",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del aparato reproductor y de la mama"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Aumento del pecho",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del aparato reproductor y de la mama"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Amenorrea",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del aparato reproductor y de la mama"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Orgasmo anormal",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del aparato reproductor y de la mama"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Disfunción eréctil",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del aparato reproductor y de la mama"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Ginecomastia",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del aparato reproductor y de la mama"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Aumento de peso",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Hipertermia",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "SULPIRIDA",
+    "reacción adversa": "Aumento de la creatina fosfoquinasa en sangre",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Exploraciones complementarias"
+  }
+]

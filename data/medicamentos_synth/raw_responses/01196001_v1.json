@@ -1,0 +1,1402 @@
+{
+  "codigo": "01196001",
+  "variante": 1,
+  "codigo_variant": "01196001_v1",
+  "medicamento": "CANCIDAS 50 MG POLVO PARA CONCENTRADO PARA SOLUCION PARA PERFUSION",
+  "model": "gpt-5.5",
+  "style_variant_idx": 0,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil de seguridad de CASPOFUNGINA se ha evaluado en pacientes tratados por infección fúngica invasiva o en situación de riesgo clínico elevado. En conjunto, las reacciones notificadas fueron habitualmente manejables con vigilancia clínica, control analítico y medidas de soporte. La administración intravenosa puede asociarse a manifestaciones generales o locales, por lo que se recomienda observar el lugar de administración durante el tratamiento. La interpretación de los hallazgos debe considerar la enfermedad de base, los tratamientos concomitantes y la situación inmunológica del paciente. En la lista se emplean exclusivamente las categorías frecuentes, poco frecuentes y frecuencia no conocida.\n\nLista tabulada de reacciones adversas\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR: frecuentes: Flebitis; poco frecuentes: Acaloramiento, Arritmia, Fibrilación auricular, Hipertensión, Hipotensión, Taquicardia, Tromboflebitis.\n\nPRUEBAS COMPLEMENTARIAS: frecuentes: Albúmina disminuida en sangre, Potasio disminuido en sangre; poco frecuentes: Creatinina elevada en sangre, Hematuria, Glucosa elevada en sangre, Presión arterial aumentada, Urea elevada en sangre, Sodio disminuido en sangre.\n\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN: frecuentes: Hipokalemia; poco frecuentes: Acidosis metabólica, Anorexia, Desequilibrio electrolítico, Hiperglucemia, Hipocalcemia, Hipomagnesemia.\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS: frecuentes: Hematocrito disminuido, Hemoglobina disminuida, Recuento disminuido de leucocitos; poco frecuentes: Anemia, Leucopenia, Trombocitopenia, Coagulopatía.\n\nTRASTORNOS PSIQUIÁTRICOS: poco frecuentes: Ansiedad, Desorientación, Insomnio.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO: frecuentes: Artralgia; poco frecuentes: Dolor de espalda, Dolor en una extremidad, Mialgia.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO: frecuentes: Diarrea, Náuseas, Vómitos, Elevación de los valores hepáticos (ALT, AST, FALc, bilirrubina conjugada, bilirrubina en sangre); poco frecuentes: Dolor abdominal, Estreñimiento, Dispepsia, Hiperbilirrubinemia, Ictericia, Hepatotoxicidad.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO: poco frecuentes: Broncoespasmo, Tos, Hipoxia, Sibilancia.\n\nTRASTORNOS DEL SISTEMA NERVIOSO: frecuentes: Cefalea; poco frecuentes: Mareo, Parestesias, Somnolencia, Temblor.\n\nTRASTORNOS DE PIEL Y TEJIDOS: frecuentes: Eritema, Erupción, Hiperhidrosis, Prurito; poco frecuentes: Urticaria, Erupción maculopapular, Prurito generalizado; frecuencia no conocida: Necrolisis epidérmica tóxica (NET), Síndrome de Stevens - Johnson (SSJ).\n\nTRASTORNOS DEL SISTEMA REPRODUCTOR: frecuentes: Disnea.\n\nTRASTORNOS DEL SISTEMA GENERAL: frecuentes: Escalofrío, Pirexia, Prurito en el lugar de perfusión; poco frecuentes: Dolor, Edema, Fatiga, Malestar general, Dolor en el lugar de perfusión, Eritema en la zona de perfusión, Extravasación en el lugar de perfusión.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS: poco frecuentes: Edema palpebral, Visión borrosa, Lagrimeo aumentado.\n\nTRASTORNOS DEL SISTEMA EXCRETOR: poco frecuentes: Fallo renal, Insuficiencia renal aguda.\n\nDescripción de reacciones adversas seleccionadas\nLa vigilancia durante el tratamiento debe incluir la valoración periódica del estado clínico y de los parámetros de laboratorio que resulten relevantes para cada paciente. En caso de hallazgos clínicamente significativos, se debe considerar la relación temporal con la administración y la presencia de otros factores contribuyentes. Las manifestaciones locales asociadas a la administración suelen requerir únicamente medidas sintomáticas, aunque pueden justificar una revisión de la vía utilizada. Las alteraciones graves de la piel requieren suspensión del tratamiento y evaluación médica inmediata.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nEn la clasificación por sistemas y órganos, dentro de TRASTORNOS DE PIEL Y TEJIDOS, se ha notificado Síndrome de Stevens - Johnson (SSJ) asociado al tratamiento con CASPOFUNGINA, con frecuencia no conocida. La relación temporal debe valorarse en el contexto clínico del paciente y de la administración concomitante de otros medicamentos. Ante la sospecha de esta reacción, debe considerarse la interrupción del tratamiento según criterio médico y realizarse un seguimiento estrecho hasta la resolución o estabilización clínica. La evaluación de causalidad debe quedar documentada en la historia clínica.\n\n-- Caso 2 --\nEn la clasificación por órganos, las Náuseas se incluyen dentro de Trastornos del sistema digestivo y se han notificado como frecuentes durante el tratamiento con CASPOFUNGINA. Este hallazgo es coherente con un perfil de tolerabilidad gastrointestinal observado durante la administración intravenosa, sin que por sí solo implique necesariamente la interrupción del tratamiento. Se recomienda valorar la intensidad, la relación temporal con la perfusión y la evolución clínica, especialmente en pacientes con factores concomitantes que puedan dificultar la interpretación. La información debe considerarse junto con el estado basal del paciente y el seguimiento clínico habitual.\n\n-- Caso 3 --\nEn la clasificación de TRASTORNOS DEL SISTEMA GENERAL, se incluye Malestar general entre las reacciones adversas poco frecuentes notificadas durante el tratamiento con CASPOFUNGINA. Este acontecimiento debe interpretarse en el contexto del estado clínico del paciente y de la administración concomitante de otros tratamientos, sin que por sí solo implique necesariamente la interrupción del tratamiento. Se recomienda realizar seguimiento clínico y valorar la evolución temporal tras cada perfusión, especialmente si el síntoma persiste o afecta a la tolerabilidad. La evaluación debe basarse en la intensidad, la duración y la relación temporal con la administración.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "CASPOFUNGINA",
+      "surface": "CASPOFUNGINA",
+      "start": 83,
+      "end": 95
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 712,
+      "end": 722
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 724,
+      "end": 739
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 742,
+      "end": 764
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 805,
+      "end": 842
+    },
+    {
+      "type": "REACT",
+      "canonical": "Flebitis",
+      "surface": "Flebitis",
+      "start": 856,
+      "end": 864
+    },
+    {
+      "type": "REACT",
+      "canonical": "Acaloramiento",
+      "surface": "Acaloramiento",
+      "start": 883,
+      "end": 896
+    },
+    {
+      "type": "REACT",
+      "canonical": "Arritmia",
+      "surface": "Arritmia",
+      "start": 898,
+      "end": 906
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fibrilación auricular",
+      "surface": "Fibrilación auricular",
+      "start": 908,
+      "end": 929
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertensión",
+      "surface": "Hipertensión",
+      "start": 931,
+      "end": 943
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión",
+      "start": 945,
+      "end": 956
+    },
+    {
+      "type": "REACT",
+      "canonical": "Taquicardia",
+      "surface": "Taquicardia",
+      "start": 958,
+      "end": 969
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tromboflebitis",
+      "surface": "Tromboflebitis",
+      "start": 971,
+      "end": 985
+    },
+    {
+      "type": "SYS",
+      "canonical": "PRUEBAS COMPLEMENTARIAS",
+      "surface": "PRUEBAS COMPLEMENTARIAS",
+      "start": 988,
+      "end": 1011
+    },
+    {
+      "type": "REACT",
+      "canonical": "Albúmina disminuida en sangre",
+      "surface": "Albúmina disminuida en sangre",
+      "start": 1025,
+      "end": 1054
+    },
+    {
+      "type": "REACT",
+      "canonical": "Potasio disminuido en sangre",
+      "surface": "Potasio disminuido en sangre",
+      "start": 1056,
+      "end": 1084
+    },
+    {
+      "type": "REACT",
+      "canonical": "Creatinina elevada en sangre",
+      "surface": "Creatinina elevada en sangre",
+      "start": 1103,
+      "end": 1131
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hematuria",
+      "surface": "Hematuria",
+      "start": 1133,
+      "end": 1142
+    },
+    {
+      "type": "REACT",
+      "canonical": "Glucosa elevada en sangre",
+      "surface": "Glucosa elevada en sangre",
+      "start": 1144,
+      "end": 1169
+    },
+    {
+      "type": "REACT",
+      "canonical": "Presión arterial aumentada",
+      "surface": "Presión arterial aumentada",
+      "start": 1171,
+      "end": 1197
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urea elevada en sangre",
+      "surface": "Urea elevada en sangre",
+      "start": 1199,
+      "end": 1221
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sodio disminuido en sangre",
+      "surface": "Sodio disminuido en sangre",
+      "start": 1223,
+      "end": 1249
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "start": 1252,
+      "end": 1293
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipokalemia",
+      "surface": "Hipokalemia",
+      "start": 1307,
+      "end": 1318
+    },
+    {
+      "type": "REACT",
+      "canonical": "Acidosis metabólica",
+      "surface": "Acidosis metabólica",
+      "start": 1337,
+      "end": 1356
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anorexia",
+      "surface": "Anorexia",
+      "start": 1358,
+      "end": 1366
+    },
+    {
+      "type": "REACT",
+      "canonical": "Desequilibrio electrolítico",
+      "surface": "Desequilibrio electrolítico",
+      "start": 1368,
+      "end": 1395
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperglucemia",
+      "surface": "Hiperglucemia",
+      "start": 1397,
+      "end": 1410
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipocalcemia",
+      "surface": "Hipocalcemia",
+      "start": 1412,
+      "end": 1424
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipomagnesemia",
+      "surface": "Hipomagnesemia",
+      "start": 1426,
+      "end": 1440
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 1443,
+      "end": 1492
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hematocrito disminuido",
+      "surface": "Hematocrito disminuido",
+      "start": 1506,
+      "end": 1528
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemoglobina disminuida",
+      "surface": "Hemoglobina disminuida",
+      "start": 1530,
+      "end": 1552
+    },
+    {
+      "type": "REACT",
+      "canonical": "Recuento disminuido de leucocitos",
+      "surface": "Recuento disminuido de leucocitos",
+      "start": 1554,
+      "end": 1587
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia",
+      "surface": "Anemia",
+      "start": 1606,
+      "end": 1612
+    },
+    {
+      "type": "REACT",
+      "canonical": "Leucopenia",
+      "surface": "Leucopenia",
+      "start": 1614,
+      "end": 1624
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombocitopenia",
+      "surface": "Trombocitopenia",
+      "start": 1626,
+      "end": 1641
+    },
+    {
+      "type": "REACT",
+      "canonical": "Coagulopatía",
+      "surface": "Coagulopatía",
+      "start": 1643,
+      "end": 1655
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 1658,
+      "end": 1682
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ansiedad",
+      "surface": "Ansiedad",
+      "start": 1701,
+      "end": 1709
+    },
+    {
+      "type": "REACT",
+      "canonical": "Desorientación",
+      "surface": "Desorientación",
+      "start": 1711,
+      "end": 1725
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insomnio",
+      "surface": "Insomnio",
+      "start": 1727,
+      "end": 1735
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 1738,
+      "end": 1780
+    },
+    {
+      "type": "REACT",
+      "canonical": "Artralgia",
+      "surface": "Artralgia",
+      "start": 1794,
+      "end": 1803
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor de espalda",
+      "surface": "Dolor de espalda",
+      "start": 1822,
+      "end": 1838
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor en una extremidad",
+      "surface": "Dolor en una extremidad",
+      "start": 1840,
+      "end": 1863
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mialgia",
+      "surface": "Mialgia",
+      "start": 1865,
+      "end": 1872
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1875,
+      "end": 1907
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea",
+      "start": 1921,
+      "end": 1928
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 1930,
+      "end": 1937
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos",
+      "start": 1939,
+      "end": 1946
+    },
+    {
+      "type": "REACT",
+      "canonical": "Elevación de los valores hepáticos (ALT, AST, FALc, bilirrubina conjugada, bilirrubina en sangre)",
+      "surface": "Elevación de los valores hepáticos (ALT, AST, FALc, bilirrubina conjugada, bilirrubina en sangre)",
+      "start": 1948,
+      "end": 2045
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor abdominal",
+      "surface": "Dolor abdominal",
+      "start": 2064,
+      "end": 2079
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento",
+      "start": 2081,
+      "end": 2094
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dispepsia",
+      "surface": "Dispepsia",
+      "start": 2096,
+      "end": 2105
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperbilirrubinemia",
+      "surface": "Hiperbilirrubinemia",
+      "start": 2107,
+      "end": 2126
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ictericia",
+      "surface": "Ictericia",
+      "start": 2128,
+      "end": 2137
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hepatotoxicidad",
+      "surface": "Hepatotoxicidad",
+      "start": 2139,
+      "end": 2154
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 2157,
+      "end": 2192
+    },
+    {
+      "type": "REACT",
+      "canonical": "Broncoespasmo",
+      "surface": "Broncoespasmo",
+      "start": 2211,
+      "end": 2224
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tos",
+      "surface": "Tos",
+      "start": 2226,
+      "end": 2229
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipoxia",
+      "surface": "Hipoxia",
+      "start": 2231,
+      "end": 2238
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sibilancia",
+      "surface": "Sibilancia",
+      "start": 2240,
+      "end": 2250
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 2253,
+      "end": 2284
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea",
+      "start": 2298,
+      "end": 2305
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareo",
+      "surface": "Mareo",
+      "start": 2324,
+      "end": 2329
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parestesias",
+      "surface": "Parestesias",
+      "start": 2331,
+      "end": 2342
+    },
+    {
+      "type": "REACT",
+      "canonical": "Somnolencia",
+      "surface": "Somnolencia",
+      "start": 2344,
+      "end": 2355
+    },
+    {
+      "type": "REACT",
+      "canonical": "Temblor",
+      "surface": "Temblor",
+      "start": 2357,
+      "end": 2364
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 2367,
+      "end": 2395
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eritema",
+      "surface": "Eritema",
+      "start": 2409,
+      "end": 2416
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción",
+      "surface": "Erupción",
+      "start": 2418,
+      "end": 2426
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperhidrosis",
+      "surface": "Hiperhidrosis",
+      "start": 2428,
+      "end": 2441
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito",
+      "start": 2443,
+      "end": 2450
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria",
+      "start": 2469,
+      "end": 2478
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción maculopapular",
+      "surface": "Erupción maculopapular",
+      "start": 2480,
+      "end": 2502
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito generalizado",
+      "surface": "Prurito generalizado",
+      "start": 2504,
+      "end": 2524
+    },
+    {
+      "type": "REACT",
+      "canonical": "Necrolisis epidérmica tóxica (NET)",
+      "surface": "Necrolisis epidérmica tóxica (NET)",
+      "start": 2550,
+      "end": 2584
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de Stevens - Johnson (SSJ)",
+      "surface": "Síndrome de Stevens - Johnson (SSJ)",
+      "start": 2586,
+      "end": 2621
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "start": 2624,
+      "end": 2658
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disnea",
+      "surface": "Disnea",
+      "start": 2672,
+      "end": 2678
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 2681,
+      "end": 2711
+    },
+    {
+      "type": "REACT",
+      "canonical": "Escalofrío",
+      "surface": "Escalofrío",
+      "start": 2725,
+      "end": 2735
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pirexia",
+      "surface": "Pirexia",
+      "start": 2737,
+      "end": 2744
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito en el lugar de perfusión",
+      "surface": "Prurito en el lugar de perfusión",
+      "start": 2746,
+      "end": 2778
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor",
+      "surface": "Dolor",
+      "start": 1822,
+      "end": 1827
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema",
+      "surface": "Edema",
+      "start": 2804,
+      "end": 2809
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "Fatiga",
+      "start": 2811,
+      "end": 2817
+    },
+    {
+      "type": "REACT",
+      "canonical": "Malestar general",
+      "surface": "Malestar general",
+      "start": 2819,
+      "end": 2835
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor en el lugar de perfusión",
+      "surface": "Dolor en el lugar de perfusión",
+      "start": 2837,
+      "end": 2867
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eritema en la zona de perfusión",
+      "surface": "Eritema en la zona de perfusión",
+      "start": 2869,
+      "end": 2900
+    },
+    {
+      "type": "REACT",
+      "canonical": "Extravasación en el lugar de perfusión",
+      "surface": "Extravasación en el lugar de perfusión",
+      "start": 2902,
+      "end": 2940
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 2943,
+      "end": 2980
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema palpebral",
+      "surface": "Edema palpebral",
+      "start": 2999,
+      "end": 3014
+    },
+    {
+      "type": "REACT",
+      "canonical": "Visión borrosa",
+      "surface": "Visión borrosa",
+      "start": 3016,
+      "end": 3030
+    },
+    {
+      "type": "REACT",
+      "canonical": "Lagrimeo aumentado",
+      "surface": "Lagrimeo aumentado",
+      "start": 3032,
+      "end": 3050
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "start": 3053,
+      "end": 3084
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fallo renal",
+      "surface": "Fallo renal",
+      "start": 3103,
+      "end": 3114
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia renal aguda",
+      "surface": "Insuficiencia renal aguda",
+      "start": 3116,
+      "end": 3141
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "Trastornos del sistema digestivo",
+      "start": 1875,
+      "end": 1907
+    }
+  ],
+  "raw_long_doc_text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil de seguridad de CASPOFUNGINA se ha evaluado en pacientes tratados por infección fúngica invasiva o en situación de riesgo clínico elevado. En conjunto, las reacciones notificadas fueron habitualmente manejables con vigilancia clínica, control analítico y medidas de soporte. La administración intravenosa puede asociarse a manifestaciones generales o locales, por lo que se recomienda observar el lugar de administración durante el tratamiento. La interpretación de los hallazgos debe considerar la enfermedad de base, los tratamientos concomitantes y la situación inmunológica del paciente. En la lista se emplean exclusivamente las categorías frecuentes, poco frecuentes y frecuencia no conocida.\n\nLista tabulada de reacciones adversas\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR: frecuentes: Flebitis; poco frecuentes: Acaloramiento, Arritmia, Fibrilación auricular, Hipertensión, Hipotensión, Taquicardia, Tromboflebitis.\n\nPRUEBAS COMPLEMENTARIAS: frecuentes: Albúmina disminuida en sangre, Potasio disminuido en sangre; poco frecuentes: Creatinina elevada en sangre, Hematuria, Glucosa elevada en sangre, Presión arterial aumentada, Urea elevada en sangre, Sodio disminuido en sangre.\n\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN: frecuentes: Hipokalemia; poco frecuentes: Acidosis metabólica, Anorexia, Desequilibrio electrolítico, Hiperglucemia, Hipocalcemia, Hipomagnesemia.\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS: frecuentes: Hematocrito disminuido, Hemoglobina disminuida, Recuento disminuido de leucocitos; poco frecuentes: Anemia, Leucopenia, Trombocitopenia, Coagulopatía.\n\nTRASTORNOS PSIQUIÁTRICOS: poco frecuentes: Ansiedad, Desorientación, Insomnio.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO: frecuentes: Artralgia; poco frecuentes: Dolor de espalda, Dolor en una extremidad, Mialgia.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO: frecuentes: Diarrea, Náuseas, Vómitos, Elevación de los valores hepáticos (ALT, AST, FALc, bilirrubina conjugada, bilirrubina en sangre); poco frecuentes: Dolor abdominal, Estreñimiento, Dispepsia, Hiperbilirrubinemia, Ictericia, Hepatotoxicidad.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO: poco frecuentes: Broncoespasmo, Tos, Hipoxia, Sibilancia.\n\nTRASTORNOS DEL SISTEMA NERVIOSO: frecuentes: Cefalea; poco frecuentes: Mareo, Parestesias, Somnolencia, Temblor.\n\nTRASTORNOS DE PIEL Y TEJIDOS: frecuentes: Eritema, Erupción, Hiperhidrosis, Prurito; poco frecuentes: Urticaria, Erupción maculopapular, Prurito generalizado; frecuencia no conocida: Necrolisis epidérmica tóxica (NET), Síndrome de Stevens - Johnson (SSJ).\n\nTRASTORNOS DEL SISTEMA REPRODUCTOR: frecuentes: Disnea.\n\nTRASTORNOS DEL SISTEMA GENERAL: frecuentes: Escalofrío, Pirexia, Prurito en el lugar de perfusión; poco frecuentes: Dolor, Edema, Fatiga, Malestar general, Dolor en el lugar de perfusión, Eritema en la zona de perfusión, Extravasación en el lugar de perfusión.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS: poco frecuentes: Edema palpebral, Visión borrosa, Lagrimeo aumentado.\n\nTRASTORNOS DEL SISTEMA EXCRETOR: poco frecuentes: Fallo renal, Insuficiencia renal aguda.\n\nDescripción de reacciones adversas seleccionadas\nLa vigilancia durante el tratamiento debe incluir la valoración periódica del estado clínico y de los parámetros de laboratorio que resulten relevantes para cada paciente. En caso de hallazgos clínicamente significativos, se debe considerar la relación temporal con la administración y la presencia de otros factores contribuyentes. Las manifestaciones locales asociadas a la administración suelen requerir únicamente medidas sintomáticas, aunque pueden justificar una revisión de la vía utilizada. Las alteraciones graves de la piel requieren suspensión del tratamiento y evaluación médica inmediata.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "CASPOFUNGINA",
+      "surface": "CASPOFUNGINA"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Flebitis",
+      "surface": "Flebitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Acaloramiento",
+      "surface": "Acaloramiento"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Arritmia",
+      "surface": "Arritmia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fibrilación auricular",
+      "surface": "Fibrilación auricular"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertensión",
+      "surface": "Hipertensión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Taquicardia",
+      "surface": "Taquicardia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tromboflebitis",
+      "surface": "Tromboflebitis"
+    },
+    {
+      "type": "SYS",
+      "canonical": "PRUEBAS COMPLEMENTARIAS",
+      "surface": "PRUEBAS COMPLEMENTARIAS"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Albúmina disminuida en sangre",
+      "surface": "Albúmina disminuida en sangre"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Potasio disminuido en sangre",
+      "surface": "Potasio disminuido en sangre"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Creatinina elevada en sangre",
+      "surface": "Creatinina elevada en sangre"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hematuria",
+      "surface": "Hematuria"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Glucosa elevada en sangre",
+      "surface": "Glucosa elevada en sangre"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Presión arterial aumentada",
+      "surface": "Presión arterial aumentada"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urea elevada en sangre",
+      "surface": "Urea elevada en sangre"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sodio disminuido en sangre",
+      "surface": "Sodio disminuido en sangre"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipokalemia",
+      "surface": "Hipokalemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Acidosis metabólica",
+      "surface": "Acidosis metabólica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anorexia",
+      "surface": "Anorexia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Desequilibrio electrolítico",
+      "surface": "Desequilibrio electrolítico"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperglucemia",
+      "surface": "Hiperglucemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipocalcemia",
+      "surface": "Hipocalcemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipomagnesemia",
+      "surface": "Hipomagnesemia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hematocrito disminuido",
+      "surface": "Hematocrito disminuido"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemoglobina disminuida",
+      "surface": "Hemoglobina disminuida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Recuento disminuido de leucocitos",
+      "surface": "Recuento disminuido de leucocitos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia",
+      "surface": "Anemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Leucopenia",
+      "surface": "Leucopenia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombocitopenia",
+      "surface": "Trombocitopenia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Coagulopatía",
+      "surface": "Coagulopatía"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ansiedad",
+      "surface": "Ansiedad"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Desorientación",
+      "surface": "Desorientación"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insomnio",
+      "surface": "Insomnio"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Artralgia",
+      "surface": "Artralgia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor de espalda",
+      "surface": "Dolor de espalda"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor en una extremidad",
+      "surface": "Dolor en una extremidad"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mialgia",
+      "surface": "Mialgia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Elevación de los valores hepáticos (ALT, AST, FALc, bilirrubina conjugada, bilirrubina en sangre)",
+      "surface": "Elevación de los valores hepáticos (ALT, AST, FALc, bilirrubina conjugada, bilirrubina en sangre)"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor abdominal",
+      "surface": "Dolor abdominal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dispepsia",
+      "surface": "Dispepsia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperbilirrubinemia",
+      "surface": "Hiperbilirrubinemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ictericia",
+      "surface": "Ictericia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hepatotoxicidad",
+      "surface": "Hepatotoxicidad"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Broncoespasmo",
+      "surface": "Broncoespasmo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tos",
+      "surface": "Tos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipoxia",
+      "surface": "Hipoxia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sibilancia",
+      "surface": "Sibilancia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareo",
+      "surface": "Mareo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parestesias",
+      "surface": "Parestesias"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Somnolencia",
+      "surface": "Somnolencia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Temblor",
+      "surface": "Temblor"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eritema",
+      "surface": "Eritema"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción",
+      "surface": "Erupción"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperhidrosis",
+      "surface": "Hiperhidrosis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción maculopapular",
+      "surface": "Erupción maculopapular"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito generalizado",
+      "surface": "Prurito generalizado"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Necrolisis epidérmica tóxica (NET)",
+      "surface": "Necrolisis epidérmica tóxica (NET)"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de Stevens - Johnson (SSJ)",
+      "surface": "Síndrome de Stevens - Johnson (SSJ)"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disnea",
+      "surface": "Disnea"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Escalofrío",
+      "surface": "Escalofrío"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pirexia",
+      "surface": "Pirexia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito en el lugar de perfusión",
+      "surface": "Prurito en el lugar de perfusión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor",
+      "surface": "Dolor"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema",
+      "surface": "Edema"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "Fatiga"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Malestar general",
+      "surface": "Malestar general"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor en el lugar de perfusión",
+      "surface": "Dolor en el lugar de perfusión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eritema en la zona de perfusión",
+      "surface": "Eritema en la zona de perfusión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Extravasación en el lugar de perfusión",
+      "surface": "Extravasación en el lugar de perfusión"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema palpebral",
+      "surface": "Edema palpebral"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Visión borrosa",
+      "surface": "Visión borrosa"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Lagrimeo aumentado",
+      "surface": "Lagrimeo aumentado"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fallo renal",
+      "surface": "Fallo renal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia renal aguda",
+      "surface": "Insuficiencia renal aguda"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "CANCIDAS 50 MG POLVO PARA CONCENTRADO PARA SOLUCION PARA PERFUSION",
+        "pactivo": "CASPOFUNGINA",
+        "reaccion": "Síndrome de Stevens - Johnson (SSJ)",
+        "frecuencia": "SIN FRECUENCIA",
+        "sistema": "TRASTORNOS DE PIEL Y TEJIDOS"
+      },
+      "text": "En la clasificación por sistemas y órganos, dentro de TRASTORNOS DE PIEL Y TEJIDOS, se ha notificado Síndrome de Stevens - Johnson (SSJ) asociado al tratamiento con CASPOFUNGINA, con frecuencia no conocida. La relación temporal debe valorarse en el contexto clínico del paciente y de la administración concomitante de otros medicamentos. Ante la sospecha de esta reacción, debe considerarse la interrupción del tratamiento según criterio médico y realizarse un seguimiento estrecho hasta la resolución o estabilización clínica. La evaluación de causalidad debe quedar documentada en la historia clínica.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Síndrome de Stevens - Johnson (SSJ)",
+          "surface": "Síndrome de Stevens - Johnson (SSJ)"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "CASPOFUNGINA",
+          "surface": "CASPOFUNGINA"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "start": 54,
+          "end": 82
+        },
+        {
+          "type": "REACT",
+          "canonical": "Síndrome de Stevens - Johnson (SSJ)",
+          "surface": "Síndrome de Stevens - Johnson (SSJ)",
+          "start": 101,
+          "end": 136
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "CASPOFUNGINA",
+          "surface": "CASPOFUNGINA",
+          "start": 165,
+          "end": 177
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida",
+          "start": 183,
+          "end": 205
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "CANCIDAS 50 MG POLVO PARA CONCENTRADO PARA SOLUCION PARA PERFUSION",
+        "pactivo": "CASPOFUNGINA",
+        "reaccion": "Náuseas",
+        "frecuencia": "FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+      },
+      "text": "En la clasificación por órganos, las Náuseas se incluyen dentro de Trastornos del sistema digestivo y se han notificado como frecuentes durante el tratamiento con CASPOFUNGINA. Este hallazgo es coherente con un perfil de tolerabilidad gastrointestinal observado durante la administración intravenosa, sin que por sí solo implique necesariamente la interrupción del tratamiento. Se recomienda valorar la intensidad, la relación temporal con la perfusión y la evolución clínica, especialmente en pacientes con factores concomitantes que puedan dificultar la interpretación. La información debe considerarse junto con el estado basal del paciente y el seguimiento clínico habitual.",
+      "declared": [
+        {
+          "type": "REACT",
+          "canonical": "Náuseas",
+          "surface": "Náuseas"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "Trastornos del sistema digestivo"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "CASPOFUNGINA",
+          "surface": "CASPOFUNGINA"
+        }
+      ],
+      "validated": [
+        {
+          "type": "REACT",
+          "canonical": "Náuseas",
+          "surface": "Náuseas",
+          "start": 37,
+          "end": 44
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "Trastornos del sistema digestivo",
+          "start": 67,
+          "end": 99
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes",
+          "start": 125,
+          "end": 135
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "CASPOFUNGINA",
+          "surface": "CASPOFUNGINA",
+          "start": 163,
+          "end": 175
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "CANCIDAS 50 MG POLVO PARA CONCENTRADO PARA SOLUCION PARA PERFUSION",
+        "pactivo": "CASPOFUNGINA",
+        "reaccion": "Malestar general",
+        "frecuencia": "POCO FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA GENERAL"
+      },
+      "text": "En la clasificación de TRASTORNOS DEL SISTEMA GENERAL, se incluye Malestar general entre las reacciones adversas poco frecuentes notificadas durante el tratamiento con CASPOFUNGINA. Este acontecimiento debe interpretarse en el contexto del estado clínico del paciente y de la administración concomitante de otros tratamientos, sin que por sí solo implique necesariamente la interrupción del tratamiento. Se recomienda realizar seguimiento clínico y valorar la evolución temporal tras cada perfusión, especialmente si el síntoma persiste o afecta a la tolerabilidad. La evaluación debe basarse en la intensidad, la duración y la relación temporal con la administración.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+          "surface": "TRASTORNOS DEL SISTEMA GENERAL"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Malestar general",
+          "surface": "Malestar general"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "CASPOFUNGINA",
+          "surface": "CASPOFUNGINA"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+          "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+          "start": 23,
+          "end": 53
+        },
+        {
+          "type": "REACT",
+          "canonical": "Malestar general",
+          "surface": "Malestar general",
+          "start": 66,
+          "end": 82
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes",
+          "start": 113,
+          "end": 128
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "CASPOFUNGINA",
+          "surface": "CASPOFUNGINA",
+          "start": 168,
+          "end": 180
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

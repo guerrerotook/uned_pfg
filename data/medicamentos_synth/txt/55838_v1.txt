@@ -1,0 +1,32 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil de seguridad de GLUCOSA se considera previsible cuando el medicamento se utiliza de acuerdo con las recomendaciones de administración. La mayoría de las situaciones notificadas se han observado en un contexto clínico en el que el estado de hidratación, la función renal y el aporte de sales pueden modificar la tolerancia al tratamiento. Antes de iniciar la administración se recomienda valorar la situación basal del paciente y mantener una vigilancia adecuada durante el periodo de uso. En caso de aparición de síntomas persistentes o de empeoramiento del estado general, debe reconsiderarse la pauta de administración y aplicarse el manejo clínico oportuno.
+
+La información disponible no permite establecer una relación con acontecimientos distintos de los incluidos en la lista siguiente. La evaluación de seguridad se ha realizado atendiendo a la terminología habitual de las fichas técnicas y agrupando las reacciones por sistema de clasificación de órganos. Dentro de cada grupo, las reacciones se presentan por frecuencia decreciente cuando procede. La notificación de sospechas de reacciones adversas tras la autorización del medicamento permite continuar la vigilancia del balance beneficio-riesgo.
+
+Lista tabulada de reacciones adversas
+
+Sistema de clasificación de órganos: Trastornos del sistema general
+Frecuencia: poco frecuentes
+En pacientes con deterioro renal puede dar lugar a hipernatremia e hiperkaliemia.
+
+Sistema de clasificación de órganos: Trastornos del sistema digestivo
+Frecuencia: poco frecuentes
+vómitos.
+
+Descripción de reacciones adversas seleccionadas
+
+En pacientes con deterioro renal puede dar lugar a hipernatremia e hiperkaliemia se recoge como una reacción asociada a condiciones clínicas en las que la eliminación de determinados componentes puede estar reducida. En estos pacientes, la valoración previa y el seguimiento durante la administración son especialmente importantes. Si se observa deterioro clínico, deben adoptarse medidas de control y considerar la interrupción temporal del tratamiento hasta completar la evaluación.
+
+Los vómitos pueden presentarse durante el uso del medicamento y, si son persistentes, pueden dificultar la administración adecuada de la solución. La tolerancia digestiva debe valorarse de forma individual, especialmente cuando el paciente no pueda mantener la ingesta recomendada. Si aparecen vómitos repetidos, se aconseja revisar la pauta de administración y asegurar una reposición adecuada conforme al criterio clínico.
+
+No se dispone de datos que indiquen diferencias relevantes en la naturaleza de estas reacciones según la edad, siempre que el medicamento se utilice de acuerdo con las instrucciones de preparación y administración. La aparición de cualquier signo no esperado debe notificarse por los canales habituales de farmacovigilancia, aportando la mayor información posible sobre dosis, duración del tratamiento, situación basal y evolución posterior.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En el sistema de clasificación de órganos TRASTORNOS DEL SISTEMA GENERAL, se ha descrito la siguiente reacción adversa asociada a GLUCOSA: En pacientes con deterioro renal puede dar lugar a hipernatremia e hiperkaliemia. La frecuencia se considera poco frecuentes. En estos pacientes, la capacidad para eliminar la carga de solutos puede estar reducida, por lo que se recomienda valorar la función renal y el balance hidroelectrolítico durante el tratamiento, especialmente si se precisa administración repetida o mantenida.
+
+-- Caso 2 --
+En la clasificación por órganos y sistemas, dentro de TRASTORNOS DEL SISTEMA DIGESTIVO, los vómitos se consideran poco frecuentes durante el tratamiento con GLUCOSA. La aparición de este episodio puede relacionarse con la administración de soluciones orales hiperosmolares o con la tolerancia individual al preparado, especialmente si la ingesta se realiza de forma rápida. En caso de persistencia o intensidad clínica relevante, se recomienda valorar la evolución del paciente y reconsiderar la pauta de administración de acuerdo con el estado de hidratación. No se requiere una medida específica si el cuadro es leve y transitorio, salvo seguimiento clínico habitual.

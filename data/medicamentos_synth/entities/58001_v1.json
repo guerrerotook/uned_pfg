@@ -1,0 +1,471 @@
+{
+  "codigo": "58001",
+  "variante": 1,
+  "codigo_variant": "58001_v1",
+  "medicamento": "STESOLID 5 mg solución rectal",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "DIAZEPAM",
+      "surface": "DIAZEPAM",
+      "start": 57,
+      "end": 65
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 845,
+      "end": 876
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 877,
+      "end": 889
+    },
+    {
+      "type": "REACT",
+      "canonical": "disminuir la temperatura corporal",
+      "surface": "disminuir la temperatura corporal",
+      "start": 891,
+      "end": 924
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 926,
+      "end": 941
+    },
+    {
+      "type": "REACT",
+      "canonical": "alteraciones del habla",
+      "surface": "alteraciones del habla",
+      "start": 943,
+      "end": 965
+    },
+    {
+      "type": "REACT",
+      "canonical": "convulsiones de rebote",
+      "surface": "convulsiones de rebote",
+      "start": 967,
+      "end": 989
+    },
+    {
+      "type": "REACT",
+      "canonical": "hiperactividad",
+      "surface": "hiperactividad",
+      "start": 991,
+      "end": 1005
+    },
+    {
+      "type": "REACT",
+      "canonical": "temblor",
+      "surface": "temblor",
+      "start": 1007,
+      "end": 1014
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 931,
+      "end": 941
+    },
+    {
+      "type": "REACT",
+      "canonical": "confusión",
+      "surface": "confusión",
+      "start": 1028,
+      "end": 1037
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor de cabeza",
+      "surface": "dolor de cabeza",
+      "start": 1039,
+      "end": 1054
+    },
+    {
+      "type": "REACT",
+      "canonical": "falta de coordinación muscular",
+      "surface": "falta de coordinación muscular",
+      "start": 1056,
+      "end": 1086
+    },
+    {
+      "type": "REACT",
+      "canonical": "mareos",
+      "surface": "mareos",
+      "start": 1088,
+      "end": 1094
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes",
+      "start": 1096,
+      "end": 1110
+    },
+    {
+      "type": "REACT",
+      "canonical": "somnolencia",
+      "surface": "somnolencia",
+      "start": 1112,
+      "end": 1123
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 1126,
+      "end": 1161
+    },
+    {
+      "type": "REACT",
+      "canonical": "alergias",
+      "surface": "alergias",
+      "start": 1176,
+      "end": 1184
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1187,
+      "end": 1224
+    },
+    {
+      "type": "REACT",
+      "canonical": "alteración del ritmo del corazón e inflamación de venas con formación de trombos",
+      "surface": "alteración del ritmo del corazón e inflamación de venas con formación de trombos",
+      "start": 1242,
+      "end": 1322
+    },
+    {
+      "type": "REACT",
+      "canonical": "bajada de tensión severa",
+      "surface": "bajada de tensión severa",
+      "start": 1324,
+      "end": 1348
+    },
+    {
+      "type": "REACT",
+      "canonical": "colapso circulatorio",
+      "surface": "colapso circulatorio",
+      "start": 1350,
+      "end": 1370
+    },
+    {
+      "type": "REACT",
+      "canonical": "disminución de la frecuencia cardíaca",
+      "surface": "disminución de la frecuencia cardíaca",
+      "start": 1372,
+      "end": 1409
+    },
+    {
+      "type": "REACT",
+      "canonical": "vasculitis bullosa",
+      "surface": "vasculitis bullosa",
+      "start": 1425,
+      "end": 1443
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1446,
+      "end": 1478
+    },
+    {
+      "type": "REACT",
+      "canonical": "alteraciones de la salivación",
+      "surface": "alteraciones de la salivación",
+      "start": 1496,
+      "end": 1525
+    },
+    {
+      "type": "REACT",
+      "canonical": "estreñimiento",
+      "surface": "estreñimiento",
+      "start": 1527,
+      "end": 1540
+    },
+    {
+      "type": "REACT",
+      "canonical": "náuseas",
+      "surface": "náuseas",
+      "start": 1542,
+      "end": 1549
+    },
+    {
+      "type": "REACT",
+      "canonical": "trastornos gastrointestinales",
+      "surface": "trastornos gastrointestinales",
+      "start": 1551,
+      "end": 1580
+    },
+    {
+      "type": "REACT",
+      "canonical": "coloración amarilla de la piel",
+      "surface": "coloración amarilla de la piel",
+      "start": 1596,
+      "end": 1626
+    },
+    {
+      "type": "REACT",
+      "canonical": "elevación de enzimas hepáticos",
+      "surface": "elevación de enzimas hepáticos",
+      "start": 1628,
+      "end": 1658
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 1661,
+      "end": 1685
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones mentales leves: pérdida de memoria, enlentecimiento del tiempo de reacción.",
+      "surface": "Alteraciones mentales leves: pérdida de memoria, enlentecimiento del tiempo de reacción.",
+      "start": 1703,
+      "end": 1791
+    },
+    {
+      "type": "REACT",
+      "canonical": "depresión",
+      "surface": "depresión",
+      "start": 1792,
+      "end": 1801
+    },
+    {
+      "type": "REACT",
+      "canonical": "disminución del deseo sexual",
+      "surface": "disminución del deseo sexual",
+      "start": 1803,
+      "end": 1831
+    },
+    {
+      "type": "REACT",
+      "canonical": "excitación paradójica que puede conllevar: hostilidad, agresión y desinhibición, ansiedad, alucinaciones, insomnio, alteraciones del sueño.",
+      "surface": "excitación paradójica que puede conllevar: hostilidad, agresión y desinhibición, ansiedad, alucinaciones, insomnio, alteraciones del sueño.",
+      "start": 1833,
+      "end": 1972
+    },
+    {
+      "type": "REACT",
+      "canonical": "dificultad para recordar algunas cosas",
+      "surface": "dificultad para recordar algunas cosas",
+      "start": 1987,
+      "end": 2025
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 2028,
+      "end": 2077
+    },
+    {
+      "type": "REACT",
+      "canonical": "anemia",
+      "surface": "anemia",
+      "start": 2092,
+      "end": 2098
+    },
+    {
+      "type": "REACT",
+      "canonical": "disminución de las plaquetas",
+      "surface": "disminución de las plaquetas",
+      "start": 2100,
+      "end": 2128
+    },
+    {
+      "type": "REACT",
+      "canonical": "pacientes con baja concentración de sodio en sangre se puede producir dolor y debilidad muscular",
+      "surface": "pacientes con baja concentración de sodio en sangre se puede producir dolor y debilidad muscular",
+      "start": 2130,
+      "end": 2226
+    },
+    {
+      "type": "REACT",
+      "canonical": "pancitopenia",
+      "surface": "pancitopenia",
+      "start": 2228,
+      "end": 2240
+    },
+    {
+      "type": "REACT",
+      "canonical": "inflamación de las venas",
+      "surface": "inflamación de las venas",
+      "start": 2259,
+      "end": 2283
+    },
+    {
+      "type": "REACT",
+      "canonical": "irritación local",
+      "surface": "irritación local",
+      "start": 2285,
+      "end": 2301
+    },
+    {
+      "type": "REACT",
+      "canonical": "neutropenia",
+      "surface": "neutropenia",
+      "start": 2303,
+      "end": 2314
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "surface": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "start": 2317,
+      "end": 2349
+    },
+    {
+      "type": "REACT",
+      "canonical": "aumento del volumen de las mamas en hombres",
+      "surface": "aumento del volumen de las mamas en hombres",
+      "start": 2364,
+      "end": 2407
+    },
+    {
+      "type": "REACT",
+      "canonical": "secreción de leche por el pezón",
+      "surface": "secreción de leche por el pezón",
+      "start": 2409,
+      "end": 2440
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 2443,
+      "end": 2473
+    },
+    {
+      "type": "REACT",
+      "canonical": "cuadro clínico que cursa con fiebre, erupciones y alteraciones de la sangre (síndrome de Sweet)",
+      "surface": "cuadro clínico que cursa con fiebre, erupciones y alteraciones de la sangre (síndrome de Sweet)",
+      "start": 2488,
+      "end": 2583
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 2586,
+      "end": 2621
+    },
+    {
+      "type": "REACT",
+      "canonical": "depresión respiratoria",
+      "surface": "depresión respiratoria",
+      "start": 2634,
+      "end": 2656
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 2659,
+      "end": 2687
+    },
+    {
+      "type": "REACT",
+      "canonical": "erupción y urticaria",
+      "surface": "erupción y urticaria",
+      "start": 2705,
+      "end": 2725
+    },
+    {
+      "type": "REACT",
+      "canonical": "hinchazón",
+      "surface": "hinchazón",
+      "start": 2727,
+      "end": 2736
+    },
+    {
+      "type": "REACT",
+      "canonical": "irritación local tras administración rectal",
+      "surface": "irritación local tras administración rectal",
+      "start": 2738,
+      "end": 2781
+    },
+    {
+      "type": "REACT",
+      "canonical": "sudoración",
+      "surface": "sudoración",
+      "start": 2783,
+      "end": 2793
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "start": 2796,
+      "end": 2827
+    },
+    {
+      "type": "REACT",
+      "canonical": "incontinencia",
+      "surface": "incontinencia",
+      "start": 2845,
+      "end": 2858
+    },
+    {
+      "type": "REACT",
+      "canonical": "retención urinaria",
+      "surface": "retención urinaria",
+      "start": 2860,
+      "end": 2878
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 2881,
+      "end": 2918
+    },
+    {
+      "type": "REACT",
+      "canonical": "movimientos involuntarios de los ojos",
+      "surface": "movimientos involuntarios de los ojos",
+      "start": 2936,
+      "end": 2973
+    },
+    {
+      "type": "REACT",
+      "canonical": "visión borrosa",
+      "surface": "visión borrosa",
+      "start": 2975,
+      "end": 2989
+    },
+    {
+      "type": "REACT",
+      "canonical": "visión doble",
+      "surface": "visión doble",
+      "start": 2991,
+      "end": 3003
+    },
+    {
+      "type": "REACT",
+      "canonical": "vértigo",
+      "surface": "vértigo",
+      "start": 3005,
+      "end": 3012
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "Trastornos del sistema nervioso",
+      "start": 845,
+      "end": 876
+    }
+  ]
+}

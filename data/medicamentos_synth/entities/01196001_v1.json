@@ -1,0 +1,709 @@
+{
+  "codigo": "01196001",
+  "variante": 1,
+  "codigo_variant": "01196001_v1",
+  "medicamento": "CANCIDAS 50 MG POLVO PARA CONCENTRADO PARA SOLUCION PARA PERFUSION",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "CASPOFUNGINA",
+      "surface": "CASPOFUNGINA",
+      "start": 83,
+      "end": 95
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 712,
+      "end": 722
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 724,
+      "end": 739
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 742,
+      "end": 764
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 805,
+      "end": 842
+    },
+    {
+      "type": "REACT",
+      "canonical": "Flebitis",
+      "surface": "Flebitis",
+      "start": 856,
+      "end": 864
+    },
+    {
+      "type": "REACT",
+      "canonical": "Acaloramiento",
+      "surface": "Acaloramiento",
+      "start": 883,
+      "end": 896
+    },
+    {
+      "type": "REACT",
+      "canonical": "Arritmia",
+      "surface": "Arritmia",
+      "start": 898,
+      "end": 906
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fibrilación auricular",
+      "surface": "Fibrilación auricular",
+      "start": 908,
+      "end": 929
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertensión",
+      "surface": "Hipertensión",
+      "start": 931,
+      "end": 943
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión",
+      "start": 945,
+      "end": 956
+    },
+    {
+      "type": "REACT",
+      "canonical": "Taquicardia",
+      "surface": "Taquicardia",
+      "start": 958,
+      "end": 969
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tromboflebitis",
+      "surface": "Tromboflebitis",
+      "start": 971,
+      "end": 985
+    },
+    {
+      "type": "SYS",
+      "canonical": "PRUEBAS COMPLEMENTARIAS",
+      "surface": "PRUEBAS COMPLEMENTARIAS",
+      "start": 988,
+      "end": 1011
+    },
+    {
+      "type": "REACT",
+      "canonical": "Albúmina disminuida en sangre",
+      "surface": "Albúmina disminuida en sangre",
+      "start": 1025,
+      "end": 1054
+    },
+    {
+      "type": "REACT",
+      "canonical": "Potasio disminuido en sangre",
+      "surface": "Potasio disminuido en sangre",
+      "start": 1056,
+      "end": 1084
+    },
+    {
+      "type": "REACT",
+      "canonical": "Creatinina elevada en sangre",
+      "surface": "Creatinina elevada en sangre",
+      "start": 1103,
+      "end": 1131
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hematuria",
+      "surface": "Hematuria",
+      "start": 1133,
+      "end": 1142
+    },
+    {
+      "type": "REACT",
+      "canonical": "Glucosa elevada en sangre",
+      "surface": "Glucosa elevada en sangre",
+      "start": 1144,
+      "end": 1169
+    },
+    {
+      "type": "REACT",
+      "canonical": "Presión arterial aumentada",
+      "surface": "Presión arterial aumentada",
+      "start": 1171,
+      "end": 1197
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urea elevada en sangre",
+      "surface": "Urea elevada en sangre",
+      "start": 1199,
+      "end": 1221
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sodio disminuido en sangre",
+      "surface": "Sodio disminuido en sangre",
+      "start": 1223,
+      "end": 1249
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "start": 1252,
+      "end": 1293
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipokalemia",
+      "surface": "Hipokalemia",
+      "start": 1307,
+      "end": 1318
+    },
+    {
+      "type": "REACT",
+      "canonical": "Acidosis metabólica",
+      "surface": "Acidosis metabólica",
+      "start": 1337,
+      "end": 1356
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anorexia",
+      "surface": "Anorexia",
+      "start": 1358,
+      "end": 1366
+    },
+    {
+      "type": "REACT",
+      "canonical": "Desequilibrio electrolítico",
+      "surface": "Desequilibrio electrolítico",
+      "start": 1368,
+      "end": 1395
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperglucemia",
+      "surface": "Hiperglucemia",
+      "start": 1397,
+      "end": 1410
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipocalcemia",
+      "surface": "Hipocalcemia",
+      "start": 1412,
+      "end": 1424
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipomagnesemia",
+      "surface": "Hipomagnesemia",
+      "start": 1426,
+      "end": 1440
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 1443,
+      "end": 1492
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hematocrito disminuido",
+      "surface": "Hematocrito disminuido",
+      "start": 1506,
+      "end": 1528
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemoglobina disminuida",
+      "surface": "Hemoglobina disminuida",
+      "start": 1530,
+      "end": 1552
+    },
+    {
+      "type": "REACT",
+      "canonical": "Recuento disminuido de leucocitos",
+      "surface": "Recuento disminuido de leucocitos",
+      "start": 1554,
+      "end": 1587
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia",
+      "surface": "Anemia",
+      "start": 1606,
+      "end": 1612
+    },
+    {
+      "type": "REACT",
+      "canonical": "Leucopenia",
+      "surface": "Leucopenia",
+      "start": 1614,
+      "end": 1624
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombocitopenia",
+      "surface": "Trombocitopenia",
+      "start": 1626,
+      "end": 1641
+    },
+    {
+      "type": "REACT",
+      "canonical": "Coagulopatía",
+      "surface": "Coagulopatía",
+      "start": 1643,
+      "end": 1655
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 1658,
+      "end": 1682
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ansiedad",
+      "surface": "Ansiedad",
+      "start": 1701,
+      "end": 1709
+    },
+    {
+      "type": "REACT",
+      "canonical": "Desorientación",
+      "surface": "Desorientación",
+      "start": 1711,
+      "end": 1725
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insomnio",
+      "surface": "Insomnio",
+      "start": 1727,
+      "end": 1735
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 1738,
+      "end": 1780
+    },
+    {
+      "type": "REACT",
+      "canonical": "Artralgia",
+      "surface": "Artralgia",
+      "start": 1794,
+      "end": 1803
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor de espalda",
+      "surface": "Dolor de espalda",
+      "start": 1822,
+      "end": 1838
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor en una extremidad",
+      "surface": "Dolor en una extremidad",
+      "start": 1840,
+      "end": 1863
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mialgia",
+      "surface": "Mialgia",
+      "start": 1865,
+      "end": 1872
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1875,
+      "end": 1907
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea",
+      "start": 1921,
+      "end": 1928
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 1930,
+      "end": 1937
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos",
+      "start": 1939,
+      "end": 1946
+    },
+    {
+      "type": "REACT",
+      "canonical": "Elevación de los valores hepáticos (ALT, AST, FALc, bilirrubina conjugada, bilirrubina en sangre)",
+      "surface": "Elevación de los valores hepáticos (ALT, AST, FALc, bilirrubina conjugada, bilirrubina en sangre)",
+      "start": 1948,
+      "end": 2045
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor abdominal",
+      "surface": "Dolor abdominal",
+      "start": 2064,
+      "end": 2079
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento",
+      "start": 2081,
+      "end": 2094
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dispepsia",
+      "surface": "Dispepsia",
+      "start": 2096,
+      "end": 2105
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperbilirrubinemia",
+      "surface": "Hiperbilirrubinemia",
+      "start": 2107,
+      "end": 2126
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ictericia",
+      "surface": "Ictericia",
+      "start": 2128,
+      "end": 2137
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hepatotoxicidad",
+      "surface": "Hepatotoxicidad",
+      "start": 2139,
+      "end": 2154
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 2157,
+      "end": 2192
+    },
+    {
+      "type": "REACT",
+      "canonical": "Broncoespasmo",
+      "surface": "Broncoespasmo",
+      "start": 2211,
+      "end": 2224
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tos",
+      "surface": "Tos",
+      "start": 2226,
+      "end": 2229
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipoxia",
+      "surface": "Hipoxia",
+      "start": 2231,
+      "end": 2238
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sibilancia",
+      "surface": "Sibilancia",
+      "start": 2240,
+      "end": 2250
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 2253,
+      "end": 2284
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea",
+      "start": 2298,
+      "end": 2305
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareo",
+      "surface": "Mareo",
+      "start": 2324,
+      "end": 2329
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parestesias",
+      "surface": "Parestesias",
+      "start": 2331,
+      "end": 2342
+    },
+    {
+      "type": "REACT",
+      "canonical": "Somnolencia",
+      "surface": "Somnolencia",
+      "start": 2344,
+      "end": 2355
+    },
+    {
+      "type": "REACT",
+      "canonical": "Temblor",
+      "surface": "Temblor",
+      "start": 2357,
+      "end": 2364
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 2367,
+      "end": 2395
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eritema",
+      "surface": "Eritema",
+      "start": 2409,
+      "end": 2416
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción",
+      "surface": "Erupción",
+      "start": 2418,
+      "end": 2426
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperhidrosis",
+      "surface": "Hiperhidrosis",
+      "start": 2428,
+      "end": 2441
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito",
+      "start": 2443,
+      "end": 2450
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria",
+      "start": 2469,
+      "end": 2478
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción maculopapular",
+      "surface": "Erupción maculopapular",
+      "start": 2480,
+      "end": 2502
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito generalizado",
+      "surface": "Prurito generalizado",
+      "start": 2504,
+      "end": 2524
+    },
+    {
+      "type": "REACT",
+      "canonical": "Necrolisis epidérmica tóxica (NET)",
+      "surface": "Necrolisis epidérmica tóxica (NET)",
+      "start": 2550,
+      "end": 2584
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de Stevens - Johnson (SSJ)",
+      "surface": "Síndrome de Stevens - Johnson (SSJ)",
+      "start": 2586,
+      "end": 2621
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "start": 2624,
+      "end": 2658
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disnea",
+      "surface": "Disnea",
+      "start": 2672,
+      "end": 2678
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 2681,
+      "end": 2711
+    },
+    {
+      "type": "REACT",
+      "canonical": "Escalofrío",
+      "surface": "Escalofrío",
+      "start": 2725,
+      "end": 2735
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pirexia",
+      "surface": "Pirexia",
+      "start": 2737,
+      "end": 2744
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito en el lugar de perfusión",
+      "surface": "Prurito en el lugar de perfusión",
+      "start": 2746,
+      "end": 2778
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor",
+      "surface": "Dolor",
+      "start": 1822,
+      "end": 1827
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema",
+      "surface": "Edema",
+      "start": 2804,
+      "end": 2809
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "Fatiga",
+      "start": 2811,
+      "end": 2817
+    },
+    {
+      "type": "REACT",
+      "canonical": "Malestar general",
+      "surface": "Malestar general",
+      "start": 2819,
+      "end": 2835
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor en el lugar de perfusión",
+      "surface": "Dolor en el lugar de perfusión",
+      "start": 2837,
+      "end": 2867
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eritema en la zona de perfusión",
+      "surface": "Eritema en la zona de perfusión",
+      "start": 2869,
+      "end": 2900
+    },
+    {
+      "type": "REACT",
+      "canonical": "Extravasación en el lugar de perfusión",
+      "surface": "Extravasación en el lugar de perfusión",
+      "start": 2902,
+      "end": 2940
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 2943,
+      "end": 2980
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema palpebral",
+      "surface": "Edema palpebral",
+      "start": 2999,
+      "end": 3014
+    },
+    {
+      "type": "REACT",
+      "canonical": "Visión borrosa",
+      "surface": "Visión borrosa",
+      "start": 3016,
+      "end": 3030
+    },
+    {
+      "type": "REACT",
+      "canonical": "Lagrimeo aumentado",
+      "surface": "Lagrimeo aumentado",
+      "start": 3032,
+      "end": 3050
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "start": 3053,
+      "end": 3084
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fallo renal",
+      "surface": "Fallo renal",
+      "start": 3103,
+      "end": 3114
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia renal aguda",
+      "surface": "Insuficiencia renal aguda",
+      "start": 3116,
+      "end": 3141
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "Trastornos del sistema digestivo",
+      "start": 1875,
+      "end": 1907
+    }
+  ]
+}

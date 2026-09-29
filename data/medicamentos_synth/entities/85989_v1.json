@@ -1,0 +1,786 @@
+{
+  "codigo": "85989",
+  "variante": 1,
+  "codigo_variant": "85989_v1",
+  "medicamento": "Sunitinib Dr. Reddys 12,5 mg cápsulas duras EFG",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "SUNITINIB MALATO",
+      "surface": "SUNITINIB MALATO",
+      "start": 58,
+      "end": 74
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "INFECCIONES E INFESTACIONES",
+      "start": 774,
+      "end": 801
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 803,
+      "end": 813
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infección del tracto urinario",
+      "surface": "Infección del tracto urinario",
+      "start": 815,
+      "end": 844
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 846,
+      "end": 877
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes",
+      "start": 879,
+      "end": 893
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteración del gusto",
+      "surface": "Alteración del gusto",
+      "start": 895,
+      "end": 915
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea",
+      "start": 917,
+      "end": 924
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareo",
+      "surface": "Mareo",
+      "start": 926,
+      "end": 931
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperestesia",
+      "surface": "Hiperestesia",
+      "start": 945,
+      "end": 957
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipoestesia",
+      "surface": "Hipoestesia",
+      "start": 959,
+      "end": 970
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neuropatía periférica",
+      "surface": "Neuropatía periférica",
+      "start": 972,
+      "end": 993
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parestesia",
+      "surface": "Parestesia",
+      "start": 995,
+      "end": 1005
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 1007,
+      "end": 1022
+    },
+    {
+      "type": "REACT",
+      "canonical": "Accidente isquémico transitorio",
+      "surface": "Accidente isquémico transitorio",
+      "start": 1024,
+      "end": 1055
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 1057,
+      "end": 1079
+    },
+    {
+      "type": "REACT",
+      "canonical": "Encefalopatía hiperamonémica",
+      "surface": "Encefalopatía hiperamonémica",
+      "start": 1081,
+      "end": 1109
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 1111,
+      "end": 1139
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cambio de coloración del pelo",
+      "surface": "Cambio de coloración del pelo",
+      "start": 1157,
+      "end": 1186
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad de piel",
+      "surface": "Sequedad de piel",
+      "start": 1188,
+      "end": 1204
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de eritrodisestesia palmoplantar",
+      "surface": "Síndrome de eritrodisestesia palmoplantar",
+      "start": 1206,
+      "end": 1247
+    },
+    {
+      "type": "REACT",
+      "canonical": "Acné",
+      "surface": "Acné",
+      "start": 1261,
+      "end": 1265
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alopecia",
+      "surface": "Alopecia",
+      "start": 1267,
+      "end": 1275
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ampollas",
+      "surface": "Ampollas",
+      "start": 1277,
+      "end": 1285
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dermatitis",
+      "surface": "Dermatitis",
+      "start": 1287,
+      "end": 1297
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eczema",
+      "surface": "Eczema",
+      "start": 1299,
+      "end": 1305
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eritema",
+      "surface": "Eritema",
+      "start": 1307,
+      "end": 1314
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito",
+      "start": 1316,
+      "end": 1323
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperqueratosis",
+      "surface": "Hiperqueratosis",
+      "start": 1325,
+      "end": 1340
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 1342,
+      "end": 1372
+    },
+    {
+      "type": "REACT",
+      "canonical": "Inflamación de las mucosas",
+      "surface": "Inflamación de las mucosas",
+      "start": 1390,
+      "end": 1416
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pirexia",
+      "surface": "Pirexia",
+      "start": 1418,
+      "end": 1425
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la presión sanguínea",
+      "surface": "Aumento de la presión sanguínea",
+      "start": 1439,
+      "end": 1470
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de la hemoglobina",
+      "surface": "Disminución de la hemoglobina",
+      "start": 1472,
+      "end": 1501
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución del peso",
+      "surface": "Disminución del peso",
+      "start": 1503,
+      "end": 1523
+    },
+    {
+      "type": "REACT",
+      "canonical": "Escalofríos",
+      "surface": "Escalofríos",
+      "start": 1525,
+      "end": 1536
+    },
+    {
+      "type": "REACT",
+      "canonical": "Lipasa elevada",
+      "surface": "Lipasa elevada",
+      "start": 1538,
+      "end": 1552
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 1554,
+      "end": 1603
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia",
+      "surface": "Anemia",
+      "start": 1621,
+      "end": 1627
+    },
+    {
+      "type": "REACT",
+      "canonical": "Leucopenia",
+      "surface": "Leucopenia",
+      "start": 1629,
+      "end": 1639
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neutropenia",
+      "surface": "Neutropenia",
+      "start": 1641,
+      "end": 1652
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombocitopenia",
+      "surface": "Trombocitopenia",
+      "start": 1654,
+      "end": 1669
+    },
+    {
+      "type": "REACT",
+      "canonical": "Linfopenia",
+      "surface": "Linfopenia",
+      "start": 1683,
+      "end": 1693
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pancitopenia",
+      "surface": "Pancitopenia",
+      "start": 1712,
+      "end": 1724
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1726,
+      "end": 1763
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertensión",
+      "surface": "Hipertensión",
+      "start": 1781,
+      "end": 1793
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de la fracción de eyección",
+      "surface": "Disminución de la fracción de eyección",
+      "start": 1807,
+      "end": 1845
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rubefacción",
+      "surface": "Rubefacción",
+      "start": 1847,
+      "end": 1858
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sofocos",
+      "surface": "Sofocos",
+      "start": 1860,
+      "end": 1867
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombosis venosa profunda",
+      "surface": "Trombosis venosa profunda",
+      "start": 1869,
+      "end": 1894
+    },
+    {
+      "type": "REACT",
+      "canonical": "Derrame pericárdico",
+      "surface": "Derrame pericárdico",
+      "start": 1913,
+      "end": 1932
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia tumoral",
+      "surface": "Hemorragia tumoral",
+      "start": 1934,
+      "end": 1952
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia cardiaca congestiva",
+      "surface": "Insuficiencia cardiaca congestiva",
+      "start": 1954,
+      "end": 1987
+    },
+    {
+      "type": "REACT",
+      "canonical": "Intervalo QT del electrocardiograma prolongado",
+      "surface": "Intervalo QT del electrocardiograma prolongado",
+      "start": 1989,
+      "end": 2035
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aneurismas y disecciones arteriales",
+      "surface": "Aneurismas y disecciones arteriales",
+      "start": 2061,
+      "end": 2096
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 2098,
+      "end": 2133
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipersensibilidad",
+      "surface": "Hipersensibilidad",
+      "start": 2152,
+      "end": 2169
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 2171,
+      "end": 2213
+    },
+    {
+      "type": "REACT",
+      "canonical": "Artralgia",
+      "surface": "Artralgia",
+      "start": 2231,
+      "end": 2240
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor de espalda",
+      "surface": "Dolor de espalda",
+      "start": 2242,
+      "end": 2258
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor en las extremidades",
+      "surface": "Dolor en las extremidades",
+      "start": 2260,
+      "end": 2285
+    },
+    {
+      "type": "REACT",
+      "canonical": "Debilidad muscular",
+      "surface": "Debilidad muscular",
+      "start": 2299,
+      "end": 2317
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor musculoesquelético",
+      "surface": "Dolor musculoesquelético",
+      "start": 2319,
+      "end": 2343
+    },
+    {
+      "type": "REACT",
+      "canonical": "Espasmos musculares",
+      "surface": "Espasmos musculares",
+      "start": 2345,
+      "end": 2364
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mialgia",
+      "surface": "Mialgia",
+      "start": 2366,
+      "end": 2373
+    },
+    {
+      "type": "REACT",
+      "canonical": "Osteonecrosis mandibular",
+      "surface": "Osteonecrosis mandibular",
+      "start": 2392,
+      "end": 2416
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 2418,
+      "end": 2455
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento del lagrimeo",
+      "surface": "Aumento del lagrimeo",
+      "start": 2469,
+      "end": 2489
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema del párpado",
+      "surface": "Edema del párpado",
+      "start": 2491,
+      "end": 2508
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema periorbital",
+      "surface": "Edema periorbital",
+      "start": 2510,
+      "end": 2527
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 2529,
+      "end": 2561
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea",
+      "start": 2579,
+      "end": 2586
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dispepsia",
+      "surface": "Dispepsia",
+      "start": 2588,
+      "end": 2597
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento",
+      "start": 2599,
+      "end": 2612
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 2614,
+      "end": 2621
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos",
+      "start": 2623,
+      "end": 2630
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disfagia",
+      "surface": "Disfagia",
+      "start": 2644,
+      "end": 2652
+    },
+    {
+      "type": "REACT",
+      "canonical": "Distensión abdominal",
+      "surface": "Distensión abdominal",
+      "start": 2654,
+      "end": 2674
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor bucal",
+      "surface": "Dolor bucal",
+      "start": 2676,
+      "end": 2687
+    },
+    {
+      "type": "REACT",
+      "canonical": "Enfermedad de reflujo gastroesofágico",
+      "surface": "Enfermedad de reflujo gastroesofágico",
+      "start": 2689,
+      "end": 2726
+    },
+    {
+      "type": "REACT",
+      "canonical": "Flatulencia",
+      "surface": "Flatulencia",
+      "start": 2728,
+      "end": 2739
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorroides",
+      "surface": "Hemorroides",
+      "start": 2741,
+      "end": 2752
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad de boca",
+      "surface": "Sequedad de boca",
+      "start": 2754,
+      "end": 2770
+    },
+    {
+      "type": "REACT",
+      "canonical": "Función hepática anormal",
+      "surface": "Función hepática anormal",
+      "start": 2789,
+      "end": 2813
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pancreatitis",
+      "surface": "Pancreatitis",
+      "start": 2815,
+      "end": 2827
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 2829,
+      "end": 2864
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disnea",
+      "surface": "Disnea",
+      "start": 2882,
+      "end": 2888
+    },
+    {
+      "type": "REACT",
+      "canonical": "Epistaxis",
+      "surface": "Epistaxis",
+      "start": 2890,
+      "end": 2899
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tos",
+      "surface": "Tos",
+      "start": 2901,
+      "end": 2904
+    },
+    {
+      "type": "REACT",
+      "canonical": "Congestión nasal",
+      "surface": "Congestión nasal",
+      "start": 2918,
+      "end": 2934
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disnea de esfuerzo",
+      "surface": "Disnea de esfuerzo",
+      "start": 2936,
+      "end": 2954
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemoptisis",
+      "surface": "Hemoptisis",
+      "start": 2956,
+      "end": 2966
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad nasal",
+      "surface": "Sequedad nasal",
+      "start": 2968,
+      "end": 2982
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "start": 2984,
+      "end": 3015
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cromaturia",
+      "surface": "Cromaturia",
+      "start": 3029,
+      "end": 3039
+    },
+    {
+      "type": "REACT",
+      "canonical": "Proteinuria",
+      "surface": "Proteinuria",
+      "start": 3041,
+      "end": 3052
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia del tracto urinario",
+      "surface": "Hemorragia del tracto urinario",
+      "start": 3071,
+      "end": 3101
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 3103,
+      "end": 3127
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insomnio",
+      "surface": "Insomnio",
+      "start": 3145,
+      "end": 3153
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión",
+      "surface": "Depresión",
+      "start": 3167,
+      "end": 3176
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "start": 3178,
+      "end": 3219
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución del apetito",
+      "surface": "Disminución del apetito",
+      "start": 3237,
+      "end": 3260
+    },
+    {
+      "type": "REACT",
+      "canonical": "Deshidratación",
+      "surface": "Deshidratación",
+      "start": 3274,
+      "end": 3288
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipoglucemia",
+      "surface": "Hipoglucemia",
+      "start": 3290,
+      "end": 3302
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "surface": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "start": 3304,
+      "end": 3336
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotiroidismo",
+      "surface": "Hipotiroidismo",
+      "start": 3354,
+      "end": 3368
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertiroidismo",
+      "surface": "Hipertiroidismo",
+      "start": 3387,
+      "end": 3402
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pioderma gangrenoso",
+      "surface": "Pioderma gangrenoso",
+      "start": 4365,
+      "end": 4384
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 4407,
+      "end": 4419
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "Infecciones e infestaciones",
+      "start": 774,
+      "end": 801
+    },
+    {
+      "type": "REACT",
+      "canonical": "Abscesosc,*",
+      "surface": "abscesos",
+      "start": 5554,
+      "end": 5562
+    }
+  ]
+}

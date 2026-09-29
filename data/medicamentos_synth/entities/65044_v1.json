@@ -1,0 +1,373 @@
+{
+  "codigo": "65044",
+  "variante": 1,
+  "codigo_variant": "65044_v1",
+  "medicamento": "SYMBICORT FORTE TURBUHALER 320 microgramos/9 microgramos/INHALACION POLVO PARA INHALACION",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "BUDESONIDA",
+      "surface": "BUDESONIDA",
+      "start": 75,
+      "end": 85
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "FORMOTEROL FUMARATO DIHIDRATO",
+      "surface": "FORMOTEROL FUMARATO DIHIDRATO",
+      "start": 88,
+      "end": 117
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 917,
+      "end": 941
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 942,
+      "end": 954
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión",
+      "surface": "Depresión",
+      "start": 956,
+      "end": 965
+    },
+    {
+      "type": "REACT",
+      "canonical": "alteraciones del comportamiento (principalmente en niños)",
+      "surface": "alteraciones del comportamiento (principalmente en niños)",
+      "start": 967,
+      "end": 1024
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 1026,
+      "end": 1041
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agresividad",
+      "surface": "Agresividad",
+      "start": 1043,
+      "end": 1054
+    },
+    {
+      "type": "REACT",
+      "canonical": "alteraciones del sueño",
+      "surface": "alteraciones del sueño",
+      "start": 1056,
+      "end": 1078
+    },
+    {
+      "type": "REACT",
+      "canonical": "ansiedad",
+      "surface": "ansiedad",
+      "start": 1080,
+      "end": 1088
+    },
+    {
+      "type": "REACT",
+      "canonical": "hiperactividad psicomotora",
+      "surface": "hiperactividad psicomotora",
+      "start": 1090,
+      "end": 1116
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1119,
+      "end": 1150
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 1031,
+      "end": 1041
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea",
+      "start": 1163,
+      "end": 1170
+    },
+    {
+      "type": "REACT",
+      "canonical": "temblor",
+      "surface": "temblor",
+      "start": 1172,
+      "end": 1179
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones del gusto",
+      "surface": "Alteraciones del gusto",
+      "start": 1195,
+      "end": 1217
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareo",
+      "surface": "Mareo",
+      "start": 1236,
+      "end": 1241
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1244,
+      "end": 1281
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones",
+      "start": 1294,
+      "end": 1307
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angina de pecho",
+      "surface": "Angina de pecho",
+      "start": 1323,
+      "end": 1338
+    },
+    {
+      "type": "REACT",
+      "canonical": "Arritmias cardíacas, como fibrilación auricular, taquicardia supraventricular, extrasístoles",
+      "surface": "Arritmias cardíacas, como fibrilación auricular, taquicardia supraventricular, extrasístoles",
+      "start": 1340,
+      "end": 1432
+    },
+    {
+      "type": "REACT",
+      "canonical": "Variaciones en la presión arterial",
+      "surface": "Variaciones en la presión arterial",
+      "start": 1434,
+      "end": 1468
+    },
+    {
+      "type": "REACT",
+      "canonical": "prolongación del intervalo QTc",
+      "surface": "prolongación del intervalo QTc",
+      "start": 1470,
+      "end": 1500
+    },
+    {
+      "type": "REACT",
+      "canonical": "Taquicardia",
+      "surface": "Taquicardia",
+      "start": 1389,
+      "end": 1400
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 1533,
+      "end": 1568
+    },
+    {
+      "type": "REACT",
+      "canonical": "Irritación leve de garganta",
+      "surface": "Irritación leve de garganta",
+      "start": 1581,
+      "end": 1608
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tos",
+      "surface": "Tos",
+      "start": 1610,
+      "end": 1613
+    },
+    {
+      "type": "REACT",
+      "canonical": "disfonía incluida ronquera",
+      "surface": "disfonía incluida ronquera",
+      "start": 1615,
+      "end": 1641
+    },
+    {
+      "type": "REACT",
+      "canonical": "broncoespasmo",
+      "surface": "broncoespasmo",
+      "start": 1657,
+      "end": 1670
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 1673,
+      "end": 1715
+    },
+    {
+      "type": "REACT",
+      "canonical": "Calambres musculares",
+      "surface": "Calambres musculares",
+      "start": 1733,
+      "end": 1753
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "INFECCIONES E INFESTACIONES",
+      "start": 1756,
+      "end": 1783
+    },
+    {
+      "type": "REACT",
+      "canonical": "Candidiasis orofaríngea",
+      "surface": "Candidiasis orofaríngea",
+      "start": 1796,
+      "end": 1819
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neumonía (en pacientes con EPOC)",
+      "surface": "Neumonía (en pacientes con EPOC)",
+      "start": 1821,
+      "end": 1853
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 1856,
+      "end": 1893
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cataratas y glaucoma",
+      "surface": "Cataratas y glaucoma",
+      "start": 1908,
+      "end": 1928
+    },
+    {
+      "type": "REACT",
+      "canonical": "Visión borrosa",
+      "surface": "Visión borrosa",
+      "start": 1947,
+      "end": 1961
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "surface": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "start": 1964,
+      "end": 1996
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de Cushing",
+      "surface": "Síndrome de Cushing",
+      "start": 2011,
+      "end": 2030
+    },
+    {
+      "type": "REACT",
+      "canonical": "disminución de la densidad mineral ósea",
+      "surface": "disminución de la densidad mineral ósea",
+      "start": 2032,
+      "end": 2071
+    },
+    {
+      "type": "REACT",
+      "canonical": "retraso del crecimiento",
+      "surface": "retraso del crecimiento",
+      "start": 2073,
+      "end": 2096
+    },
+    {
+      "type": "REACT",
+      "canonical": "supresión adrenal",
+      "surface": "supresión adrenal",
+      "start": 2098,
+      "end": 2115
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 2118,
+      "end": 2146
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hematomas",
+      "surface": "Hematomas",
+      "start": 2164,
+      "end": 2173
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "start": 2176,
+      "end": 2217
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperglucemia",
+      "surface": "Hiperglucemia",
+      "start": 2232,
+      "end": 2245
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipocalemia",
+      "surface": "Hipocalemia",
+      "start": 2247,
+      "end": 2258
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 2261,
+      "end": 2293
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 2311,
+      "end": 2318
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 2321,
+      "end": 2356
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacciones de hipersensibilidad inmediata y retardada, como exantema, urticaria, prurito, dermatitis, angioedema y reacción anafiláctica",
+      "surface": "Reacciones de hipersensibilidad inmediata y retardada, como exantema, urticaria, prurito, dermatitis, angioedema y reacción anafiláctica",
+      "start": 2371,
+      "end": 2507
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "BUDESONIDA, FORMOTEROL FUMARATO DIHIDRATO",
+      "surface": "BUDESONIDA, FORMOTEROL FUMARATO DIHIDRATO",
+      "start": 3862,
+      "end": 3903
+    }
+  ]
+}

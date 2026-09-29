@@ -1,0 +1,74 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El tratamiento con CAPTOPRIL se asocia a un perfil de seguridad conocido para los inhibidores de la enzima convertidora de angiotensina. Las notificaciones descritas proceden de la experiencia clínica y de la vigilancia posterior a la comercialización. En general, los acontecimientos son reversibles tras la reducción de la dosis o la retirada del tratamiento. La evaluación debe considerar la situación basal del paciente, el tratamiento concomitante y la función renal. La clasificación siguiente se presenta por sistema de clasificación de órganos y por categoría de frecuencia.
+
+Lista tabulada de reacciones adversas
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+no frecuente: Accidente cerebrovascular incluyendo ictus y síncope, Somnolencia.
+frecuentes: Alteración del gusto, Cefalea, Mareos, Parestesias.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+no frecuente: Agranulocitosis, Anemia (incluyendo anemia aplásica y hemolítica), Enfermedades autoinmunes, Eosinofilia, Linfadenopatía, Neutropenia, Pancitopenia (especialmente en pacientes con disfunción renal), Test ANA-positivo, Trombocitopenia.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+frecuentes: Alopecia, Erupción cutánea, Prurito.
+poco frecuentes: Angioedema.
+no frecuente: Dermatitis exfoliativa, Eritema multiforme, Eritrodermia, Fotosensibilidad, Reacciones penfigoides, Síndrome de Stevens - Johnson (SSJ), Urticaria.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+no frecuente: Alveolitis alérgica/ neumonía eosinofílica, Broncoespasmo, Rinitis.
+frecuentes: Disnea, Tos irrtativa (no productiva), Tos seca.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+poco frecuentes: Angina de pecho, Hipotensión, Palidez, Palpitaciones, Rubor, Síndrome de Raynaud, Taquiarritmia.
+no frecuente: Parada cardiaca, Shock cardiogénico.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+no frecuente: Angioedema intestinal, Colestasis (incluyendo ictericia), Elevación de la bilirrubina, Estomatitis, Función hepática deteriorada, Glositis, Hepatitis, Incremento de transaminasas y fosfatasa alcalina, Necrosis hepática, Pancreatitis, Ulceraciones aftosas.
+frecuentes: Diarrea, Dolor abdominal, Estreñimiento, Irritación gástrica, Náuseas, Sequedad de boca, Vómitos, Úlcera péptica.
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN
+frecuentes: Anorexia.
+no frecuente: Hiperkalemia, Hipoglucemia.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+no frecuente: Artralgia, Mialgia.
+
+TRASTORNOS DEL SISTEMA GENERAL
+frecuencia no conocida: Astenia.
+poco frecuentes: Dolor torácico, Fatiga, Malestar general.
+no frecuente: Fiebre.
+
+TRASTORNOS PSIQUIÁTRICOS
+no frecuente: Confusión, Depresión.
+frecuentes: Trastornos del sueño.
+
+PRUEBAS COMPLEMENTARIAS
+no frecuente: Descenso de hematocrito, Descenso de hemoglobina, Descenso de leucocitos, Descenso de plaquetas, Descenso del sodio sérico, Elevación de la VSG, Elevación de la bilirrubina sérica, Elevación de la creatinina sérica, Elevación del nitrógeno ureico (BUN), Eosinofilia, Incremento del potasio sérico, Proteinuria.
+
+TRASTORNOS DEL SISTEMA REPRODUCTOR
+no frecuente: Disfunción eréctil, Ginecomastia.
+
+TRASTORNOS DEL SISTEMA EXCRETOR
+no frecuente: Fallo renal, Oliguria, Polaquiuria, Poliuria, Síndrome nefrótico.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+no frecuente: Visión borrosa.
+
+Descripción de reacciones adversas seleccionadas
+Se recomienda valorar periódicamente la tolerabilidad durante el seguimiento clínico, especialmente en pacientes con factores predisponentes o con tratamientos concomitantes que puedan modificar la respuesta. Ante manifestaciones persistentes o clínicamente relevantes, debe considerarse la interrupción temporal o definitiva según el juicio médico.
+
+Los hallazgos analíticos deben interpretarse junto con la evolución clínica. En pacientes con alteración previa de la función renal, la monitorización puede requerir controles más estrechos. La información debe utilizarse junto con las advertencias y precauciones de empleo incluidas en otros apartados de la ficha técnica.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En el sistema de clasificación de órganos TRASTORNOS DEL SISTEMA EXCRETOR, se ha notificado Polaquiuria con frecuencia no frecuente durante el tratamiento con CAPTOPRIL. Esta manifestación debe valorarse en el contexto clínico del paciente y de la situación basal, especialmente cuando existan cambios recientes en la pauta o en la ingesta de líquidos. Se recomienda seguimiento clínico y reevaluación del tratamiento si la sintomatología persiste, resulta molesta o se asocia a deterioro del estado general. La intensidad y la duración comunicadas pueden orientar la necesidad de medidas de control adicionales.
+
+-- Caso 2 --
+Dentro del sistema de clasificación de órganos TRASTORNOS DEL SISTEMA GENERAL, se ha descrito Astenia asociada al tratamiento con CAPTOPRIL, con frecuencia no conocida. Este acontecimiento puede aparecer durante el seguimiento clínico y debe valorarse considerando la situación basal del paciente y la evolución temporal tras el inicio o ajuste de la dosis. En caso de persistencia o impacto funcional, se recomienda evaluar la continuidad del tratamiento y aplicar las medidas clínicas pertinentes, de acuerdo con el juicio médico y la respuesta individual observada.
+
+-- Caso 3 --
+En el sistema Trastornos de piel y tejidos, Alopecia se ha descrito como reacción adversa asociada al tratamiento con CAPTOPRIL, con una frecuencia de aparición clasificada como frecuentes. Esta alteración suele identificarse durante el seguimiento clínico y debe valorarse en el contexto temporal de la exposición, la evolución del cuadro y la presencia de otros factores concomitantes. Si se observa esta manifestación de forma clínicamente relevante o persistente, se recomienda reevaluar el tratamiento y considerar las medidas habituales de vigilancia, de acuerdo con la situación individual del paciente.

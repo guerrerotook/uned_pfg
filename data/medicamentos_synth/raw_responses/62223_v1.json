@@ -1,0 +1,765 @@
+{
+  "codigo": "62223",
+  "variante": 1,
+  "codigo_variant": "62223_v1",
+  "medicamento": "METRONIDAZOL NORMON 250 mg COMPRIMIDOS EFG",
+  "model": "gpt-5.5",
+  "style_variant_idx": 0,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil de seguridad descrito para METRONIDAZOL es coherente con el observado para medicamentos de su clase y se basa en la notificación clínica disponible tras su administración. Las reacciones notificadas suelen ser reversibles al suspender el tratamiento o al instaurar las medidas de soporte apropiadas. La valoración de la causalidad debe realizarse considerando la indicación tratada, la duración de la exposición y la situación clínica basal del paciente. Se recomienda informar al paciente de que comunique cualquier manifestación persistente, intensa o inesperada durante el tratamiento. En los casos en que aparezcan signos clínicamente relevantes, debe reconsiderarse la continuación del medicamento y aplicarse seguimiento médico adecuado.\n\nLista tabulada de reacciones adversas\nLas reacciones adversas se presentan según la clasificación por sistema y frecuencia. Dentro de cada grupo, las reacciones se enumeran sin implicar necesariamente un orden de gravedad.\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS\nfrecuencia no conocida: Leucopenia.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\nfrecuencia no conocida: Crisis oculógira, Neuropatía óptica/neuritis.\n\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN\nfrecuencia no conocida: Anorexia.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\nNo se han identificado reacciones específicas para este grupo en la información considerada.\n\nTRASTORNOS DEL SISTEMA HEPATOBILIAR\nNo se han identificado reacciones específicas para este grupo en la información considerada.\n\nINFECCIONES E INFESTACIONES\nno frecuente: Colitis pseudomembranosa.\nfrecuentes: Superinfecciones con cándida.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nfrecuencia no conocida: Convulsiones epileptiformes transitorias, Insomnio, Meningitis aséptica, Mioclono, Neuropatía sensorial periférica, Somnolencia.\n\nTRASTORNOS PSIQUIÁTRICOS\nfrecuencia no conocida: Depresión.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nfrecuencia no conocida: DIarrea, Disfagia, Disgeusia, Dolor abdominal, Estomatitis, Glositis, Lengua peluda, Náuseas, Vómitos.\n\nTRASTORNOS DE PIEL Y TEJIDOS\nfrecuencia no conocida: Eritema multiforme, Necrólisis epidérmic tóxica.\n\nTRASTORNOS DEL SISTEMA EXCRETOR\nNo se han identificado reacciones específicas para este grupo en la información considerada.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\nfrecuencia no conocida: Reacciones de hipersensibilidad leves a moderadas.\nno frecuente: Reacciones graves de hipersensibilidad sistémica aguda.\n\nDescripción de reacciones adversas seleccionadas\nDurante el tratamiento debe prestarse atención a la aparición de síntomas neurológicos, visuales o cutáneos de nueva instauración, especialmente cuando el tratamiento sea prolongado o existan factores predisponentes. La identificación precoz de manifestaciones compatibles con afectación sistémica permite adoptar medidas clínicas y valorar la interrupción del medicamento.\n\nLas alteraciones gastrointestinales pueden afectar a la adherencia al tratamiento. Se aconseja revisar la tolerabilidad en pacientes con antecedentes de mala tolerancia a tratamientos antiinfecciosos y mantener una hidratación adecuada cuando la situación clínica lo requiera. La aparición de manifestaciones compatibles con hipersensibilidad requiere evaluación médica inmediata y manejo conforme a la gravedad del cuadro.\n\nNotificación de sospechas de reacciones adversas\nEs importante notificar las sospechas de reacciones adversas tras la autorización del medicamento. Ello permite una supervisión continuada de la relación beneficio-riesgo. Se invita a los profesionales sanitarios a notificar cualquier sospecha a través del sistema nacional de notificación correspondiente.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nEn el sistema de clasificación de órganos INFECCIONES E INFESTACIONES, se han descrito Superinfecciones con cándida como reacciones adversas frecuentes durante el tratamiento con METRONIDAZOL. Este efecto puede relacionarse con la modificación de la flora microbiana susceptible durante la exposición al antibacteriano. En pacientes que presenten signos compatibles, se recomienda la valoración clínica y el seguimiento adecuados, considerando la continuidad del tratamiento según la situación individual y la evolución del cuadro. La comunicación de sospechas tras la autorización permite mantener actualizada la información de seguridad del medicamento.\n\n-- Caso 2 --\nDentro del sistema de clasificación de órganos Trastornos del sistema digestivo, se han notificado Náuseas asociadas al uso de METRONIDAZOL con frecuencia no conocida. Este término debe registrarse conforme a la terminología MedDRA y valorarse en el contexto clínico del paciente, especialmente al inicio del tratamiento o cuando se modifique la pauta posológica. La aparición de este acontecimiento no permite estimar una incidencia a partir de los datos disponibles; se recomienda seguimiento clínico y considerar las medidas habituales de manejo según la intensidad y la evolución.\n\n-- Caso 3 --\nDentro del sistema de clasificación de órganos Infecciones e infestaciones, se ha descrito Colitis pseudomembranosa con una frecuencia no frecuente durante el tratamiento con METRONIDAZOL. Esta reacción puede relacionarse con la modificación de la flora intestinal asociada al uso de antibacterianos y debe considerarse en la evaluación clínica del paciente.\n\nSe recomienda vigilancia clínica si aparece un cuadro compatible durante el tratamiento o tras su finalización. En caso de sospecha, debe valorarse la interrupción del tratamiento y la instauración de las medidas terapéuticas apropiadas, de acuerdo con la práctica clínica habitual.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "METRONIDAZOL",
+      "surface": "METRONIDAZOL",
+      "start": 94,
+      "end": 106
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 1036,
+      "end": 1085
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 1086,
+      "end": 1108
+    },
+    {
+      "type": "REACT",
+      "canonical": "Leucopenia",
+      "surface": "Leucopenia",
+      "start": 1110,
+      "end": 1120
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 1123,
+      "end": 1160
+    },
+    {
+      "type": "REACT",
+      "canonical": "Crisis oculógira",
+      "surface": "Crisis oculógira",
+      "start": 1185,
+      "end": 1201
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neuropatía óptica/neuritis",
+      "surface": "Neuropatía óptica/neuritis",
+      "start": 1203,
+      "end": 1229
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "start": 1232,
+      "end": 1273
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anorexia",
+      "surface": "Anorexia",
+      "start": 1298,
+      "end": 1306
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 1309,
+      "end": 1351
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "surface": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "start": 1446,
+      "end": 1481
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "INFECCIONES E INFESTACIONES",
+      "start": 1576,
+      "end": 1603
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 1604,
+      "end": 1616
+    },
+    {
+      "type": "REACT",
+      "canonical": "Colitis pseudomembranosa",
+      "surface": "Colitis pseudomembranosa",
+      "start": 1618,
+      "end": 1642
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 1644,
+      "end": 1654
+    },
+    {
+      "type": "REACT",
+      "canonical": "Superinfecciones con cándida",
+      "surface": "Superinfecciones con cándida",
+      "start": 1656,
+      "end": 1684
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1687,
+      "end": 1718
+    },
+    {
+      "type": "REACT",
+      "canonical": "Convulsiones epileptiformes transitorias",
+      "surface": "Convulsiones epileptiformes transitorias",
+      "start": 1743,
+      "end": 1783
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insomnio",
+      "surface": "Insomnio",
+      "start": 1785,
+      "end": 1793
+    },
+    {
+      "type": "REACT",
+      "canonical": "Meningitis aséptica",
+      "surface": "Meningitis aséptica",
+      "start": 1795,
+      "end": 1814
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mioclono",
+      "surface": "Mioclono",
+      "start": 1816,
+      "end": 1824
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neuropatía sensorial periférica",
+      "surface": "Neuropatía sensorial periférica",
+      "start": 1826,
+      "end": 1857
+    },
+    {
+      "type": "REACT",
+      "canonical": "Somnolencia",
+      "surface": "Somnolencia",
+      "start": 1859,
+      "end": 1870
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 1873,
+      "end": 1897
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión",
+      "surface": "Depresión",
+      "start": 1922,
+      "end": 1931
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1934,
+      "end": 1966
+    },
+    {
+      "type": "REACT",
+      "canonical": "DIarrea",
+      "surface": "DIarrea",
+      "start": 1991,
+      "end": 1998
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disfagia",
+      "surface": "Disfagia",
+      "start": 2000,
+      "end": 2008
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disgeusia",
+      "surface": "Disgeusia",
+      "start": 2010,
+      "end": 2019
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor abdominal",
+      "surface": "Dolor abdominal",
+      "start": 2021,
+      "end": 2036
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estomatitis",
+      "surface": "Estomatitis",
+      "start": 2038,
+      "end": 2049
+    },
+    {
+      "type": "REACT",
+      "canonical": "Glositis",
+      "surface": "Glositis",
+      "start": 2051,
+      "end": 2059
+    },
+    {
+      "type": "REACT",
+      "canonical": "Lengua peluda",
+      "surface": "Lengua peluda",
+      "start": 2061,
+      "end": 2074
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 2076,
+      "end": 2083
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos",
+      "start": 2085,
+      "end": 2092
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 2095,
+      "end": 2123
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eritema multiforme",
+      "surface": "Eritema multiforme",
+      "start": 2148,
+      "end": 2166
+    },
+    {
+      "type": "REACT",
+      "canonical": "Necrólisis epidérmic tóxica",
+      "surface": "Necrólisis epidérmic tóxica",
+      "start": 2168,
+      "end": 2195
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "start": 2198,
+      "end": 2229
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 2324,
+      "end": 2359
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacciones de hipersensibilidad leves a moderadas",
+      "surface": "Reacciones de hipersensibilidad leves a moderadas",
+      "start": 2384,
+      "end": 2433
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacciones graves de hipersensibilidad sistémica aguda",
+      "surface": "Reacciones graves de hipersensibilidad sistémica aguda",
+      "start": 2449,
+      "end": 2503
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "Trastornos del sistema digestivo",
+      "start": 1934,
+      "end": 1966
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "Infecciones e infestaciones",
+      "start": 1576,
+      "end": 1603
+    }
+  ],
+  "raw_long_doc_text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil de seguridad descrito para METRONIDAZOL es coherente con el observado para medicamentos de su clase y se basa en la notificación clínica disponible tras su administración. Las reacciones notificadas suelen ser reversibles al suspender el tratamiento o al instaurar las medidas de soporte apropiadas. La valoración de la causalidad debe realizarse considerando la indicación tratada, la duración de la exposición y la situación clínica basal del paciente. Se recomienda informar al paciente de que comunique cualquier manifestación persistente, intensa o inesperada durante el tratamiento. En los casos en que aparezcan signos clínicamente relevantes, debe reconsiderarse la continuación del medicamento y aplicarse seguimiento médico adecuado.\n\nLista tabulada de reacciones adversas\nLas reacciones adversas se presentan según la clasificación por sistema y frecuencia. Dentro de cada grupo, las reacciones se enumeran sin implicar necesariamente un orden de gravedad.\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS\nfrecuencia no conocida: Leucopenia.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\nfrecuencia no conocida: Crisis oculógira, Neuropatía óptica/neuritis.\n\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN\nfrecuencia no conocida: Anorexia.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\nNo se han identificado reacciones específicas para este grupo en la información considerada.\n\nTRASTORNOS DEL SISTEMA HEPATOBILIAR\nNo se han identificado reacciones específicas para este grupo en la información considerada.\n\nINFECCIONES E INFESTACIONES\nno frecuente: Colitis pseudomembranosa.\nfrecuentes: Superinfecciones con cándida.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nfrecuencia no conocida: Convulsiones epileptiformes transitorias, Insomnio, Meningitis aséptica, Mioclono, Neuropatía sensorial periférica, Somnolencia.\n\nTRASTORNOS PSIQUIÁTRICOS\nfrecuencia no conocida: Depresión.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nfrecuencia no conocida: DIarrea, Disfagia, Disgeusia, Dolor abdominal, Estomatitis, Glositis, Lengua peluda, Náuseas, Vómitos.\n\nTRASTORNOS DE PIEL Y TEJIDOS\nfrecuencia no conocida: Eritema multiforme, Necrólisis epidérmic tóxica.\n\nTRASTORNOS DEL SISTEMA EXCRETOR\nNo se han identificado reacciones específicas para este grupo en la información considerada.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\nfrecuencia no conocida: Reacciones de hipersensibilidad leves a moderadas.\nno frecuente: Reacciones graves de hipersensibilidad sistémica aguda.\n\nDescripción de reacciones adversas seleccionadas\nDurante el tratamiento debe prestarse atención a la aparición de síntomas neurológicos, visuales o cutáneos de nueva instauración, especialmente cuando el tratamiento sea prolongado o existan factores predisponentes. La identificación precoz de manifestaciones compatibles con afectación sistémica permite adoptar medidas clínicas y valorar la interrupción del medicamento.\n\nLas alteraciones gastrointestinales pueden afectar a la adherencia al tratamiento. Se aconseja revisar la tolerabilidad en pacientes con antecedentes de mala tolerancia a tratamientos antiinfecciosos y mantener una hidratación adecuada cuando la situación clínica lo requiera. La aparición de manifestaciones compatibles con hipersensibilidad requiere evaluación médica inmediata y manejo conforme a la gravedad del cuadro.\n\nNotificación de sospechas de reacciones adversas\nEs importante notificar las sospechas de reacciones adversas tras la autorización del medicamento. Ello permite una supervisión continuada de la relación beneficio-riesgo. Se invita a los profesionales sanitarios a notificar cualquier sospecha a través del sistema nacional de notificación correspondiente.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "METRONIDAZOL",
+      "surface": "METRONIDAZOL"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Leucopenia",
+      "surface": "Leucopenia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Crisis oculógira",
+      "surface": "Crisis oculógira"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neuropatía óptica/neuritis",
+      "surface": "Neuropatía óptica/neuritis"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anorexia",
+      "surface": "Anorexia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "surface": "TRASTORNOS DEL SISTEMA HEPATOBILIAR"
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "INFECCIONES E INFESTACIONES"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Colitis pseudomembranosa",
+      "surface": "Colitis pseudomembranosa"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Superinfecciones con cándida",
+      "surface": "Superinfecciones con cándida"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Convulsiones epileptiformes transitorias",
+      "surface": "Convulsiones epileptiformes transitorias"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insomnio",
+      "surface": "Insomnio"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Meningitis aséptica",
+      "surface": "Meningitis aséptica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mioclono",
+      "surface": "Mioclono"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neuropatía sensorial periférica",
+      "surface": "Neuropatía sensorial periférica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Somnolencia",
+      "surface": "Somnolencia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión",
+      "surface": "Depresión"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "DIarrea",
+      "surface": "DIarrea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disfagia",
+      "surface": "Disfagia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disgeusia",
+      "surface": "Disgeusia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor abdominal",
+      "surface": "Dolor abdominal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estomatitis",
+      "surface": "Estomatitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Glositis",
+      "surface": "Glositis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Lengua peluda",
+      "surface": "Lengua peluda"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eritema multiforme",
+      "surface": "Eritema multiforme"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Necrólisis epidérmic tóxica",
+      "surface": "Necrólisis epidérmic tóxica"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacciones de hipersensibilidad leves a moderadas",
+      "surface": "Reacciones de hipersensibilidad leves a moderadas"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacciones graves de hipersensibilidad sistémica aguda",
+      "surface": "Reacciones graves de hipersensibilidad sistémica aguda"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "METRONIDAZOL NORMON 250 mg COMPRIMIDOS EFG",
+        "pactivo": "METRONIDAZOL",
+        "reaccion": "Superinfecciones con cándida",
+        "frecuencia": "FRECUENTE",
+        "sistema": "INFECCIONES E INFESTACIONES"
+      },
+      "text": "En el sistema de clasificación de órganos INFECCIONES E INFESTACIONES, se han descrito Superinfecciones con cándida como reacciones adversas frecuentes durante el tratamiento con METRONIDAZOL. Este efecto puede relacionarse con la modificación de la flora microbiana susceptible durante la exposición al antibacteriano. En pacientes que presenten signos compatibles, se recomienda la valoración clínica y el seguimiento adecuados, considerando la continuidad del tratamiento según la situación individual y la evolución del cuadro. La comunicación de sospechas tras la autorización permite mantener actualizada la información de seguridad del medicamento.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "INFECCIONES E INFESTACIONES",
+          "surface": "INFECCIONES E INFESTACIONES"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Superinfecciones con cándida",
+          "surface": "Superinfecciones con cándida"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "METRONIDAZOL",
+          "surface": "METRONIDAZOL"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "INFECCIONES E INFESTACIONES",
+          "surface": "INFECCIONES E INFESTACIONES",
+          "start": 42,
+          "end": 69
+        },
+        {
+          "type": "REACT",
+          "canonical": "Superinfecciones con cándida",
+          "surface": "Superinfecciones con cándida",
+          "start": 87,
+          "end": 115
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes",
+          "start": 141,
+          "end": 151
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "METRONIDAZOL",
+          "surface": "METRONIDAZOL",
+          "start": 179,
+          "end": 191
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "METRONIDAZOL NORMON 250 mg COMPRIMIDOS EFG",
+        "pactivo": "METRONIDAZOL",
+        "reaccion": "Náuseas",
+        "frecuencia": "SIN FRECUENCIA",
+        "sistema": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+      },
+      "text": "Dentro del sistema de clasificación de órganos Trastornos del sistema digestivo, se han notificado Náuseas asociadas al uso de METRONIDAZOL con frecuencia no conocida. Este término debe registrarse conforme a la terminología MedDRA y valorarse en el contexto clínico del paciente, especialmente al inicio del tratamiento o cuando se modifique la pauta posológica. La aparición de este acontecimiento no permite estimar una incidencia a partir de los datos disponibles; se recomienda seguimiento clínico y considerar las medidas habituales de manejo según la intensidad y la evolución.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "Trastornos del sistema digestivo"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Náuseas",
+          "surface": "Náuseas"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "METRONIDAZOL",
+          "surface": "METRONIDAZOL"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "Trastornos del sistema digestivo",
+          "start": 47,
+          "end": 79
+        },
+        {
+          "type": "REACT",
+          "canonical": "Náuseas",
+          "surface": "Náuseas",
+          "start": 99,
+          "end": 106
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "METRONIDAZOL",
+          "surface": "METRONIDAZOL",
+          "start": 127,
+          "end": 139
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida",
+          "start": 144,
+          "end": 166
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "METRONIDAZOL NORMON 250 mg COMPRIMIDOS EFG",
+        "pactivo": "METRONIDAZOL",
+        "reaccion": "Colitis pseudomembranosa",
+        "frecuencia": "NO FRECUENTE",
+        "sistema": "INFECCIONES E INFESTACIONES"
+      },
+      "text": "Dentro del sistema de clasificación de órganos Infecciones e infestaciones, se ha descrito Colitis pseudomembranosa con una frecuencia no frecuente durante el tratamiento con METRONIDAZOL. Esta reacción puede relacionarse con la modificación de la flora intestinal asociada al uso de antibacterianos y debe considerarse en la evaluación clínica del paciente.\n\nSe recomienda vigilancia clínica si aparece un cuadro compatible durante el tratamiento o tras su finalización. En caso de sospecha, debe valorarse la interrupción del tratamiento y la instauración de las medidas terapéuticas apropiadas, de acuerdo con la práctica clínica habitual.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "INFECCIONES E INFESTACIONES",
+          "surface": "Infecciones e infestaciones"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Colitis pseudomembranosa",
+          "surface": "Colitis pseudomembranosa"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "METRONIDAZOL",
+          "surface": "METRONIDAZOL"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "INFECCIONES E INFESTACIONES",
+          "surface": "Infecciones e infestaciones",
+          "start": 47,
+          "end": 74
+        },
+        {
+          "type": "REACT",
+          "canonical": "Colitis pseudomembranosa",
+          "surface": "Colitis pseudomembranosa",
+          "start": 91,
+          "end": 115
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente",
+          "start": 135,
+          "end": 147
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "METRONIDAZOL",
+          "surface": "METRONIDAZOL",
+          "start": 175,
+          "end": 187
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

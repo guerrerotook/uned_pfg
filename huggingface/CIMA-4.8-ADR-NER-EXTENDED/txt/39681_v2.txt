@@ -1,0 +1,87 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil de seguridad de SULFASALAZINA se ha establecido a partir de la experiencia clínica y de la notificación posterior a la comercialización. En pacientes tratados con Salazopyrina, la evaluación debe considerar la situación basal, la duración del tratamiento y la aparición temporal de los acontecimientos. La sulfasalazina puede asociarse a manifestaciones de intensidad variable, por lo que se recomienda revisar periódicamente la tolerabilidad y las pruebas clínicas pertinentes. La interrupción o modificación del tratamiento debe valorarse de forma individual cuando los hallazgos sean relevantes o persistentes.
+
+Lista tabulada de reacciones adversas
+TRASTORNOS DEL SISTEMA GENERAL
+frecuencia no conocida: Fiebre, debilidad, dolor garganta, entumecimiento de las extremidades.
+frecuentes: Fiebre, Mareo, Picor, dolor de cabeza.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+frecuencia no conocida: Formación de anticuerpos dirigidos contra el propio organismo, Reacción alérgica grave en todo el cuerpo, angioedema, enfermedad del suero, inflamación vasoss angíneos, lupus eritematoso sistémico, meningitis aséptica, síndrome de erupción medicamentosa con eosinofíllia y síntomas sistémicos.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+frecuentes: acúfenos, alteración del gusto.
+frecuencia no conocida: Hinchazón alrededor de los ojos, Lesiones en la parte blanca del ojo y en la membrana transparente que recubre la superficie externa del ojo., alteración del olfato, pérdida de la coordinación de los movimientos.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+frecuencia no conocida: agranulocitosis, anemia, macrocitosis, metahemoglobinemia, pancitopenia.
+frecuentes: leucopenia.
+poco frecuentes: Trombocitopenia.
+
+TRASTORNOS DEL SISTEMA EXCRETOR
+frecuencia no conocida: Aparición de cristales y de sangre en la orina, Disminución de la cantidad de proteínas en la sangre, álculos en los riñones.
+poco frecuentes: Resultados anormales de las pruebas de la función del hígado, ictericia.
+frecuentes: Presencia de proteínas en orina.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+frecuencia no conocida: alteración de los nervios periféricos, convulsiones, encefalopatía.
+
+TRASTORNOS PSIQUIÁTRICOS
+frecuencia no conocida: alucinaciones, insomnio.
+poco frecuentes: Depresión.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+frecuencia no conocida: colitis pseudomembranosa, colitis ulcerosa, estomatitis, fallo hepático, hepatitis, hepatitis fulminante, pancreatitis, parotiditis.
+frecuentes: Diarrea, Pérdidade apetito, dolor de abdomen, vómitos.
+muy frecuentes: molestias estómago, náuseas.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+frecuencia no conocida: Coloración azulada de la piel y de las mucosas, Disminución de folato, dermatitis exfoliativa, necrolisis epidérmica tóxica, palidez, síndrome de Stevens-Johnson.
+poco frecuentes: Pérdida de pelo, Urticaria, edema facial.
+frecuentes: Manchas rojas o azuladas en la piel.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+poco frecuentes: Dificultad para respirar.
+frecuencia no conocida: lesiones en pulmones.
+frecuentes: Tos.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+frecuentes: Dolor de las articulaciones.
+
+TRASTORNOS DEL SISTEMA REPRODUCTOR
+frecuencia no conocida: infertilidad en el hombre.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+frecuencia no conocida: miocarditis, pericarditis.
+
+Descripción de reacciones adversas seleccionadas
+Durante el seguimiento, algunos pacientes pueden referir cambios generales o digestivos que condicionen la adherencia al tratamiento. La presencia de Pérdidade apetito, descrita por el paciente como falta de ganas de comer, debe interpretarse en el contexto clínico y junto con la evolución del cuadro tratado.
+
+Se debe prestar atención a manifestaciones que sugieran afectación sistémica o compromiso funcional. La Dificultad para respirar, expresada en ocasiones como falta de aire, requiere valoración clínica, especialmente si aparece de forma brusca o se acompaña de deterioro del estado general. La notificación de acontecimientos sospechosos permite mejorar la caracterización del perfil de seguridad.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En pacientes tratados con sulfasalazina (Salazopyrina), se han notificado náuseas como reacción adversa clasificada como muy frecuentes. Esta manifestación se recoge dentro de los trastornos del sistema digestivo y suele aparecer al inicio del tratamiento o tras ajustes de dosis.
+
+- Trastornos del sistema digestivo: muy frecuentes: náuseas (ganas de vomitar).
+
+Se recomienda valorar la evolución clínica y la tolerabilidad individual durante el seguimiento, especialmente si el síntoma persiste o interfiere con la administración habitual del medicamento.
+
+-- Caso 2 --
+En el sistema de clasificación de órganos Trastornos de piel y tejidos, se ha notificado edema facial (hinchazón de la cara) asociado al tratamiento con sulfasalazina, incluido Salazopyrina. De acuerdo con la información disponible, esta reacción adversa se clasifica como poco frecuentes.
+
+Listado tabulado:
+- Trastornos de piel y tejidos: edema facial; poco frecuentes.
+
+La aparición de este cuadro puede ser compatible con una respuesta cutánea de sensibilidad y requiere valoración clínica, especialmente si progresa o resulta clínicamente significativo. Se recomienda informar al paciente para que consulte si observa cambios faciales tras el inicio o durante el seguimiento del tratamiento.
+
+-- Caso 3 --
+Dentro del sistema de clasificación de órganos Trastornos del sistema excretor, se ha notificado Presencia de proteínas en orina asociada al tratamiento con sulfasalazina. En la información de seguridad de Salazopyrina, esta reacción se clasifica como frecuentes.
+
+Lista tabulada:
+- Trastornos del sistema excretor: Presencia de proteínas en orina (frecuentes).
+
+La detección puede realizarse mediante controles analíticos rutinarios de orina, especialmente durante el seguimiento clínico. Si se confirma la alteración, debe valorarse la continuidad del tratamiento según la situación del paciente y la evolución de los hallazgos.

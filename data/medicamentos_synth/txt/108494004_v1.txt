@@ -1,0 +1,54 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil de seguridad descrito para USTEKINUMAB procede de la evaluación integrada de datos clínicos y de la experiencia acumulada con el uso del medicamento. En conjunto, los acontecimientos comunicados fueron compatibles con el mecanismo de acción y con la vía de administración. La mayoría de los casos fueron de intensidad leve o moderada y pudieron manejarse con medidas clínicas habituales, sin requerir cambios relevantes en el seguimiento previsto. La valoración individual debe considerar la situación basal del paciente, los tratamientos concomitantes y la evolución temporal tras cada administración. Debe mantenerse una vigilancia adecuada durante el tratamiento y registrar cualquier acontecimiento clínicamente relevante.
+
+Lista tabulada de reacciones adversas
+Las reacciones se presentan por sistema de clasificación de órganos y por frecuencia. Dentro de cada grupo, las reacciones se enumeran sin establecer un orden de gravedad.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+frecuentes: Enrojecimiento y dolor en el lugar de inyección, Picor (“prurito”).
+poco frecuentes: Acné, Anafilaxia, Descamación de la piel, Endurecimiento, hinchazón y picor en el lugar de la inyección, Erupción cutánea, cardenales.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+poco frecuentes: Depresión, Parálisis facial (normalmente temporal), Párpado caído.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+frecuentes: Diarrea, Dolor de garganta, Náuseas, Vómitos.
+poco frecuentes: Dificultad para respirar y tragar.
+
+TRASTORNOS DEL SISTEMA GENERAL
+frecuentes: Dolor de cabeza, Sensación de cansancio, Sensación de mareo.
+poco frecuentes: Sentirse débil.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+frecuentes: Dolor de espalda, muscular o articular.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+poco frecuentes: Hemorragia.
+
+INFECCIONES E INFESTACIONES
+frecuentes: Infecciones nariz o garganta, Resfriado común, Sinusitis.
+poco frecuentes: Infecciones dentales, Infecciones vaginales por levaduras, Taponamiento o congestión nasal.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+poco frecuentes: Tensión arterial baja.
+
+Descripción de reacciones adversas seleccionadas
+La interpretación de la tabla debe realizarse junto con la información clínica disponible para cada paciente. La aparición de acontecimientos tras la administración no implica necesariamente una relación causal definitiva, aunque debe tenerse en cuenta la proximidad temporal y la recurrencia tras nuevas dosis. Cuando el paciente notifique cambios relevantes, se recomienda una evaluación clínica ordenada y documentada, incluyendo la intensidad, duración, desenlace y medidas adoptadas.
+
+Las manifestaciones locales y generales suelen requerir únicamente observación y tratamiento sintomático cuando proceda. En la práctica clínica, es importante diferenciar los hallazgos esperados por la vía de administración de aquellos que puedan sugerir una evolución no habitual. La decisión de continuar, interrumpir temporalmente o modificar el manejo debe basarse en el juicio médico y en el balance beneficio-riesgo individual.
+
+Se debe informar al paciente de que comunique cualquier signo nuevo o persistente durante el tratamiento. La notificación sistemática contribuye a caracterizar mejor el perfil de seguridad y permite una evaluación continuada en condiciones reales de uso.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En el sistema de clasificación de órganos Trastornos de piel y tejidos, acné está incluida entre las reacciones adversas poco frecuentes en pacientes tratados con USTEKINUMAB.
+La aparición de esta manifestación debe valorarse en el contexto clínico del paciente y del tratamiento concomitante. Se recomienda realizar seguimiento clínico cuando los síntomas persistan o resulten molestos, considerando las medidas habituales de manejo sin modificar el tratamiento salvo criterio médico. La información disponible no sugiere un patrón específico distinto del perfil de seguridad conocido.
+
+-- Caso 2 --
+Dentro de TRASTORNOS DEL SISTEMA DIGESTIVO, Náuseas se han notificado como frecuentes en pacientes tratados con USTEKINUMAB. Este acontecimiento debe interpretarse en el contexto del perfil de seguridad observado durante el tratamiento y de la situación clínica del paciente. Se recomienda valorar la intensidad y la evolución temporal, así como mantener el seguimiento clínico habitual cuando el síntoma persista o resulte relevante para la tolerabilidad del tratamiento. La decisión de continuar la administración debe basarse en la evaluación médica individual.
+
+-- Caso 3 --
+En pacientes tratados con USTEKINUMAB se ha notificado Dificultad para respirar y tragar; esta reacción se clasifica como poco frecuentes dentro de Trastornos del sistema digestivo. La aparición de este episodio debe evaluarse en el contexto clínico del paciente y de la relación temporal con la administración. Se recomienda seguimiento médico y valoración de la continuidad del tratamiento según la intensidad del cuadro y la evolución, de acuerdo con las medidas habituales de farmacovigilancia.

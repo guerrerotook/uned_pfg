@@ -1,0 +1,620 @@
+[
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Malignidades secundarias debidas al tratamiento",
+    "frecuencia": "No conocida",
+    "trastorno": "Neoplasias, benignas y malignas (incluyendo quistes y pólipos)"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Leucemia mielogénica aguda",
+    "frecuencia": "No conocida",
+    "trastorno": "Neoplasias, benignas y malignas (incluyendo quistes y pólipos)"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Síndromes mielodisplásicos",
+    "frecuencia": "No conocida",
+    "trastorno": "Neoplasias, benignas y malignas (incluyendo quistes y pólipos)"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Infecciones",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Neumonía",
+    "frecuencia": "No conocida",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Sepsis/shock séptico",
+    "frecuencia": "No conocida",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Trombocitopenia",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Neutropenia",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Leucopenia",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Anemia",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Hemorragia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Fallo de la médula ósea",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Neutropenia febril",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Síndrome hemolítico urémico",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Anemia hemolítica",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Fiebre",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Hipersensibilidad",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Reacciones de tipo anafiláctico",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Edema",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Disnea",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Taquicardia",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Hipotensión",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Urticaria",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Shock anafiláctico",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Broncoespasmo",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Pirexia",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Deshidratación",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Anorexia",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Hiponatremia",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Síndrome de lisis tumoral",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Hiponatremia temprana",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Neuropatía periférica",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Parestesia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Disminución de los reflejos osteotendinosos",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Alteraciones sensoriales",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Disgeusia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Accidente cerebrovascular",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Síndrome de leucoencefalopatía posterior reversible (SLPR)",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Eventos cerebrovasculares",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Alteraciones visuales",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Pérdida de visión",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Ceguera cortical",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Ototoxicidad",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del oído y del laberinto"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Tinnitus",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del oído y del laberinto"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Pérdida de audición",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del oído y del laberinto"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Hipoacusia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del oído y del laberinto"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Alteraciones cardiacas",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Fallo cardiaco",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Síndrome de Kounis",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Insuficiencia cardiaca",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Infarto de miocardio",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Parada cardiaca",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Angina de pecho",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Isquemia de miocardio",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Embolismo",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Hipertensión",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Hipotensión",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Alteraciones respiratorias",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Enfermedad pulmonar intersticial",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Broncoespasmo",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Vómitos",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Náuseas",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Dolor abdominal",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Diarrea",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Estreñimiento",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Alteración de las membranas mucosas",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Mucositis",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Estomatitis",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Pancreatitis",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Alopecia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Alteraciones de la piel",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Urticaria",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Rash",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Eritema",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Prurito",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Dermatitis exfoliativa",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Rash eritematoso",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Alteraciones musculoesqueléticas",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Mialgia/artralgia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Trastornos urogenitales",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Astenia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Necrosis en el lugar de inyección",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Reacción en el lugar de inyección",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Extravasación del lugar de inyección",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Eritema en el lugar de inyección",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Malestar",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Síntomas similares a los síntomas gripales",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Reacciones en el lugar de inyección (quemazón, dolor, rojez, hinchazón, urticaria, necrosis relacionada con la extravasación)",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Fiebre y escalofríos",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Disminución del aclaramiento de creatinina",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Aumento de los niveles de urea en sangre",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Aumento de la fosfatasa alcalina en sangre",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Aumento de la aspartato aminotransferasa",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Alteraciones en los test de función hepática",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Disminución de los niveles de sodio en sangre",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Disminución de los niveles de potasio en sangre",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Disminución de los niveles de calcio en sangre",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Disminución de los niveles de magnesio en sangre",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Aumento de la bilirrubina en sangre",
+    "frecuencia": "Frecuente",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Aumento de la creatinina en sangre",
+    "frecuencia": "Frecuente",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Aumento del ácido úrico en sangre",
+    "frecuencia": "Frecuente",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Necrosis hepática fulminante",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "CARBOPLATINO",
+    "reacción adversa": "Anomalías relevantes en las pruebas de función hepática",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos hepatobiliares"
+  }
+]

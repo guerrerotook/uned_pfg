@@ -1,0 +1,54 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil descrito para SULPIRIDA se corresponde con el observado en la experiencia clínica y en la notificación espontánea tras la comercialización. Las manifestaciones notificadas pueden aparecer al inicio del tratamiento o tras ajustes de dosis, y en general requieren valoración individual según la intensidad y la evolución temporal. La interpretación de los datos debe realizarse considerando la indicación, la exposición acumulada y las características basales del paciente. La información se presenta agrupada por sistema de clasificación de órganos y por categoría de frecuencia, utilizando la terminología médica habitual. La ausencia de una estimación cuantitativa en algunos acontecimientos refleja limitaciones de los datos disponibles y no implica ausencia de relevancia clínica.
+
+Lista tabulada de reacciones adversas
+Las categorías incluidas a continuación resumen las reacciones notificadas con el medicamento. Dentro de cada grupo, los términos se ordenan de forma descriptiva y no necesariamente por gravedad.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+frecuentes: Parkinsonismo, acatisia, sedación, somnolencia, temblor, trastorno extrapiramidal.
+no frecuente: crisis oculógiras.
+poco frecuentes: discinesia, distonía, hipertonía.
+frecuencia no conocida: convulsiones, discinesia tardía, hipoquinesia, síndrome maligno, síndrome neuroléptico maligno.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+poco frecuentes: Hipotensión postural, arritmias ventriculares, taquicardia ventricular.
+frecuencia no conocida: Prolongación del intervalo QT.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+frecuentes: Aumento de peso, Incremento de enzimas hepáticas.
+
+TRASTORNOS PSIQUIÁTRICOS
+frecuentes: insomnio.
+frecuencia no conocida: confusion.
+
+TRASTORNOS DEL SISTEMA REPRODUCTOR
+frecuentes: hiperprolactemia.
+
+TRASTORNOS DEL SISTEMA ENDOCRINO
+frecuentes: Hiperprolactinemia.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+frecuentes: Rash máculo-papular.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+frecuencia no conocida: Tromboembolismo venoso.
+
+Descripción de reacciones adversas seleccionadas
+En la práctica clínica, la aparición de signos motores debe evaluarse con especial atención, ya que puede requerir reducción de la dosis, interrupción del tratamiento o adopción de medidas de soporte. La evolución suele depender de la exposición y de la susceptibilidad individual. Es aconsejable revisar de forma periódica la necesidad de continuar el tratamiento, especialmente cuando los síntomas interfieren con la actividad diaria o se mantienen tras cambios posológicos.
+
+Los hallazgos analíticos o endocrinos deben interpretarse junto con la situación clínica del paciente y con otros tratamientos concomitantes. En caso de alteraciones persistentes, la decisión terapéutica debe basarse en el balance beneficio-riesgo. Los acontecimientos con posible repercusión circulatoria requieren una valoración cuidadosa, en particular en pacientes con antecedentes relevantes o factores predisponentes.
+
+La notificación de sospechas de reacciones adversas tras la autorización del medicamento es importante. Permite una supervisión continuada del balance beneficio-riesgo y contribuye a caracterizar mejor los acontecimientos observados en condiciones reales de uso.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En la tabla de reacciones adversas, las crisis oculógiras se incluyen dentro de TRASTORNOS DEL SISTEMA NERVIOSO y se consideran de frecuencia no frecuente durante el tratamiento con SULPIRIDA. Su aparición puede relacionarse con la actividad farmacológica central del principio activo y debe valorarse en el contexto clínico del paciente, especialmente al inicio del tratamiento o tras modificaciones de dosis. Si se observan signos compatibles, se recomienda seguimiento clínico y reevaluación de la pauta terapéutica de acuerdo con la gravedad y la evolución del cuadro.
+
+-- Caso 2 --
+En la clasificación TRASTORNOS DEL SISTEMA NERVIOSO, la distonía se incluye entre las reacciones adversas poco frecuentes durante el tratamiento con SULPIRIDA. Este efecto es coherente con la acción del principio activo sobre la neurotransmisión dopaminérgica central y puede aparecer especialmente tras el inicio del tratamiento o tras modificaciones de la pauta. Se recomienda vigilancia clínica, con evaluación individual de la continuidad del tratamiento y de posibles medidas de manejo si se observan manifestaciones compatibles. La información debe interpretarse en el contexto del perfil de seguridad conocido.
+
+-- Caso 3 --
+En el sistema de clasificación de órganos Trastornos del sistema digestivo, Aumento de peso se clasifica entre las reacciones adversas frecuentes notificadas durante el tratamiento con SULPIRIDA. La aparición de este efecto debe valorarse en el contexto clínico del paciente y de la evolución ponderal previa. Se recomienda considerar el seguimiento periódico del peso corporal, especialmente en tratamientos prolongados o cuando existan factores predisponentes. Si el incremento ponderal resulta clínicamente relevante, el profesional sanitario deberá reevaluar la continuidad del tratamiento y las medidas de control adecuadas, de acuerdo con la situación individual.

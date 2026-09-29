@@ -1,0 +1,1709 @@
+{
+  "codigo": "80368",
+  "variante": 1,
+  "codigo_variant": "80368_v1",
+  "medicamento": "LINEZOLID NORMON 600 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG",
+  "model": "gpt-5.5",
+  "style_variant_idx": 0,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil de seguridad de LINEZOLID se ha caracterizado en pacientes tratados por infecciones bacterianas, con vigilancia clínica y analítica durante el tratamiento. En general, las reacciones notificadas fueron de intensidad leve o moderada y rara vez obligaron a suspender la administración. La evaluación debe considerar la situación basal del paciente, la duración del tratamiento y la exposición concomitante a otros medicamentos. Se recomienda interpretar las alteraciones de laboratorio junto con la evolución clínica. La notificación de sospechas permite una supervisión continuada del balance beneficio-riesgo.\n\nLista tabulada de reacciones adversas\nEXPLORACIONES COMPLEMENTARIAS: frecuentes: Aumento de la LDH, Aumento de la amilasa, Aumento de la creatinquinasa, Aumento de la glucemia no basal, Aumento de la lipasa, Aumento o disminucipon del recuento de leucocitos, Aumento o disminución del bicarbonato, Aumento o disminución del potasio, Aumento o disminución del recuento de plaquetas, DIsminución de hemoglobina, Disminución de la albúmina, Disminución de las proteínas totales, Disminución del calcio, Disminución del hematocrito, Disminución del recuento de hematíes, Disminución del sodio, Eosinofilia, Neutrofilia; poco frecuentes: Aumento del calcio, Aumento del recuento de reticulocitos, Aumento del sodio, Aumento o disminucipón del cloruro, Disminución de la glucemia no basal.\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN: no frecuente: Acidosis láctica; poco frecuentes: Hiponatremia.\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS: poco frecuentes: Acúfenos, Neuropatía óptica, Visión borrosa; no frecuente: Cambios anormales del campo visual; frecuencia no conocida: Cambios en la agudeza visual, Cambios en la visión del color, Neuritis óptica, Pérdida de visión.\nTRASTORNOS DE PIEL Y TEJIDOS: frecuentes: Erupción cutánea, Prurito; poco frecuentes: Angioedema, Dermatitis, Dermatitis ampollosa, Diaforesis, Urticaria; no frecuente: Necrólisis epidérmica tóxica, Síndrome de Stevens-Johnson, Vascultis por hipersensibilidad; frecuencia no conocida: Alopecia.\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO: no frecuente: Anafilaxia.\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS: frecuentes: Anemia, Trombocitopenia; poco frecuentes: Eosinofilia, Leucopenia, Neutropenia, Pancitopenia; no frecuente: Anemia sideroblástica; frecuencia no conocida: Mielosupresión.\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR: frecuentes: Hipertensión; poco frecuentes: Arritmia (taquicardia), Ataques isquémicos transitorios, Flebitis, Tromboflebitis.\nTRASTORNOS DEL SISTEMA DIGESTIVO: frecuentes: Diarrea, Dispepsia, Dolor abdominal localizado o generalizado, Estreñimiento, Náuseas, Vómitos; poco frecuentes: Boca seca, Distensión abdominal, Estomatitis, Gatritis, Glositis, Heces blandas, Pancreatitis, Trastorno o cambio del color de la lengua; no frecuente: Decoloración de la superficie dental.\nINFECCIONES E INFESTACIONES: frecuentes: Candidiasis, Candidiasis oral, Candidiasis vaginal, Infecciones fúngicas; poco frecuentes: Colitis asociada a antibióticos, Colitis pseudomembranosa, Vaginitis.\nTRASTORNOS DEL SISTEMA NERVIOSO: frecuentes: Cefalea, Mareos, Percepción errónea del sabor (sabor metálico); poco frecuentes: Convulsiones, Hipoestesia, Neuropatía periférica, Parestesia; frecuencia no conocida: Síndrome serotoninérico.\nTRASTORNOS DEL SISTEMA GENERAL: frecuentes: Dolor localizado, Fiebre; poco frecuentes: Dolor en la zona de inyección, Escalofríos, Fatiga, Sed aumentada.\nTRASTORNOS DEL SISTEMA EXCRETOR: frecuentes: Incremento del BUN; poco frecuentes: Fallo renal, Incremento de la creatinina, Poliuria.\nTRASTORNOS DEL SISTEMA HEPATOBILIAR: frecuentes: Incremento de la ALT, Incremento de la AST, Incremento de la fosfatasa alcalina, Pruebas de función hepática anormales; poco frecuentes: Incremento de la bilirrubina total.\nTRASTORNOS PSIQUIÁTRICOS: frecuentes: Insomnio.\nTRASTORNOS DEL SISTEMA REPRODUCTOR: poco frecuentes: Trastornos vulvovaginales.\n\nDescripción de reacciones adversas seleccionadas\nDurante tratamientos prolongados se aconseja seguimiento clínico y analítico periódico, especialmente en pacientes con factores predisponentes. Las pruebas complementarias deben valorarse de forma seriada y en relación con la respuesta al tratamiento. Si aparecen manifestaciones visuales, cutáneas graves o alteraciones hematológicas relevantes, debe reevaluarse la continuidad del tratamiento conforme al criterio clínico. La información posterior a la comercialización puede incluir casos aislados en los que no sea posible estimar la incidencia con los datos disponibles.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nEn la experiencia clínica con LINEZOLID, dentro del sistema Exploraciones complementarias, se ha notificado Aumento del recuento de reticulocitos con una frecuencia de poco frecuentes. Este hallazgo analítico debe interpretarse en el contexto del estado hematológico basal y de la evolución clínica del paciente, especialmente durante tratamientos prolongados. Se recomienda considerar el seguimiento de los parámetros hematológicos según la práctica clínica habitual y valorar la relevancia del resultado si aparece durante el tratamiento, teniendo en cuenta otros factores clínicos concomitantes.\n\n-- Caso 2 --\nEn el sistema TRASTORNOS DE PIEL Y TEJIDOS, se ha notificado Síndrome de Stevens-Johnson con frecuencia no frecuente durante el tratamiento con LINEZOLID. La aparición de manifestaciones cutáneas o mucosas compatibles requiere valoración clínica inmediata y considerar la interrupción del tratamiento, de acuerdo con la gravedad y el contexto del paciente. Esta reacción se considera potencialmente grave y debe ser objeto de seguimiento estrecho; los pacientes deben ser informados de que consulten sin demora si aparecen cambios extensos de la piel o afectación de mucosas durante la exposición al medicamento.\n\n-- Caso 3 --\nDentro del sistema Infecciones e infestaciones, Candidiasis oral se incluye entre las reacciones adversas frecuentes notificadas durante el tratamiento con LINEZOLID. Este hallazgo es coherente con la posible modificación de la microbiota orofaríngea asociada al tratamiento antibacteriano. En pacientes con factores predisponentes o tratamiento prolongado, se recomienda vigilar la mucosa oral y valorar medidas terapéuticas adecuadas si aparecen signos clínicos compatibles. La evaluación debe realizarse de acuerdo con la situación clínica del paciente.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "LINEZOLID",
+      "surface": "LINEZOLID",
+      "start": 83,
+      "end": 92
+    },
+    {
+      "type": "SYS",
+      "canonical": "EXPLORACIONES COMPLEMENTARIAS",
+      "surface": "EXPLORACIONES COMPLEMENTARIAS",
+      "start": 716,
+      "end": 745
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 747,
+      "end": 757
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la LDH",
+      "surface": "Aumento de la LDH",
+      "start": 759,
+      "end": 776
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la amilasa",
+      "surface": "Aumento de la amilasa",
+      "start": 778,
+      "end": 799
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la creatinquinasa",
+      "surface": "Aumento de la creatinquinasa",
+      "start": 801,
+      "end": 829
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la glucemia no basal",
+      "surface": "Aumento de la glucemia no basal",
+      "start": 831,
+      "end": 862
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la lipasa",
+      "surface": "Aumento de la lipasa",
+      "start": 864,
+      "end": 884
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento o disminucipon del recuento de leucocitos",
+      "surface": "Aumento o disminucipon del recuento de leucocitos",
+      "start": 886,
+      "end": 935
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento o disminución del bicarbonato",
+      "surface": "Aumento o disminución del bicarbonato",
+      "start": 937,
+      "end": 974
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento o disminución del potasio",
+      "surface": "Aumento o disminución del potasio",
+      "start": 976,
+      "end": 1009
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento o disminución del recuento de plaquetas",
+      "surface": "Aumento o disminución del recuento de plaquetas",
+      "start": 1011,
+      "end": 1058
+    },
+    {
+      "type": "REACT",
+      "canonical": "DIsminución de hemoglobina",
+      "surface": "DIsminución de hemoglobina",
+      "start": 1060,
+      "end": 1086
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de la albúmina",
+      "surface": "Disminución de la albúmina",
+      "start": 1088,
+      "end": 1114
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de las proteínas totales",
+      "surface": "Disminución de las proteínas totales",
+      "start": 1116,
+      "end": 1152
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución del calcio",
+      "surface": "Disminución del calcio",
+      "start": 1154,
+      "end": 1176
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución del hematocrito",
+      "surface": "Disminución del hematocrito",
+      "start": 1178,
+      "end": 1205
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución del recuento de hematíes",
+      "surface": "Disminución del recuento de hematíes",
+      "start": 1207,
+      "end": 1243
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución del sodio",
+      "surface": "Disminución del sodio",
+      "start": 1245,
+      "end": 1266
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eosinofilia",
+      "surface": "Eosinofilia",
+      "start": 1268,
+      "end": 1279
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neutrofilia",
+      "surface": "Neutrofilia",
+      "start": 1281,
+      "end": 1292
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 1294,
+      "end": 1309
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento del calcio",
+      "surface": "Aumento del calcio",
+      "start": 1311,
+      "end": 1329
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento del recuento de reticulocitos",
+      "surface": "Aumento del recuento de reticulocitos",
+      "start": 1331,
+      "end": 1368
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento del sodio",
+      "surface": "Aumento del sodio",
+      "start": 1370,
+      "end": 1387
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento o disminucipón del cloruro",
+      "surface": "Aumento o disminucipón del cloruro",
+      "start": 1389,
+      "end": 1423
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de la glucemia no basal",
+      "surface": "Disminución de la glucemia no basal",
+      "start": 1425,
+      "end": 1460
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "start": 1462,
+      "end": 1503
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 1505,
+      "end": 1517
+    },
+    {
+      "type": "REACT",
+      "canonical": "Acidosis láctica",
+      "surface": "Acidosis láctica",
+      "start": 1519,
+      "end": 1535
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiponatremia",
+      "surface": "Hiponatremia",
+      "start": 1554,
+      "end": 1566
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 1568,
+      "end": 1605
+    },
+    {
+      "type": "REACT",
+      "canonical": "Acúfenos",
+      "surface": "Acúfenos",
+      "start": 1624,
+      "end": 1632
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neuropatía óptica",
+      "surface": "Neuropatía óptica",
+      "start": 1634,
+      "end": 1651
+    },
+    {
+      "type": "REACT",
+      "canonical": "Visión borrosa",
+      "surface": "Visión borrosa",
+      "start": 1653,
+      "end": 1667
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cambios anormales del campo visual",
+      "surface": "Cambios anormales del campo visual",
+      "start": 1683,
+      "end": 1717
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 1719,
+      "end": 1741
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cambios en la agudeza visual",
+      "surface": "Cambios en la agudeza visual",
+      "start": 1743,
+      "end": 1771
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cambios en la visión del color",
+      "surface": "Cambios en la visión del color",
+      "start": 1773,
+      "end": 1803
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neuritis óptica",
+      "surface": "Neuritis óptica",
+      "start": 1805,
+      "end": 1820
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pérdida de visión",
+      "surface": "Pérdida de visión",
+      "start": 1822,
+      "end": 1839
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 1841,
+      "end": 1869
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción cutánea",
+      "surface": "Erupción cutánea",
+      "start": 1883,
+      "end": 1899
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito",
+      "start": 1901,
+      "end": 1908
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angioedema",
+      "surface": "Angioedema",
+      "start": 1927,
+      "end": 1937
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dermatitis",
+      "surface": "Dermatitis",
+      "start": 1939,
+      "end": 1949
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dermatitis ampollosa",
+      "surface": "Dermatitis ampollosa",
+      "start": 1951,
+      "end": 1971
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diaforesis",
+      "surface": "Diaforesis",
+      "start": 1973,
+      "end": 1983
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria",
+      "start": 1985,
+      "end": 1994
+    },
+    {
+      "type": "REACT",
+      "canonical": "Necrólisis epidérmica tóxica",
+      "surface": "Necrólisis epidérmica tóxica",
+      "start": 2010,
+      "end": 2038
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de Stevens-Johnson",
+      "surface": "Síndrome de Stevens-Johnson",
+      "start": 2040,
+      "end": 2067
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vascultis por hipersensibilidad",
+      "surface": "Vascultis por hipersensibilidad",
+      "start": 2069,
+      "end": 2100
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alopecia",
+      "surface": "Alopecia",
+      "start": 2126,
+      "end": 2134
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 2136,
+      "end": 2171
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anafilaxia",
+      "surface": "Anafilaxia",
+      "start": 2187,
+      "end": 2197
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 2199,
+      "end": 2248
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia",
+      "surface": "Anemia",
+      "start": 2262,
+      "end": 2268
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombocitopenia",
+      "surface": "Trombocitopenia",
+      "start": 2270,
+      "end": 2285
+    },
+    {
+      "type": "REACT",
+      "canonical": "Leucopenia",
+      "surface": "Leucopenia",
+      "start": 2317,
+      "end": 2327
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neutropenia",
+      "surface": "Neutropenia",
+      "start": 2329,
+      "end": 2340
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pancitopenia",
+      "surface": "Pancitopenia",
+      "start": 2342,
+      "end": 2354
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia sideroblástica",
+      "surface": "Anemia sideroblástica",
+      "start": 2370,
+      "end": 2391
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mielosupresión",
+      "surface": "Mielosupresión",
+      "start": 2417,
+      "end": 2431
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 2433,
+      "end": 2470
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertensión",
+      "surface": "Hipertensión",
+      "start": 2484,
+      "end": 2496
+    },
+    {
+      "type": "REACT",
+      "canonical": "Arritmia (taquicardia)",
+      "surface": "Arritmia (taquicardia)",
+      "start": 2515,
+      "end": 2537
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ataques isquémicos transitorios",
+      "surface": "Ataques isquémicos transitorios",
+      "start": 2539,
+      "end": 2570
+    },
+    {
+      "type": "REACT",
+      "canonical": "Flebitis",
+      "surface": "Flebitis",
+      "start": 2572,
+      "end": 2580
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tromboflebitis",
+      "surface": "Tromboflebitis",
+      "start": 2582,
+      "end": 2596
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 2598,
+      "end": 2630
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea",
+      "start": 2644,
+      "end": 2651
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dispepsia",
+      "surface": "Dispepsia",
+      "start": 2653,
+      "end": 2662
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor abdominal localizado o generalizado",
+      "surface": "Dolor abdominal localizado o generalizado",
+      "start": 2664,
+      "end": 2705
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento",
+      "start": 2707,
+      "end": 2720
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 2722,
+      "end": 2729
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos",
+      "start": 2731,
+      "end": 2738
+    },
+    {
+      "type": "REACT",
+      "canonical": "Boca seca",
+      "surface": "Boca seca",
+      "start": 2757,
+      "end": 2766
+    },
+    {
+      "type": "REACT",
+      "canonical": "Distensión abdominal",
+      "surface": "Distensión abdominal",
+      "start": 2768,
+      "end": 2788
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estomatitis",
+      "surface": "Estomatitis",
+      "start": 2790,
+      "end": 2801
+    },
+    {
+      "type": "REACT",
+      "canonical": "Gatritis",
+      "surface": "Gatritis",
+      "start": 2803,
+      "end": 2811
+    },
+    {
+      "type": "REACT",
+      "canonical": "Glositis",
+      "surface": "Glositis",
+      "start": 2813,
+      "end": 2821
+    },
+    {
+      "type": "REACT",
+      "canonical": "Heces blandas",
+      "surface": "Heces blandas",
+      "start": 2823,
+      "end": 2836
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pancreatitis",
+      "surface": "Pancreatitis",
+      "start": 2838,
+      "end": 2850
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastorno o cambio del color de la lengua",
+      "surface": "Trastorno o cambio del color de la lengua",
+      "start": 2852,
+      "end": 2893
+    },
+    {
+      "type": "REACT",
+      "canonical": "Decoloración de la superficie dental",
+      "surface": "Decoloración de la superficie dental",
+      "start": 2909,
+      "end": 2945
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "INFECCIONES E INFESTACIONES",
+      "start": 2947,
+      "end": 2974
+    },
+    {
+      "type": "REACT",
+      "canonical": "Candidiasis",
+      "surface": "Candidiasis",
+      "start": 2988,
+      "end": 2999
+    },
+    {
+      "type": "REACT",
+      "canonical": "Candidiasis oral",
+      "surface": "Candidiasis oral",
+      "start": 3001,
+      "end": 3017
+    },
+    {
+      "type": "REACT",
+      "canonical": "Candidiasis vaginal",
+      "surface": "Candidiasis vaginal",
+      "start": 3019,
+      "end": 3038
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infecciones fúngicas",
+      "surface": "Infecciones fúngicas",
+      "start": 3040,
+      "end": 3060
+    },
+    {
+      "type": "REACT",
+      "canonical": "Colitis asociada a antibióticos",
+      "surface": "Colitis asociada a antibióticos",
+      "start": 3079,
+      "end": 3110
+    },
+    {
+      "type": "REACT",
+      "canonical": "Colitis pseudomembranosa",
+      "surface": "Colitis pseudomembranosa",
+      "start": 3112,
+      "end": 3136
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vaginitis",
+      "surface": "Vaginitis",
+      "start": 3138,
+      "end": 3147
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 3149,
+      "end": 3180
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea",
+      "start": 3194,
+      "end": 3201
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareos",
+      "surface": "Mareos",
+      "start": 3203,
+      "end": 3209
+    },
+    {
+      "type": "REACT",
+      "canonical": "Percepción errónea del sabor (sabor metálico)",
+      "surface": "Percepción errónea del sabor (sabor metálico)",
+      "start": 3211,
+      "end": 3256
+    },
+    {
+      "type": "REACT",
+      "canonical": "Convulsiones",
+      "surface": "Convulsiones",
+      "start": 3275,
+      "end": 3287
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipoestesia",
+      "surface": "Hipoestesia",
+      "start": 3289,
+      "end": 3300
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neuropatía periférica",
+      "surface": "Neuropatía periférica",
+      "start": 3302,
+      "end": 3323
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parestesia",
+      "surface": "Parestesia",
+      "start": 3325,
+      "end": 3335
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome serotoninérico",
+      "surface": "Síndrome serotoninérico",
+      "start": 3361,
+      "end": 3384
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 3386,
+      "end": 3416
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor localizado",
+      "surface": "Dolor localizado",
+      "start": 3430,
+      "end": 3446
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fiebre",
+      "surface": "Fiebre",
+      "start": 3448,
+      "end": 3454
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor en la zona de inyección",
+      "surface": "Dolor en la zona de inyección",
+      "start": 3473,
+      "end": 3502
+    },
+    {
+      "type": "REACT",
+      "canonical": "Escalofríos",
+      "surface": "Escalofríos",
+      "start": 3504,
+      "end": 3515
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "Fatiga",
+      "start": 3517,
+      "end": 3523
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sed aumentada",
+      "surface": "Sed aumentada",
+      "start": 3525,
+      "end": 3538
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "start": 3540,
+      "end": 3571
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento del BUN",
+      "surface": "Incremento del BUN",
+      "start": 3585,
+      "end": 3603
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fallo renal",
+      "surface": "Fallo renal",
+      "start": 3622,
+      "end": 3633
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de la creatinina",
+      "surface": "Incremento de la creatinina",
+      "start": 3635,
+      "end": 3662
+    },
+    {
+      "type": "REACT",
+      "canonical": "Poliuria",
+      "surface": "Poliuria",
+      "start": 3664,
+      "end": 3672
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "surface": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "start": 3674,
+      "end": 3709
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de la ALT",
+      "surface": "Incremento de la ALT",
+      "start": 3723,
+      "end": 3743
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de la AST",
+      "surface": "Incremento de la AST",
+      "start": 3745,
+      "end": 3765
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de la fosfatasa alcalina",
+      "surface": "Incremento de la fosfatasa alcalina",
+      "start": 3767,
+      "end": 3802
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pruebas de función hepática anormales",
+      "surface": "Pruebas de función hepática anormales",
+      "start": 3804,
+      "end": 3841
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de la bilirrubina total",
+      "surface": "Incremento de la bilirrubina total",
+      "start": 3860,
+      "end": 3894
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 3896,
+      "end": 3920
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insomnio",
+      "surface": "Insomnio",
+      "start": 3934,
+      "end": 3942
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "start": 3944,
+      "end": 3978
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastornos vulvovaginales",
+      "surface": "Trastornos vulvovaginales",
+      "start": 3997,
+      "end": 4022
+    },
+    {
+      "type": "SYS",
+      "canonical": "EXPLORACIONES COMPLEMENTARIAS",
+      "surface": "Exploraciones complementarias",
+      "start": 716,
+      "end": 745
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "Infecciones e infestaciones",
+      "start": 2947,
+      "end": 2974
+    }
+  ],
+  "raw_long_doc_text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil de seguridad de LINEZOLID se ha caracterizado en pacientes tratados por infecciones bacterianas, con vigilancia clínica y analítica durante el tratamiento. En general, las reacciones notificadas fueron de intensidad leve o moderada y rara vez obligaron a suspender la administración. La evaluación debe considerar la situación basal del paciente, la duración del tratamiento y la exposición concomitante a otros medicamentos. Se recomienda interpretar las alteraciones de laboratorio junto con la evolución clínica. La notificación de sospechas permite una supervisión continuada del balance beneficio-riesgo.\n\nLista tabulada de reacciones adversas\nEXPLORACIONES COMPLEMENTARIAS: frecuentes: Aumento de la LDH, Aumento de la amilasa, Aumento de la creatinquinasa, Aumento de la glucemia no basal, Aumento de la lipasa, Aumento o disminucipon del recuento de leucocitos, Aumento o disminución del bicarbonato, Aumento o disminución del potasio, Aumento o disminución del recuento de plaquetas, DIsminución de hemoglobina, Disminución de la albúmina, Disminución de las proteínas totales, Disminución del calcio, Disminución del hematocrito, Disminución del recuento de hematíes, Disminución del sodio, Eosinofilia, Neutrofilia; poco frecuentes: Aumento del calcio, Aumento del recuento de reticulocitos, Aumento del sodio, Aumento o disminucipón del cloruro, Disminución de la glucemia no basal.\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN: no frecuente: Acidosis láctica; poco frecuentes: Hiponatremia.\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS: poco frecuentes: Acúfenos, Neuropatía óptica, Visión borrosa; no frecuente: Cambios anormales del campo visual; frecuencia no conocida: Cambios en la agudeza visual, Cambios en la visión del color, Neuritis óptica, Pérdida de visión.\nTRASTORNOS DE PIEL Y TEJIDOS: frecuentes: Erupción cutánea, Prurito; poco frecuentes: Angioedema, Dermatitis, Dermatitis ampollosa, Diaforesis, Urticaria; no frecuente: Necrólisis epidérmica tóxica, Síndrome de Stevens-Johnson, Vascultis por hipersensibilidad; frecuencia no conocida: Alopecia.\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO: no frecuente: Anafilaxia.\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS: frecuentes: Anemia, Trombocitopenia; poco frecuentes: Eosinofilia, Leucopenia, Neutropenia, Pancitopenia; no frecuente: Anemia sideroblástica; frecuencia no conocida: Mielosupresión.\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR: frecuentes: Hipertensión; poco frecuentes: Arritmia (taquicardia), Ataques isquémicos transitorios, Flebitis, Tromboflebitis.\nTRASTORNOS DEL SISTEMA DIGESTIVO: frecuentes: Diarrea, Dispepsia, Dolor abdominal localizado o generalizado, Estreñimiento, Náuseas, Vómitos; poco frecuentes: Boca seca, Distensión abdominal, Estomatitis, Gatritis, Glositis, Heces blandas, Pancreatitis, Trastorno o cambio del color de la lengua; no frecuente: Decoloración de la superficie dental.\nINFECCIONES E INFESTACIONES: frecuentes: Candidiasis, Candidiasis oral, Candidiasis vaginal, Infecciones fúngicas; poco frecuentes: Colitis asociada a antibióticos, Colitis pseudomembranosa, Vaginitis.\nTRASTORNOS DEL SISTEMA NERVIOSO: frecuentes: Cefalea, Mareos, Percepción errónea del sabor (sabor metálico); poco frecuentes: Convulsiones, Hipoestesia, Neuropatía periférica, Parestesia; frecuencia no conocida: Síndrome serotoninérico.\nTRASTORNOS DEL SISTEMA GENERAL: frecuentes: Dolor localizado, Fiebre; poco frecuentes: Dolor en la zona de inyección, Escalofríos, Fatiga, Sed aumentada.\nTRASTORNOS DEL SISTEMA EXCRETOR: frecuentes: Incremento del BUN; poco frecuentes: Fallo renal, Incremento de la creatinina, Poliuria.\nTRASTORNOS DEL SISTEMA HEPATOBILIAR: frecuentes: Incremento de la ALT, Incremento de la AST, Incremento de la fosfatasa alcalina, Pruebas de función hepática anormales; poco frecuentes: Incremento de la bilirrubina total.\nTRASTORNOS PSIQUIÁTRICOS: frecuentes: Insomnio.\nTRASTORNOS DEL SISTEMA REPRODUCTOR: poco frecuentes: Trastornos vulvovaginales.\n\nDescripción de reacciones adversas seleccionadas\nDurante tratamientos prolongados se aconseja seguimiento clínico y analítico periódico, especialmente en pacientes con factores predisponentes. Las pruebas complementarias deben valorarse de forma seriada y en relación con la respuesta al tratamiento. Si aparecen manifestaciones visuales, cutáneas graves o alteraciones hematológicas relevantes, debe reevaluarse la continuidad del tratamiento conforme al criterio clínico. La información posterior a la comercialización puede incluir casos aislados en los que no sea posible estimar la incidencia con los datos disponibles.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "LINEZOLID",
+      "surface": "LINEZOLID"
+    },
+    {
+      "type": "SYS",
+      "canonical": "EXPLORACIONES COMPLEMENTARIAS",
+      "surface": "EXPLORACIONES COMPLEMENTARIAS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la LDH",
+      "surface": "Aumento de la LDH"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la amilasa",
+      "surface": "Aumento de la amilasa"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la creatinquinasa",
+      "surface": "Aumento de la creatinquinasa"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la glucemia no basal",
+      "surface": "Aumento de la glucemia no basal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la lipasa",
+      "surface": "Aumento de la lipasa"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento o disminucipon del recuento de leucocitos",
+      "surface": "Aumento o disminucipon del recuento de leucocitos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento o disminución del bicarbonato",
+      "surface": "Aumento o disminución del bicarbonato"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento o disminución del potasio",
+      "surface": "Aumento o disminución del potasio"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento o disminución del recuento de plaquetas",
+      "surface": "Aumento o disminución del recuento de plaquetas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "DIsminución de hemoglobina",
+      "surface": "DIsminución de hemoglobina"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de la albúmina",
+      "surface": "Disminución de la albúmina"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de las proteínas totales",
+      "surface": "Disminución de las proteínas totales"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución del calcio",
+      "surface": "Disminución del calcio"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución del hematocrito",
+      "surface": "Disminución del hematocrito"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución del recuento de hematíes",
+      "surface": "Disminución del recuento de hematíes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución del sodio",
+      "surface": "Disminución del sodio"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eosinofilia",
+      "surface": "Eosinofilia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neutrofilia",
+      "surface": "Neutrofilia"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento del calcio",
+      "surface": "Aumento del calcio"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento del recuento de reticulocitos",
+      "surface": "Aumento del recuento de reticulocitos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento del sodio",
+      "surface": "Aumento del sodio"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento o disminucipón del cloruro",
+      "surface": "Aumento o disminucipón del cloruro"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de la glucemia no basal",
+      "surface": "Disminución de la glucemia no basal"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Acidosis láctica",
+      "surface": "Acidosis láctica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiponatremia",
+      "surface": "Hiponatremia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Acúfenos",
+      "surface": "Acúfenos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neuropatía óptica",
+      "surface": "Neuropatía óptica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Visión borrosa",
+      "surface": "Visión borrosa"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cambios anormales del campo visual",
+      "surface": "Cambios anormales del campo visual"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cambios en la agudeza visual",
+      "surface": "Cambios en la agudeza visual"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cambios en la visión del color",
+      "surface": "Cambios en la visión del color"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neuritis óptica",
+      "surface": "Neuritis óptica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pérdida de visión",
+      "surface": "Pérdida de visión"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción cutánea",
+      "surface": "Erupción cutánea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angioedema",
+      "surface": "Angioedema"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dermatitis",
+      "surface": "Dermatitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dermatitis ampollosa",
+      "surface": "Dermatitis ampollosa"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diaforesis",
+      "surface": "Diaforesis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Necrólisis epidérmica tóxica",
+      "surface": "Necrólisis epidérmica tóxica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de Stevens-Johnson",
+      "surface": "Síndrome de Stevens-Johnson"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vascultis por hipersensibilidad",
+      "surface": "Vascultis por hipersensibilidad"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alopecia",
+      "surface": "Alopecia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anafilaxia",
+      "surface": "Anafilaxia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia",
+      "surface": "Anemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombocitopenia",
+      "surface": "Trombocitopenia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Leucopenia",
+      "surface": "Leucopenia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neutropenia",
+      "surface": "Neutropenia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pancitopenia",
+      "surface": "Pancitopenia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia sideroblástica",
+      "surface": "Anemia sideroblástica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mielosupresión",
+      "surface": "Mielosupresión"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertensión",
+      "surface": "Hipertensión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Arritmia (taquicardia)",
+      "surface": "Arritmia (taquicardia)"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ataques isquémicos transitorios",
+      "surface": "Ataques isquémicos transitorios"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Flebitis",
+      "surface": "Flebitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tromboflebitis",
+      "surface": "Tromboflebitis"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dispepsia",
+      "surface": "Dispepsia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor abdominal localizado o generalizado",
+      "surface": "Dolor abdominal localizado o generalizado"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Boca seca",
+      "surface": "Boca seca"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Distensión abdominal",
+      "surface": "Distensión abdominal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estomatitis",
+      "surface": "Estomatitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Gatritis",
+      "surface": "Gatritis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Glositis",
+      "surface": "Glositis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Heces blandas",
+      "surface": "Heces blandas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pancreatitis",
+      "surface": "Pancreatitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastorno o cambio del color de la lengua",
+      "surface": "Trastorno o cambio del color de la lengua"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Decoloración de la superficie dental",
+      "surface": "Decoloración de la superficie dental"
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "INFECCIONES E INFESTACIONES"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Candidiasis",
+      "surface": "Candidiasis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Candidiasis oral",
+      "surface": "Candidiasis oral"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Candidiasis vaginal",
+      "surface": "Candidiasis vaginal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infecciones fúngicas",
+      "surface": "Infecciones fúngicas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Colitis asociada a antibióticos",
+      "surface": "Colitis asociada a antibióticos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Colitis pseudomembranosa",
+      "surface": "Colitis pseudomembranosa"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vaginitis",
+      "surface": "Vaginitis"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareos",
+      "surface": "Mareos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Percepción errónea del sabor (sabor metálico)",
+      "surface": "Percepción errónea del sabor (sabor metálico)"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Convulsiones",
+      "surface": "Convulsiones"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipoestesia",
+      "surface": "Hipoestesia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neuropatía periférica",
+      "surface": "Neuropatía periférica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parestesia",
+      "surface": "Parestesia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome serotoninérico",
+      "surface": "Síndrome serotoninérico"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor localizado",
+      "surface": "Dolor localizado"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fiebre",
+      "surface": "Fiebre"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor en la zona de inyección",
+      "surface": "Dolor en la zona de inyección"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Escalofríos",
+      "surface": "Escalofríos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "Fatiga"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sed aumentada",
+      "surface": "Sed aumentada"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento del BUN",
+      "surface": "Incremento del BUN"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fallo renal",
+      "surface": "Fallo renal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de la creatinina",
+      "surface": "Incremento de la creatinina"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Poliuria",
+      "surface": "Poliuria"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "surface": "TRASTORNOS DEL SISTEMA HEPATOBILIAR"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de la ALT",
+      "surface": "Incremento de la ALT"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de la AST",
+      "surface": "Incremento de la AST"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de la fosfatasa alcalina",
+      "surface": "Incremento de la fosfatasa alcalina"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pruebas de función hepática anormales",
+      "surface": "Pruebas de función hepática anormales"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de la bilirrubina total",
+      "surface": "Incremento de la bilirrubina total"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insomnio",
+      "surface": "Insomnio"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastornos vulvovaginales",
+      "surface": "Trastornos vulvovaginales"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "LINEZOLID NORMON 600 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG",
+        "pactivo": "LINEZOLID",
+        "reaccion": "Aumento del recuento de reticulocitos",
+        "frecuencia": "POCO FRECUENTE",
+        "sistema": "EXPLORACIONES COMPLEMENTARIAS"
+      },
+      "text": "En la experiencia clínica con LINEZOLID, dentro del sistema Exploraciones complementarias, se ha notificado Aumento del recuento de reticulocitos con una frecuencia de poco frecuentes. Este hallazgo analítico debe interpretarse en el contexto del estado hematológico basal y de la evolución clínica del paciente, especialmente durante tratamientos prolongados. Se recomienda considerar el seguimiento de los parámetros hematológicos según la práctica clínica habitual y valorar la relevancia del resultado si aparece durante el tratamiento, teniendo en cuenta otros factores clínicos concomitantes.",
+      "declared": [
+        {
+          "type": "ACTIVE",
+          "canonical": "LINEZOLID",
+          "surface": "LINEZOLID"
+        },
+        {
+          "type": "SYS",
+          "canonical": "EXPLORACIONES COMPLEMENTARIAS",
+          "surface": "Exploraciones complementarias"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Aumento del recuento de reticulocitos",
+          "surface": "Aumento del recuento de reticulocitos"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes"
+        }
+      ],
+      "validated": [
+        {
+          "type": "ACTIVE",
+          "canonical": "LINEZOLID",
+          "surface": "LINEZOLID",
+          "start": 30,
+          "end": 39
+        },
+        {
+          "type": "SYS",
+          "canonical": "EXPLORACIONES COMPLEMENTARIAS",
+          "surface": "Exploraciones complementarias",
+          "start": 60,
+          "end": 89
+        },
+        {
+          "type": "REACT",
+          "canonical": "Aumento del recuento de reticulocitos",
+          "surface": "Aumento del recuento de reticulocitos",
+          "start": 108,
+          "end": 145
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes",
+          "start": 168,
+          "end": 183
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "LINEZOLID NORMON 600 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG",
+        "pactivo": "LINEZOLID",
+        "reaccion": "Síndrome de Stevens-Johnson",
+        "frecuencia": "NO FRECUENTE",
+        "sistema": "TRASTORNOS DE PIEL Y TEJIDOS"
+      },
+      "text": "En el sistema TRASTORNOS DE PIEL Y TEJIDOS, se ha notificado Síndrome de Stevens-Johnson con frecuencia no frecuente durante el tratamiento con LINEZOLID. La aparición de manifestaciones cutáneas o mucosas compatibles requiere valoración clínica inmediata y considerar la interrupción del tratamiento, de acuerdo con la gravedad y el contexto del paciente. Esta reacción se considera potencialmente grave y debe ser objeto de seguimiento estrecho; los pacientes deben ser informados de que consulten sin demora si aparecen cambios extensos de la piel o afectación de mucosas durante la exposición al medicamento.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Síndrome de Stevens-Johnson",
+          "surface": "Síndrome de Stevens-Johnson"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LINEZOLID",
+          "surface": "LINEZOLID"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "start": 14,
+          "end": 42
+        },
+        {
+          "type": "REACT",
+          "canonical": "Síndrome de Stevens-Johnson",
+          "surface": "Síndrome de Stevens-Johnson",
+          "start": 61,
+          "end": 88
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente",
+          "start": 104,
+          "end": 116
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LINEZOLID",
+          "surface": "LINEZOLID",
+          "start": 144,
+          "end": 153
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "LINEZOLID NORMON 600 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG",
+        "pactivo": "LINEZOLID",
+        "reaccion": "Candidiasis oral",
+        "frecuencia": "FRECUENTE",
+        "sistema": "INFECCIONES E INFESTACIONES"
+      },
+      "text": "Dentro del sistema Infecciones e infestaciones, Candidiasis oral se incluye entre las reacciones adversas frecuentes notificadas durante el tratamiento con LINEZOLID. Este hallazgo es coherente con la posible modificación de la microbiota orofaríngea asociada al tratamiento antibacteriano. En pacientes con factores predisponentes o tratamiento prolongado, se recomienda vigilar la mucosa oral y valorar medidas terapéuticas adecuadas si aparecen signos clínicos compatibles. La evaluación debe realizarse de acuerdo con la situación clínica del paciente.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "INFECCIONES E INFESTACIONES",
+          "surface": "Infecciones e infestaciones"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Candidiasis oral",
+          "surface": "Candidiasis oral"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LINEZOLID",
+          "surface": "LINEZOLID"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "INFECCIONES E INFESTACIONES",
+          "surface": "Infecciones e infestaciones",
+          "start": 19,
+          "end": 46
+        },
+        {
+          "type": "REACT",
+          "canonical": "Candidiasis oral",
+          "surface": "Candidiasis oral",
+          "start": 48,
+          "end": 64
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes",
+          "start": 106,
+          "end": 116
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LINEZOLID",
+          "surface": "LINEZOLID",
+          "start": 156,
+          "end": 165
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

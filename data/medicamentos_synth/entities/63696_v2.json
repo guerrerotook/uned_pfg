@@ -1,0 +1,254 @@
+{
+  "codigo": "63696",
+  "variante": 2,
+  "codigo_variant": "63696_v2",
+  "medicamento": "LORATADINA CINFA 10 mg COMPRIMIDOS EFG",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "LORATADINA",
+      "surface": "LORATADINA",
+      "start": 69,
+      "end": 79
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "LORATADINA",
+      "surface": "loratadina",
+      "start": 69,
+      "end": 79
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 992,
+      "end": 1016
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 1017,
+      "end": 1039
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agresión",
+      "surface": "Agresión",
+      "start": 1041,
+      "end": 1049
+    },
+    {
+      "type": "REACT",
+      "canonical": "Comportamiento anormal",
+      "surface": "Comportamiento anormal",
+      "start": 1051,
+      "end": 1073
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estado de ánimo deprimido",
+      "surface": "Estado de ánimo deprimido",
+      "start": 1075,
+      "end": 1100
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 1103,
+      "end": 1133
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 1134,
+      "end": 1144
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "Fatiga",
+      "start": 1146,
+      "end": 1152
+    },
+    {
+      "type": "REACT",
+      "canonical": "Astenia",
+      "surface": "Astenia",
+      "start": 1178,
+      "end": 1185
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "surface": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "start": 1188,
+      "end": 1223
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ictericia",
+      "surface": "Ictericia",
+      "start": 1248,
+      "end": 1257
+    },
+    {
+      "type": "SYS",
+      "canonical": "EXPLORACIONES COMPLEMENTARIAS",
+      "surface": "EXPLORACIONES COMPLEMENTARIAS",
+      "start": 1260,
+      "end": 1289
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de peso",
+      "surface": "Aumento de peso",
+      "start": 1314,
+      "end": 1329
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "start": 1332,
+      "end": 1373
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento del apetito",
+      "surface": "Aumento del apetito",
+      "start": 1398,
+      "end": 1417
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1420,
+      "end": 1452
+    },
+    {
+      "type": "REACT",
+      "canonical": "Boca seca",
+      "surface": "Boca seca",
+      "start": 1465,
+      "end": 1474
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1477,
+      "end": 1508
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea",
+      "start": 1521,
+      "end": 1528
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 1531,
+      "end": 1559
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fotosensibilidad",
+      "surface": "Fotosensibilidad",
+      "start": 1584,
+      "end": 1600
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 1603,
+      "end": 1645
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1699,
+      "end": 1736
+    },
+    {
+      "type": "REACT",
+      "canonical": "QT prolongado",
+      "surface": "QT prolongado",
+      "start": 1761,
+      "end": 1774
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 1777,
+      "end": 1814
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad del ojo",
+      "surface": "Sequedad del ojo",
+      "start": 1839,
+      "end": 1855
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "dolor de cabeza",
+      "start": 2107,
+      "end": 2122
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hepatitis",
+      "surface": "hepatitis",
+      "start": 3100,
+      "end": 3109
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "surface": "trastornos del sistema hepatobiliar",
+      "start": 1188,
+      "end": 1223
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hepatitis",
+      "surface": "Hepatitis",
+      "start": 3100,
+      "end": 3109
+    },
+    {
+      "type": "REACT",
+      "canonical": "Astenia",
+      "surface": "astenia",
+      "start": 1178,
+      "end": 1185
+    },
+    {
+      "type": "REACT",
+      "canonical": "Astenia",
+      "surface": "sensación de cansancio",
+      "start": 3948,
+      "end": 3970
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "cansancio",
+      "start": 3961,
+      "end": 3970
+    }
+  ]
+}

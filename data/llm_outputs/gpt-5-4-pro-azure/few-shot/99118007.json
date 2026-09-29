@@ -1,0 +1,470 @@
+[
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Infecciones graves",
+    "frecuencia": "RARA",
+    "trastorno": "INFECCIONES E INFESTACIONES"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Sepsis",
+    "frecuencia": "RARA",
+    "trastorno": "INFECCIONES E INFESTACIONES"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Infecciones oportunistas",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "INFECCIONES E INFESTACIONES"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Rinitis",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "INFECCIONES E INFESTACIONES"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Bronquitis",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "INFECCIONES E INFESTACIONES"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Neumonía",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "INFECCIONES E INFESTACIONES"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Leucopenia (leucocitos > 2 G/L)",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Anemia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Trombocitopenia leve (plaquetas < 100 G/L)",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Pancitopenia",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Leucopenia (leucocitos < 2 G/L)",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Eosinofilia",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Agranulocitosis",
+    "frecuencia": "MUY RARA",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Reacciones alérgicas leves",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Reacciones anafilácticas graves",
+    "frecuencia": "MUY RARA",
+    "trastorno": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Reacciones anafilactoides graves",
+    "frecuencia": "MUY RARA",
+    "trastorno": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Vasculitis",
+    "frecuencia": "MUY RARA",
+    "trastorno": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Vasculitis necrotizante cutánea",
+    "frecuencia": "MUY RARA",
+    "trastorno": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Incremento de CPK",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Hipopotasemia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Hiperlipidemia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Hipofosfatemia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Incremento de LDH",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Hipouricemia",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Ansiedad",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Parestesia",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Cefalea",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Mareo",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Neuropatía periférica",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Leve aumento de la presión arterial",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS CARDIACOS"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Aumento pronunciado de la presión arterial",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS CARDIACOS"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Enfermedad pulmonar intersticial",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS RESPIRATORIOS, TORÁCICOS Y MEDIASTÍNICOS"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Neumonitis intersticial",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS RESPIRATORIOS, TORÁCICOS Y MEDIASTÍNICOS"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Hipertensión pulmonar",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS RESPIRATORIOS, TORÁCICOS Y MEDIASTÍNICOS"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Colitis",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Colitis microscópica",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Colitis linfocítica",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Colitis colágena",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Diarrea",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Náuseas",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Vómitos",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Trastornos de la mucosa oral",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Estomatitis aftosa",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Úlceras bucales",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Dolor abdominal",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Alteraciones del gusto",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Pancreatitis",
+    "frecuencia": "MUY RARA",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Elevación de los parámetros hepáticos",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS HEPATOBILIARES"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Hepatitis",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS HEPATOBILIARES"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Ictericia",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS HEPATOBILIARES"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Colestasis",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS HEPATOBILIARES"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Daño hepático grave",
+    "frecuencia": "MUY RARA",
+    "trastorno": "TRASTORNOS HEPATOBILIARES"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Insuficiencia hepática",
+    "frecuencia": "MUY RARA",
+    "trastorno": "TRASTORNOS HEPATOBILIARES"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Necrosis hepática aguda",
+    "frecuencia": "MUY RARA",
+    "trastorno": "TRASTORNOS HEPATOBILIARES"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Aumento de la caída de cabello",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Eczema",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Erupción cutánea",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Erupción maculopapular",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Prurito",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Sequedad de piel",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Urticaria",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Necrólisis epidérmica tóxica",
+    "frecuencia": "MUY RARA",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Síndrome de Stevens-Johnson",
+    "frecuencia": "MUY RARA",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Eritema multiforme",
+    "frecuencia": "MUY RARA",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Lupus eritematoso cutáneo",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Psoriasis pustular",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Empeoramiento de psoriasis",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Erupción medicamentosa con eosinofilia y síntomas sistémicos (Síndrome DRESS)",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Úlcera cutánea",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Tenosinovitis",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS MUSCULOESQUELÉTICOS Y DEL TEJIDO CONJUNTIVO"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Rotura de tendón",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS MUSCULOESQUELÉTICOS Y DEL TEJIDO CONJUNTIVO"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Fallo renal",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS RENALES Y URINARIOS"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Leve disminución (reversible) de la concentración de esperma",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DEL APARATO REPRODUCTOR Y DE LA MAMA"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Leve disminución (reversible) del recuento total de esperma",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DEL APARATO REPRODUCTOR Y DE LA MAMA"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Leve disminución (reversible) de la motilidad progresiva rápida",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DEL APARATO REPRODUCTOR Y DE LA MAMA"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Anorexia",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Pérdida de peso (normalmente insignificante)",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "LEFLUNOMIDA",
+    "reacción adversa": "Astenia",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  }
+]

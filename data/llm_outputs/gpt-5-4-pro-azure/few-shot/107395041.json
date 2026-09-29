@@ -1,0 +1,248 @@
+[
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "bronquitis",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "INFECCIONES E INFESTACIONES"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "infección del tracto respiratorio superior",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "INFECCIONES E INFESTACIONES"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "sinusitis",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "INFECCIONES E INFESTACIONES"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "infección del tracto urinario",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "INFECCIONES E INFESTACIONES"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "gripe",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "INFECCIONES E INFESTACIONES"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "neumonía",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "INFECCIONES E INFESTACIONES"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "infección del tracto respiratorio",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "INFECCIONES E INFESTACIONES"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "cistitis",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "INFECCIONES E INFESTACIONES"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "infección de oído",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "INFECCIONES E INFESTACIONES"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "amigdalitis",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "INFECCIONES E INFESTACIONES"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "infección ocular",
+    "frecuencia": "RARA",
+    "trastorno": "INFECCIONES E INFESTACIONES"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "onicomicosis",
+    "frecuencia": "RARA",
+    "trastorno": "INFECCIONES E INFESTACIONES"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "celulitis",
+    "frecuencia": "RARA",
+    "trastorno": "INFECCIONES E INFESTACIONES"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "acarodermatitis",
+    "frecuencia": "RARA",
+    "trastorno": "INFECCIONES E INFESTACIONES"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "disminución del recuento de glóbulos blancos",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "trombocitopenia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "anemia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "disminución del hematocrito",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "agranulocitosis",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "neutropenia",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "aumento del recuento de eosinófilos",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "reacción anafiláctica",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "hipersensibilidad",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "hiperprolactinemia",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS ENDOCRINOS"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "secreción inapropiada de la hormona antidiurética",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS ENDOCRINOS"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "presencia de glucosa en la orina",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS ENDOCRINOS"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "aumento de peso",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "aumento del apetito",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "disminución de peso",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "disminución del apetito",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "diabetes mellitus",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "hiperglucemia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "perímetro de la cintura aumentado",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "anorexia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "aumento de los triglicéridos en sangre",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "intoxicación por agua",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "cetoacidosis diabética",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "hipoglucemia",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "polidipsia",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "aumento del colesterol en sangre",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  },
+  {
+    "principio activo": "PALIPERIDONA",
+    "reacción adversa": "hiperinsulinemia",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  }
+]

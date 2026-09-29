@@ -1,0 +1,72 @@
+Resumen del perfil de seguridad
+El perfil de seguridad descrito para LORATADINA resulta compatible con el uso de un antihistamínico administrado por vía oral en condiciones habituales. La denominación loratadina se emplea en esta sección como nombre común del principio activo, sin que ello implique diferencias de formulación o de respuesta clínica. Las notificaciones consideradas se presentan de forma agrupada para facilitar la lectura y no sustituyen la valoración individual de cada caso. La interpretación debe tener en cuenta la dosis, la duración del tratamiento, los antecedentes del paciente y la posible presencia de factores concomitantes. En general, la información disponible permite identificar acontecimientos de carácter leve o moderado, aunque algunos hallazgos requieren atención clínica si aparecen de forma persistente o inesperada.
+
+Lista tabulada de reacciones adversas
+Las reacciones se ordenan por sistema de clasificación de órganos y por categoría de frecuencia.
+
+TRASTORNOS PSIQUIÁTRICOS
+frecuencia no conocida: Agresión; Comportamiento anormal; Estado de ánimo deprimido.
+
+TRASTORNOS DEL SISTEMA GENERAL
+frecuentes: Fatiga.
+frecuencia no conocida: Astenia.
+
+TRASTORNOS DEL SISTEMA HEPATOBILIAR
+frecuencia no conocida: Ictericia.
+
+EXPLORACIONES COMPLEMENTARIAS
+frecuencia no conocida: Aumento de peso.
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN
+frecuencia no conocida: Aumento del apetito.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+frecuentes: Boca seca.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+frecuentes: Cefalea.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+frecuencia no conocida: Fotosensibilidad.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+No se consignan términos específicos en esta tabla.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+frecuencia no conocida: QT prolongado.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+frecuencia no conocida: Sequedad del ojo.
+
+Descripción de reacciones adversas seleccionadas
+La Fatiga y la Boca seca suelen registrarse durante el seguimiento habitual y, en la mayoría de los casos, pueden valorarse mediante medidas clínicas generales y revisión de la evolución. La Cefalea (dolor de cabeza) debe interpretarse atendiendo al momento de aparición y a la exposición al tratamiento, especialmente si el paciente ya presentaba episodios previos similares. La Astenia puede comunicarse de manera inespecífica, por lo que resulta útil confirmar su intensidad, duración y relación temporal.
+
+Cuando se notifiquen QT prolongado o Ictericia, se recomienda una evaluación médica dirigida, considerando antecedentes, tratamientos concomitantes y datos analíticos disponibles. La Fotosensibilidad y la Sequedad del ojo pueden requerir consejo preventivo y seguimiento si interfieren con la actividad diaria. Las comunicaciones clasificadas como frecuencia no conocida proceden de fuentes en las que no siempre es posible estimar una incidencia fiable, por lo que la información debe revisarse de forma acumulada y con criterios clínicos homogéneos.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+Trastornos del sistema hepatobiliar
+
+Se ha notificado hepatitis con loratadina, incluida LORATADINA CINFA 10 mg COMPRIMIDOS EFG, con frecuencia no conocida. Esta reacción se incluye dentro de los trastornos del sistema hepatobiliar y debe valorarse en el contexto clínico del paciente.
+
+Tabla de reacciones adversas:
+- Hepatitis: frecuencia no conocida.
+
+En caso de sospecha de afectación hepática durante el tratamiento con loratadina, se recomienda una evaluación médica y considerar la interrupción del medicamento según criterio clínico.
+
+-- Caso 2 --
+Dentro de TRASTORNOS DEL SISTEMA GENERAL, se ha notificado astenia durante el uso de LORATADINA, con frecuencia no conocida a partir de los datos disponibles. La intensidad comunicada puede variar y debe valorarse en el contexto clínico del paciente y de la evolución temporal respecto al tratamiento.
+
+Listado de la reacción adversa:
+- Astenia (sensación de cansancio): frecuencia no conocida.
+
+Se recomienda realizar seguimiento si el síntoma persiste o interfiere con las actividades habituales. La evaluación debe considerar factores concomitantes antes de atribuir causalidad al tratamiento.
+
+-- Caso 3 --
+Durante el tratamiento con loratadina, este acontecimiento puede aparecer de forma aislada y debe interpretarse según la situación clínica del paciente y la relación temporal con la administración. La descripción no implica, por sí sola, interrupción automática; se recomienda seguimiento si el síntoma persiste o resulta relevante para las actividades habituales, considerando otras causas posibles sin modificar la categoría comunicada. En pacientes que conduzcan o manejen maquinaria, conviene confirmar la evolución individual antes de atribuirlo exclusivamente al medicamento.
+
+Lista tabulada:
+- Sistema de clasificación de órganos: TRASTORNOS DEL SISTEMA GENERAL
+- Reacción adversa: Fatiga (cansancio)
+- Frecuencia: frecuentes

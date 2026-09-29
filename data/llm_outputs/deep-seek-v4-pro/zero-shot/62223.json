@@ -1,0 +1,296 @@
+[
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "superinfecciones con cándida (p. ej., infecciones genitales)",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "colitis pseudomembranosa",
+    "frecuencia": "Raras",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "agranulocitosis",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "neutropenia",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "trombocitopenia",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "pancitopenia",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "leucopenia",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "reacciones graves de hipersensibilidad sistémica aguda: anafilaxia, hasta shock anafiláctico",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "reacciones de hipersensibilidad leves a moderadas, p. ej., reacciones cutáneas",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "angioedema",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "anorexia",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "trastornos psicóticos, incluyendo confusión y alucinaciones",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "depresión",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "encefalopatía",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "síndrome cerebeloso subagudo",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "somnolencia",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "mareos",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "temblores",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "dolores de cabeza",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "somnolencia o insomnio",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "mioclono",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "neuropatía sensorial periférica",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "convulsiones epileptiformes transitorias",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "meningitis aséptica",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "alteraciones visuales, como visión doble y miopía",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "crisis oculógira",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "neuropatía óptica/neuritis",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "disgeusia",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "glositis",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "estomatitis",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "lengua peluda",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "náuseas",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "vómitos",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "dolor abdominal",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "diarrea",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "disfagia",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "aumento de las enzimas hepáticas (AST, ALT, fosfatasa alcalina)",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "hepatitis colestásica mixta",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "lesión hepatocelular",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "ictericia",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "pancreatitis",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "prurito",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "urticaria",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "síndrome de Stevens-Johnson",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "eritema multiforme",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "necrólisis epidérmica tóxica",
+    "frecuencia": "No conocida",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "mialgia",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "artralgia",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "METRONIDAZOL",
+    "reacción adversa": "orina oscura",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos renales y urinarios"
+  }
+]

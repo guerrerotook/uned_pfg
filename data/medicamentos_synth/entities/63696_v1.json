@@ -1,0 +1,205 @@
+{
+  "codigo": "63696",
+  "variante": 1,
+  "codigo_variant": "63696_v1",
+  "medicamento": "LORATADINA CINFA 10 mg COMPRIMIDOS EFG",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "LORATADINA",
+      "surface": "LORATADINA",
+      "start": 768,
+      "end": 778
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 1187,
+      "end": 1211
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 1212,
+      "end": 1234
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agresión",
+      "surface": "Agresión",
+      "start": 1236,
+      "end": 1244
+    },
+    {
+      "type": "REACT",
+      "canonical": "Comportamiento anormal",
+      "surface": "Comportamiento anormal",
+      "start": 1246,
+      "end": 1268
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estado de ánimo deprimido",
+      "surface": "Estado de ánimo deprimido",
+      "start": 1270,
+      "end": 1295
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 1298,
+      "end": 1328
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 1329,
+      "end": 1339
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "Fatiga",
+      "start": 1341,
+      "end": 1347
+    },
+    {
+      "type": "REACT",
+      "canonical": "Astenia",
+      "surface": "Astenia",
+      "start": 1373,
+      "end": 1380
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "surface": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "start": 1383,
+      "end": 1418
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ictericia",
+      "surface": "Ictericia",
+      "start": 1443,
+      "end": 1452
+    },
+    {
+      "type": "SYS",
+      "canonical": "EXPLORACIONES COMPLEMENTARIAS",
+      "surface": "EXPLORACIONES COMPLEMENTARIAS",
+      "start": 1455,
+      "end": 1484
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de peso",
+      "surface": "Aumento de peso",
+      "start": 1509,
+      "end": 1524
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "start": 1527,
+      "end": 1568
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento del apetito",
+      "surface": "Aumento del apetito",
+      "start": 1593,
+      "end": 1612
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1615,
+      "end": 1647
+    },
+    {
+      "type": "REACT",
+      "canonical": "Boca seca",
+      "surface": "Boca seca",
+      "start": 1660,
+      "end": 1669
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1672,
+      "end": 1703
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea",
+      "start": 1716,
+      "end": 1723
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 1726,
+      "end": 1754
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fotosensibilidad",
+      "surface": "Fotosensibilidad",
+      "start": 1779,
+      "end": 1795
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1798,
+      "end": 1835
+    },
+    {
+      "type": "REACT",
+      "canonical": "QT prolongado",
+      "surface": "QT prolongado",
+      "start": 1860,
+      "end": 1873
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 1876,
+      "end": 1913
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad del ojo",
+      "surface": "Sequedad del ojo",
+      "start": 1938,
+      "end": 1954
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 3420,
+      "end": 3427
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NAN",
+      "surface": "nan",
+      "start": 3474,
+      "end": 3477
+    }
+  ]
+}

@@ -1,0 +1,884 @@
+{
+  "codigo": "107395041",
+  "variante": 1,
+  "codigo_variant": "107395041_v1",
+  "medicamento": "INVEGA 3 MG COMPRIMIDOS DE LIBERACION PROLONGADA",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "PALIPERIDONA",
+      "surface": "PALIPERIDONA",
+      "start": 101,
+      "end": 113
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "INFECCIONES E INFESTACIONES",
+      "start": 679,
+      "end": 706
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 708,
+      "end": 718
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bronquitis",
+      "surface": "Bronquitis",
+      "start": 720,
+      "end": 730
+    },
+    {
+      "type": "REACT",
+      "canonical": "Gripe",
+      "surface": "Gripe",
+      "start": 732,
+      "end": 737
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sinusitis",
+      "surface": "Sinusitis",
+      "start": 739,
+      "end": 748
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 750,
+      "end": 765
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cistitis",
+      "surface": "Cistitis",
+      "start": 767,
+      "end": 775
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neumonía",
+      "surface": "Neumonía",
+      "start": 777,
+      "end": 785
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 787,
+      "end": 799
+    },
+    {
+      "type": "REACT",
+      "canonical": "Celulitis",
+      "surface": "Celulitis",
+      "start": 801,
+      "end": 810
+    },
+    {
+      "type": "REACT",
+      "canonical": "Onicomicosis",
+      "surface": "Onicomicosis",
+      "start": 812,
+      "end": 824
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 826,
+      "end": 857
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes",
+      "start": 859,
+      "end": 873
+    },
+    {
+      "type": "REACT",
+      "canonical": "Acatisia",
+      "surface": "Acatisia",
+      "start": 875,
+      "end": 883
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea",
+      "start": 885,
+      "end": 892
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parkinsonismo",
+      "surface": "Parkinsonismo",
+      "start": 894,
+      "end": 907
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sedación/somnolencia",
+      "surface": "Sedación/somnolencia",
+      "start": 909,
+      "end": 929
+    },
+    {
+      "type": "REACT",
+      "canonical": "Discinesia",
+      "surface": "Discinesia",
+      "start": 943,
+      "end": 953
+    },
+    {
+      "type": "REACT",
+      "canonical": "Distonía",
+      "surface": "Distonía",
+      "start": 955,
+      "end": 963
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareos",
+      "surface": "Mareos",
+      "start": 965,
+      "end": 971
+    },
+    {
+      "type": "REACT",
+      "canonical": "Temblor",
+      "surface": "Temblor",
+      "start": 973,
+      "end": 980
+    },
+    {
+      "type": "REACT",
+      "canonical": "Convulsiones",
+      "surface": "Convulsiones",
+      "start": 999,
+      "end": 1011
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parestesia",
+      "surface": "Parestesia",
+      "start": 1013,
+      "end": 1023
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síncopes",
+      "surface": "Síncopes",
+      "start": 1025,
+      "end": 1033
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pérdida de la consciencia",
+      "surface": "Pérdida de la consciencia",
+      "start": 1049,
+      "end": 1074
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome neuroléptico maligno",
+      "surface": "Síndrome neuroléptico maligno",
+      "start": 1076,
+      "end": 1105
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 1107,
+      "end": 1135
+    },
+    {
+      "type": "REACT",
+      "canonical": "Exantema",
+      "surface": "Exantema",
+      "start": 1149,
+      "end": 1157
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito",
+      "start": 1159,
+      "end": 1166
+    },
+    {
+      "type": "REACT",
+      "canonical": "Acné",
+      "surface": "Acné",
+      "start": 1185,
+      "end": 1189
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria",
+      "start": 1191,
+      "end": 1200
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angioedema",
+      "surface": "Angioedema",
+      "start": 1216,
+      "end": 1226
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eritema",
+      "surface": "Eritema",
+      "start": 1228,
+      "end": 1235
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 1237,
+      "end": 1274
+    },
+    {
+      "type": "REACT",
+      "canonical": "Visión borrosa",
+      "surface": "Visión borrosa",
+      "start": 1288,
+      "end": 1302
+    },
+    {
+      "type": "REACT",
+      "canonical": "Acúfenos",
+      "surface": "Acúfenos",
+      "start": 1321,
+      "end": 1329
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vértigo",
+      "surface": "Vértigo",
+      "start": 1331,
+      "end": 1338
+    },
+    {
+      "type": "REACT",
+      "canonical": "Glaucoma",
+      "surface": "Glaucoma",
+      "start": 1354,
+      "end": 1362
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperemia ocular",
+      "surface": "Hiperemia ocular",
+      "start": 1364,
+      "end": 1380
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 1382,
+      "end": 1406
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insomnio",
+      "surface": "Insomnio",
+      "start": 1424,
+      "end": 1432
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agitación",
+      "surface": "Agitación",
+      "start": 1446,
+      "end": 1455
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ansiedad",
+      "surface": "Ansiedad",
+      "start": 1457,
+      "end": 1465
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estado de confusión",
+      "surface": "Estado de confusión",
+      "start": 1484,
+      "end": 1503
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pesadillas",
+      "surface": "Pesadillas",
+      "start": 1505,
+      "end": 1515
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sonambulismo",
+      "surface": "Sonambulismo",
+      "start": 1531,
+      "end": 1543
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 1545,
+      "end": 1594
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia",
+      "surface": "Anemia",
+      "start": 1613,
+      "end": 1619
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombocitopenia",
+      "surface": "Trombocitopenia",
+      "start": 1621,
+      "end": 1636
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neutropenia",
+      "surface": "Neutropenia",
+      "start": 1652,
+      "end": 1663
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 1665,
+      "end": 1695
+    },
+    {
+      "type": "REACT",
+      "canonical": "Astenia",
+      "surface": "Astenia",
+      "start": 1709,
+      "end": 1716
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cansancio",
+      "surface": "Cansancio",
+      "start": 1718,
+      "end": 1727
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pirexia",
+      "surface": "Pirexia",
+      "start": 1729,
+      "end": 1736
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor torácico",
+      "surface": "Dolor torácico",
+      "start": 1755,
+      "end": 1769
+    },
+    {
+      "type": "REACT",
+      "canonical": "Escalofríos",
+      "surface": "Escalofríos",
+      "start": 1771,
+      "end": 1782
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotermia",
+      "surface": "Hipotermia",
+      "start": 1798,
+      "end": 1808
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "start": 1810,
+      "end": 1844
+    },
+    {
+      "type": "REACT",
+      "canonical": "Amenorrea",
+      "surface": "Amenorrea",
+      "start": 1858,
+      "end": 1867
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disfunción eréctil",
+      "surface": "Disfunción eréctil",
+      "start": 1886,
+      "end": 1904
+    },
+    {
+      "type": "REACT",
+      "canonical": "Glactorrea",
+      "surface": "Glactorrea",
+      "start": 1906,
+      "end": 1916
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ginecomastia",
+      "surface": "Ginecomastia",
+      "start": 1932,
+      "end": 1944
+    },
+    {
+      "type": "REACT",
+      "canonical": "Priapismo",
+      "surface": "Priapismo",
+      "start": 1946,
+      "end": 1955
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 1957,
+      "end": 1999
+    },
+    {
+      "type": "REACT",
+      "canonical": "Artralgia",
+      "surface": "Artralgia",
+      "start": 2013,
+      "end": 2022
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor de espalda",
+      "surface": "Dolor de espalda",
+      "start": 2024,
+      "end": 2040
+    },
+    {
+      "type": "REACT",
+      "canonical": "Debilidad muscular",
+      "surface": "Debilidad muscular",
+      "start": 2059,
+      "end": 2077
+    },
+    {
+      "type": "REACT",
+      "canonical": "Espasmos musculares",
+      "surface": "Espasmos musculares",
+      "start": 2079,
+      "end": 2098
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rabdomiólisis",
+      "surface": "Rabdomiólisis",
+      "start": 2114,
+      "end": 2127
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 2129,
+      "end": 2166
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bradicardia",
+      "surface": "Bradicardia",
+      "start": 2180,
+      "end": 2191
+    },
+    {
+      "type": "REACT",
+      "canonical": "Taquicardia",
+      "surface": "Taquicardia",
+      "start": 2193,
+      "end": 2204
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bloqueo auriculoventricular",
+      "surface": "Bloqueo auriculoventricular",
+      "start": 2206,
+      "end": 2233
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones",
+      "start": 2252,
+      "end": 2265
+    },
+    {
+      "type": "REACT",
+      "canonical": "Arritmia sinusal",
+      "surface": "Arritmia sinusal",
+      "start": 2267,
+      "end": 2283
+    },
+    {
+      "type": "REACT",
+      "canonical": "Embolismo pulmonar",
+      "surface": "Embolismo pulmonar",
+      "start": 2299,
+      "end": 2317
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fibrilación auricular",
+      "surface": "Fibrilación auricular",
+      "start": 2319,
+      "end": 2340
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "start": 2342,
+      "end": 2383
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de peso",
+      "surface": "Aumento de peso",
+      "start": 2397,
+      "end": 2412
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento del apetito",
+      "surface": "Aumento del apetito",
+      "start": 2414,
+      "end": 2433
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diabetes mellitus",
+      "surface": "Diabetes mellitus",
+      "start": 2452,
+      "end": 2469
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperglucemia",
+      "surface": "Hiperglucemia",
+      "start": 2471,
+      "end": 2484
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipoglucemia",
+      "surface": "Hipoglucemia",
+      "start": 2500,
+      "end": 2512
+    },
+    {
+      "type": "REACT",
+      "canonical": "Polidipsia",
+      "surface": "Polidipsia",
+      "start": 2514,
+      "end": 2524
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 2526,
+      "end": 2548
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperinsulinemia",
+      "surface": "Hiperinsulinemia",
+      "start": 2550,
+      "end": 2566
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "surface": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "start": 2568,
+      "end": 2603
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumentto de las transaminasas",
+      "surface": "Aumentto de las transaminasas",
+      "start": 2617,
+      "end": 2646
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de las enzimas hepáticas",
+      "surface": "Aumento de las enzimas hepáticas",
+      "start": 2665,
+      "end": 2697
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ictericia",
+      "surface": "Ictericia",
+      "start": 2713,
+      "end": 2722
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 2724,
+      "end": 2759
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipersensibilidad",
+      "surface": "Hipersensibilidad",
+      "start": 2775,
+      "end": 2792
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacción anafiláctica",
+      "surface": "Reacción anafiláctica",
+      "start": 2794,
+      "end": 2815
+    },
+    {
+      "type": "SYS",
+      "canonical": "LESIONES TRAUMÁTICAS, INTOXICACIONES Y COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS",
+      "surface": "LESIONES TRAUMÁTICAS, INTOXICACIONES Y COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS",
+      "start": 2817,
+      "end": 2901
+    },
+    {
+      "type": "REACT",
+      "canonical": "Caídas",
+      "surface": "Caídas",
+      "start": 2920,
+      "end": 2926
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 2928,
+      "end": 2963
+    },
+    {
+      "type": "REACT",
+      "canonical": "Congestión nasal",
+      "surface": "Congestión nasal",
+      "start": 2977,
+      "end": 2993
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor faringolaríngeo",
+      "surface": "Dolor faringolaríngeo",
+      "start": 2995,
+      "end": 3016
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tos",
+      "surface": "Tos",
+      "start": 3018,
+      "end": 3021
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disnea",
+      "surface": "Disnea",
+      "start": 3040,
+      "end": 3046
+    },
+    {
+      "type": "REACT",
+      "canonical": "Epistaxis",
+      "surface": "Epistaxis",
+      "start": 3048,
+      "end": 3057
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neumonía por aspiración",
+      "surface": "Neumonía por aspiración",
+      "start": 3073,
+      "end": 3096
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de apnea del sueño",
+      "surface": "Síndrome de apnea del sueño",
+      "start": 3098,
+      "end": 3125
+    },
+    {
+      "type": "REACT",
+      "canonical": "Congestión pulmonar",
+      "surface": "Congestión pulmonar",
+      "start": 3151,
+      "end": 3170
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 3172,
+      "end": 3204
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea",
+      "start": 3218,
+      "end": 3225
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 3227,
+      "end": 3234
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos",
+      "start": 3236,
+      "end": 3243
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad de boca",
+      "surface": "Sequedad de boca",
+      "start": 3245,
+      "end": 3261
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disfagia",
+      "surface": "Disfagia",
+      "start": 3280,
+      "end": 3288
+    },
+    {
+      "type": "REACT",
+      "canonical": "Flatulencia",
+      "surface": "Flatulencia",
+      "start": 3290,
+      "end": 3301
+    },
+    {
+      "type": "REACT",
+      "canonical": "Íleo",
+      "surface": "Íleo",
+      "start": 3317,
+      "end": 3321
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pancreatitis",
+      "surface": "Pancreatitis",
+      "start": 3323,
+      "end": 3335
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "start": 3337,
+      "end": 3368
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disuria",
+      "surface": "Disuria",
+      "start": 3387,
+      "end": 3394
+    },
+    {
+      "type": "REACT",
+      "canonical": "Retención urinaria",
+      "surface": "Retención urinaria",
+      "start": 3396,
+      "end": 3414
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "surface": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "start": 3416,
+      "end": 3448
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperprolactinemia",
+      "surface": "Hiperprolactinemia",
+      "start": 3467,
+      "end": 3485
+    },
+    {
+      "type": "REACT",
+      "canonical": "Presencia de glucosa en la orina",
+      "surface": "Presencia de glucosa en la orina",
+      "start": 3501,
+      "end": 3533
+    },
+    {
+      "type": "REACT",
+      "canonical": "Secreción inapropiada de la hormona antidiurética",
+      "surface": "Secreción inapropiada de la hormona antidiurética",
+      "start": 3535,
+      "end": 3584
+    },
+    {
+      "type": "SYS",
+      "canonical": "EMBARAZO, PUERPERIO Y ENFERMEDADES PERINATALES",
+      "surface": "EMBARAZO, PUERPERIO Y ENFERMEDADES PERINATALES",
+      "start": 3586,
+      "end": 3632
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de abstinencia neonatal",
+      "surface": "Síndrome de abstinencia neonatal",
+      "start": 3648,
+      "end": 3680
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "PALIPERIDONA",
+      "surface": "paliperidona",
+      "start": 101,
+      "end": 113
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "Trastornos de la sangre y órganos hematopoyéticos",
+      "start": 1545,
+      "end": 1594
+    }
+  ]
+}

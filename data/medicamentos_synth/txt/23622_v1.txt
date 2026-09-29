@@ -1,0 +1,51 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil de seguridad observado tras la administración parenteral de CITRATO TRISODIO se caracteriza por acontecimientos relacionados con la respuesta clínica inmediata al tratamiento y con la velocidad de administración. La evaluación debe realizarse de forma continuada, teniendo en cuenta la situación basal del paciente, la dosis administrada y la necesidad de medidas de soporte. En el uso clínico se recomienda vigilancia durante la administración y en el periodo posterior, ya que algunas manifestaciones pueden requerir interrupción temporal o ajuste de la perfusión. La identificación temprana de cambios clínicos permite instaurar medidas correctoras y reducir la progresión de cuadros potencialmente relevantes. La información disponible procede de la experiencia acumulada y se presenta conforme a la clasificación de órganos y a las categorías de frecuencia utilizadas en la ficha técnica.
+
+Lista tabulada de reacciones adversas
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+- frecuentes: bradicardia, hipotensión por vasodilatación periférica, rubor.
+- poco frecuentes: parada cardiaca o colapso circulatorio, vasodilatación consensación de calor.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+- frecuentes: pérdida de reflejo tendinoso.
+- poco frecuentes: coma, confusión, depresión del SNC que puede preceder a la parálisis respiratoria, dolor de cabeza, mareos, somnolencia.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+- poco frecuentes: debilidad muscular.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+- poco frecuentes: depresión respiratoria debido al bloqueo neuromuscular.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+- poco frecuentes: dolor en el punto de inyección.
+
+TRASTORNOS DEL SISTEMA GENERAL
+- poco frecuentes: hipotermia.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+- poco frecuentes: náuseas, sed, vómitos.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+- poco frecuentes: problemas de la visión, problemas del habla.
+
+TRASTORNOS DEL SISTEMA ENDOCRINO
+- poco frecuentes: sudoración excesiva.
+
+Descripción de reacciones adversas seleccionadas
+La aparición de acontecimientos durante la administración requiere una valoración individual de la relación temporal con la perfusión y de otros factores concomitantes. Debe disponerse de medios adecuados para la observación clínica, especialmente cuando existan antecedentes relevantes o cuando el estado del paciente pueda dificultar la detección precoz de cambios. En caso de manifestaciones clínicamente significativas, se debe considerar la reducción de la velocidad, la interrupción de la administración o la instauración de medidas de soporte, según proceda.
+
+Las alteraciones de inicio rápido pueden evolucionar si no se reconocen de forma temprana. La vigilancia debe incluir la comprobación periódica de constantes, el nivel de respuesta y la tolerancia local. La información de seguridad debe revisarse junto con la historia clínica, los tratamientos concomitantes y las condiciones de uso. La notificación de sospechas de reacciones adversas tras la autorización del medicamento es importante, ya que permite una supervisión continuada del balance beneficio-riesgo.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En la clasificación por sistemas y órganos, dentro de Trastornos del sistema nervioso, se ha notificado depresión del SNC que puede preceder a la parálisis respiratoria entre las reacciones poco frecuentes asociadas a CITRATO TRISODIO. Esta manifestación requiere valoración clínica inmediata y seguimiento de la función respiratoria durante la administración y en el periodo posterior, especialmente cuando existan factores que puedan aumentar la exposición. La aparición de signos compatibles debe motivar la interrupción o ajuste del tratamiento conforme a la situación clínica y a las medidas de soporte disponibles.
+
+-- Caso 2 --
+Durante el tratamiento con CITRATO TRISODIO, en el sistema de clasificación de órganos Trastornos del sistema nervioso, se ha descrito pérdida de reflejo tendinoso dentro de las reacciones adversas frecuentes. Este hallazgo puede observarse durante la administración y debe interpretarse en el contexto clínico del paciente. Se recomienda realizar seguimiento clínico si aparece, especialmente en tratamientos prolongados o en pacientes con factores predisponentes, y valorar la continuidad de la administración según la evolución.
+
+-- Caso 3 --
+En la clasificación por sistemas y órganos, dentro de TRASTORNOS DEL SISTEMA NERVIOSO, se ha notificado somnolencia como reacción adversa asociada a la administración de CITRATO TRISODIO. De acuerdo con la información disponible, estos casos se consideran poco frecuentes. La aparición de este efecto debe valorarse en el contexto clínico del paciente y de la administración de la solución inyectable o para perfusión. La continuidad del tratamiento y la conveniencia de medidas de observación deben decidirse de forma individual, considerando la exposición, la situación basal y el balance beneficio-riesgo.

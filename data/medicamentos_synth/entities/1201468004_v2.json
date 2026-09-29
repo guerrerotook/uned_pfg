@@ -1,0 +1,128 @@
+{
+  "codigo": "1201468004",
+  "variante": 2,
+  "codigo_variant": "1201468004_v2",
+  "medicamento": "KAFTRIO 75 MG/50 MG/100 MG GRANULADO EN SOBRE",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "NOVALE",
+      "surface": "NOVALE",
+      "start": 95,
+      "end": 101
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "NOVALE",
+      "surface": "Kaftrio",
+      "start": 241,
+      "end": 248
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "INFECCIONES E INFESTACIONES",
+      "start": 1636,
+      "end": 1663
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes",
+      "start": 1664,
+      "end": 1678
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infección de las vías respiratorias altas",
+      "surface": "Infección de las vías respiratorias altas",
+      "start": 1680,
+      "end": 1721
+    },
+    {
+      "type": "REACT",
+      "canonical": "nasofaringitis",
+      "surface": "nasofaringitis",
+      "start": 1723,
+      "end": 1737
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 1668,
+      "end": 1678
+    },
+    {
+      "type": "REACT",
+      "canonical": "Gripe",
+      "surface": "Gripe",
+      "start": 1751,
+      "end": 1756
+    },
+    {
+      "type": "REACT",
+      "canonical": "Gripe",
+      "surface": "gripe",
+      "start": 1751,
+      "end": 1756
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rinitis",
+      "surface": "Rinitis",
+      "start": 1772,
+      "end": 1779
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "start": 1782,
+      "end": 1823
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipoglucemia",
+      "surface": "Hipoglucemia",
+      "start": 1836,
+      "end": 1848
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "Infecciones e infestaciones",
+      "start": 1636,
+      "end": 1663
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuente",
+      "start": 3910,
+      "end": 3923
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infección de las vías respiratorias altas",
+      "surface": "cuadro catarral de vías altas",
+      "start": 4016,
+      "end": 4045
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "Trastornos del metabolismo y la nutrición",
+      "start": 1782,
+      "end": 1823
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipoglucemia",
+      "surface": "glucemia baja",
+      "start": 4828,
+      "end": 4841
+    }
+  ]
+}

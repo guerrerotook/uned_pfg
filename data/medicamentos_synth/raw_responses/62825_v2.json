@@ -1,0 +1,1169 @@
+{
+  "codigo": "62825",
+  "variante": 2,
+  "codigo_variant": "62825_v2",
+  "medicamento": "ADIRO 100 MG COMPRIMIDOS GASTRORRESISTENTES EFG",
+  "model": "gpt-5.5",
+  "style_variant_idx": 1,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil de seguridad de ACETILSALICILICO ACIDO, conocido en la práctica clínica como ácido acetilsalicílico o AAS, es concordante con su actividad farmacológica y con el uso continuado en prevención cardiovascular. La tolerabilidad debe interpretarse considerando la edad, la dosis administrada, los antecedentes personales y la medicación concomitante. Algunos acontecimientos pueden aparecer al inicio del tratamiento y otros tras exposición prolongada, por lo que la evaluación clínica debe individualizarse. Se recomienda informar al paciente sobre la conveniencia de consultar si aparecen signos persistentes, inesperados o clínicamente relevantes. La siguiente relación se presenta por clasificación de órganos y por categoría de frecuencia, utilizando terminología médica normalizada.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS\n- frecuentes: Hipotrombinemia (con dosis altas).\n- poco frecuentes: Anemia ferropénica.\n- no frecuente: Anemia hemorrágica.\n- frecuencia no conocida: Anemia hemolítica, Hemólisis.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\n- frecuentes: Rinitis, Epixtasis.\n- poco frecuentes: Congestión nasal.\n- frecuencia no conocida: Enfermedad respiratoria exacerbada por ácido acetilsalicílico (EREA).\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\n- frecuentes: Dispepsia, Dolor gastrointestinal y abdominal, Hemorragia del tracto gastrointestinal, Inflamación gastrointestinal.\n- poco frecuentes: Erosión gastrointestinal y úlcera, Hepatitis (particularmente en pacientes con artritis juvenil), Insuficiencia hepática, Sangrado gingival.\n- no frecuente: Incremento de transaminasas, Perforación de úlcera gastrointestinal.\n- frecuencia no conocida: Enfermedad diafragmática intestinal.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\n- poco frecuentes: Hematoma.\n- no frecuente: Hemorragia, Hemorragia muscular.\n- frecuencia no conocida: Distrés cardiorrespiratorio, Hemorragia procedimental.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\n- poco frecuentes: Edema alérgico y angioedema, Hipersensibilidad, Hipersensibilidad inducida por fármacos.\n- no frecuente: Reacción anafiláctica.\n- frecuencia no conocida: Shock anafiláctico.\n\nTRASTORNOS DE PIEL Y TEJIDOS\n- frecuentes: Erupción cutánea, Prurito.\n- poco frecuentes: Urticaria.\n\nTRASTORNOS DEL SISTEMA EXCRETOR\n- frecuentes: Hemorragia del tracto urogenital.\n- no frecuente: Fallo renal agudo, Insuficiencia renal.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\n- frecuentes: Mareo.\n- poco frecuentes: Hemorragia cerebral e intracraneal.\n\nTRASTORNOS DEL SISTEMA GENERAL\n- poco frecuentes: Síndrome de Reye (en menores de 16 años con procesos febriles, gripe o varicela).\n\nLESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS\n- frecuentes: Sobredosis.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\n- frecuentes: Tinnitus (zumbidos).\n\nDescripción de reacciones adversas seleccionadas\nLa valoración de los episodios compatibles con sangrado debe realizarse teniendo en cuenta la situación basal del paciente y el balance beneficio-riesgo del tratamiento. Cuando los síntomas sean relevantes o progresivos, puede ser necesario revisar la pauta terapéutica y considerar medidas de seguimiento clínico. En pacientes con antecedentes alérgicos o respiratorios, la aparición de signos sugestivos requiere especial atención y una actuación prudente. La notificación de sospechas tras la autorización permite completar la información disponible y mejorar la caracterización del perfil de seguridad.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nDentro del sistema de clasificación de órganos Trastornos del sistema cardiovascular, se ha identificado la siguiente reacción adversa asociada al ácido acetilsalicílico (aspirina):\n\n- Hemorragia procedimental: frecuencia no conocida.\n\nEl efecto antiagregante plaquetario puede favorecer la aparición de este evento en el contexto de intervenciones diagnósticas o terapéuticas, especialmente si concurren factores predisponentes. Se recomienda valorar el balance beneficio-riesgo antes del procedimiento y mantener una vigilancia clínica adecuada durante el periodo periintervencionista. La decisión de continuar o interrumpir el tratamiento debe individualizarse según la situación clínica.\n\n-- Caso 2 --\nDentro del sistema de clasificación de órganos Trastornos de piel y tejidos, la Urticaria se considera una reacción adversa poco frecuentes asociada al uso de ácido acetilsalicílico. Puede reflejar una respuesta de hipersensibilidad en pacientes susceptibles tratados con AAS, por lo que se recomienda valorar la continuidad del tratamiento según la evolución clínica y los antecedentes del paciente.\n\nLista tabulada:\n- Urticaria: poco frecuentes.\n\n-- Caso 3 --\nEn el sistema de clasificación de órganos Trastornos del sistema digestivo, se ha notificado Hemorragia del tracto gastrointestinal con una frecuencia de frecuentes durante el tratamiento con ácido acetilsalicílico (AAS).\n\nReacciones adversas:\n- Hemorragia del tracto gastrointestinal: frecuentes.\n\nEste efecto se relaciona con la acción antiagregante y la irritación local de la mucosa digestiva propias de ácido acetilsalicílico. Se recomienda vigilar la aparición de signos compatibles con sangrado digestivo (sangrado del estómago o intestino) y valorar la continuidad del tratamiento según la situación clínica.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "ACETILSALICILICO ACIDO",
+      "surface": "ACETILSALICILICO ACIDO",
+      "start": 83,
+      "end": 105
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "ACETILSALICILICO ACIDO",
+      "surface": "ácido acetilsalicílico",
+      "start": 144,
+      "end": 166
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "ACETILSALICILICO ACIDO",
+      "surface": "AAS",
+      "start": 169,
+      "end": 172
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 891,
+      "end": 940
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 943,
+      "end": 953
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotrombinemia (con dosis altas)",
+      "surface": "Hipotrombinemia (con dosis altas)",
+      "start": 955,
+      "end": 988
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 992,
+      "end": 1007
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia ferropénica",
+      "surface": "Anemia ferropénica",
+      "start": 1009,
+      "end": 1027
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 1031,
+      "end": 1043
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia hemorrágica",
+      "surface": "Anemia hemorrágica",
+      "start": 1045,
+      "end": 1063
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 1067,
+      "end": 1089
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia hemolítica",
+      "surface": "Anemia hemolítica",
+      "start": 1091,
+      "end": 1108
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemólisis",
+      "surface": "Hemólisis",
+      "start": 1110,
+      "end": 1119
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 1122,
+      "end": 1157
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rinitis",
+      "surface": "Rinitis",
+      "start": 1172,
+      "end": 1179
+    },
+    {
+      "type": "REACT",
+      "canonical": "Epixtasis",
+      "surface": "Epixtasis",
+      "start": 1181,
+      "end": 1190
+    },
+    {
+      "type": "REACT",
+      "canonical": "Congestión nasal",
+      "surface": "Congestión nasal",
+      "start": 1211,
+      "end": 1227
+    },
+    {
+      "type": "REACT",
+      "canonical": "Enfermedad respiratoria exacerbada por ácido acetilsalicílico (EREA)",
+      "surface": "Enfermedad respiratoria exacerbada por ácido acetilsalicílico (EREA)",
+      "start": 1255,
+      "end": 1323
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1326,
+      "end": 1358
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dispepsia",
+      "surface": "Dispepsia",
+      "start": 1373,
+      "end": 1382
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor gastrointestinal y abdominal",
+      "surface": "Dolor gastrointestinal y abdominal",
+      "start": 1384,
+      "end": 1418
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia del tracto gastrointestinal",
+      "surface": "Hemorragia del tracto gastrointestinal",
+      "start": 1420,
+      "end": 1458
+    },
+    {
+      "type": "REACT",
+      "canonical": "Inflamación gastrointestinal",
+      "surface": "Inflamación gastrointestinal",
+      "start": 1460,
+      "end": 1488
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erosión gastrointestinal y úlcera",
+      "surface": "Erosión gastrointestinal y úlcera",
+      "start": 1509,
+      "end": 1542
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hepatitis (particularmente en pacientes con artritis juvenil)",
+      "surface": "Hepatitis (particularmente en pacientes con artritis juvenil)",
+      "start": 1544,
+      "end": 1605
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia hepática",
+      "surface": "Insuficiencia hepática",
+      "start": 1607,
+      "end": 1629
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sangrado gingival",
+      "surface": "Sangrado gingival",
+      "start": 1631,
+      "end": 1648
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de transaminasas",
+      "surface": "Incremento de transaminasas",
+      "start": 1666,
+      "end": 1693
+    },
+    {
+      "type": "REACT",
+      "canonical": "Perforación de úlcera gastrointestinal",
+      "surface": "Perforación de úlcera gastrointestinal",
+      "start": 1695,
+      "end": 1733
+    },
+    {
+      "type": "REACT",
+      "canonical": "Enfermedad diafragmática intestinal",
+      "surface": "Enfermedad diafragmática intestinal",
+      "start": 1761,
+      "end": 1796
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1799,
+      "end": 1836
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hematoma",
+      "surface": "Hematoma",
+      "start": 1856,
+      "end": 1864
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia",
+      "surface": "Hemorragia",
+      "start": 1420,
+      "end": 1430
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia muscular",
+      "surface": "Hemorragia muscular",
+      "start": 1894,
+      "end": 1913
+    },
+    {
+      "type": "REACT",
+      "canonical": "Distrés cardiorrespiratorio",
+      "surface": "Distrés cardiorrespiratorio",
+      "start": 1941,
+      "end": 1968
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia procedimental",
+      "surface": "Hemorragia procedimental",
+      "start": 1970,
+      "end": 1994
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 1997,
+      "end": 2032
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema alérgico y angioedema",
+      "surface": "Edema alérgico y angioedema",
+      "start": 2052,
+      "end": 2079
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipersensibilidad",
+      "surface": "Hipersensibilidad",
+      "start": 2081,
+      "end": 2098
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipersensibilidad inducida por fármacos",
+      "surface": "Hipersensibilidad inducida por fármacos",
+      "start": 2100,
+      "end": 2139
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacción anafiláctica",
+      "surface": "Reacción anafiláctica",
+      "start": 2157,
+      "end": 2178
+    },
+    {
+      "type": "REACT",
+      "canonical": "Shock anafiláctico",
+      "surface": "Shock anafiláctico",
+      "start": 2206,
+      "end": 2224
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 2227,
+      "end": 2255
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción cutánea",
+      "surface": "Erupción cutánea",
+      "start": 2270,
+      "end": 2286
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito",
+      "start": 2288,
+      "end": 2295
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria",
+      "start": 2316,
+      "end": 2325
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "start": 2328,
+      "end": 2359
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia del tracto urogenital",
+      "surface": "Hemorragia del tracto urogenital",
+      "start": 2374,
+      "end": 2406
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fallo renal agudo",
+      "surface": "Fallo renal agudo",
+      "start": 2424,
+      "end": 2441
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia renal",
+      "surface": "Insuficiencia renal",
+      "start": 2443,
+      "end": 2462
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 2465,
+      "end": 2496
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareo",
+      "surface": "Mareo",
+      "start": 2511,
+      "end": 2516
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia cerebral e intracraneal",
+      "surface": "Hemorragia cerebral e intracraneal",
+      "start": 2537,
+      "end": 2571
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 2574,
+      "end": 2604
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de Reye (en menores de 16 años con procesos febriles, gripe o varicela)",
+      "surface": "Síndrome de Reye (en menores de 16 años con procesos febriles, gripe o varicela)",
+      "start": 2624,
+      "end": 2704
+    },
+    {
+      "type": "SYS",
+      "canonical": "LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS",
+      "surface": "LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS",
+      "start": 2707,
+      "end": 2790
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sobredosis",
+      "surface": "Sobredosis",
+      "start": 2805,
+      "end": 2815
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 2818,
+      "end": 2855
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tinnitus",
+      "surface": "Tinnitus",
+      "start": 2870,
+      "end": 2878
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tinnitus",
+      "surface": "zumbidos",
+      "start": 2880,
+      "end": 2888
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "Trastornos del sistema cardiovascular",
+      "start": 1799,
+      "end": 1836
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "ACETILSALICILICO ACIDO",
+      "surface": "aspirina",
+      "start": 3796,
+      "end": 3804
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "Trastornos de piel y tejidos",
+      "start": 2227,
+      "end": 2255
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "Trastornos del sistema digestivo",
+      "start": 1326,
+      "end": 1358
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia del tracto gastrointestinal",
+      "surface": "sangrado digestivo",
+      "start": 5286,
+      "end": 5304
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia del tracto gastrointestinal",
+      "surface": "sangrado del estómago o intestino",
+      "start": 5306,
+      "end": 5339
+    }
+  ],
+  "raw_long_doc_text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil de seguridad de ACETILSALICILICO ACIDO, conocido en la práctica clínica como ácido acetilsalicílico o AAS, es concordante con su actividad farmacológica y con el uso continuado en prevención cardiovascular. La tolerabilidad debe interpretarse considerando la edad, la dosis administrada, los antecedentes personales y la medicación concomitante. Algunos acontecimientos pueden aparecer al inicio del tratamiento y otros tras exposición prolongada, por lo que la evaluación clínica debe individualizarse. Se recomienda informar al paciente sobre la conveniencia de consultar si aparecen signos persistentes, inesperados o clínicamente relevantes. La siguiente relación se presenta por clasificación de órganos y por categoría de frecuencia, utilizando terminología médica normalizada.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS\n- frecuentes: Hipotrombinemia (con dosis altas).\n- poco frecuentes: Anemia ferropénica.\n- no frecuente: Anemia hemorrágica.\n- frecuencia no conocida: Anemia hemolítica, Hemólisis.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\n- frecuentes: Rinitis, Epixtasis.\n- poco frecuentes: Congestión nasal.\n- frecuencia no conocida: Enfermedad respiratoria exacerbada por ácido acetilsalicílico (EREA).\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\n- frecuentes: Dispepsia, Dolor gastrointestinal y abdominal, Hemorragia del tracto gastrointestinal, Inflamación gastrointestinal.\n- poco frecuentes: Erosión gastrointestinal y úlcera, Hepatitis (particularmente en pacientes con artritis juvenil), Insuficiencia hepática, Sangrado gingival.\n- no frecuente: Incremento de transaminasas, Perforación de úlcera gastrointestinal.\n- frecuencia no conocida: Enfermedad diafragmática intestinal.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\n- poco frecuentes: Hematoma.\n- no frecuente: Hemorragia, Hemorragia muscular.\n- frecuencia no conocida: Distrés cardiorrespiratorio, Hemorragia procedimental.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\n- poco frecuentes: Edema alérgico y angioedema, Hipersensibilidad, Hipersensibilidad inducida por fármacos.\n- no frecuente: Reacción anafiláctica.\n- frecuencia no conocida: Shock anafiláctico.\n\nTRASTORNOS DE PIEL Y TEJIDOS\n- frecuentes: Erupción cutánea, Prurito.\n- poco frecuentes: Urticaria.\n\nTRASTORNOS DEL SISTEMA EXCRETOR\n- frecuentes: Hemorragia del tracto urogenital.\n- no frecuente: Fallo renal agudo, Insuficiencia renal.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\n- frecuentes: Mareo.\n- poco frecuentes: Hemorragia cerebral e intracraneal.\n\nTRASTORNOS DEL SISTEMA GENERAL\n- poco frecuentes: Síndrome de Reye (en menores de 16 años con procesos febriles, gripe o varicela).\n\nLESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS\n- frecuentes: Sobredosis.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\n- frecuentes: Tinnitus (zumbidos).\n\nDescripción de reacciones adversas seleccionadas\nLa valoración de los episodios compatibles con sangrado debe realizarse teniendo en cuenta la situación basal del paciente y el balance beneficio-riesgo del tratamiento. Cuando los síntomas sean relevantes o progresivos, puede ser necesario revisar la pauta terapéutica y considerar medidas de seguimiento clínico. En pacientes con antecedentes alérgicos o respiratorios, la aparición de signos sugestivos requiere especial atención y una actuación prudente. La notificación de sospechas tras la autorización permite completar la información disponible y mejorar la caracterización del perfil de seguridad.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "ACETILSALICILICO ACIDO",
+      "surface": "ACETILSALICILICO ACIDO"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "ACETILSALICILICO ACIDO",
+      "surface": "ácido acetilsalicílico"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "ACETILSALICILICO ACIDO",
+      "surface": "AAS"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotrombinemia (con dosis altas)",
+      "surface": "Hipotrombinemia (con dosis altas)"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia ferropénica",
+      "surface": "Anemia ferropénica"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia hemorrágica",
+      "surface": "Anemia hemorrágica"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia hemolítica",
+      "surface": "Anemia hemolítica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemólisis",
+      "surface": "Hemólisis"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rinitis",
+      "surface": "Rinitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Epixtasis",
+      "surface": "Epixtasis"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Congestión nasal",
+      "surface": "Congestión nasal"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Enfermedad respiratoria exacerbada por ácido acetilsalicílico (EREA)",
+      "surface": "Enfermedad respiratoria exacerbada por ácido acetilsalicílico (EREA)"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "ACETILSALICILICO ACIDO",
+      "surface": "ácido acetilsalicílico"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dispepsia",
+      "surface": "Dispepsia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor gastrointestinal y abdominal",
+      "surface": "Dolor gastrointestinal y abdominal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia del tracto gastrointestinal",
+      "surface": "Hemorragia del tracto gastrointestinal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Inflamación gastrointestinal",
+      "surface": "Inflamación gastrointestinal"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erosión gastrointestinal y úlcera",
+      "surface": "Erosión gastrointestinal y úlcera"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hepatitis (particularmente en pacientes con artritis juvenil)",
+      "surface": "Hepatitis (particularmente en pacientes con artritis juvenil)"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia hepática",
+      "surface": "Insuficiencia hepática"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sangrado gingival",
+      "surface": "Sangrado gingival"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de transaminasas",
+      "surface": "Incremento de transaminasas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Perforación de úlcera gastrointestinal",
+      "surface": "Perforación de úlcera gastrointestinal"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Enfermedad diafragmática intestinal",
+      "surface": "Enfermedad diafragmática intestinal"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hematoma",
+      "surface": "Hematoma"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia",
+      "surface": "Hemorragia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia muscular",
+      "surface": "Hemorragia muscular"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Distrés cardiorrespiratorio",
+      "surface": "Distrés cardiorrespiratorio"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia procedimental",
+      "surface": "Hemorragia procedimental"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema alérgico y angioedema",
+      "surface": "Edema alérgico y angioedema"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipersensibilidad",
+      "surface": "Hipersensibilidad"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipersensibilidad inducida por fármacos",
+      "surface": "Hipersensibilidad inducida por fármacos"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacción anafiláctica",
+      "surface": "Reacción anafiláctica"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Shock anafiláctico",
+      "surface": "Shock anafiláctico"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción cutánea",
+      "surface": "Erupción cutánea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia del tracto urogenital",
+      "surface": "Hemorragia del tracto urogenital"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fallo renal agudo",
+      "surface": "Fallo renal agudo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia renal",
+      "surface": "Insuficiencia renal"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareo",
+      "surface": "Mareo"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia cerebral e intracraneal",
+      "surface": "Hemorragia cerebral e intracraneal"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de Reye (en menores de 16 años con procesos febriles, gripe o varicela)",
+      "surface": "Síndrome de Reye (en menores de 16 años con procesos febriles, gripe o varicela)"
+    },
+    {
+      "type": "SYS",
+      "canonical": "LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS",
+      "surface": "LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sobredosis",
+      "surface": "Sobredosis"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tinnitus",
+      "surface": "Tinnitus"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tinnitus",
+      "surface": "zumbidos"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "ADIRO 100 MG COMPRIMIDOS GASTRORRESISTENTES EFG",
+        "pactivo": "ACETILSALICILICO ACIDO",
+        "reaccion": "Hemorragia procedimental",
+        "frecuencia": "SIN FRECUENCIA",
+        "sistema": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+      },
+      "text": "Dentro del sistema de clasificación de órganos Trastornos del sistema cardiovascular, se ha identificado la siguiente reacción adversa asociada al ácido acetilsalicílico (aspirina):\n\n- Hemorragia procedimental: frecuencia no conocida.\n\nEl efecto antiagregante plaquetario puede favorecer la aparición de este evento en el contexto de intervenciones diagnósticas o terapéuticas, especialmente si concurren factores predisponentes. Se recomienda valorar el balance beneficio-riesgo antes del procedimiento y mantener una vigilancia clínica adecuada durante el periodo periintervencionista. La decisión de continuar o interrumpir el tratamiento debe individualizarse según la situación clínica.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "surface": "Trastornos del sistema cardiovascular"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "ACETILSALICILICO ACIDO",
+          "surface": "ácido acetilsalicílico"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "ACETILSALICILICO ACIDO",
+          "surface": "aspirina"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Hemorragia procedimental",
+          "surface": "Hemorragia procedimental"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "surface": "Trastornos del sistema cardiovascular",
+          "start": 47,
+          "end": 84
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "ACETILSALICILICO ACIDO",
+          "surface": "ácido acetilsalicílico",
+          "start": 147,
+          "end": 169
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "ACETILSALICILICO ACIDO",
+          "surface": "aspirina",
+          "start": 171,
+          "end": 179
+        },
+        {
+          "type": "REACT",
+          "canonical": "Hemorragia procedimental",
+          "surface": "Hemorragia procedimental",
+          "start": 185,
+          "end": 209
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida",
+          "start": 211,
+          "end": 233
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "ADIRO 100 MG COMPRIMIDOS GASTRORRESISTENTES EFG",
+        "pactivo": "ACETILSALICILICO ACIDO",
+        "reaccion": "Urticaria",
+        "frecuencia": "POCO FRECUENTE",
+        "sistema": "TRASTORNOS DE PIEL Y TEJIDOS"
+      },
+      "text": "Dentro del sistema de clasificación de órganos Trastornos de piel y tejidos, la Urticaria se considera una reacción adversa poco frecuentes asociada al uso de ácido acetilsalicílico. Puede reflejar una respuesta de hipersensibilidad en pacientes susceptibles tratados con AAS, por lo que se recomienda valorar la continuidad del tratamiento según la evolución clínica y los antecedentes del paciente.\n\nLista tabulada:\n- Urticaria: poco frecuentes.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "surface": "Trastornos de piel y tejidos"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Urticaria",
+          "surface": "Urticaria"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "ACETILSALICILICO ACIDO",
+          "surface": "ácido acetilsalicílico"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "ACETILSALICILICO ACIDO",
+          "surface": "AAS"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Urticaria",
+          "surface": "Urticaria"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "surface": "Trastornos de piel y tejidos",
+          "start": 47,
+          "end": 75
+        },
+        {
+          "type": "REACT",
+          "canonical": "Urticaria",
+          "surface": "Urticaria",
+          "start": 80,
+          "end": 89
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes",
+          "start": 124,
+          "end": 139
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "ACETILSALICILICO ACIDO",
+          "surface": "ácido acetilsalicílico",
+          "start": 159,
+          "end": 181
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "ACETILSALICILICO ACIDO",
+          "surface": "AAS",
+          "start": 272,
+          "end": 275
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "ADIRO 100 MG COMPRIMIDOS GASTRORRESISTENTES EFG",
+        "pactivo": "ACETILSALICILICO ACIDO",
+        "reaccion": "Hemorragia del tracto gastrointestinal",
+        "frecuencia": "FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+      },
+      "text": "En el sistema de clasificación de órganos Trastornos del sistema digestivo, se ha notificado Hemorragia del tracto gastrointestinal con una frecuencia de frecuentes durante el tratamiento con ácido acetilsalicílico (AAS).\n\nReacciones adversas:\n- Hemorragia del tracto gastrointestinal: frecuentes.\n\nEste efecto se relaciona con la acción antiagregante y la irritación local de la mucosa digestiva propias de ácido acetilsalicílico. Se recomienda vigilar la aparición de signos compatibles con sangrado digestivo (sangrado del estómago o intestino) y valorar la continuidad del tratamiento según la situación clínica.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "Trastornos del sistema digestivo"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Hemorragia del tracto gastrointestinal",
+          "surface": "Hemorragia del tracto gastrointestinal"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "ACETILSALICILICO ACIDO",
+          "surface": "ácido acetilsalicílico"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "ACETILSALICILICO ACIDO",
+          "surface": "AAS"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Hemorragia del tracto gastrointestinal",
+          "surface": "Hemorragia del tracto gastrointestinal"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "ACETILSALICILICO ACIDO",
+          "surface": "ácido acetilsalicílico"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Hemorragia del tracto gastrointestinal",
+          "surface": "sangrado digestivo"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Hemorragia del tracto gastrointestinal",
+          "surface": "sangrado del estómago o intestino"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "Trastornos del sistema digestivo",
+          "start": 42,
+          "end": 74
+        },
+        {
+          "type": "REACT",
+          "canonical": "Hemorragia del tracto gastrointestinal",
+          "surface": "Hemorragia del tracto gastrointestinal",
+          "start": 93,
+          "end": 131
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes",
+          "start": 154,
+          "end": 164
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "ACETILSALICILICO ACIDO",
+          "surface": "ácido acetilsalicílico",
+          "start": 192,
+          "end": 214
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "ACETILSALICILICO ACIDO",
+          "surface": "AAS",
+          "start": 216,
+          "end": 219
+        },
+        {
+          "type": "REACT",
+          "canonical": "Hemorragia del tracto gastrointestinal",
+          "surface": "sangrado digestivo",
+          "start": 493,
+          "end": 511
+        },
+        {
+          "type": "REACT",
+          "canonical": "Hemorragia del tracto gastrointestinal",
+          "surface": "sangrado del estómago o intestino",
+          "start": 513,
+          "end": 546
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

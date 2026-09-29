@@ -1,0 +1,275 @@
+{
+  "codigo": "84088",
+  "variante": 1,
+  "codigo_variant": "84088_v1",
+  "medicamento": "SUXAMETONIO ETHYPHARM 50 MG/ML SOLUCION INYECTABLE Y PARA PERFUSIÓN EFG",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "SUXAMETONIO CLORURO",
+      "surface": "SUXAMETONIO CLORURO",
+      "start": 84,
+      "end": 103
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "Trastornos del sistema cardiovascular",
+      "start": 947,
+      "end": 984
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 985,
+      "end": 995
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bradicardia",
+      "surface": "Bradicardia",
+      "start": 997,
+      "end": 1008
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rubefacción cutánea",
+      "surface": "Rubefacción cutánea",
+      "start": 1010,
+      "end": 1029
+    },
+    {
+      "type": "REACT",
+      "canonical": "taquicardia",
+      "surface": "taquicardia",
+      "start": 1031,
+      "end": 1042
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 1044,
+      "end": 1059
+    },
+    {
+      "type": "REACT",
+      "canonical": "Arritmias (incluidas arritmias ventriculares)",
+      "surface": "Arritmias (incluidas arritmias ventriculares)",
+      "start": 1061,
+      "end": 1106
+    },
+    {
+      "type": "REACT",
+      "canonical": "paro cardiaco",
+      "surface": "paro cardiaco",
+      "start": 1108,
+      "end": 1121
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 1123,
+      "end": 1145
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertensión",
+      "surface": "Hipertensión",
+      "start": 1147,
+      "end": 1159
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión",
+      "start": 1161,
+      "end": 1172
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "Trastornos del sistema respiratorio",
+      "start": 1175,
+      "end": 1210
+    },
+    {
+      "type": "REACT",
+      "canonical": "Broncoespasmo",
+      "surface": "Broncoespasmo",
+      "start": 1228,
+      "end": 1241
+    },
+    {
+      "type": "REACT",
+      "canonical": "apnea",
+      "surface": "apnea",
+      "start": 1243,
+      "end": 1248
+    },
+    {
+      "type": "REACT",
+      "canonical": "depresión respiratoria prolongada",
+      "surface": "depresión respiratoria prolongada",
+      "start": 1250,
+      "end": 1283
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "Trastornos del sistema digestivo",
+      "start": 1286,
+      "end": 1318
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes",
+      "start": 1319,
+      "end": 1333
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la presión intragástrica",
+      "surface": "Aumento de la presión intragástrica",
+      "start": 1335,
+      "end": 1370
+    },
+    {
+      "type": "REACT",
+      "canonical": "Salivación excesiva",
+      "surface": "Salivación excesiva",
+      "start": 1396,
+      "end": 1415
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "Trastornos de órganos de los sentidos",
+      "start": 1418,
+      "end": 1455
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la presión intraocular",
+      "surface": "Aumento de la presión intraocular",
+      "start": 1468,
+      "end": 1501
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "Trastornos del sistema general",
+      "start": 1504,
+      "end": 1534
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento transitorio del potasio en sangre",
+      "surface": "Aumento transitorio del potasio en sangre",
+      "start": 1547,
+      "end": 1588
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertermia maligna",
+      "surface": "Hipertermia maligna",
+      "start": 1607,
+      "end": 1626
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "Trastornos del sistema músculo-esquelético",
+      "start": 1629,
+      "end": 1671
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fasciculación muscular",
+      "surface": "Fasciculación muscular",
+      "start": 1688,
+      "end": 1710
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor muscular posoperatorio",
+      "surface": "dolor muscular posoperatorio",
+      "start": 1712,
+      "end": 1740
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mioglobinemia",
+      "surface": "Mioglobinemia",
+      "start": 1754,
+      "end": 1767
+    },
+    {
+      "type": "REACT",
+      "canonical": "mioglobinuria",
+      "surface": "mioglobinuria",
+      "start": 1769,
+      "end": 1782
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trismo",
+      "surface": "Trismo",
+      "start": 1801,
+      "end": 1807
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "Trastornos de piel y tejidos",
+      "start": 1810,
+      "end": 1838
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción",
+      "surface": "Erupción",
+      "start": 1851,
+      "end": 1859
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "Trastornos del sistema inmunológico",
+      "start": 1862,
+      "end": 1897
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacciones anafilácticas",
+      "surface": "Reacciones anafilácticas",
+      "start": 1915,
+      "end": 1939
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuente",
+      "start": 3633,
+      "end": 3646
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1286,
+      "end": 1318
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 4967,
+      "end": 4979
+    }
+  ]
+}

@@ -1,0 +1,986 @@
+[
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Infecciones víricas",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Infecciones respiratorias",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Abscesos",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Infecciones por hongos",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Infección del tracto urinario",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Infecciones cutáneas",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Sepsis",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Fascitis necrotizante",
+    "frecuencia": "Raras",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Infecciones bacterianas",
+    "frecuencia": "Raras",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Neutropenia",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Trombocitopenia",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Anemia",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Leucopenia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Linfopenia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Pancitopenia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Microangiopatía trombótica",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Hipersensibilidad",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Angioedema",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Hipotiroidismo",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos endocrinos"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Hipertiroidismo",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos endocrinos"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Tiroiditis",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos endocrinos"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Disminución del apetito",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Deshidratación",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Hipoglucemia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Síndrome de lisis tumoral",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Insomnio",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Depresión",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Mareo",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Cefalea",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Alteración del gusto",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Neuropatía periférica",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Parestesia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Hipoestesia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Hiperestesia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Hemorragia cerebral",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Accidente cerebrovascular",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Accidente isquémico transitorio",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Síndrome de leucoencefalopatía posterior reversible",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Encefalopatía hiperamonémica",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Edema periorbital",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Edema del párpado",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Aumento del lagrimeo",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Isquemia de miocardio",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Disminución de la fracción de eyección",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Insuficiencia cardiaca congestiva",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Infarto de miocardio",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Insuficiencia cardiaca",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Cardiomiopatía",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Derrame pericárdico",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Intervalo QT del electrocardiograma prolongado",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Insuficiencia ventricular izquierda",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Torsade de pointes",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Hipertensión",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Trombosis venosa profunda",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Sofocos",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Rubefacción",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Hemorragia tumoral",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Aneurismas y disecciones arteriales",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Disnea",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Epistaxis",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Tos",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Embolismo pulmonar",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Derrame pleural",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Hemoptisis",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Disnea de esfuerzo",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Dolor orofaríngeo",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Congestión nasal",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Sequedad nasal",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Hemorragia pulmonar",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Insuficiencia respiratoria",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Estomatitis",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Dolor abdominal",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Vómitos",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Diarrea",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Dispepsia",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Náuseas",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Estreñimiento",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Enfermedad de reflujo gastroesofágico",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Disfagia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Hemorragia gastrointestinal",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Esofagitis",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Distensión abdominal",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Molestia abdominal",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Hemorragia rectal",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Sangrado gingival",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Ulceración de la boca",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Proctalgia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Queilitis",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Hemorroides",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Glosodinia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Dolor bucal",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Sequedad de boca",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Flatulencia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Molestias orales",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Eructos",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Perforación gastrointestinal",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Pancreatitis",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Fístula anal",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Colitis",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Insuficiencia hepática",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Colecistitis",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Función hepática anormal",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Hepatitis",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Cambio de color de la piel",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Síndrome de eritrodisestesia palmoplantar",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Erupción",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Cambio de coloración del pelo",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Sequedad de piel",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Exfoliación de la piel",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Reacción cutánea",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Eczema",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Ampollas",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Eritema",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Alopecia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Acné",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Prurito",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Hiperpigmentación de la piel",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Lesión de la piel",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Hiperqueratosis",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Dermatitis",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Trastornos en las uñas",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Eritema multiforme",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Síndrome de Stevens-Johnson",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Pioderma gangrenoso",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Necrolisis epidérmica tóxica",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Dolor en las extremidades",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Artralgia",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Dolor de espalda",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Dolor musculoesquelético",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Espasmos musculares",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Mialgia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Debilidad muscular",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Osteonecrosis mandibular",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Fístula",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Rabdomiolisis",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Miopatía",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Fallo renal",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Insuficiencia renal aguda",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Cromaturia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Proteinuria",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Hemorragia del tracto urinario",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Síndrome nefrótico",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Inflamación de las mucosas",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Fatiga",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Edema",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Pirexia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Dolor torácico",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Dolor",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Enfermedad similar a la influenza",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Escalofríos",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Alteración en la cicatrización",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Disminución del peso",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Disminución del recuento de glóbulos blancos",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Lipasa elevada",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Recuento disminuido de plaquetas",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Disminución de la hemoglobina",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Amilasa elevada",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Aumento de la aspartato aminotransferasa",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Aumento de la alanina aminotransferasa",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Aumento de la creatinina en sangre",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Aumento de la presión sanguínea",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Aumento del ácido úrico en sangre",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Creatinina fosfoquinasa sanguínea elevada",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Aumento de la hormona estimulante de la tiroides en sangre",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  }
+]

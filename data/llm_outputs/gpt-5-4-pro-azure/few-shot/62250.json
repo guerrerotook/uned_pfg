@@ -1,0 +1,548 @@
+[
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Candidiasis",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Herpes simple",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Nasofaringitis",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Faringitis",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Infección de las vías respiratorias superiores",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Infección por Clostridium",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Linfocitosis",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Monocitosis",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Neutropenia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Trombocitopenia",
+    "frecuencia": "RARA",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Reacciones anafilácticas",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Hipersensibilidad",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Disminución del apetito",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Deshidratación",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Insomnio",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Sueños anormales",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Depresión",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Nerviosismo",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Mareo",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Cefalea",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Hipoestesia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Migraña",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Parestesia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Cefalea sinusal",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Somnolencia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Presíncope",
+    "frecuencia": "RARA",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Diplopía",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Dolor de oído",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos del oído y del laberinto"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Vértigo",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos del oído y del laberinto"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Palpitaciones",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos cardíacos"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Sofocos",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Aumento de la presión sanguínea",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Tos",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Disnea",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Congestión nasal",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Sequedad de garganta",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Dolor orofaríngeo",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Rinorrea",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Estreñimiento",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Dolor abdominal",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Distensión abdominal",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Diarrea",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Flatulencia",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Náuseas",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Tenesmo rectal",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Urgencia de evacuación",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Vómitos",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Ascitis",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Dispepsia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Desórdenes de la motilidad gastrointestinal",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Dolor abdominal superior",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Hematoquecia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Heces mucosas",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Heces duras",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Sequedad labial",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Trastornos del gusto",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Incremento de la aspartato aminotransferasa",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Anomalías en las pruebas de función hepática",
+    "frecuencia": "RARA",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Erupciones",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Sarpullidos y exantemas",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Quemaduras solares",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Síndrome de Stevens-Johnson (SSJ)",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Necrólisis epidérmica tóxica (NET)",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Angioedema",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Dermatitis",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Dermatitis exfoliativa",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Eczema",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Eritemas",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Prurito",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Púrpura",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Urticarias",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Dolor dorsal",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conectivo"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Debilidad muscular",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conectivo"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Mialgia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conectivo"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Espasmos musculares",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conectivo"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Dolor de cuello",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conectivo"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Glicosuria",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Poliuria",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Polaquiuria",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Proteinuria",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Sangre en orina",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Polimenorrea",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos del aparato reproductor y de la mama"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Pirexia",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Astenia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Escalofríos",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Sudor frío",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Dolor y malestar",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Edema periférico",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Hiperhidrosis",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Sintomatología similar a la de una gripe",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "RIFAXIMINA",
+    "reacción adversa": "Relación Normalizada Internacional anormal",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Exploraciones complementarias"
+  }
+]

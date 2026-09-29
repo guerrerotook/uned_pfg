@@ -1,0 +1,858 @@
+{
+  "codigo": "61184",
+  "variante": 1,
+  "codigo_variant": "61184_v1",
+  "medicamento": "ATROVENT MONODOSIS 500 mcg/ 2ml SOLUCION PARA INHALACION POR NEBULIZADOR",
+  "model": "gpt-5.5",
+  "style_variant_idx": 0,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\n\nEl perfil de seguridad de IPRATROPIO BROMURO se corresponde con el esperado para un medicamento administrado por vía inhalatoria. En los estudios clínicos y en la experiencia posterior a la comercialización, la mayoría de las notificaciones fueron de intensidad leve o moderada y se resolvieron sin medidas específicas. La interpretación de los acontecimientos debe realizarse teniendo en cuenta la enfermedad de base, la técnica de administración y el uso concomitante de otros tratamientos. La aparición temporal tras la nebulización puede orientar la valoración clínica, aunque no sustituye a la evaluación individual del paciente. Se recomienda revisar la correcta utilización del dispositivo y mantener una vigilancia adecuada cuando aparezcan manifestaciones inesperadas tras la administración.\n\nLista tabulada de reacciones adversas\n\nLas reacciones se presentan por sistema de clasificación de órganos y por categoría de frecuencia. Dentro de cada grupo, los términos se muestran según denominación clínica estándar y sin establecer un orden de gravedad.\n\nTRASTORNOS DE PIEL Y TEJIDOS\nPoco frecuentes: Angioedema, Erupción, Prurito, Urticaria.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\nPoco frecuentes: Aumento de la frecuencia cardíaca, Fibrilación auricular, Palpitaciones, Taquicardia supraventricular.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\nPoco frecuentes: Aumento de la presión intraocular, Dolor ocular, Edema de córnea, Glaucoma, Haalos visuales, Hiperemia conjuntival, Midriasis, Visión borrosa, Trastorno de la acomodación.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\nFrecuentes: Irritación de garganta, Tos.\nPoco frecuentes: Broncoespasmo, Broncoespasmo paradójico, Edema faríngeo, Laringoespasmo, Sequedad de garganta.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nFrecuentes: Náuseas, Sequedad de boca, Trastornos de la motilidad gastrointestinal.\nPoco frecuentes: Diarrea, Edema bucal, Estomatitis, Estreñimiento, Vómitos.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nFrecuentes: Dolor de cabeza, Mareo.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\nPoco frecuentes: Hipersensibilidad, Reacción anafiláctica.\n\nTRASTORNOS DEL SISTEMA EXCRETOR\nPoco frecuentes: Retención urinaria.\n\nDescripción de reacciones adversas seleccionadas\n\nAlgunos acontecimientos pueden aparecer poco después de la administración y requieren valorar la continuidad del tratamiento conforme al estado clínico. La exposición accidental en zonas no previstas debe evitarse mediante una técnica adecuada de nebulización y el ajuste correcto de los accesorios. En pacientes con antecedentes relevantes, la aparición de síntomas de inicio brusco debe motivar una valoración médica, especialmente si se acompaña de deterioro funcional o persistencia de las molestias.\n\nLas notificaciones procedentes de la práctica clínica pueden estar influidas por factores de confusión, como comorbilidades, tratamientos concomitantes o variabilidad en la administración. Por ello, la relación temporal y la repetición tras nuevas administraciones son elementos útiles para la evaluación. La comunicación de sospechas de reacciones adversas contribuye a mantener actualizada la información de seguridad del medicamento.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nDentro del sistema de clasificación de órganos TRASTORNOS DEL SISTEMA CARDIOVASCULAR, se ha descrito Taquicardia supraventricular como reacción adversa poco frecuentes asociada al uso de IPRATROPIO BROMURO. Este acontecimiento debe interpretarse en el contexto del perfil farmacológico del medicamento y de la susceptibilidad individual del paciente. En caso de aparición de síntomas compatibles durante el tratamiento, se recomienda valorar la situación clínica y mantener el seguimiento adecuado, especialmente en pacientes con antecedentes cardiovasculares o factores predisponentes.\n\n-- Caso 2 --\nEn la clasificación por órganos y sistemas, dentro de Trastornos del sistema digestivo, se han notificado Náuseas, clasificadas como frecuentes durante el tratamiento con IPRATROPIO BROMURO. Este acontecimiento puede aparecer tras la administración por nebulización y suele requerir valoración clínica si persiste o interfiere con la tolerancia al tratamiento. En la comunicación de sospechas debe registrarse la relación temporal con la dosis y la evolución tras las medidas de seguimiento habituales.\n\n-- Caso 3 --\nDentro de Trastornos del sistema cardiovascular, se ha notificado Fibrilación auricular con frecuencia no frecuente durante el tratamiento con IPRATROPIO BROMURO administrado por nebulización. Este acontecimiento debe valorarse en el contexto clínico del paciente, especialmente cuando existan factores predisponentes o tratamiento concomitante que pueda influir en la función cardiovascular. Se recomienda realizar seguimiento clínico adecuado y reevaluar la continuación del tratamiento si el acontecimiento se confirma o resulta clínicamente significativo.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "IPRATROPIO BROMURO",
+      "surface": "IPRATROPIO BROMURO",
+      "start": 84,
+      "end": 102
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 1121,
+      "end": 1149
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "Poco frecuentes",
+      "start": 1150,
+      "end": 1165
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angioedema",
+      "surface": "Angioedema",
+      "start": 1167,
+      "end": 1177
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción",
+      "surface": "Erupción",
+      "start": 1179,
+      "end": 1187
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito",
+      "start": 1189,
+      "end": 1196
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria",
+      "start": 1198,
+      "end": 1207
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1210,
+      "end": 1247
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la frecuencia cardíaca",
+      "surface": "Aumento de la frecuencia cardíaca",
+      "start": 1265,
+      "end": 1298
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fibrilación auricular",
+      "surface": "Fibrilación auricular",
+      "start": 1300,
+      "end": 1321
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones",
+      "start": 1323,
+      "end": 1336
+    },
+    {
+      "type": "REACT",
+      "canonical": "Taquicardia supraventricular",
+      "surface": "Taquicardia supraventricular",
+      "start": 1338,
+      "end": 1366
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 1369,
+      "end": 1406
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la presión intraocular",
+      "surface": "Aumento de la presión intraocular",
+      "start": 1424,
+      "end": 1457
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor ocular",
+      "surface": "Dolor ocular",
+      "start": 1459,
+      "end": 1471
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema de córnea",
+      "surface": "Edema de córnea",
+      "start": 1473,
+      "end": 1488
+    },
+    {
+      "type": "REACT",
+      "canonical": "Glaucoma",
+      "surface": "Glaucoma",
+      "start": 1490,
+      "end": 1498
+    },
+    {
+      "type": "REACT",
+      "canonical": "Haalos visuales",
+      "surface": "Haalos visuales",
+      "start": 1500,
+      "end": 1515
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperemia conjuntival",
+      "surface": "Hiperemia conjuntival",
+      "start": 1517,
+      "end": 1538
+    },
+    {
+      "type": "REACT",
+      "canonical": "Midriasis",
+      "surface": "Midriasis",
+      "start": 1540,
+      "end": 1549
+    },
+    {
+      "type": "REACT",
+      "canonical": "Visión borrosa",
+      "surface": "Visión borrosa",
+      "start": 1551,
+      "end": 1565
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastorno de la acomodación",
+      "surface": "Trastorno de la acomodación",
+      "start": 1567,
+      "end": 1594
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 1597,
+      "end": 1632
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "Frecuentes",
+      "start": 1155,
+      "end": 1165
+    },
+    {
+      "type": "REACT",
+      "canonical": "Irritación de garganta",
+      "surface": "Irritación de garganta",
+      "start": 1645,
+      "end": 1667
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tos",
+      "surface": "Tos",
+      "start": 1669,
+      "end": 1672
+    },
+    {
+      "type": "REACT",
+      "canonical": "Broncoespasmo",
+      "surface": "Broncoespasmo",
+      "start": 1691,
+      "end": 1704
+    },
+    {
+      "type": "REACT",
+      "canonical": "Broncoespasmo paradójico",
+      "surface": "Broncoespasmo paradójico",
+      "start": 1706,
+      "end": 1730
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema faríngeo",
+      "surface": "Edema faríngeo",
+      "start": 1732,
+      "end": 1746
+    },
+    {
+      "type": "REACT",
+      "canonical": "Laringoespasmo",
+      "surface": "Laringoespasmo",
+      "start": 1748,
+      "end": 1762
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad de garganta",
+      "surface": "Sequedad de garganta",
+      "start": 1764,
+      "end": 1784
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1787,
+      "end": 1819
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 1832,
+      "end": 1839
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad de boca",
+      "surface": "Sequedad de boca",
+      "start": 1841,
+      "end": 1857
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastornos de la motilidad gastrointestinal",
+      "surface": "Trastornos de la motilidad gastrointestinal",
+      "start": 1859,
+      "end": 1902
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea",
+      "start": 1921,
+      "end": 1928
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema bucal",
+      "surface": "Edema bucal",
+      "start": 1930,
+      "end": 1941
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estomatitis",
+      "surface": "Estomatitis",
+      "start": 1943,
+      "end": 1954
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento",
+      "start": 1956,
+      "end": 1969
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos",
+      "start": 1971,
+      "end": 1978
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1981,
+      "end": 2012
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor de cabeza",
+      "surface": "Dolor de cabeza",
+      "start": 2025,
+      "end": 2040
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareo",
+      "surface": "Mareo",
+      "start": 2042,
+      "end": 2047
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 2050,
+      "end": 2085
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipersensibilidad",
+      "surface": "Hipersensibilidad",
+      "start": 2103,
+      "end": 2120
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacción anafiláctica",
+      "surface": "Reacción anafiláctica",
+      "start": 2122,
+      "end": 2143
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "start": 2146,
+      "end": 2177
+    },
+    {
+      "type": "REACT",
+      "canonical": "Retención urinaria",
+      "surface": "Retención urinaria",
+      "start": 2195,
+      "end": 2213
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 1150,
+      "end": 1165
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "Trastornos del sistema digestivo",
+      "start": 1787,
+      "end": 1819
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 1155,
+      "end": 1165
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "Trastornos del sistema cardiovascular",
+      "start": 1210,
+      "end": 1247
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 4507,
+      "end": 4519
+    }
+  ],
+  "raw_long_doc_text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\n\nEl perfil de seguridad de IPRATROPIO BROMURO se corresponde con el esperado para un medicamento administrado por vía inhalatoria. En los estudios clínicos y en la experiencia posterior a la comercialización, la mayoría de las notificaciones fueron de intensidad leve o moderada y se resolvieron sin medidas específicas. La interpretación de los acontecimientos debe realizarse teniendo en cuenta la enfermedad de base, la técnica de administración y el uso concomitante de otros tratamientos. La aparición temporal tras la nebulización puede orientar la valoración clínica, aunque no sustituye a la evaluación individual del paciente. Se recomienda revisar la correcta utilización del dispositivo y mantener una vigilancia adecuada cuando aparezcan manifestaciones inesperadas tras la administración.\n\nLista tabulada de reacciones adversas\n\nLas reacciones se presentan por sistema de clasificación de órganos y por categoría de frecuencia. Dentro de cada grupo, los términos se muestran según denominación clínica estándar y sin establecer un orden de gravedad.\n\nTRASTORNOS DE PIEL Y TEJIDOS\nPoco frecuentes: Angioedema, Erupción, Prurito, Urticaria.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\nPoco frecuentes: Aumento de la frecuencia cardíaca, Fibrilación auricular, Palpitaciones, Taquicardia supraventricular.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\nPoco frecuentes: Aumento de la presión intraocular, Dolor ocular, Edema de córnea, Glaucoma, Haalos visuales, Hiperemia conjuntival, Midriasis, Visión borrosa, Trastorno de la acomodación.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\nFrecuentes: Irritación de garganta, Tos.\nPoco frecuentes: Broncoespasmo, Broncoespasmo paradójico, Edema faríngeo, Laringoespasmo, Sequedad de garganta.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nFrecuentes: Náuseas, Sequedad de boca, Trastornos de la motilidad gastrointestinal.\nPoco frecuentes: Diarrea, Edema bucal, Estomatitis, Estreñimiento, Vómitos.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nFrecuentes: Dolor de cabeza, Mareo.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\nPoco frecuentes: Hipersensibilidad, Reacción anafiláctica.\n\nTRASTORNOS DEL SISTEMA EXCRETOR\nPoco frecuentes: Retención urinaria.\n\nDescripción de reacciones adversas seleccionadas\n\nAlgunos acontecimientos pueden aparecer poco después de la administración y requieren valorar la continuidad del tratamiento conforme al estado clínico. La exposición accidental en zonas no previstas debe evitarse mediante una técnica adecuada de nebulización y el ajuste correcto de los accesorios. En pacientes con antecedentes relevantes, la aparición de síntomas de inicio brusco debe motivar una valoración médica, especialmente si se acompaña de deterioro funcional o persistencia de las molestias.\n\nLas notificaciones procedentes de la práctica clínica pueden estar influidas por factores de confusión, como comorbilidades, tratamientos concomitantes o variabilidad en la administración. Por ello, la relación temporal y la repetición tras nuevas administraciones son elementos útiles para la evaluación. La comunicación de sospechas de reacciones adversas contribuye a mantener actualizada la información de seguridad del medicamento.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "IPRATROPIO BROMURO",
+      "surface": "IPRATROPIO BROMURO"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "Poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angioedema",
+      "surface": "Angioedema"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción",
+      "surface": "Erupción"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "Poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la frecuencia cardíaca",
+      "surface": "Aumento de la frecuencia cardíaca"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fibrilación auricular",
+      "surface": "Fibrilación auricular"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Taquicardia supraventricular",
+      "surface": "Taquicardia supraventricular"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "Poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la presión intraocular",
+      "surface": "Aumento de la presión intraocular"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor ocular",
+      "surface": "Dolor ocular"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema de córnea",
+      "surface": "Edema de córnea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Glaucoma",
+      "surface": "Glaucoma"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Haalos visuales",
+      "surface": "Haalos visuales"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperemia conjuntival",
+      "surface": "Hiperemia conjuntival"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Midriasis",
+      "surface": "Midriasis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Visión borrosa",
+      "surface": "Visión borrosa"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastorno de la acomodación",
+      "surface": "Trastorno de la acomodación"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "Frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Irritación de garganta",
+      "surface": "Irritación de garganta"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tos",
+      "surface": "Tos"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "Poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Broncoespasmo",
+      "surface": "Broncoespasmo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Broncoespasmo paradójico",
+      "surface": "Broncoespasmo paradójico"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema faríngeo",
+      "surface": "Edema faríngeo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Laringoespasmo",
+      "surface": "Laringoespasmo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad de garganta",
+      "surface": "Sequedad de garganta"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "Frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad de boca",
+      "surface": "Sequedad de boca"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastornos de la motilidad gastrointestinal",
+      "surface": "Trastornos de la motilidad gastrointestinal"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "Poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema bucal",
+      "surface": "Edema bucal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estomatitis",
+      "surface": "Estomatitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "Frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor de cabeza",
+      "surface": "Dolor de cabeza"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareo",
+      "surface": "Mareo"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "Poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipersensibilidad",
+      "surface": "Hipersensibilidad"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacción anafiláctica",
+      "surface": "Reacción anafiláctica"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "Poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Retención urinaria",
+      "surface": "Retención urinaria"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "ATROVENT MONODOSIS 500 mcg/ 2ml SOLUCION PARA INHALACION POR NEBULIZADOR",
+        "pactivo": "IPRATROPIO BROMURO",
+        "reaccion": "Taquicardia supraventricular",
+        "frecuencia": "POCO FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+      },
+      "text": "Dentro del sistema de clasificación de órganos TRASTORNOS DEL SISTEMA CARDIOVASCULAR, se ha descrito Taquicardia supraventricular como reacción adversa poco frecuentes asociada al uso de IPRATROPIO BROMURO. Este acontecimiento debe interpretarse en el contexto del perfil farmacológico del medicamento y de la susceptibilidad individual del paciente. En caso de aparición de síntomas compatibles durante el tratamiento, se recomienda valorar la situación clínica y mantener el seguimiento adecuado, especialmente en pacientes con antecedentes cardiovasculares o factores predisponentes.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Taquicardia supraventricular",
+          "surface": "Taquicardia supraventricular"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "IPRATROPIO BROMURO",
+          "surface": "IPRATROPIO BROMURO"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "start": 47,
+          "end": 84
+        },
+        {
+          "type": "REACT",
+          "canonical": "Taquicardia supraventricular",
+          "surface": "Taquicardia supraventricular",
+          "start": 101,
+          "end": 129
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes",
+          "start": 152,
+          "end": 167
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "IPRATROPIO BROMURO",
+          "surface": "IPRATROPIO BROMURO",
+          "start": 187,
+          "end": 205
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "ATROVENT MONODOSIS 500 mcg/ 2ml SOLUCION PARA INHALACION POR NEBULIZADOR",
+        "pactivo": "IPRATROPIO BROMURO",
+        "reaccion": "Náuseas",
+        "frecuencia": "FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+      },
+      "text": "En la clasificación por órganos y sistemas, dentro de Trastornos del sistema digestivo, se han notificado Náuseas, clasificadas como frecuentes durante el tratamiento con IPRATROPIO BROMURO. Este acontecimiento puede aparecer tras la administración por nebulización y suele requerir valoración clínica si persiste o interfiere con la tolerancia al tratamiento. En la comunicación de sospechas debe registrarse la relación temporal con la dosis y la evolución tras las medidas de seguimiento habituales.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "Trastornos del sistema digestivo"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Náuseas",
+          "surface": "Náuseas"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "IPRATROPIO BROMURO",
+          "surface": "IPRATROPIO BROMURO"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "Trastornos del sistema digestivo",
+          "start": 54,
+          "end": 86
+        },
+        {
+          "type": "REACT",
+          "canonical": "Náuseas",
+          "surface": "Náuseas",
+          "start": 106,
+          "end": 113
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes",
+          "start": 133,
+          "end": 143
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "IPRATROPIO BROMURO",
+          "surface": "IPRATROPIO BROMURO",
+          "start": 171,
+          "end": 189
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "ATROVENT MONODOSIS 500 mcg/ 2ml SOLUCION PARA INHALACION POR NEBULIZADOR",
+        "pactivo": "IPRATROPIO BROMURO",
+        "reaccion": "Fibrilación auricular",
+        "frecuencia": "NO FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+      },
+      "text": "Dentro de Trastornos del sistema cardiovascular, se ha notificado Fibrilación auricular con frecuencia no frecuente durante el tratamiento con IPRATROPIO BROMURO administrado por nebulización. Este acontecimiento debe valorarse en el contexto clínico del paciente, especialmente cuando existan factores predisponentes o tratamiento concomitante que pueda influir en la función cardiovascular. Se recomienda realizar seguimiento clínico adecuado y reevaluar la continuación del tratamiento si el acontecimiento se confirma o resulta clínicamente significativo.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "surface": "Trastornos del sistema cardiovascular"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Fibrilación auricular",
+          "surface": "Fibrilación auricular"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "IPRATROPIO BROMURO",
+          "surface": "IPRATROPIO BROMURO"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "surface": "Trastornos del sistema cardiovascular",
+          "start": 10,
+          "end": 47
+        },
+        {
+          "type": "REACT",
+          "canonical": "Fibrilación auricular",
+          "surface": "Fibrilación auricular",
+          "start": 66,
+          "end": 87
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente",
+          "start": 103,
+          "end": 115
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "IPRATROPIO BROMURO",
+          "surface": "IPRATROPIO BROMURO",
+          "start": 143,
+          "end": 161
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

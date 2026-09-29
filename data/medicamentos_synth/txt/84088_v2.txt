@@ -1,0 +1,63 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El suxametonio (succinilcolina) es un agente de acción rápida utilizado en un entorno donde la vigilancia clínica continua forma parte del procedimiento habitual. Con SUXAMETONIO CLORURO, las manifestaciones observadas suelen aparecer próximas a la administración y, en general, deben interpretarse junto con la situación anestésica, la técnica empleada y las condiciones basales del paciente. La evaluación de la tolerabilidad requiere tener disponible soporte inmediato y personal entrenado, ya que algunos acontecimientos pueden requerir actuación rápida. La información siguiente se presenta según la terminología clínica habitual y no pretende sustituir la valoración individual del riesgo antes de cada administración.
+
+Lista tabulada de reacciones adversas
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+frecuentes: Bradicardia, Rubefacción cutánea, taquicardia.
+poco frecuentes: Arritmias (incluidas arritmias ventriculares), paro cardiaco.
+frecuencia no conocida: Hipertensión, Hipotensión.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+poco frecuentes: Broncoespasmo, apnea, depresión respiratoria prolongada.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+muy frecuentes: Aumento de la presión intragástrica.
+frecuencia no conocida: Salivación excesiva.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+frecuentes: Aumento de la presión intraocular.
+
+TRASTORNOS DEL SISTEMA GENERAL
+frecuentes: Aumento transitorio del potasio en sangre.
+poco frecuentes: Hipertermia maligna.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+muy frecuentes: Fasciculación muscular, dolor muscular posoperatorio (dolor muscular tras la intervención).
+frecuentes: Mioglobinemia, mioglobinuria.
+poco frecuentes: Trismo.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+frecuentes: Erupción.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+poco frecuentes: Reacciones anafilácticas.
+
+Descripción de reacciones adversas seleccionadas
+La aparición de acontecimientos durante la inducción o durante procedimientos breves debe evaluarse teniendo en cuenta la medicación concomitante, el estado de oxigenación, la profundidad anestésica y las maniobras realizadas. Cuando se utilice este medicamento, se recomienda mantener monitorización continua y disponibilidad de medidas de soporte, especialmente en pacientes con factores predisponentes o con antecedentes relevantes.
+
+La interpretación de los hallazgos clínicos y de laboratorio debe hacerse de forma integrada. Si se observa una evolución inesperada tras la administración, el tratamiento debe individualizarse y documentarse adecuadamente en la historia clínica. La notificación de sospechas contribuye a caracterizar mejor el perfil de seguridad en la práctica clínica habitual.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En TRASTORNOS DEL SISTEMA CARDIOVASCULAR se ha descrito la siguiente reacción adversa asociada al uso de suxametonio, también denominado succinilcolina:
+- Hipotensión: frecuencia no conocida.
+La Hipotensión (bajada de tensión) puede relacionarse con la respuesta hemodinámica al bloqueo neuromuscular y con el contexto clínico de administración. Se recomienda vigilar la presión arterial durante y después de la administración, especialmente en pacientes con reserva cardiovascular limitada o sometidos a anestesia general. La aparición de este episodio debe valorarse junto con la situación basal del paciente y las medidas de soporte disponibles.
+
+-- Caso 2 --
+En la clasificación por órganos, dentro de Trastornos del sistema digestivo, se ha descrito Aumento de la presión intragástrica con suxametonio cloruro; esta reacción figura entre las reacciones muy frecuentes. La aparición se relaciona con el efecto farmacológico periférico del suxametonio sobre la musculatura, por lo que debe interpretarse en el contexto clínico del procedimiento anestésico y del estado basal del paciente.
+
+Lista tabulada:
+- Trastornos del sistema digestivo: Aumento de la presión intragástrica (aumento de presión en el estómago) - muy frecuentes.
+
+Se recomienda vigilancia clínica durante la administración y en el periodo inmediato posterior, especialmente cuando los cambios de presión puedan ser relevantes para el manejo anestésico.
+
+-- Caso 3 --
+Dentro del sistema Trastornos del sistema inmunológico, el uso de suxametonio (cloruro de suxametonio) se ha asociado a la siguiente reacción adversa:
+
+- Reacciones anafilácticas: no frecuente.
+
+Estas reacciones pueden producirse de forma imprevisible tras la administración y se consideran relevantes por su posible relación con una respuesta inmunológica inmediata. Se recomienda mantener vigilancia clínica adecuada durante y después de la administración, especialmente en pacientes con antecedentes compatibles con hipersensibilidad a bloqueantes neuromusculares. La notificación de cualquier sospecha contribuye a una mejor caracterización del perfil de seguridad.

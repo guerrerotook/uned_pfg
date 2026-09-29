@@ -1,0 +1,61 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil de seguridad de BROMAZEPAM se corresponde con el esperado para un medicamento de su grupo farmacológico cuando se utiliza a las dosis recomendadas. Los acontecimientos notificados suelen estar relacionados con la dosis, la duración del tratamiento y la sensibilidad individual del paciente. La aparición de efectos no deseados puede ser más relevante al inicio del tratamiento o tras incrementos de dosis, y requiere una valoración clínica individualizada. En pacientes de edad avanzada o debilitados se recomienda extremar la vigilancia, ya que la tolerabilidad puede modificarse y las consecuencias funcionales pueden ser más marcadas. Debe utilizarse la dosis eficaz más baja durante el menor tiempo posible y reevaluar periódicamente la necesidad de continuar el tratamiento.
+
+Lista tabulada de reacciones adversas
+Las reacciones adversas se presentan agrupadas por sistema de clasificación de órganos y por categoría de frecuencia.
+
+TRASTORNOS PSIQUIÁTRICOS
+frecuencia no conocida: Abuso, Agitación, Agresividad, Alteraciones del humor, Alucinación, Amnesia anterógrada, Ansiedad, Comportamiento inadecuado, Confusión, Dependencia, Depresión (puede desenmascarar una depresión existente), Derilio, Desorientación, Hiperactividad, Intranquilidad, Ira, Irritabilidad, Pesadillas, Psicosis, Pérdida de memoria, Sueños anormales, Síndrome de abstinencia, Trastornos de la libido.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+frecuencia no conocida: Angioedema, Hipersensibilidad, Shock anafiláctico.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+frecuencia no conocida: Ataxia, Cefalea, Mareos, Reducción del estado de alerta, Somnolencia.
+
+LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS
+frecuencia no conocida: Caídas, Fracturas.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+frecuencia no conocida: Debilidad muscular.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+frecuencia no conocida: Depresión respiratoria.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+frecuencia no conocida: Diplopia.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+frecuencia no conocida: Estreñimiento, Náuseas, Vómitos.
+
+TRASTORNOS DEL SISTEMA GENERAL
+frecuencia no conocida: Fatiga.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+frecuencia no conocida: Insuficiencia cardiaca, Parada cardiaca.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+frecuencia no conocida: Prurito, Rash cutáneo, Urticaria.
+
+TRASTORNOS DEL SISTEMA EXCRETOR
+frecuencia no conocida: Retención urinaria.
+
+Descripción de reacciones adversas seleccionadas
+La intensidad de los acontecimientos puede variar entre pacientes y no siempre guarda una relación lineal con la exposición. Ante la aparición de manifestaciones clínicamente relevantes, debe considerarse la reducción de la dosis o la interrupción del tratamiento, de acuerdo con el criterio médico y la situación del paciente.
+
+En algunos casos pueden producirse respuestas conductuales no previstas. Si se observan cambios importantes del comportamiento, debe revisarse la indicación y valorar la retirada del medicamento. La finalización del tratamiento debe realizarse de forma gradual cuando proceda, especialmente tras periodos de uso continuado.
+
+La notificación de sospechas de reacciones adversas tras la autorización del medicamento es importante. Permite una supervisión continuada de la relación beneficio-riesgo y facilita la identificación de patrones de tolerabilidad en la práctica clínica habitual.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En la clasificación por sistemas y órganos, dentro de TRASTORNOS PSIQUIÁTRICOS, se han notificado Trastornos de la libido asociados al uso de BROMAZEPAM con frecuencia no conocida. Este efecto puede estar relacionado con la acción central del fármaco y debe valorarse en el contexto clínico del paciente, especialmente durante tratamientos continuados. Se recomienda informar al paciente para que comunique cualquier cambio persistente y reconsiderar la necesidad de continuar el tratamiento si la alteración resulta clínicamente relevante. La evaluación periódica de la respuesta puede ayudar a confirmar la relación temporal.
+
+-- Caso 2 --
+Dentro del sistema de clasificación de órganos Trastornos psiquiátricos, se ha identificado la reacción adversa sueños anormales asociada al uso de BROMAZEPAM. La frecuencia se considera frecuencia no conocida, ya que no puede estimarse a partir de los datos disponibles. La aparición de esta manifestación puede estar relacionada con la actividad central del principio activo y con cambios en la arquitectura del sueño. Se recomienda valorar la evolución clínica, la temporalidad con el tratamiento y la necesidad de ajustar la pauta, especialmente si la manifestación resulta persistente o clínicamente relevante.
+
+-- Caso 3 --
+En el sistema LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS se han notificado Fracturas con BROMAZEPAM, con frecuencia no conocida. Este acontecimiento debe valorarse en el contexto del efecto del tratamiento sobre la coordinación, el tono postural y el estado de alerta, especialmente en pacientes de edad avanzada o con factores de riesgo previos. Se recomienda revisar periódicamente la necesidad de continuar el tratamiento y adoptar medidas de vigilancia clínica adecuadas durante el uso prolongado.

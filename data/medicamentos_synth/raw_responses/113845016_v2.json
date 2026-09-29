@@ -1,0 +1,3349 @@
+{
+  "codigo": "113845016",
+  "variante": 2,
+  "codigo_variant": "113845016_v2",
+  "medicamento": "IMATINIB ACCORD 100 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG",
+  "model": "gpt-5.5",
+  "style_variant_idx": 1,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil descrito para IMATINIB MESILATO es coherente con la experiencia acumulada con imatinib en pacientes tratados de forma continuada. La mayoría de los acontecimientos se comunicaron durante los primeros meses y fueron manejables con medidas de soporte, ajuste posológico o interrupción temporal. La evaluación debe considerar el estado basal del paciente, el tratamiento concomitante y la enfermedad subyacente. La relación temporal y la reversibilidad ayudan a orientar la atribución clínica. La lista siguiente utiliza la terminología MedDRA y mantiene las denominaciones notificadas.\n\nLista tabulada de reacciones adversas\nCategorías empleadas, en este orden cuando proceda: muy frecuentes; frecuentes; poco frecuentes; no frecuente; frecuencia no conocida. Los tramos sin datos se omiten.\n\nTRASTORNOS DE PIEL Y TEJIDOS: Dermatitis/eccema/erupción, Edema periorbital; Alopecia, Edema facial, Eritema, Prurito (picor), Reacción de fotosensibilidad, Sequedad de la piel, Sudoración nocturna; Aumento de la sudoración, Aumento de la tendencia a tener moratones, Contusión, Dermatitis exfoliativa, Equimosis, Erupciones bullosas, Erupción pustular, Foliculitis, Hiperpigmentación de la piel, Hipopigmentación de la piel, Hipotricosis, Onicoclasis, Petequias, Psoriasis, Púrpura, Urticaria; Decoloración de las uñas, Dermatosis neutrofílica febril aguda (Síndrome de Sweet), Edema angioneurótico, Erupción vesicular, Exantema pustuloso generalizado agudo (AGEP), Vasculitis leucocitoclástica, eritema multiforme, síndrome de Stevens- Johnson; Erupción por medicamentos con eosinofilia y síntomas sistémicos (DRESS), Liquen plano, Necrolisis epidérmica tóxica, Pseudoporfiria, Queratosis liquenoide, Síndrome de eritrodisestesia palmoplantar.\n\nTRASTORNOS DEL SISTEMA NERVIOSO: Cefalea; Mareo, Parestesia; Alteración de la memoria, Ciática, Hemorragia cerebral, Migraña, Neuropatía periférica, Somnolencia, Síncope, Síndrome de piernas inquietas, Temblor; Aumento de la presión intracraneal, Convulsiones, Neuritis óptica; Edema cerebral.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS: Alteraciones del gusto, Aumento del lagrimeo, Conjuntivitis, Edema palpebral, Hemorragia conjuntival, Hipoestesia, Ojo seco, Visión borrosa; Blefaritis, Dolor ocular, Edema macular, Edema orbital, Hemorragia escleral, Hemorragia retiniana, Irritación ocular, Pérdida de la audición, Tinnitus, Vértigo; Catarata, Glaucoma, Papiledema; Hemorragia vítrea.\n\nTRASTORNOS DEL SISTEMA GENERAL: Fatiga, Retención de líquidos y edema; Anasarca, Debilidad, Escalofríos, Pirexia, Rigidez; Dolor en el pecho, Malestar.\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS: Anemia, Neutropenia, Trombocitopenia; Neutropenia febril, Pancitopenia; Depresión de la médula ósea, Eosinofilia, Linfopenia, Trombocitemia; Anemia hemolítica, Microangiopatía trombótica.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR: Hemorragia, Sofocos; Edema pulmonar, Enfriamiento periférico, Fenómeno de Raynaud, Hematoma subdural, Hematomas, Hipertensión, Hipotensión, Insuficiencia cardíaca congestiva, Palpitaciones, Taquicardia; Angina de pecho, Arritmia, Derrame pericárdico, Fibrilación auricular, Infarto de miocardio, Paro cardíaco, Tamponamiento cardíaco; Pericarditis, Trombosis/embolismo.\n\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN: Aumento de peso; Anorexia, Pérdida de peso; Aumento de la creatinfosfoquinasa sérica, Aumento de la creatinina sérica, Aumento de la fosfatasa alcalina sérica, Aumento de la lactatodeshidrogenasa sérica, Aumento del apetito, Deshidratación, Disminución del apetito, Gota, Hipercalcemia, Hiperglucemia, Hiperuricemia, Hipocalemia, Hipofosfatemia, Hiponatremia; Aumento de la amilasa sérica, Hipercalemia, Hipomagnesemia.\n\nTRASTORNOS PSIQUIÁTRICOS: Insomnio; Ansiedad, Depresión, Disminución de la líbido; Confusión.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO: Dolor musculoesquelético incluyendo mialgia, artralgia y dolor óseo, Espasmos y calambres musculares; Hinchazón de articulaciones; Rigidez de articulaciones y músculos; Artritis, Debilidad muscular, Rabdomiolisis/miopatía; Necrosis avascular/necrosis de cadera, Retraso en el crecimiento en niños y adolescentes.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO: Diarrea, Dispepsia, Dolor abdominal, Nauseas, Vómitos; Distensión abdominal, Estreñimiento, Flatulencia, Gastritis, Reflujo gastroesofágico, Sequedad de boca; Ascitis, Disfagia, Eructación, Esofagitis, Estomatitis, Hematemesis, Hemorragia gastrointestinal, Melena, Pancreatitis, Queilitis, Ulceración de la boca, Úlcera gástrica; Colitis, Enfermedad inflamatoria intestinal, Íleo; Diverticulitis, Ectasia vascular antral gástrica (EVAG), Obstrucción ilíaca/intestinal, Perforación gastrointestinal.\n\nTRASTORNOS DEL SISTEMA HEPATOBILIAR: Aumento de enzimas hepáticas; Hepatitis, Hiperbilirrubinemia, Ictericia; Insuficiencia hepática, Necrosis hepática.\n\nTRASTORNOS DEL SISTEMA EXCRETOR: Aumento de frecuencia urinaria, Dolor renal, Hematuria, Insuficiencia renal aguda; Insuficiencia renal crónica.\n\nTRASTORNOS DEL SISTEMA REPRODUCTOR: Aumento del tamaño de las mamas, Disfunción eréctil, Disfunción sexual, Dolor en los pezones, Edema de escroto, Ginecomastia, Menorragia, Menstruación irregular; Cuerpo lúteo hemorrágico/quiste de ovario hemorrágico.\n\nINFECCIONES E INFESTACIONES: Celulitis, Gastroenteritis, Herpes simplex, Herpes zoster, Infección del tracto respiratorio superior, Infección del tracto urinario, Influenza, Nasofaringitis, Neumonía, Sepsis, Sinusitis; Infección fúngica; Reactivación del virus de la Hepatitis B.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO: Disnea, Epistaxis, Tos; Derrame pleural, Dolor faringolaríngeo, Faringitis; Dolor pleural, Fibrosis pulmonar, Hemorragia pulmonar, Hipertensión pulmonar; Enfermedad pulmonar intersticial, Insuficiencia respiratoria aguda.\n\nNEOPLASIAS BENIGNAS, MALIGNAS Y NO ESPECIFICADAS: Síndrome de lisis tumoral; Hemorragia tumoral/necrosis tumoral.\n\nTRASTORNOS DEL SISTEMA LINFÁTICO: Linfoadenopatía.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO: Shock anafiláctico.\n\nDescripción de reacciones adversas seleccionadas\nEn la práctica clínica, la valoración debe realizarse de forma individual y periódica. Cuando los acontecimientos sean persistentes, intensos o se asocien a deterioro funcional, se recomienda revisar la pauta y los factores predisponentes. La notificación espontánea contribuye a caracterizar mejor el balance de seguridad en poblaciones menos representadas en los estudios iniciales.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nDentro del sistema TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS, se ha descrito Ojo seco como reacción adversa con frecuencia frecuentes durante el tratamiento con IMATINIB MESILATO (imatinib). Esta manifestación puede relacionarse con cambios en la superficie ocular y suele requerir valoración clínica según la intensidad de los síntomas.\n\nLista tabulada:\n- Ojo seco: frecuentes.\n\nSe recomienda considerar medidas de soporte ocular y seguimiento si la molestia persiste o interfiere con la actividad habitual, manteniendo la evaluación individual del beneficio y el riesgo.\n\n-- Caso 2 --\nDentro de TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO, durante el tratamiento con imatinib mesilato (imatinib) se han notificado como muy frecuentes:\n- Espasmos y calambres musculares.\n\nEstos episodios pueden aparecer en distintos momentos del tratamiento y suelen requerir valoración clínica según la intensidad y la repercusión funcional. Se recomienda revisar de forma periódica la tolerabilidad, especialmente si los síntomas interfieren con la actividad diaria o persisten pese a medidas generales de manejo.\n\n-- Caso 3 --\nDentro de TRASTORNOS DEL SISTEMA RESPIRATORIO, se ha notificado Derrame pleural (líquido en la pleura) en pacientes tratados con IMATINIB MESILATO. En la tabla de reacciones adversas debe figurar como:\n- Derrame pleural: poco frecuentes.\n\nEste acontecimiento puede relacionarse con la retención de líquidos observada durante el tratamiento con imatinib. Se recomienda vigilancia clínica, especialmente en pacientes con antecedentes respiratorios o factores predisponentes, y valorar medidas de manejo según la intensidad y la evolución del cuadro.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "IMATINIB MESILATO",
+      "surface": "IMATINIB MESILATO",
+      "start": 81,
+      "end": 98
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "IMATINIB MESILATO",
+      "surface": "imatinib",
+      "start": 81,
+      "end": 89
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes",
+      "start": 742,
+      "end": 756
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 746,
+      "end": 756
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 770,
+      "end": 785
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 787,
+      "end": 799
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 801,
+      "end": 823
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 858,
+      "end": 886
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dermatitis/eccema/erupción",
+      "surface": "Dermatitis/eccema/erupción",
+      "start": 888,
+      "end": 914
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema periorbital",
+      "surface": "Edema periorbital",
+      "start": 916,
+      "end": 933
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alopecia",
+      "surface": "Alopecia",
+      "start": 935,
+      "end": 943
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema facial",
+      "surface": "Edema facial",
+      "start": 945,
+      "end": 957
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eritema",
+      "surface": "Eritema",
+      "start": 959,
+      "end": 966
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito",
+      "start": 968,
+      "end": 975
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "picor",
+      "start": 977,
+      "end": 982
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacción de fotosensibilidad",
+      "surface": "Reacción de fotosensibilidad",
+      "start": 985,
+      "end": 1013
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad de la piel",
+      "surface": "Sequedad de la piel",
+      "start": 1015,
+      "end": 1034
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sudoración nocturna",
+      "surface": "Sudoración nocturna",
+      "start": 1036,
+      "end": 1055
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la sudoración",
+      "surface": "Aumento de la sudoración",
+      "start": 1057,
+      "end": 1081
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la tendencia a tener moratones",
+      "surface": "Aumento de la tendencia a tener moratones",
+      "start": 1083,
+      "end": 1124
+    },
+    {
+      "type": "REACT",
+      "canonical": "Contusión",
+      "surface": "Contusión",
+      "start": 1126,
+      "end": 1135
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dermatitis exfoliativa",
+      "surface": "Dermatitis exfoliativa",
+      "start": 1137,
+      "end": 1159
+    },
+    {
+      "type": "REACT",
+      "canonical": "Equimosis",
+      "surface": "Equimosis",
+      "start": 1161,
+      "end": 1170
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupciones bullosas",
+      "surface": "Erupciones bullosas",
+      "start": 1172,
+      "end": 1191
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción pustular",
+      "surface": "Erupción pustular",
+      "start": 1193,
+      "end": 1210
+    },
+    {
+      "type": "REACT",
+      "canonical": "Foliculitis",
+      "surface": "Foliculitis",
+      "start": 1212,
+      "end": 1223
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperpigmentación de la piel",
+      "surface": "Hiperpigmentación de la piel",
+      "start": 1225,
+      "end": 1253
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipopigmentación de la piel",
+      "surface": "Hipopigmentación de la piel",
+      "start": 1255,
+      "end": 1282
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotricosis",
+      "surface": "Hipotricosis",
+      "start": 1284,
+      "end": 1296
+    },
+    {
+      "type": "REACT",
+      "canonical": "Onicoclasis",
+      "surface": "Onicoclasis",
+      "start": 1298,
+      "end": 1309
+    },
+    {
+      "type": "REACT",
+      "canonical": "Petequias",
+      "surface": "Petequias",
+      "start": 1311,
+      "end": 1320
+    },
+    {
+      "type": "REACT",
+      "canonical": "Psoriasis",
+      "surface": "Psoriasis",
+      "start": 1322,
+      "end": 1331
+    },
+    {
+      "type": "REACT",
+      "canonical": "Púrpura",
+      "surface": "Púrpura",
+      "start": 1333,
+      "end": 1340
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria",
+      "start": 1342,
+      "end": 1351
+    },
+    {
+      "type": "REACT",
+      "canonical": "Decoloración de las uñas",
+      "surface": "Decoloración de las uñas",
+      "start": 1353,
+      "end": 1377
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dermatosis neutrofílica febril aguda (Síndrome de Sweet)",
+      "surface": "Dermatosis neutrofílica febril aguda (Síndrome de Sweet)",
+      "start": 1379,
+      "end": 1435
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema angioneurótico",
+      "surface": "Edema angioneurótico",
+      "start": 1437,
+      "end": 1457
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción vesicular",
+      "surface": "Erupción vesicular",
+      "start": 1459,
+      "end": 1477
+    },
+    {
+      "type": "REACT",
+      "canonical": "Exantema pustuloso generalizado agudo (AGEP)",
+      "surface": "Exantema pustuloso generalizado agudo (AGEP)",
+      "start": 1479,
+      "end": 1523
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vasculitis leucocitoclástica",
+      "surface": "Vasculitis leucocitoclástica",
+      "start": 1525,
+      "end": 1553
+    },
+    {
+      "type": "REACT",
+      "canonical": "eritema multiforme",
+      "surface": "eritema multiforme",
+      "start": 1555,
+      "end": 1573
+    },
+    {
+      "type": "REACT",
+      "canonical": "síndrome de Stevens- Johnson",
+      "surface": "síndrome de Stevens- Johnson",
+      "start": 1575,
+      "end": 1603
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción por medicamentos con eosinofilia y síntomas sistémicos (DRESS)",
+      "surface": "Erupción por medicamentos con eosinofilia y síntomas sistémicos (DRESS)",
+      "start": 1605,
+      "end": 1676
+    },
+    {
+      "type": "REACT",
+      "canonical": "Liquen plano",
+      "surface": "Liquen plano",
+      "start": 1678,
+      "end": 1690
+    },
+    {
+      "type": "REACT",
+      "canonical": "Necrolisis epidérmica tóxica",
+      "surface": "Necrolisis epidérmica tóxica",
+      "start": 1692,
+      "end": 1720
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pseudoporfiria",
+      "surface": "Pseudoporfiria",
+      "start": 1722,
+      "end": 1736
+    },
+    {
+      "type": "REACT",
+      "canonical": "Queratosis liquenoide",
+      "surface": "Queratosis liquenoide",
+      "start": 1738,
+      "end": 1759
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de eritrodisestesia palmoplantar",
+      "surface": "Síndrome de eritrodisestesia palmoplantar",
+      "start": 1761,
+      "end": 1802
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1805,
+      "end": 1836
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea",
+      "start": 1838,
+      "end": 1845
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareo",
+      "surface": "Mareo",
+      "start": 1847,
+      "end": 1852
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parestesia",
+      "surface": "Parestesia",
+      "start": 1854,
+      "end": 1864
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteración de la memoria",
+      "surface": "Alteración de la memoria",
+      "start": 1866,
+      "end": 1890
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ciática",
+      "surface": "Ciática",
+      "start": 1892,
+      "end": 1899
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia cerebral",
+      "surface": "Hemorragia cerebral",
+      "start": 1901,
+      "end": 1920
+    },
+    {
+      "type": "REACT",
+      "canonical": "Migraña",
+      "surface": "Migraña",
+      "start": 1922,
+      "end": 1929
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neuropatía periférica",
+      "surface": "Neuropatía periférica",
+      "start": 1931,
+      "end": 1952
+    },
+    {
+      "type": "REACT",
+      "canonical": "Somnolencia",
+      "surface": "Somnolencia",
+      "start": 1954,
+      "end": 1965
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síncope",
+      "surface": "Síncope",
+      "start": 1967,
+      "end": 1974
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de piernas inquietas",
+      "surface": "Síndrome de piernas inquietas",
+      "start": 1976,
+      "end": 2005
+    },
+    {
+      "type": "REACT",
+      "canonical": "Temblor",
+      "surface": "Temblor",
+      "start": 2007,
+      "end": 2014
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la presión intracraneal",
+      "surface": "Aumento de la presión intracraneal",
+      "start": 2016,
+      "end": 2050
+    },
+    {
+      "type": "REACT",
+      "canonical": "Convulsiones",
+      "surface": "Convulsiones",
+      "start": 2052,
+      "end": 2064
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neuritis óptica",
+      "surface": "Neuritis óptica",
+      "start": 2066,
+      "end": 2081
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema cerebral",
+      "surface": "Edema cerebral",
+      "start": 2083,
+      "end": 2097
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 2100,
+      "end": 2137
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones del gusto",
+      "surface": "Alteraciones del gusto",
+      "start": 2139,
+      "end": 2161
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento del lagrimeo",
+      "surface": "Aumento del lagrimeo",
+      "start": 2163,
+      "end": 2183
+    },
+    {
+      "type": "REACT",
+      "canonical": "Conjuntivitis",
+      "surface": "Conjuntivitis",
+      "start": 2185,
+      "end": 2198
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema palpebral",
+      "surface": "Edema palpebral",
+      "start": 2200,
+      "end": 2215
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia conjuntival",
+      "surface": "Hemorragia conjuntival",
+      "start": 2217,
+      "end": 2239
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipoestesia",
+      "surface": "Hipoestesia",
+      "start": 2241,
+      "end": 2252
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ojo seco",
+      "surface": "Ojo seco",
+      "start": 2254,
+      "end": 2262
+    },
+    {
+      "type": "REACT",
+      "canonical": "Visión borrosa",
+      "surface": "Visión borrosa",
+      "start": 2264,
+      "end": 2278
+    },
+    {
+      "type": "REACT",
+      "canonical": "Blefaritis",
+      "surface": "Blefaritis",
+      "start": 2280,
+      "end": 2290
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor ocular",
+      "surface": "Dolor ocular",
+      "start": 2292,
+      "end": 2304
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema macular",
+      "surface": "Edema macular",
+      "start": 2306,
+      "end": 2319
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema orbital",
+      "surface": "Edema orbital",
+      "start": 2321,
+      "end": 2334
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia escleral",
+      "surface": "Hemorragia escleral",
+      "start": 2336,
+      "end": 2355
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia retiniana",
+      "surface": "Hemorragia retiniana",
+      "start": 2357,
+      "end": 2377
+    },
+    {
+      "type": "REACT",
+      "canonical": "Irritación ocular",
+      "surface": "Irritación ocular",
+      "start": 2379,
+      "end": 2396
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pérdida de la audición",
+      "surface": "Pérdida de la audición",
+      "start": 2398,
+      "end": 2420
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tinnitus",
+      "surface": "Tinnitus",
+      "start": 2422,
+      "end": 2430
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vértigo",
+      "surface": "Vértigo",
+      "start": 2432,
+      "end": 2439
+    },
+    {
+      "type": "REACT",
+      "canonical": "Catarata",
+      "surface": "Catarata",
+      "start": 2441,
+      "end": 2449
+    },
+    {
+      "type": "REACT",
+      "canonical": "Glaucoma",
+      "surface": "Glaucoma",
+      "start": 2451,
+      "end": 2459
+    },
+    {
+      "type": "REACT",
+      "canonical": "Papiledema",
+      "surface": "Papiledema",
+      "start": 2461,
+      "end": 2471
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia vítrea",
+      "surface": "Hemorragia vítrea",
+      "start": 2473,
+      "end": 2490
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 2493,
+      "end": 2523
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "Fatiga",
+      "start": 2525,
+      "end": 2531
+    },
+    {
+      "type": "REACT",
+      "canonical": "Retención de líquidos y edema",
+      "surface": "Retención de líquidos y edema",
+      "start": 2533,
+      "end": 2562
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anasarca",
+      "surface": "Anasarca",
+      "start": 2564,
+      "end": 2572
+    },
+    {
+      "type": "REACT",
+      "canonical": "Debilidad",
+      "surface": "Debilidad",
+      "start": 2574,
+      "end": 2583
+    },
+    {
+      "type": "REACT",
+      "canonical": "Escalofríos",
+      "surface": "Escalofríos",
+      "start": 2585,
+      "end": 2596
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pirexia",
+      "surface": "Pirexia",
+      "start": 2598,
+      "end": 2605
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rigidez",
+      "surface": "Rigidez",
+      "start": 2607,
+      "end": 2614
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor en el pecho",
+      "surface": "Dolor en el pecho",
+      "start": 2616,
+      "end": 2633
+    },
+    {
+      "type": "REACT",
+      "canonical": "Malestar",
+      "surface": "Malestar",
+      "start": 2635,
+      "end": 2643
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 2646,
+      "end": 2695
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia",
+      "surface": "Anemia",
+      "start": 2697,
+      "end": 2703
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neutropenia",
+      "surface": "Neutropenia",
+      "start": 2705,
+      "end": 2716
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombocitopenia",
+      "surface": "Trombocitopenia",
+      "start": 2718,
+      "end": 2733
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neutropenia febril",
+      "surface": "Neutropenia febril",
+      "start": 2735,
+      "end": 2753
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pancitopenia",
+      "surface": "Pancitopenia",
+      "start": 2755,
+      "end": 2767
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión de la médula ósea",
+      "surface": "Depresión de la médula ósea",
+      "start": 2769,
+      "end": 2796
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eosinofilia",
+      "surface": "Eosinofilia",
+      "start": 1635,
+      "end": 1646
+    },
+    {
+      "type": "REACT",
+      "canonical": "Linfopenia",
+      "surface": "Linfopenia",
+      "start": 2811,
+      "end": 2821
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombocitemia",
+      "surface": "Trombocitemia",
+      "start": 2823,
+      "end": 2836
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia hemolítica",
+      "surface": "Anemia hemolítica",
+      "start": 2838,
+      "end": 2855
+    },
+    {
+      "type": "REACT",
+      "canonical": "Microangiopatía trombótica",
+      "surface": "Microangiopatía trombótica",
+      "start": 2857,
+      "end": 2883
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 2886,
+      "end": 2923
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia",
+      "surface": "Hemorragia",
+      "start": 1901,
+      "end": 1911
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sofocos",
+      "surface": "Sofocos",
+      "start": 2937,
+      "end": 2944
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema pulmonar",
+      "surface": "Edema pulmonar",
+      "start": 2946,
+      "end": 2960
+    },
+    {
+      "type": "REACT",
+      "canonical": "Enfriamiento periférico",
+      "surface": "Enfriamiento periférico",
+      "start": 2962,
+      "end": 2985
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fenómeno de Raynaud",
+      "surface": "Fenómeno de Raynaud",
+      "start": 2987,
+      "end": 3006
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hematoma subdural",
+      "surface": "Hematoma subdural",
+      "start": 3008,
+      "end": 3025
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hematomas",
+      "surface": "Hematomas",
+      "start": 3027,
+      "end": 3036
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertensión",
+      "surface": "Hipertensión",
+      "start": 3038,
+      "end": 3050
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión",
+      "start": 3052,
+      "end": 3063
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia cardíaca congestiva",
+      "surface": "Insuficiencia cardíaca congestiva",
+      "start": 3065,
+      "end": 3098
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones",
+      "start": 3100,
+      "end": 3113
+    },
+    {
+      "type": "REACT",
+      "canonical": "Taquicardia",
+      "surface": "Taquicardia",
+      "start": 3115,
+      "end": 3126
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angina de pecho",
+      "surface": "Angina de pecho",
+      "start": 3128,
+      "end": 3143
+    },
+    {
+      "type": "REACT",
+      "canonical": "Arritmia",
+      "surface": "Arritmia",
+      "start": 3145,
+      "end": 3153
+    },
+    {
+      "type": "REACT",
+      "canonical": "Derrame pericárdico",
+      "surface": "Derrame pericárdico",
+      "start": 3155,
+      "end": 3174
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fibrilación auricular",
+      "surface": "Fibrilación auricular",
+      "start": 3176,
+      "end": 3197
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infarto de miocardio",
+      "surface": "Infarto de miocardio",
+      "start": 3199,
+      "end": 3219
+    },
+    {
+      "type": "REACT",
+      "canonical": "Paro cardíaco",
+      "surface": "Paro cardíaco",
+      "start": 3221,
+      "end": 3234
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tamponamiento cardíaco",
+      "surface": "Tamponamiento cardíaco",
+      "start": 3236,
+      "end": 3258
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pericarditis",
+      "surface": "Pericarditis",
+      "start": 3260,
+      "end": 3272
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombosis/embolismo",
+      "surface": "Trombosis/embolismo",
+      "start": 3274,
+      "end": 3293
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "start": 3296,
+      "end": 3337
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de peso",
+      "surface": "Aumento de peso",
+      "start": 3339,
+      "end": 3354
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anorexia",
+      "surface": "Anorexia",
+      "start": 3356,
+      "end": 3364
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pérdida de peso",
+      "surface": "Pérdida de peso",
+      "start": 3366,
+      "end": 3381
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la creatinfosfoquinasa sérica",
+      "surface": "Aumento de la creatinfosfoquinasa sérica",
+      "start": 3383,
+      "end": 3423
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la creatinina sérica",
+      "surface": "Aumento de la creatinina sérica",
+      "start": 3425,
+      "end": 3456
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la fosfatasa alcalina sérica",
+      "surface": "Aumento de la fosfatasa alcalina sérica",
+      "start": 3458,
+      "end": 3497
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la lactatodeshidrogenasa sérica",
+      "surface": "Aumento de la lactatodeshidrogenasa sérica",
+      "start": 3499,
+      "end": 3541
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento del apetito",
+      "surface": "Aumento del apetito",
+      "start": 3543,
+      "end": 3562
+    },
+    {
+      "type": "REACT",
+      "canonical": "Deshidratación",
+      "surface": "Deshidratación",
+      "start": 3564,
+      "end": 3578
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución del apetito",
+      "surface": "Disminución del apetito",
+      "start": 3580,
+      "end": 3603
+    },
+    {
+      "type": "REACT",
+      "canonical": "Gota",
+      "surface": "Gota",
+      "start": 3605,
+      "end": 3609
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipercalcemia",
+      "surface": "Hipercalcemia",
+      "start": 3611,
+      "end": 3624
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperglucemia",
+      "surface": "Hiperglucemia",
+      "start": 3626,
+      "end": 3639
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperuricemia",
+      "surface": "Hiperuricemia",
+      "start": 3641,
+      "end": 3654
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipocalemia",
+      "surface": "Hipocalemia",
+      "start": 3656,
+      "end": 3667
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipofosfatemia",
+      "surface": "Hipofosfatemia",
+      "start": 3669,
+      "end": 3683
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiponatremia",
+      "surface": "Hiponatremia",
+      "start": 3685,
+      "end": 3697
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la amilasa sérica",
+      "surface": "Aumento de la amilasa sérica",
+      "start": 3699,
+      "end": 3727
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipercalemia",
+      "surface": "Hipercalemia",
+      "start": 3729,
+      "end": 3741
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipomagnesemia",
+      "surface": "Hipomagnesemia",
+      "start": 3743,
+      "end": 3757
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 3760,
+      "end": 3784
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insomnio",
+      "surface": "Insomnio",
+      "start": 3786,
+      "end": 3794
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ansiedad",
+      "surface": "Ansiedad",
+      "start": 3796,
+      "end": 3804
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión",
+      "surface": "Depresión",
+      "start": 2769,
+      "end": 2778
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de la líbido",
+      "surface": "Disminución de la líbido",
+      "start": 3817,
+      "end": 3841
+    },
+    {
+      "type": "REACT",
+      "canonical": "Confusión",
+      "surface": "Confusión",
+      "start": 3843,
+      "end": 3852
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 3855,
+      "end": 3897
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor musculoesquelético incluyendo mialgia, artralgia y dolor óseo",
+      "surface": "Dolor musculoesquelético incluyendo mialgia, artralgia y dolor óseo",
+      "start": 3899,
+      "end": 3966
+    },
+    {
+      "type": "REACT",
+      "canonical": "Espasmos y calambres musculares",
+      "surface": "Espasmos y calambres musculares",
+      "start": 3968,
+      "end": 3999
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hinchazón de articulaciones",
+      "surface": "Hinchazón de articulaciones",
+      "start": 4001,
+      "end": 4028
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rigidez de articulaciones y músculos",
+      "surface": "Rigidez de articulaciones y músculos",
+      "start": 4030,
+      "end": 4066
+    },
+    {
+      "type": "REACT",
+      "canonical": "Artritis",
+      "surface": "Artritis",
+      "start": 4068,
+      "end": 4076
+    },
+    {
+      "type": "REACT",
+      "canonical": "Debilidad muscular",
+      "surface": "Debilidad muscular",
+      "start": 4078,
+      "end": 4096
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rabdomiolisis/miopatía",
+      "surface": "Rabdomiolisis/miopatía",
+      "start": 4098,
+      "end": 4120
+    },
+    {
+      "type": "REACT",
+      "canonical": "Necrosis avascular/necrosis de cadera",
+      "surface": "Necrosis avascular/necrosis de cadera",
+      "start": 4122,
+      "end": 4159
+    },
+    {
+      "type": "REACT",
+      "canonical": "Retraso en el crecimiento en niños y adolescentes",
+      "surface": "Retraso en el crecimiento en niños y adolescentes",
+      "start": 4161,
+      "end": 4210
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 4213,
+      "end": 4245
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea",
+      "start": 4247,
+      "end": 4254
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dispepsia",
+      "surface": "Dispepsia",
+      "start": 4256,
+      "end": 4265
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor abdominal",
+      "surface": "Dolor abdominal",
+      "start": 4267,
+      "end": 4282
+    },
+    {
+      "type": "REACT",
+      "canonical": "Nauseas",
+      "surface": "Nauseas",
+      "start": 4284,
+      "end": 4291
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos",
+      "start": 4293,
+      "end": 4300
+    },
+    {
+      "type": "REACT",
+      "canonical": "Distensión abdominal",
+      "surface": "Distensión abdominal",
+      "start": 4302,
+      "end": 4322
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento",
+      "start": 4324,
+      "end": 4337
+    },
+    {
+      "type": "REACT",
+      "canonical": "Flatulencia",
+      "surface": "Flatulencia",
+      "start": 4339,
+      "end": 4350
+    },
+    {
+      "type": "REACT",
+      "canonical": "Gastritis",
+      "surface": "Gastritis",
+      "start": 4352,
+      "end": 4361
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reflujo gastroesofágico",
+      "surface": "Reflujo gastroesofágico",
+      "start": 4363,
+      "end": 4386
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad de boca",
+      "surface": "Sequedad de boca",
+      "start": 4388,
+      "end": 4404
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ascitis",
+      "surface": "Ascitis",
+      "start": 4406,
+      "end": 4413
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disfagia",
+      "surface": "Disfagia",
+      "start": 4415,
+      "end": 4423
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eructación",
+      "surface": "Eructación",
+      "start": 4425,
+      "end": 4435
+    },
+    {
+      "type": "REACT",
+      "canonical": "Esofagitis",
+      "surface": "Esofagitis",
+      "start": 4437,
+      "end": 4447
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estomatitis",
+      "surface": "Estomatitis",
+      "start": 4449,
+      "end": 4460
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hematemesis",
+      "surface": "Hematemesis",
+      "start": 4462,
+      "end": 4473
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia gastrointestinal",
+      "surface": "Hemorragia gastrointestinal",
+      "start": 4475,
+      "end": 4502
+    },
+    {
+      "type": "REACT",
+      "canonical": "Melena",
+      "surface": "Melena",
+      "start": 4504,
+      "end": 4510
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pancreatitis",
+      "surface": "Pancreatitis",
+      "start": 4512,
+      "end": 4524
+    },
+    {
+      "type": "REACT",
+      "canonical": "Queilitis",
+      "surface": "Queilitis",
+      "start": 4526,
+      "end": 4535
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ulceración de la boca",
+      "surface": "Ulceración de la boca",
+      "start": 4537,
+      "end": 4558
+    },
+    {
+      "type": "REACT",
+      "canonical": "Úlcera gástrica",
+      "surface": "Úlcera gástrica",
+      "start": 4560,
+      "end": 4575
+    },
+    {
+      "type": "REACT",
+      "canonical": "Colitis",
+      "surface": "Colitis",
+      "start": 4577,
+      "end": 4584
+    },
+    {
+      "type": "REACT",
+      "canonical": "Enfermedad inflamatoria intestinal",
+      "surface": "Enfermedad inflamatoria intestinal",
+      "start": 4586,
+      "end": 4620
+    },
+    {
+      "type": "REACT",
+      "canonical": "Íleo",
+      "surface": "Íleo",
+      "start": 4622,
+      "end": 4626
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diverticulitis",
+      "surface": "Diverticulitis",
+      "start": 4628,
+      "end": 4642
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ectasia vascular antral gástrica (EVAG)",
+      "surface": "Ectasia vascular antral gástrica (EVAG)",
+      "start": 4644,
+      "end": 4683
+    },
+    {
+      "type": "REACT",
+      "canonical": "Obstrucción ilíaca/intestinal",
+      "surface": "Obstrucción ilíaca/intestinal",
+      "start": 4685,
+      "end": 4714
+    },
+    {
+      "type": "REACT",
+      "canonical": "Perforación gastrointestinal",
+      "surface": "Perforación gastrointestinal",
+      "start": 4716,
+      "end": 4744
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "surface": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "start": 4747,
+      "end": 4782
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de enzimas hepáticas",
+      "surface": "Aumento de enzimas hepáticas",
+      "start": 4784,
+      "end": 4812
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hepatitis",
+      "surface": "Hepatitis",
+      "start": 4814,
+      "end": 4823
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperbilirrubinemia",
+      "surface": "Hiperbilirrubinemia",
+      "start": 4825,
+      "end": 4844
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ictericia",
+      "surface": "Ictericia",
+      "start": 4846,
+      "end": 4855
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia hepática",
+      "surface": "Insuficiencia hepática",
+      "start": 4857,
+      "end": 4879
+    },
+    {
+      "type": "REACT",
+      "canonical": "Necrosis hepática",
+      "surface": "Necrosis hepática",
+      "start": 4881,
+      "end": 4898
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "start": 4901,
+      "end": 4932
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de frecuencia urinaria",
+      "surface": "Aumento de frecuencia urinaria",
+      "start": 4934,
+      "end": 4964
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor renal",
+      "surface": "Dolor renal",
+      "start": 4966,
+      "end": 4977
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hematuria",
+      "surface": "Hematuria",
+      "start": 4979,
+      "end": 4988
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia renal aguda",
+      "surface": "Insuficiencia renal aguda",
+      "start": 4990,
+      "end": 5015
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia renal crónica",
+      "surface": "Insuficiencia renal crónica",
+      "start": 5017,
+      "end": 5044
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "start": 5047,
+      "end": 5081
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento del tamaño de las mamas",
+      "surface": "Aumento del tamaño de las mamas",
+      "start": 5083,
+      "end": 5114
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disfunción eréctil",
+      "surface": "Disfunción eréctil",
+      "start": 5116,
+      "end": 5134
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disfunción sexual",
+      "surface": "Disfunción sexual",
+      "start": 5136,
+      "end": 5153
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor en los pezones",
+      "surface": "Dolor en los pezones",
+      "start": 5155,
+      "end": 5175
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema de escroto",
+      "surface": "Edema de escroto",
+      "start": 5177,
+      "end": 5193
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ginecomastia",
+      "surface": "Ginecomastia",
+      "start": 5195,
+      "end": 5207
+    },
+    {
+      "type": "REACT",
+      "canonical": "Menorragia",
+      "surface": "Menorragia",
+      "start": 5209,
+      "end": 5219
+    },
+    {
+      "type": "REACT",
+      "canonical": "Menstruación irregular",
+      "surface": "Menstruación irregular",
+      "start": 5221,
+      "end": 5243
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cuerpo lúteo hemorrágico/quiste de ovario hemorrágico",
+      "surface": "Cuerpo lúteo hemorrágico/quiste de ovario hemorrágico",
+      "start": 5245,
+      "end": 5298
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "INFECCIONES E INFESTACIONES",
+      "start": 5301,
+      "end": 5328
+    },
+    {
+      "type": "REACT",
+      "canonical": "Celulitis",
+      "surface": "Celulitis",
+      "start": 5330,
+      "end": 5339
+    },
+    {
+      "type": "REACT",
+      "canonical": "Gastroenteritis",
+      "surface": "Gastroenteritis",
+      "start": 5341,
+      "end": 5356
+    },
+    {
+      "type": "REACT",
+      "canonical": "Herpes simplex",
+      "surface": "Herpes simplex",
+      "start": 5358,
+      "end": 5372
+    },
+    {
+      "type": "REACT",
+      "canonical": "Herpes zoster",
+      "surface": "Herpes zoster",
+      "start": 5374,
+      "end": 5387
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infección del tracto respiratorio superior",
+      "surface": "Infección del tracto respiratorio superior",
+      "start": 5389,
+      "end": 5431
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infección del tracto urinario",
+      "surface": "Infección del tracto urinario",
+      "start": 5433,
+      "end": 5462
+    },
+    {
+      "type": "REACT",
+      "canonical": "Influenza",
+      "surface": "Influenza",
+      "start": 5464,
+      "end": 5473
+    },
+    {
+      "type": "REACT",
+      "canonical": "Nasofaringitis",
+      "surface": "Nasofaringitis",
+      "start": 5475,
+      "end": 5489
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neumonía",
+      "surface": "Neumonía",
+      "start": 5491,
+      "end": 5499
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sepsis",
+      "surface": "Sepsis",
+      "start": 5501,
+      "end": 5507
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sinusitis",
+      "surface": "Sinusitis",
+      "start": 5509,
+      "end": 5518
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infección fúngica",
+      "surface": "Infección fúngica",
+      "start": 5520,
+      "end": 5537
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reactivación del virus de la Hepatitis B",
+      "surface": "Reactivación del virus de la Hepatitis B",
+      "start": 5539,
+      "end": 5579
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 5582,
+      "end": 5617
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disnea",
+      "surface": "Disnea",
+      "start": 5619,
+      "end": 5625
+    },
+    {
+      "type": "REACT",
+      "canonical": "Epistaxis",
+      "surface": "Epistaxis",
+      "start": 5627,
+      "end": 5636
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tos",
+      "surface": "Tos",
+      "start": 5638,
+      "end": 5641
+    },
+    {
+      "type": "REACT",
+      "canonical": "Derrame pleural",
+      "surface": "Derrame pleural",
+      "start": 5643,
+      "end": 5658
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor faringolaríngeo",
+      "surface": "Dolor faringolaríngeo",
+      "start": 5660,
+      "end": 5681
+    },
+    {
+      "type": "REACT",
+      "canonical": "Faringitis",
+      "surface": "Faringitis",
+      "start": 5683,
+      "end": 5693
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor pleural",
+      "surface": "Dolor pleural",
+      "start": 5695,
+      "end": 5708
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fibrosis pulmonar",
+      "surface": "Fibrosis pulmonar",
+      "start": 5710,
+      "end": 5727
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia pulmonar",
+      "surface": "Hemorragia pulmonar",
+      "start": 5729,
+      "end": 5748
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertensión pulmonar",
+      "surface": "Hipertensión pulmonar",
+      "start": 5750,
+      "end": 5771
+    },
+    {
+      "type": "REACT",
+      "canonical": "Enfermedad pulmonar intersticial",
+      "surface": "Enfermedad pulmonar intersticial",
+      "start": 5773,
+      "end": 5805
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia respiratoria aguda",
+      "surface": "Insuficiencia respiratoria aguda",
+      "start": 5807,
+      "end": 5839
+    },
+    {
+      "type": "SYS",
+      "canonical": "NEOPLASIAS BENIGNAS, MALIGNAS Y NO ESPECIFICADAS",
+      "surface": "NEOPLASIAS BENIGNAS, MALIGNAS Y NO ESPECIFICADAS",
+      "start": 5842,
+      "end": 5890
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de lisis tumoral",
+      "surface": "Síndrome de lisis tumoral",
+      "start": 5892,
+      "end": 5917
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia tumoral/necrosis tumoral",
+      "surface": "Hemorragia tumoral/necrosis tumoral",
+      "start": 5919,
+      "end": 5954
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA LINFÁTICO",
+      "surface": "TRASTORNOS DEL SISTEMA LINFÁTICO",
+      "start": 5957,
+      "end": 5989
+    },
+    {
+      "type": "REACT",
+      "canonical": "Linfoadenopatía",
+      "surface": "Linfoadenopatía",
+      "start": 5991,
+      "end": 6006
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 6009,
+      "end": 6044
+    },
+    {
+      "type": "REACT",
+      "canonical": "Shock anafiláctico",
+      "surface": "Shock anafiláctico",
+      "start": 6046,
+      "end": 6064
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "IMATINIB MESILATO",
+      "surface": "imatinib mesilato",
+      "start": 81,
+      "end": 98
+    }
+  ],
+  "raw_long_doc_text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil descrito para IMATINIB MESILATO es coherente con la experiencia acumulada con imatinib en pacientes tratados de forma continuada. La mayoría de los acontecimientos se comunicaron durante los primeros meses y fueron manejables con medidas de soporte, ajuste posológico o interrupción temporal. La evaluación debe considerar el estado basal del paciente, el tratamiento concomitante y la enfermedad subyacente. La relación temporal y la reversibilidad ayudan a orientar la atribución clínica. La lista siguiente utiliza la terminología MedDRA y mantiene las denominaciones notificadas.\n\nLista tabulada de reacciones adversas\nCategorías empleadas, en este orden cuando proceda: muy frecuentes; frecuentes; poco frecuentes; no frecuente; frecuencia no conocida. Los tramos sin datos se omiten.\n\nTRASTORNOS DE PIEL Y TEJIDOS: Dermatitis/eccema/erupción, Edema periorbital; Alopecia, Edema facial, Eritema, Prurito (picor), Reacción de fotosensibilidad, Sequedad de la piel, Sudoración nocturna; Aumento de la sudoración, Aumento de la tendencia a tener moratones, Contusión, Dermatitis exfoliativa, Equimosis, Erupciones bullosas, Erupción pustular, Foliculitis, Hiperpigmentación de la piel, Hipopigmentación de la piel, Hipotricosis, Onicoclasis, Petequias, Psoriasis, Púrpura, Urticaria; Decoloración de las uñas, Dermatosis neutrofílica febril aguda (Síndrome de Sweet), Edema angioneurótico, Erupción vesicular, Exantema pustuloso generalizado agudo (AGEP), Vasculitis leucocitoclástica, eritema multiforme, síndrome de Stevens- Johnson; Erupción por medicamentos con eosinofilia y síntomas sistémicos (DRESS), Liquen plano, Necrolisis epidérmica tóxica, Pseudoporfiria, Queratosis liquenoide, Síndrome de eritrodisestesia palmoplantar.\n\nTRASTORNOS DEL SISTEMA NERVIOSO: Cefalea; Mareo, Parestesia; Alteración de la memoria, Ciática, Hemorragia cerebral, Migraña, Neuropatía periférica, Somnolencia, Síncope, Síndrome de piernas inquietas, Temblor; Aumento de la presión intracraneal, Convulsiones, Neuritis óptica; Edema cerebral.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS: Alteraciones del gusto, Aumento del lagrimeo, Conjuntivitis, Edema palpebral, Hemorragia conjuntival, Hipoestesia, Ojo seco, Visión borrosa; Blefaritis, Dolor ocular, Edema macular, Edema orbital, Hemorragia escleral, Hemorragia retiniana, Irritación ocular, Pérdida de la audición, Tinnitus, Vértigo; Catarata, Glaucoma, Papiledema; Hemorragia vítrea.\n\nTRASTORNOS DEL SISTEMA GENERAL: Fatiga, Retención de líquidos y edema; Anasarca, Debilidad, Escalofríos, Pirexia, Rigidez; Dolor en el pecho, Malestar.\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS: Anemia, Neutropenia, Trombocitopenia; Neutropenia febril, Pancitopenia; Depresión de la médula ósea, Eosinofilia, Linfopenia, Trombocitemia; Anemia hemolítica, Microangiopatía trombótica.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR: Hemorragia, Sofocos; Edema pulmonar, Enfriamiento periférico, Fenómeno de Raynaud, Hematoma subdural, Hematomas, Hipertensión, Hipotensión, Insuficiencia cardíaca congestiva, Palpitaciones, Taquicardia; Angina de pecho, Arritmia, Derrame pericárdico, Fibrilación auricular, Infarto de miocardio, Paro cardíaco, Tamponamiento cardíaco; Pericarditis, Trombosis/embolismo.\n\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN: Aumento de peso; Anorexia, Pérdida de peso; Aumento de la creatinfosfoquinasa sérica, Aumento de la creatinina sérica, Aumento de la fosfatasa alcalina sérica, Aumento de la lactatodeshidrogenasa sérica, Aumento del apetito, Deshidratación, Disminución del apetito, Gota, Hipercalcemia, Hiperglucemia, Hiperuricemia, Hipocalemia, Hipofosfatemia, Hiponatremia; Aumento de la amilasa sérica, Hipercalemia, Hipomagnesemia.\n\nTRASTORNOS PSIQUIÁTRICOS: Insomnio; Ansiedad, Depresión, Disminución de la líbido; Confusión.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO: Dolor musculoesquelético incluyendo mialgia, artralgia y dolor óseo, Espasmos y calambres musculares; Hinchazón de articulaciones; Rigidez de articulaciones y músculos; Artritis, Debilidad muscular, Rabdomiolisis/miopatía; Necrosis avascular/necrosis de cadera, Retraso en el crecimiento en niños y adolescentes.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO: Diarrea, Dispepsia, Dolor abdominal, Nauseas, Vómitos; Distensión abdominal, Estreñimiento, Flatulencia, Gastritis, Reflujo gastroesofágico, Sequedad de boca; Ascitis, Disfagia, Eructación, Esofagitis, Estomatitis, Hematemesis, Hemorragia gastrointestinal, Melena, Pancreatitis, Queilitis, Ulceración de la boca, Úlcera gástrica; Colitis, Enfermedad inflamatoria intestinal, Íleo; Diverticulitis, Ectasia vascular antral gástrica (EVAG), Obstrucción ilíaca/intestinal, Perforación gastrointestinal.\n\nTRASTORNOS DEL SISTEMA HEPATOBILIAR: Aumento de enzimas hepáticas; Hepatitis, Hiperbilirrubinemia, Ictericia; Insuficiencia hepática, Necrosis hepática.\n\nTRASTORNOS DEL SISTEMA EXCRETOR: Aumento de frecuencia urinaria, Dolor renal, Hematuria, Insuficiencia renal aguda; Insuficiencia renal crónica.\n\nTRASTORNOS DEL SISTEMA REPRODUCTOR: Aumento del tamaño de las mamas, Disfunción eréctil, Disfunción sexual, Dolor en los pezones, Edema de escroto, Ginecomastia, Menorragia, Menstruación irregular; Cuerpo lúteo hemorrágico/quiste de ovario hemorrágico.\n\nINFECCIONES E INFESTACIONES: Celulitis, Gastroenteritis, Herpes simplex, Herpes zoster, Infección del tracto respiratorio superior, Infección del tracto urinario, Influenza, Nasofaringitis, Neumonía, Sepsis, Sinusitis; Infección fúngica; Reactivación del virus de la Hepatitis B.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO: Disnea, Epistaxis, Tos; Derrame pleural, Dolor faringolaríngeo, Faringitis; Dolor pleural, Fibrosis pulmonar, Hemorragia pulmonar, Hipertensión pulmonar; Enfermedad pulmonar intersticial, Insuficiencia respiratoria aguda.\n\nNEOPLASIAS BENIGNAS, MALIGNAS Y NO ESPECIFICADAS: Síndrome de lisis tumoral; Hemorragia tumoral/necrosis tumoral.\n\nTRASTORNOS DEL SISTEMA LINFÁTICO: Linfoadenopatía.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO: Shock anafiláctico.\n\nDescripción de reacciones adversas seleccionadas\nEn la práctica clínica, la valoración debe realizarse de forma individual y periódica. Cuando los acontecimientos sean persistentes, intensos o se asocien a deterioro funcional, se recomienda revisar la pauta y los factores predisponentes. La notificación espontánea contribuye a caracterizar mejor el balance de seguridad en poblaciones menos representadas en los estudios iniciales.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "IMATINIB MESILATO",
+      "surface": "IMATINIB MESILATO"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "IMATINIB MESILATO",
+      "surface": "imatinib"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dermatitis/eccema/erupción",
+      "surface": "Dermatitis/eccema/erupción"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema periorbital",
+      "surface": "Edema periorbital"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alopecia",
+      "surface": "Alopecia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema facial",
+      "surface": "Edema facial"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eritema",
+      "surface": "Eritema"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "picor"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacción de fotosensibilidad",
+      "surface": "Reacción de fotosensibilidad"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad de la piel",
+      "surface": "Sequedad de la piel"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sudoración nocturna",
+      "surface": "Sudoración nocturna"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la sudoración",
+      "surface": "Aumento de la sudoración"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la tendencia a tener moratones",
+      "surface": "Aumento de la tendencia a tener moratones"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Contusión",
+      "surface": "Contusión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dermatitis exfoliativa",
+      "surface": "Dermatitis exfoliativa"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Equimosis",
+      "surface": "Equimosis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupciones bullosas",
+      "surface": "Erupciones bullosas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción pustular",
+      "surface": "Erupción pustular"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Foliculitis",
+      "surface": "Foliculitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperpigmentación de la piel",
+      "surface": "Hiperpigmentación de la piel"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipopigmentación de la piel",
+      "surface": "Hipopigmentación de la piel"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotricosis",
+      "surface": "Hipotricosis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Onicoclasis",
+      "surface": "Onicoclasis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Petequias",
+      "surface": "Petequias"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Psoriasis",
+      "surface": "Psoriasis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Púrpura",
+      "surface": "Púrpura"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Decoloración de las uñas",
+      "surface": "Decoloración de las uñas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dermatosis neutrofílica febril aguda (Síndrome de Sweet)",
+      "surface": "Dermatosis neutrofílica febril aguda (Síndrome de Sweet)"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema angioneurótico",
+      "surface": "Edema angioneurótico"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción vesicular",
+      "surface": "Erupción vesicular"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Exantema pustuloso generalizado agudo (AGEP)",
+      "surface": "Exantema pustuloso generalizado agudo (AGEP)"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vasculitis leucocitoclástica",
+      "surface": "Vasculitis leucocitoclástica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "eritema multiforme",
+      "surface": "eritema multiforme"
+    },
+    {
+      "type": "REACT",
+      "canonical": "síndrome de Stevens- Johnson",
+      "surface": "síndrome de Stevens- Johnson"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción por medicamentos con eosinofilia y síntomas sistémicos (DRESS)",
+      "surface": "Erupción por medicamentos con eosinofilia y síntomas sistémicos (DRESS)"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Liquen plano",
+      "surface": "Liquen plano"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Necrolisis epidérmica tóxica",
+      "surface": "Necrolisis epidérmica tóxica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pseudoporfiria",
+      "surface": "Pseudoporfiria"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Queratosis liquenoide",
+      "surface": "Queratosis liquenoide"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de eritrodisestesia palmoplantar",
+      "surface": "Síndrome de eritrodisestesia palmoplantar"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareo",
+      "surface": "Mareo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parestesia",
+      "surface": "Parestesia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteración de la memoria",
+      "surface": "Alteración de la memoria"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ciática",
+      "surface": "Ciática"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia cerebral",
+      "surface": "Hemorragia cerebral"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Migraña",
+      "surface": "Migraña"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neuropatía periférica",
+      "surface": "Neuropatía periférica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Somnolencia",
+      "surface": "Somnolencia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síncope",
+      "surface": "Síncope"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de piernas inquietas",
+      "surface": "Síndrome de piernas inquietas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Temblor",
+      "surface": "Temblor"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la presión intracraneal",
+      "surface": "Aumento de la presión intracraneal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Convulsiones",
+      "surface": "Convulsiones"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neuritis óptica",
+      "surface": "Neuritis óptica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema cerebral",
+      "surface": "Edema cerebral"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones del gusto",
+      "surface": "Alteraciones del gusto"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento del lagrimeo",
+      "surface": "Aumento del lagrimeo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Conjuntivitis",
+      "surface": "Conjuntivitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema palpebral",
+      "surface": "Edema palpebral"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia conjuntival",
+      "surface": "Hemorragia conjuntival"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipoestesia",
+      "surface": "Hipoestesia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ojo seco",
+      "surface": "Ojo seco"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Visión borrosa",
+      "surface": "Visión borrosa"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Blefaritis",
+      "surface": "Blefaritis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor ocular",
+      "surface": "Dolor ocular"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema macular",
+      "surface": "Edema macular"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema orbital",
+      "surface": "Edema orbital"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia escleral",
+      "surface": "Hemorragia escleral"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia retiniana",
+      "surface": "Hemorragia retiniana"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Irritación ocular",
+      "surface": "Irritación ocular"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pérdida de la audición",
+      "surface": "Pérdida de la audición"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tinnitus",
+      "surface": "Tinnitus"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vértigo",
+      "surface": "Vértigo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Catarata",
+      "surface": "Catarata"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Glaucoma",
+      "surface": "Glaucoma"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Papiledema",
+      "surface": "Papiledema"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia vítrea",
+      "surface": "Hemorragia vítrea"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "Fatiga"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Retención de líquidos y edema",
+      "surface": "Retención de líquidos y edema"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anasarca",
+      "surface": "Anasarca"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Debilidad",
+      "surface": "Debilidad"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Escalofríos",
+      "surface": "Escalofríos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pirexia",
+      "surface": "Pirexia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rigidez",
+      "surface": "Rigidez"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor en el pecho",
+      "surface": "Dolor en el pecho"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Malestar",
+      "surface": "Malestar"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia",
+      "surface": "Anemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neutropenia",
+      "surface": "Neutropenia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombocitopenia",
+      "surface": "Trombocitopenia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neutropenia febril",
+      "surface": "Neutropenia febril"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pancitopenia",
+      "surface": "Pancitopenia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión de la médula ósea",
+      "surface": "Depresión de la médula ósea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eosinofilia",
+      "surface": "Eosinofilia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Linfopenia",
+      "surface": "Linfopenia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombocitemia",
+      "surface": "Trombocitemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia hemolítica",
+      "surface": "Anemia hemolítica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Microangiopatía trombótica",
+      "surface": "Microangiopatía trombótica"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia",
+      "surface": "Hemorragia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sofocos",
+      "surface": "Sofocos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema pulmonar",
+      "surface": "Edema pulmonar"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Enfriamiento periférico",
+      "surface": "Enfriamiento periférico"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fenómeno de Raynaud",
+      "surface": "Fenómeno de Raynaud"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hematoma subdural",
+      "surface": "Hematoma subdural"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hematomas",
+      "surface": "Hematomas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertensión",
+      "surface": "Hipertensión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia cardíaca congestiva",
+      "surface": "Insuficiencia cardíaca congestiva"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Taquicardia",
+      "surface": "Taquicardia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angina de pecho",
+      "surface": "Angina de pecho"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Arritmia",
+      "surface": "Arritmia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Derrame pericárdico",
+      "surface": "Derrame pericárdico"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fibrilación auricular",
+      "surface": "Fibrilación auricular"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infarto de miocardio",
+      "surface": "Infarto de miocardio"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Paro cardíaco",
+      "surface": "Paro cardíaco"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tamponamiento cardíaco",
+      "surface": "Tamponamiento cardíaco"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pericarditis",
+      "surface": "Pericarditis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombosis/embolismo",
+      "surface": "Trombosis/embolismo"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de peso",
+      "surface": "Aumento de peso"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anorexia",
+      "surface": "Anorexia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pérdida de peso",
+      "surface": "Pérdida de peso"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la creatinfosfoquinasa sérica",
+      "surface": "Aumento de la creatinfosfoquinasa sérica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la creatinina sérica",
+      "surface": "Aumento de la creatinina sérica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la fosfatasa alcalina sérica",
+      "surface": "Aumento de la fosfatasa alcalina sérica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la lactatodeshidrogenasa sérica",
+      "surface": "Aumento de la lactatodeshidrogenasa sérica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento del apetito",
+      "surface": "Aumento del apetito"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Deshidratación",
+      "surface": "Deshidratación"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución del apetito",
+      "surface": "Disminución del apetito"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Gota",
+      "surface": "Gota"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipercalcemia",
+      "surface": "Hipercalcemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperglucemia",
+      "surface": "Hiperglucemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperuricemia",
+      "surface": "Hiperuricemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipocalemia",
+      "surface": "Hipocalemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipofosfatemia",
+      "surface": "Hipofosfatemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiponatremia",
+      "surface": "Hiponatremia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la amilasa sérica",
+      "surface": "Aumento de la amilasa sérica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipercalemia",
+      "surface": "Hipercalemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipomagnesemia",
+      "surface": "Hipomagnesemia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insomnio",
+      "surface": "Insomnio"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ansiedad",
+      "surface": "Ansiedad"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión",
+      "surface": "Depresión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de la líbido",
+      "surface": "Disminución de la líbido"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Confusión",
+      "surface": "Confusión"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor musculoesquelético incluyendo mialgia, artralgia y dolor óseo",
+      "surface": "Dolor musculoesquelético incluyendo mialgia, artralgia y dolor óseo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Espasmos y calambres musculares",
+      "surface": "Espasmos y calambres musculares"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hinchazón de articulaciones",
+      "surface": "Hinchazón de articulaciones"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rigidez de articulaciones y músculos",
+      "surface": "Rigidez de articulaciones y músculos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Artritis",
+      "surface": "Artritis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Debilidad muscular",
+      "surface": "Debilidad muscular"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rabdomiolisis/miopatía",
+      "surface": "Rabdomiolisis/miopatía"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Necrosis avascular/necrosis de cadera",
+      "surface": "Necrosis avascular/necrosis de cadera"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Retraso en el crecimiento en niños y adolescentes",
+      "surface": "Retraso en el crecimiento en niños y adolescentes"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dispepsia",
+      "surface": "Dispepsia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor abdominal",
+      "surface": "Dolor abdominal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Nauseas",
+      "surface": "Nauseas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Distensión abdominal",
+      "surface": "Distensión abdominal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Flatulencia",
+      "surface": "Flatulencia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Gastritis",
+      "surface": "Gastritis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reflujo gastroesofágico",
+      "surface": "Reflujo gastroesofágico"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad de boca",
+      "surface": "Sequedad de boca"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ascitis",
+      "surface": "Ascitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disfagia",
+      "surface": "Disfagia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eructación",
+      "surface": "Eructación"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Esofagitis",
+      "surface": "Esofagitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estomatitis",
+      "surface": "Estomatitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hematemesis",
+      "surface": "Hematemesis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia gastrointestinal",
+      "surface": "Hemorragia gastrointestinal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Melena",
+      "surface": "Melena"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pancreatitis",
+      "surface": "Pancreatitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Queilitis",
+      "surface": "Queilitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ulceración de la boca",
+      "surface": "Ulceración de la boca"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Úlcera gástrica",
+      "surface": "Úlcera gástrica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Colitis",
+      "surface": "Colitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Enfermedad inflamatoria intestinal",
+      "surface": "Enfermedad inflamatoria intestinal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Íleo",
+      "surface": "Íleo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diverticulitis",
+      "surface": "Diverticulitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ectasia vascular antral gástrica (EVAG)",
+      "surface": "Ectasia vascular antral gástrica (EVAG)"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Obstrucción ilíaca/intestinal",
+      "surface": "Obstrucción ilíaca/intestinal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Perforación gastrointestinal",
+      "surface": "Perforación gastrointestinal"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "surface": "TRASTORNOS DEL SISTEMA HEPATOBILIAR"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de enzimas hepáticas",
+      "surface": "Aumento de enzimas hepáticas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hepatitis",
+      "surface": "Hepatitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperbilirrubinemia",
+      "surface": "Hiperbilirrubinemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ictericia",
+      "surface": "Ictericia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia hepática",
+      "surface": "Insuficiencia hepática"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Necrosis hepática",
+      "surface": "Necrosis hepática"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de frecuencia urinaria",
+      "surface": "Aumento de frecuencia urinaria"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor renal",
+      "surface": "Dolor renal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hematuria",
+      "surface": "Hematuria"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia renal aguda",
+      "surface": "Insuficiencia renal aguda"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia renal crónica",
+      "surface": "Insuficiencia renal crónica"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento del tamaño de las mamas",
+      "surface": "Aumento del tamaño de las mamas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disfunción eréctil",
+      "surface": "Disfunción eréctil"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disfunción sexual",
+      "surface": "Disfunción sexual"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor en los pezones",
+      "surface": "Dolor en los pezones"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema de escroto",
+      "surface": "Edema de escroto"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ginecomastia",
+      "surface": "Ginecomastia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Menorragia",
+      "surface": "Menorragia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Menstruación irregular",
+      "surface": "Menstruación irregular"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cuerpo lúteo hemorrágico/quiste de ovario hemorrágico",
+      "surface": "Cuerpo lúteo hemorrágico/quiste de ovario hemorrágico"
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "INFECCIONES E INFESTACIONES"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Celulitis",
+      "surface": "Celulitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Gastroenteritis",
+      "surface": "Gastroenteritis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Herpes simplex",
+      "surface": "Herpes simplex"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Herpes zoster",
+      "surface": "Herpes zoster"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infección del tracto respiratorio superior",
+      "surface": "Infección del tracto respiratorio superior"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infección del tracto urinario",
+      "surface": "Infección del tracto urinario"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Influenza",
+      "surface": "Influenza"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Nasofaringitis",
+      "surface": "Nasofaringitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neumonía",
+      "surface": "Neumonía"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sepsis",
+      "surface": "Sepsis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sinusitis",
+      "surface": "Sinusitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infección fúngica",
+      "surface": "Infección fúngica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reactivación del virus de la Hepatitis B",
+      "surface": "Reactivación del virus de la Hepatitis B"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disnea",
+      "surface": "Disnea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Epistaxis",
+      "surface": "Epistaxis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tos",
+      "surface": "Tos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Derrame pleural",
+      "surface": "Derrame pleural"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor faringolaríngeo",
+      "surface": "Dolor faringolaríngeo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Faringitis",
+      "surface": "Faringitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor pleural",
+      "surface": "Dolor pleural"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fibrosis pulmonar",
+      "surface": "Fibrosis pulmonar"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia pulmonar",
+      "surface": "Hemorragia pulmonar"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertensión pulmonar",
+      "surface": "Hipertensión pulmonar"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Enfermedad pulmonar intersticial",
+      "surface": "Enfermedad pulmonar intersticial"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia respiratoria aguda",
+      "surface": "Insuficiencia respiratoria aguda"
+    },
+    {
+      "type": "SYS",
+      "canonical": "NEOPLASIAS BENIGNAS, MALIGNAS Y NO ESPECIFICADAS",
+      "surface": "NEOPLASIAS BENIGNAS, MALIGNAS Y NO ESPECIFICADAS"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de lisis tumoral",
+      "surface": "Síndrome de lisis tumoral"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia tumoral/necrosis tumoral",
+      "surface": "Hemorragia tumoral/necrosis tumoral"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA LINFÁTICO",
+      "surface": "TRASTORNOS DEL SISTEMA LINFÁTICO"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Linfoadenopatía",
+      "surface": "Linfoadenopatía"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Shock anafiláctico",
+      "surface": "Shock anafiláctico"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "IMATINIB ACCORD 100 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG",
+        "pactivo": "IMATINIB MESILATO",
+        "reaccion": "Ojo seco",
+        "frecuencia": "FRECUENTE",
+        "sistema": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS"
+      },
+      "text": "Dentro del sistema TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS, se ha descrito Ojo seco como reacción adversa con frecuencia frecuentes durante el tratamiento con IMATINIB MESILATO (imatinib). Esta manifestación puede relacionarse con cambios en la superficie ocular y suele requerir valoración clínica según la intensidad de los síntomas.\n\nLista tabulada:\n- Ojo seco: frecuentes.\n\nSe recomienda considerar medidas de soporte ocular y seguimiento si la molestia persiste o interfiere con la actividad habitual, manteniendo la evaluación individual del beneficio y el riesgo.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+          "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Ojo seco",
+          "surface": "Ojo seco"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "IMATINIB MESILATO",
+          "surface": "IMATINIB MESILATO"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "IMATINIB MESILATO",
+          "surface": "imatinib"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Ojo seco",
+          "surface": "Ojo seco"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+          "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+          "start": 19,
+          "end": 56
+        },
+        {
+          "type": "REACT",
+          "canonical": "Ojo seco",
+          "surface": "Ojo seco",
+          "start": 73,
+          "end": 81
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes",
+          "start": 119,
+          "end": 129
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "IMATINIB MESILATO",
+          "surface": "IMATINIB MESILATO",
+          "start": 157,
+          "end": 174
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "IMATINIB MESILATO",
+          "surface": "imatinib",
+          "start": 157,
+          "end": 165
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "IMATINIB ACCORD 100 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG",
+        "pactivo": "IMATINIB MESILATO",
+        "reaccion": "Espasmos y calambres musculares",
+        "frecuencia": "MUY FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO"
+      },
+      "text": "Dentro de TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO, durante el tratamiento con imatinib mesilato (imatinib) se han notificado como muy frecuentes:\n- Espasmos y calambres musculares.\n\nEstos episodios pueden aparecer en distintos momentos del tratamiento y suelen requerir valoración clínica según la intensidad y la repercusión funcional. Se recomienda revisar de forma periódica la tolerabilidad, especialmente si los síntomas interfieren con la actividad diaria o persisten pese a medidas generales de manejo.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+          "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "IMATINIB MESILATO",
+          "surface": "imatinib mesilato"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "IMATINIB MESILATO",
+          "surface": "imatinib"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "MUY FRECUENTE",
+          "surface": "muy frecuentes"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Espasmos y calambres musculares",
+          "surface": "Espasmos y calambres musculares"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+          "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+          "start": 10,
+          "end": 52
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "IMATINIB MESILATO",
+          "surface": "imatinib mesilato",
+          "start": 81,
+          "end": 98
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "IMATINIB MESILATO",
+          "surface": "imatinib",
+          "start": 81,
+          "end": 89
+        },
+        {
+          "type": "FREQ",
+          "canonical": "MUY FRECUENTE",
+          "surface": "muy frecuentes",
+          "start": 133,
+          "end": 147
+        },
+        {
+          "type": "REACT",
+          "canonical": "Espasmos y calambres musculares",
+          "surface": "Espasmos y calambres musculares",
+          "start": 151,
+          "end": 182
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "IMATINIB ACCORD 100 MG COMPRIMIDOS RECUBIERTOS CON PELICULA EFG",
+        "pactivo": "IMATINIB MESILATO",
+        "reaccion": "Derrame pleural",
+        "frecuencia": "POCO FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA RESPIRATORIO"
+      },
+      "text": "Dentro de TRASTORNOS DEL SISTEMA RESPIRATORIO, se ha notificado Derrame pleural (líquido en la pleura) en pacientes tratados con IMATINIB MESILATO. En la tabla de reacciones adversas debe figurar como:\n- Derrame pleural: poco frecuentes.\n\nEste acontecimiento puede relacionarse con la retención de líquidos observada durante el tratamiento con imatinib. Se recomienda vigilancia clínica, especialmente en pacientes con antecedentes respiratorios o factores predisponentes, y valorar medidas de manejo según la intensidad y la evolución del cuadro.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+          "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Derrame pleural",
+          "surface": "Derrame pleural"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "IMATINIB MESILATO",
+          "surface": "IMATINIB MESILATO"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Derrame pleural",
+          "surface": "Derrame pleural"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "IMATINIB MESILATO",
+          "surface": "imatinib"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+          "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+          "start": 10,
+          "end": 45
+        },
+        {
+          "type": "REACT",
+          "canonical": "Derrame pleural",
+          "surface": "Derrame pleural",
+          "start": 64,
+          "end": 79
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "IMATINIB MESILATO",
+          "surface": "IMATINIB MESILATO",
+          "start": 129,
+          "end": 146
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes",
+          "start": 221,
+          "end": 236
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "IMATINIB MESILATO",
+          "surface": "imatinib",
+          "start": 129,
+          "end": 137
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

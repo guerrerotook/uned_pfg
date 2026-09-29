@@ -1,0 +1,45 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+
+El perfil de seguridad de LAMIVUDINA se ha establecido a partir de datos procedentes de la experiencia clínica y de la vigilancia posterior a la autorización. En general, las reacciones comunicadas fueron compatibles con el uso de este tipo de tratamiento y se notificaron con intensidad variable. La valoración de causalidad debe considerar la situación clínica de base, los tratamientos concomitantes y la evolución temporal tras el inicio o la interrupción del medicamento. En caso de aparición de manifestaciones clínicas relevantes, se recomienda realizar una evaluación individualizada y adoptar las medidas asistenciales habituales.
+
+La información que se presenta a continuación se organiza por sistema de clasificación de órganos. Dentro de cada apartado, las categorías se muestran siguiendo la terminología de frecuencia utilizada en fichas técnicas. Las reacciones se citan con la denominación preferente empleada para su registro y seguimiento. Esta presentación no implica necesariamente que todos los acontecimientos descritos tengan la misma gravedad ni el mismo impacto clínico.
+
+Lista tabulada de reacciones adversas
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+no frecuente: Angioedema.
+
+TRASTORNOS DEL SISTEMA HEPATOBILIAR
+muy frecuentes: Aumento de la alanina aminotransferasa.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+frecuentes: Calambres, Incremento de la creatinafosfocinasa, Mialgias.
+frecuencia no conocida: Rabdomiólisis.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+frecuentes: Erupción, Prurito.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+frecuencia no conocida: Trombocitopenia.
+
+Descripción de reacciones adversas seleccionadas
+
+Durante el tratamiento pueden detectarse hallazgos analíticos o manifestaciones clínicas que requieran seguimiento. La interpretación de estos datos debe realizarse en el contexto del estado basal del paciente y de los controles previos disponibles. Cuando se observen cambios relevantes, puede ser necesario repetir la determinación, valorar otros factores contribuyentes y considerar la continuidad del tratamiento según criterio clínico.
+
+Las manifestaciones cutáneas o de tolerabilidad general deben evaluarse de forma individual, especialmente cuando se acompañen de otros signos clínicos. La actuación dependerá de la intensidad, la evolución y la relación temporal con la administración del medicamento. En situaciones leves puede ser suficiente la observación, mientras que los cuadros persistentes o progresivos pueden requerir una revisión del tratamiento.
+
+La notificación de sospechas de reacciones adversas tras la autorización del medicamento es importante. Permite continuar la evaluación del balance beneficio-riesgo y facilita la identificación de nueva información de seguridad. Se invita a los profesionales sanitarios a comunicar cualquier sospecha mediante el sistema nacional de notificación correspondiente.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+Dentro de TRASTORNOS DE PIEL Y TEJIDOS, Erupción se incluye entre las reacciones adversas frecuentes notificadas durante el tratamiento con LAMIVUDINA. En la práctica clínica, su identificación debe integrarse en la valoración global de tolerabilidad, considerando la cronología de aparición y la evolución tras las medidas habituales de seguimiento. Si la manifestación persiste o se considera clínicamente relevante, se recomienda reevaluar la continuidad del tratamiento de acuerdo con el criterio médico y la información disponible del paciente, sin retrasar la atención cuando proceda.
+
+-- Caso 2 --
+En la clasificación por órganos y sistemas, dentro de TRASTORNOS DEL SISTEMA INMUNOLÓGICO, se ha notificado Angioedema con frecuencia no frecuente en pacientes tratados con LAMIVUDINA. La aparición de este acontecimiento debe valorarse clínicamente de forma individual, considerando la relación temporal con la administración y la evolución tras las medidas adoptadas. En caso de sospecha de asociación, se recomienda vigilancia adecuada, registro del caso y revisión de la continuidad del tratamiento conforme al criterio clínico y al balance beneficio-riesgo del paciente.
+
+-- Caso 3 --
+Dentro del sistema TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS, se ha identificado Trombocitopenia asociada al uso de LAMIVUDINA, con frecuencia no conocida a partir de los datos disponibles.
+La aparición de esta alteración debe considerarse en pacientes que presenten cambios hematológicos durante el tratamiento. Se recomienda realizar seguimiento clínico y analítico cuando esté indicado, especialmente si existen factores predisponentes o tratamientos concomitantes que puedan influir en los recuentos plaquetarios. Ante una disminución clínicamente relevante, debe valorarse la continuidad del tratamiento conforme al estado del paciente.

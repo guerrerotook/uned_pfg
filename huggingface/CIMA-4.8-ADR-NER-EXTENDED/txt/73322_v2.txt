@@ -1,0 +1,68 @@
+Resumen del perfil de seguridad
+El perfil observado con BROMAZEPAM es coherente con el de un ansiolítico de acción central y requiere una valoración individual de la respuesta clínica. En la práctica clínica, el bromazepam puede producir acontecimientos relacionados con la vigilancia, la coordinación y la conducta, por lo que se recomienda revisar periódicamente la necesidad de continuar el tratamiento. En algunos países se identifica por nombres comerciales breves como Lexatin; esta denominación no modifica las precauciones aplicables. La información disponible procede de notificación espontánea y de la experiencia acumulada, por lo que no siempre es posible estimar una incidencia precisa. La aparición de cualquier acontecimiento debe interpretarse considerando la dosis, la duración del uso y las características del paciente.
+
+Lista tabulada de reacciones adversas
+
+TRASTORNOS PSIQUIÁTRICOS
+frecuencia no conocida: Abuso, Agitación, Agresividad, Alteraciones del humor, Alucinación, Amnesia anterógrada, Ansiedad, Comportamiento inadecuado, Confusión, Dependencia, Depresión (puede desenmascarar una depresión existente), Derilio, Desorientación, Hiperactividad, Intranquilidad, Ira, Irritabilidad, Pesadillas, Psicosis, Pérdida de memoria, Sueños anormales, Síndrome de abstinencia, Trastornos de la libido.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+frecuencia no conocida: Angioedema, Hipersensibilidad, Shock anafiláctico.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+frecuencia no conocida: Ataxia, Cefalea, Mareos (sensación de mareo), Reducción del estado de alerta, Somnolencia.
+
+LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS
+frecuencia no conocida: Caídas, Fracturas.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+frecuencia no conocida: Debilidad muscular.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+frecuencia no conocida: Depresión respiratoria.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+frecuencia no conocida: Diplopia.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+frecuencia no conocida: Estreñimiento, Náuseas, Vómitos.
+
+TRASTORNOS DEL SISTEMA GENERAL
+frecuencia no conocida: Fatiga.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+frecuencia no conocida: Insuficiencia cardiaca, Parada cardiaca.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+frecuencia no conocida: Prurito, Rash cutáneo, Urticaria.
+
+TRASTORNOS DEL SISTEMA EXCRETOR
+frecuencia no conocida: Retención urinaria.
+
+Descripción de acontecimientos seleccionados
+La evaluación de la tolerabilidad debe realizarse de forma continuada, especialmente al inicio del tratamiento o tras cambios de dosis. La intensidad de los acontecimientos puede variar y, en algunos casos, mejorar con el ajuste de la pauta o con la retirada gradual indicada por el médico. Debe evitarse la interrupción brusca cuando el tratamiento se haya mantenido durante periodos prolongados, ya que la adaptación del paciente puede requerir una reducción escalonada.
+
+Se aconseja informar al paciente y a sus cuidadores de que consulten si observan cambios inesperados del comportamiento, disminución importante de la capacidad de reacción o cualquier manifestación que comprometa la seguridad cotidiana. En personas de edad avanzada o con comorbilidad relevante, la vigilancia clínica debe ser más estrecha. La notificación de sospechas tras la autorización permite mantener actualizada la relación beneficio-riesgo del medicamento.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En el tratamiento con bromazepam se ha descrito el siguiente acontecimiento dentro del sistema LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS:
+- Caídas: frecuencia no conocida.
+
+Este acontecimiento puede relacionarse con los efectos depresores centrales propios de las benzodiazepinas, especialmente en pacientes de edad avanzada o con factores que aumenten la vulnerabilidad al tropiezo. Se recomienda valorar periódicamente la necesidad de tratamiento, utilizar la dosis eficaz más baja y advertir al paciente de que extreme las precauciones en situaciones que requieran estabilidad o coordinación.
+
+-- Caso 2 --
+En el sistema Trastornos de órganos de los sentidos se ha notificado la siguiente reacción adversa asociada al tratamiento con BROMAZEPAM:
+
+- Diplopia: frecuencia no conocida.
+
+La Diplopia (visión doble) puede relacionarse con el efecto depresor central propio de las benzodiazepinas y suele valorarse en el contexto de la dosis administrada y de la sensibilidad individual del paciente. Si aparece durante el tratamiento, se recomienda realizar seguimiento clínico y considerar la adecuación de la pauta, especialmente cuando pueda interferir con actividades que requieran atención visual sostenida.
+
+-- Caso 3 --
+Dentro de los Trastornos del sistema nervioso, se ha notificado con bromazepam una Reducción del estado de alerta, con frecuencia no conocida. Esta manifestación es coherente con el efecto depresor central de las benzodiazepinas y puede ser más evidente al inicio del tratamiento o tras incrementos de dosis.
+
+Lista tabulada:
+- Trastornos del sistema nervioso: Reducción del estado de alerta (menor alerta), frecuencia no conocida.
+
+Debe valorarse la situación clínica del paciente y advertirle de que evite actividades que requieran atención sostenida si se produce este efecto. Con Lexatin o bromazepam, la revisión periódica de la necesidad de tratamiento ayuda a limitar la exposición.

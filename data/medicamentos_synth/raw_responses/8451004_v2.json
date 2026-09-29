@@ -1,0 +1,965 @@
+{
+  "codigo": "8451004",
+  "variante": 2,
+  "codigo_variant": "8451004_v2",
+  "medicamento": "VOLIBRIS 10 MG COMPRIMIDOS RECUBIERTOS CON PELÍCULA",
+  "model": "gpt-5.5",
+  "style_variant_idx": 1,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\n\nEl perfil de seguridad descrito a continuación corresponde a la experiencia clínica recopilada de forma agregada y se presenta con terminología médica normalizada. Durante el tratamiento con AMBRISENTAN, denominado también ambrisentán y comercialmente Volibris, los acontecimientos se notificaron con intensidad variable y, en general, se manejaron mediante seguimiento clínico, medidas de soporte o ajuste de la atención habitual. La interpretación debe realizarse considerando la situación basal del paciente, la evolución de la enfermedad y los tratamientos concomitantes. La notificación espontánea puede influir en la estimación de algunos acontecimientos, por lo que la clasificación por frecuencia debe entenderse como una guía orientativa. No se incluyen en esta relación hallazgos no recogidos en la tabla de referencia.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\nfrecuentes: Acúfenos, Alteración visual, Visión borrosa.\npoco frecuentes: Pérdida auditiva súbita.\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS\nmuy frecuentes: Anemia (disminución de la hemoglobina y hematocrito).\n\nTRASTORNOS DEL SISTEMA GENERAL\nfrecuentes: Astenia.\nmuy frecuentes: Dolor torácico, Edema periférico, Fatiga, Retención de fluidos.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nmuy frecuentes: Cefalea (incluyendo cefalea sinusal, migraña), Mareos.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\nmuy frecuentes: Congestión del tracto respiratorio superior, Disnea, Nasofaringitis.\nfrecuentes: Epixtasis, Rinitis, Sinusitis.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\npoco frecuentes: Daño hepático, Hepatitis autoinmune.\nmuy frecuentes: Diarrea, Náuseas, Vómitos.\nfrecuentes: Dolor abdominal, Estreñimiento, Incremento de transaminasas.\n\nTRASTORNOS DE PIEL Y TEJIDOS\nfrecuentes: Erupción.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\nfrecuentes: Fallo cardiaco, Hipotensión, Síncope.\nmuy frecuentes: Palpitaciones, Rubefacción.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\nfrecuentes: Reacciones de hipersensibilidad (angioedema, erupción cutánea, prurito).\n\nDescripción de reacciones adversas seleccionadas\n\nLa aparición de Edema periférico y Retención de fluidos debe valorarse dentro del contexto clínico global, especialmente cuando exista variación del peso corporal, cambios en la tolerancia al esfuerzo o necesidad de revisar el tratamiento de soporte. En muchos casos, la evaluación periódica permite diferenciar un hallazgo transitorio de una situación que requiere una actuación más estrecha. La educación del paciente para comunicar cambios persistentes resulta útil para mantener una vigilancia adecuada.\n\nLa Anemia (disminución de la hemoglobina y hematocrito) puede requerir controles analíticos, sobre todo al inicio del tratamiento o cuando concurran factores que dificulten la interpretación de los resultados. El Incremento de transaminasas debe confirmarse mediante determinaciones repetidas y valoración clínica. Si se sospecha Daño hepático o Hepatitis autoinmune, se recomienda una evaluación individualizada y seguimiento conforme a la práctica clínica establecida.\n\nLas manifestaciones relacionadas con la audición o la visión se deben recoger de forma precisa. Acúfenos (pitidos en los oídos) puede ser referido por el paciente con términos no técnicos, por lo que conviene preguntar de manera dirigida. Ante Pérdida auditiva súbita, la valoración clínica debe ser rápida y documentada, sin asumir de entrada una causa alternativa no confirmada.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nEn el perfil de seguridad de ambrisentán (Volibris), dentro del sistema de clasificación de órganos Trastornos del sistema respiratorio, se ha identificado la siguiente reacción adversa:\n- Epixtasis: frecuentes.\n\nEste acontecimiento debe interpretarse en el contexto clínico del paciente y de los factores predisponentes locales. Se recomienda valorar su evolución durante el seguimiento habitual y considerar medidas de manejo sintomático si persiste o resulta clínicamente relevante, sin modificar la evaluación global de seguridad salvo criterio médico.\n\n-- Caso 2 --\nEn pacientes tratados con AMBRISENTAN (Volibris), las palpitaciones se notificaron como muy frecuentes y se encuadran en TRASTORNOS DEL SISTEMA CARDIOVASCULAR.\nLista tabulada:\n- TRASTORNOS DEL SISTEMA CARDIOVASCULAR: Palpitaciones (sensación de latido cardíaco perceptible), muy frecuentes.\nLa aparición de Palpitaciones debe valorarse en el contexto clínico y en relación temporal con el tratamiento. Se recomienda seguimiento habitual de la tolerabilidad, especialmente si los síntomas persisten o se consideran relevantes para el paciente, sin que esta descripción implique por sí misma una modificación automática del tratamiento.\n\n-- Caso 3 --\nEn la tabla de reacciones adversas, dentro de la clase TRASTORNOS DEL SISTEMA DIGESTIVO, se ha notificado Hepatitis autoinmune con ambrisentán (Volibris), con una frecuencia de poco frecuentes.\n\n- Hepatitis autoinmune\n\nLa aparición de este cuadro debe considerarse en el contexto del seguimiento clínico habitual del paciente tratado, especialmente si existen datos analíticos compatibles con afectación hepática. Se recomienda valorar la continuidad del tratamiento de acuerdo con la evolución clínica y las medidas de monitorización establecidas para este tipo de medicamento.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "AMBRISENTAN",
+      "surface": "AMBRISENTAN",
+      "start": 249,
+      "end": 260
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "AMBRISENTAN",
+      "surface": "ambrisentán",
+      "start": 249,
+      "end": 260
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "AMBRISENTAN",
+      "surface": "Volibris",
+      "start": 310,
+      "end": 318
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 928,
+      "end": 965
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 966,
+      "end": 976
+    },
+    {
+      "type": "REACT",
+      "canonical": "Acúfenos",
+      "surface": "Acúfenos",
+      "start": 978,
+      "end": 986
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteración visual",
+      "surface": "Alteración visual",
+      "start": 988,
+      "end": 1005
+    },
+    {
+      "type": "REACT",
+      "canonical": "Visión borrosa",
+      "surface": "Visión borrosa",
+      "start": 1007,
+      "end": 1021
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 1023,
+      "end": 1038
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pérdida auditiva súbita",
+      "surface": "Pérdida auditiva súbita",
+      "start": 1040,
+      "end": 1063
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 1066,
+      "end": 1115
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes",
+      "start": 1116,
+      "end": 1130
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia (disminución de la hemoglobina y hematocrito)",
+      "surface": "Anemia (disminución de la hemoglobina y hematocrito)",
+      "start": 1132,
+      "end": 1184
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 1187,
+      "end": 1217
+    },
+    {
+      "type": "REACT",
+      "canonical": "Astenia",
+      "surface": "Astenia",
+      "start": 1230,
+      "end": 1237
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor torácico",
+      "surface": "Dolor torácico",
+      "start": 1255,
+      "end": 1269
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema periférico",
+      "surface": "Edema periférico",
+      "start": 1271,
+      "end": 1287
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "Fatiga",
+      "start": 1289,
+      "end": 1295
+    },
+    {
+      "type": "REACT",
+      "canonical": "Retención de fluidos",
+      "surface": "Retención de fluidos",
+      "start": 1297,
+      "end": 1317
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1320,
+      "end": 1351
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea (incluyendo cefalea sinusal, migraña)",
+      "surface": "Cefalea (incluyendo cefalea sinusal, migraña)",
+      "start": 1368,
+      "end": 1413
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareos",
+      "surface": "Mareos",
+      "start": 1415,
+      "end": 1421
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 1424,
+      "end": 1459
+    },
+    {
+      "type": "REACT",
+      "canonical": "Congestión del tracto respiratorio superior",
+      "surface": "Congestión del tracto respiratorio superior",
+      "start": 1476,
+      "end": 1519
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disnea",
+      "surface": "Disnea",
+      "start": 1521,
+      "end": 1527
+    },
+    {
+      "type": "REACT",
+      "canonical": "Nasofaringitis",
+      "surface": "Nasofaringitis",
+      "start": 1529,
+      "end": 1543
+    },
+    {
+      "type": "REACT",
+      "canonical": "Epixtasis",
+      "surface": "Epixtasis",
+      "start": 1557,
+      "end": 1566
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rinitis",
+      "surface": "Rinitis",
+      "start": 1568,
+      "end": 1575
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sinusitis",
+      "surface": "Sinusitis",
+      "start": 1577,
+      "end": 1586
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1589,
+      "end": 1621
+    },
+    {
+      "type": "REACT",
+      "canonical": "Daño hepático",
+      "surface": "Daño hepático",
+      "start": 1639,
+      "end": 1652
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hepatitis autoinmune",
+      "surface": "Hepatitis autoinmune",
+      "start": 1654,
+      "end": 1674
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea",
+      "start": 1692,
+      "end": 1699
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 1701,
+      "end": 1708
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos",
+      "start": 1710,
+      "end": 1717
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor abdominal",
+      "surface": "Dolor abdominal",
+      "start": 1731,
+      "end": 1746
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento",
+      "start": 1748,
+      "end": 1761
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de transaminasas",
+      "surface": "Incremento de transaminasas",
+      "start": 1763,
+      "end": 1790
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 1793,
+      "end": 1821
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción",
+      "surface": "Erupción",
+      "start": 1834,
+      "end": 1842
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1845,
+      "end": 1882
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fallo cardiaco",
+      "surface": "Fallo cardiaco",
+      "start": 1895,
+      "end": 1909
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión",
+      "start": 1911,
+      "end": 1922
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síncope",
+      "surface": "Síncope",
+      "start": 1924,
+      "end": 1931
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones",
+      "start": 1949,
+      "end": 1962
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rubefacción",
+      "surface": "Rubefacción",
+      "start": 1964,
+      "end": 1975
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 1978,
+      "end": 2013
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacciones de hipersensibilidad (angioedema, erupción cutánea, prurito)",
+      "surface": "Reacciones de hipersensibilidad (angioedema, erupción cutánea, prurito)",
+      "start": 2026,
+      "end": 2097
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "Trastornos del sistema respiratorio",
+      "start": 1424,
+      "end": 1459
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "palpitaciones",
+      "start": 1949,
+      "end": 1962
+    }
+  ],
+  "raw_long_doc_text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\n\nEl perfil de seguridad descrito a continuación corresponde a la experiencia clínica recopilada de forma agregada y se presenta con terminología médica normalizada. Durante el tratamiento con AMBRISENTAN, denominado también ambrisentán y comercialmente Volibris, los acontecimientos se notificaron con intensidad variable y, en general, se manejaron mediante seguimiento clínico, medidas de soporte o ajuste de la atención habitual. La interpretación debe realizarse considerando la situación basal del paciente, la evolución de la enfermedad y los tratamientos concomitantes. La notificación espontánea puede influir en la estimación de algunos acontecimientos, por lo que la clasificación por frecuencia debe entenderse como una guía orientativa. No se incluyen en esta relación hallazgos no recogidos en la tabla de referencia.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\nfrecuentes: Acúfenos, Alteración visual, Visión borrosa.\npoco frecuentes: Pérdida auditiva súbita.\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS\nmuy frecuentes: Anemia (disminución de la hemoglobina y hematocrito).\n\nTRASTORNOS DEL SISTEMA GENERAL\nfrecuentes: Astenia.\nmuy frecuentes: Dolor torácico, Edema periférico, Fatiga, Retención de fluidos.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nmuy frecuentes: Cefalea (incluyendo cefalea sinusal, migraña), Mareos.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\nmuy frecuentes: Congestión del tracto respiratorio superior, Disnea, Nasofaringitis.\nfrecuentes: Epixtasis, Rinitis, Sinusitis.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\npoco frecuentes: Daño hepático, Hepatitis autoinmune.\nmuy frecuentes: Diarrea, Náuseas, Vómitos.\nfrecuentes: Dolor abdominal, Estreñimiento, Incremento de transaminasas.\n\nTRASTORNOS DE PIEL Y TEJIDOS\nfrecuentes: Erupción.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\nfrecuentes: Fallo cardiaco, Hipotensión, Síncope.\nmuy frecuentes: Palpitaciones, Rubefacción.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\nfrecuentes: Reacciones de hipersensibilidad (angioedema, erupción cutánea, prurito).\n\nDescripción de reacciones adversas seleccionadas\n\nLa aparición de Edema periférico y Retención de fluidos debe valorarse dentro del contexto clínico global, especialmente cuando exista variación del peso corporal, cambios en la tolerancia al esfuerzo o necesidad de revisar el tratamiento de soporte. En muchos casos, la evaluación periódica permite diferenciar un hallazgo transitorio de una situación que requiere una actuación más estrecha. La educación del paciente para comunicar cambios persistentes resulta útil para mantener una vigilancia adecuada.\n\nLa Anemia (disminución de la hemoglobina y hematocrito) puede requerir controles analíticos, sobre todo al inicio del tratamiento o cuando concurran factores que dificulten la interpretación de los resultados. El Incremento de transaminasas debe confirmarse mediante determinaciones repetidas y valoración clínica. Si se sospecha Daño hepático o Hepatitis autoinmune, se recomienda una evaluación individualizada y seguimiento conforme a la práctica clínica establecida.\n\nLas manifestaciones relacionadas con la audición o la visión se deben recoger de forma precisa. Acúfenos (pitidos en los oídos) puede ser referido por el paciente con términos no técnicos, por lo que conviene preguntar de manera dirigida. Ante Pérdida auditiva súbita, la valoración clínica debe ser rápida y documentada, sin asumir de entrada una causa alternativa no confirmada.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "AMBRISENTAN",
+      "surface": "AMBRISENTAN"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "AMBRISENTAN",
+      "surface": "ambrisentán"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "AMBRISENTAN",
+      "surface": "Volibris"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Acúfenos",
+      "surface": "Acúfenos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteración visual",
+      "surface": "Alteración visual"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Visión borrosa",
+      "surface": "Visión borrosa"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pérdida auditiva súbita",
+      "surface": "Pérdida auditiva súbita"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia (disminución de la hemoglobina y hematocrito)",
+      "surface": "Anemia (disminución de la hemoglobina y hematocrito)"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Astenia",
+      "surface": "Astenia"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor torácico",
+      "surface": "Dolor torácico"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema periférico",
+      "surface": "Edema periférico"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "Fatiga"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Retención de fluidos",
+      "surface": "Retención de fluidos"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea (incluyendo cefalea sinusal, migraña)",
+      "surface": "Cefalea (incluyendo cefalea sinusal, migraña)"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareos",
+      "surface": "Mareos"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Congestión del tracto respiratorio superior",
+      "surface": "Congestión del tracto respiratorio superior"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disnea",
+      "surface": "Disnea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Nasofaringitis",
+      "surface": "Nasofaringitis"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Epixtasis",
+      "surface": "Epixtasis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rinitis",
+      "surface": "Rinitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sinusitis",
+      "surface": "Sinusitis"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Daño hepático",
+      "surface": "Daño hepático"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hepatitis autoinmune",
+      "surface": "Hepatitis autoinmune"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor abdominal",
+      "surface": "Dolor abdominal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de transaminasas",
+      "surface": "Incremento de transaminasas"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción",
+      "surface": "Erupción"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fallo cardiaco",
+      "surface": "Fallo cardiaco"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síncope",
+      "surface": "Síncope"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rubefacción",
+      "surface": "Rubefacción"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacciones de hipersensibilidad (angioedema, erupción cutánea, prurito)",
+      "surface": "Reacciones de hipersensibilidad (angioedema, erupción cutánea, prurito)"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema periférico",
+      "surface": "Edema periférico"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Retención de fluidos",
+      "surface": "Retención de fluidos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia (disminución de la hemoglobina y hematocrito)",
+      "surface": "Anemia (disminución de la hemoglobina y hematocrito)"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de transaminasas",
+      "surface": "Incremento de transaminasas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Daño hepático",
+      "surface": "Daño hepático"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hepatitis autoinmune",
+      "surface": "Hepatitis autoinmune"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Acúfenos",
+      "surface": "Acúfenos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pérdida auditiva súbita",
+      "surface": "Pérdida auditiva súbita"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "VOLIBRIS 10 MG COMPRIMIDOS RECUBIERTOS CON PELÍCULA",
+        "pactivo": "AMBRISENTAN",
+        "reaccion": "Epixtasis",
+        "frecuencia": "FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA RESPIRATORIO"
+      },
+      "text": "En el perfil de seguridad de ambrisentán (Volibris), dentro del sistema de clasificación de órganos Trastornos del sistema respiratorio, se ha identificado la siguiente reacción adversa:\n- Epixtasis: frecuentes.\n\nEste acontecimiento debe interpretarse en el contexto clínico del paciente y de los factores predisponentes locales. Se recomienda valorar su evolución durante el seguimiento habitual y considerar medidas de manejo sintomático si persiste o resulta clínicamente relevante, sin modificar la evaluación global de seguridad salvo criterio médico.",
+      "declared": [
+        {
+          "type": "ACTIVE",
+          "canonical": "AMBRISENTAN",
+          "surface": "ambrisentán"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "AMBRISENTAN",
+          "surface": "Volibris"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+          "surface": "Trastornos del sistema respiratorio"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Epixtasis",
+          "surface": "Epixtasis"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        }
+      ],
+      "validated": [
+        {
+          "type": "ACTIVE",
+          "canonical": "AMBRISENTAN",
+          "surface": "ambrisentán",
+          "start": 29,
+          "end": 40
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "AMBRISENTAN",
+          "surface": "Volibris",
+          "start": 42,
+          "end": 50
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+          "surface": "Trastornos del sistema respiratorio",
+          "start": 100,
+          "end": 135
+        },
+        {
+          "type": "REACT",
+          "canonical": "Epixtasis",
+          "surface": "Epixtasis",
+          "start": 189,
+          "end": 198
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes",
+          "start": 200,
+          "end": 210
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "VOLIBRIS 10 MG COMPRIMIDOS RECUBIERTOS CON PELÍCULA",
+        "pactivo": "AMBRISENTAN",
+        "reaccion": "Palpitaciones",
+        "frecuencia": "MUY FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+      },
+      "text": "En pacientes tratados con AMBRISENTAN (Volibris), las palpitaciones se notificaron como muy frecuentes y se encuadran en TRASTORNOS DEL SISTEMA CARDIOVASCULAR.\nLista tabulada:\n- TRASTORNOS DEL SISTEMA CARDIOVASCULAR: Palpitaciones (sensación de latido cardíaco perceptible), muy frecuentes.\nLa aparición de Palpitaciones debe valorarse en el contexto clínico y en relación temporal con el tratamiento. Se recomienda seguimiento habitual de la tolerabilidad, especialmente si los síntomas persisten o se consideran relevantes para el paciente, sin que esta descripción implique por sí misma una modificación automática del tratamiento.",
+      "declared": [
+        {
+          "type": "ACTIVE",
+          "canonical": "AMBRISENTAN",
+          "surface": "AMBRISENTAN"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "AMBRISENTAN",
+          "surface": "Volibris"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Palpitaciones",
+          "surface": "palpitaciones"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "MUY FRECUENTE",
+          "surface": "muy frecuentes"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Palpitaciones",
+          "surface": "Palpitaciones"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "MUY FRECUENTE",
+          "surface": "muy frecuentes"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Palpitaciones",
+          "surface": "Palpitaciones"
+        }
+      ],
+      "validated": [
+        {
+          "type": "ACTIVE",
+          "canonical": "AMBRISENTAN",
+          "surface": "AMBRISENTAN",
+          "start": 26,
+          "end": 37
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "AMBRISENTAN",
+          "surface": "Volibris",
+          "start": 39,
+          "end": 47
+        },
+        {
+          "type": "REACT",
+          "canonical": "Palpitaciones",
+          "surface": "palpitaciones",
+          "start": 54,
+          "end": 67
+        },
+        {
+          "type": "FREQ",
+          "canonical": "MUY FRECUENTE",
+          "surface": "muy frecuentes",
+          "start": 88,
+          "end": 102
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "start": 121,
+          "end": 158
+        },
+        {
+          "type": "REACT",
+          "canonical": "Palpitaciones",
+          "surface": "Palpitaciones",
+          "start": 54,
+          "end": 67
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "VOLIBRIS 10 MG COMPRIMIDOS RECUBIERTOS CON PELÍCULA",
+        "pactivo": "AMBRISENTAN",
+        "reaccion": "Hepatitis autoinmune",
+        "frecuencia": "POCO FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+      },
+      "text": "En la tabla de reacciones adversas, dentro de la clase TRASTORNOS DEL SISTEMA DIGESTIVO, se ha notificado Hepatitis autoinmune con ambrisentán (Volibris), con una frecuencia de poco frecuentes.\n\n- Hepatitis autoinmune\n\nLa aparición de este cuadro debe considerarse en el contexto del seguimiento clínico habitual del paciente tratado, especialmente si existen datos analíticos compatibles con afectación hepática. Se recomienda valorar la continuidad del tratamiento de acuerdo con la evolución clínica y las medidas de monitorización establecidas para este tipo de medicamento.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Hepatitis autoinmune",
+          "surface": "Hepatitis autoinmune"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "AMBRISENTAN",
+          "surface": "ambrisentán"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "AMBRISENTAN",
+          "surface": "Volibris"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Hepatitis autoinmune",
+          "surface": "Hepatitis autoinmune"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "start": 55,
+          "end": 87
+        },
+        {
+          "type": "REACT",
+          "canonical": "Hepatitis autoinmune",
+          "surface": "Hepatitis autoinmune",
+          "start": 106,
+          "end": 126
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "AMBRISENTAN",
+          "surface": "ambrisentán",
+          "start": 131,
+          "end": 142
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "AMBRISENTAN",
+          "surface": "Volibris",
+          "start": 144,
+          "end": 152
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes",
+          "start": 177,
+          "end": 192
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

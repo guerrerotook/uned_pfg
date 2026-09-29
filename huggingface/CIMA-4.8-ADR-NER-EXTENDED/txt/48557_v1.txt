@@ -1,0 +1,71 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+
+El perfil de seguridad de SULPIRIDA es el esperado para un medicamento de su clase y debe valorarse de forma individual en función de la situación clínica del paciente. La notificación puede producirse tanto al inicio como durante el mantenimiento del tratamiento, y algunos acontecimientos requieren vigilancia estrecha. La aparición de manifestaciones persistentes, intensas o clínicamente relevantes debe motivar una reevaluación del tratamiento. En pacientes con factores predisponentes se recomienda una especial atención a los signos generales de alarma. La información siguiente resume las notificaciones identificadas y se presenta conforme a la clasificación habitual por sistemas y por categorías de aparición.
+
+Lista tabulada de reacciones adversas
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+frecuentes: Parkinsonismo, acatisia, sedación, somnolencia, temblor, trastorno extrapiramidal.
+no frecuente: crisis oculógiras.
+poco frecuentes: discinesia, distonía, hipertonía.
+frecuencia no conocida: convulsiones, discinesia tardía, hipoquinesia, síndrome neuroléptico maligno.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+poco frecuentes: Leucopenia.
+frecuencia no conocida: agranulocitosis, neutropenia.
+
+TRASTORNOS DEL SISTEMA REPRODUCTOR
+frecuentes: dolor de pecho, galactorrea.
+poco frecuentes: amenorrea, aumento del pecho, disfunción eréctil, orgasmo anormal.
+frecuencia no conocida: ginecomastia.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+poco frecuentes: arritmia ventricular, fibrilación ventricular, hipotensión ortostática, taquicardia ventricular.
+frecuencia no conocida: aumento de la presión sanguínea, embolismo pulmonar, muerte súbita, neumonía por aspiración, paro cardiaco, prolongación del intervalo QT en electrocardiograma, torsade de pointes, tromboembolismo venoso, trombosis venosa profunda.
+
+TRASTORNOS DEL SISTEMA GENERAL
+frecuentes: aumento de peso.
+frecuencia no conocida: hipertermia.
+
+TRASTORNOS PSIQUIÁTRICOS
+frecuentes: insomnio.
+frecuencia no conocida: confusion.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+frecuentes: estreñimiento, incremento de enzimas hepáticas.
+poco frecuentes: hipersecreción salival.
+frecuencia no conocida: daño hepático hepatocelular, colestásico o mixto.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+frecuencia no conocida: disnea, hipotensión, shock anafiláctico, urticaria.
+
+TRASTORNOS DEL SISTEMA ENDOCRINO
+frecuentes: hiperprolactinemia.
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN
+frecuencia no conocida: SIHAD, hiponatremia.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+frecuencia no conocida: rabdomiólisis, tortícolis, trismo.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+frecuentes: rash maculopapular.
+
+Descripción de reacciones adversas seleccionadas
+
+Algunos acontecimientos pueden ser dependientes de la sensibilidad individual y del contexto terapéutico. La evaluación clínica debe considerar antecedentes, tratamientos concomitantes y cambios recientes en la dosis o en la vía de administración. Si se observan signos compatibles con una reacción importante, se debe aplicar el manejo clínico adecuado y valorar la continuidad del tratamiento.
+
+La vigilancia posterior a la comercialización permite identificar acontecimientos que no siempre pueden estimarse con precisión a partir de los datos disponibles. Por ello, la comunicación de sospechas por parte de los profesionales sanitarios contribuye a una caracterización más completa del perfil de seguridad. Las decisiones terapéuticas deben basarse en la valoración del beneficio esperado y del riesgo individual.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En el sistema TRASTORNOS PSIQUIÁTRICOS, el insomnio se ha notificado como una de las reacciones adversas frecuentes asociadas al tratamiento con SULPIRIDA. Esta manifestación debe interpretarse en el contexto clínico del paciente, considerando la relación temporal con la administración y otros factores concomitantes. Se recomienda seguimiento clínico cuando la sintomatología persista o interfiera de forma relevante con el descanso, valorando la continuidad del tratamiento conforme al criterio médico.
+
+-- Caso 2 --
+En la clasificación por órganos y sistemas, dentro de Trastornos del sistema nervioso, se han notificado crisis oculógiras con frecuencia no frecuente durante el tratamiento con sulpirida. Este acontecimiento se considera compatible con la actividad farmacológica central del principio activo y debe valorarse en el contexto clínico individual, especialmente tras el inicio del tratamiento o ajustes de dosis. Ante su aparición, se recomienda vigilancia clínica y reevaluación de la necesidad de continuar el tratamiento, de acuerdo con la gravedad del cuadro y la respuesta del paciente.
+
+-- Caso 3 --
+En la categoría de Trastornos del sistema músculo-esquelético, se ha notificado rabdomiólisis asociada al tratamiento con SULPIRIDA, con frecuencia no conocida. Este acontecimiento debe valorarse dentro del seguimiento clínico habitual, especialmente cuando existan factores predisponentes o exposición concomitante a situaciones que puedan favorecer afectación muscular. Ante la sospecha clínica, se recomienda interrumpir la administración y realizar una evaluación médica y analítica adecuada, de acuerdo con la práctica clínica, hasta la resolución o estabilización del cuadro.

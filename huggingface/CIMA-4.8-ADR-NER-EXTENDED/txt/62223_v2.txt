@@ -1,0 +1,68 @@
+4.8 Reacciones adversas de METRONIDAZOL NORMON 250 mg comprimidos
+
+Resumen del perfil de seguridad
+El perfil de seguridad observado con metronidazol es coherente con el de un agente antimicrobiano utilizado por vía sistémica. La mayoría de las notificaciones descritas en el uso clínico se identifican durante el tratamiento o poco después de su finalización y suelen requerir una valoración individual según la intensidad, la duración y los factores predisponentes del paciente. La interrupción del tratamiento debe considerarse cuando los signos sean persistentes, progresivos o sugieran afectación sistémica. En la práctica clínica, la información procedente de notificación espontánea no siempre permite calcular de forma fiable la incidencia, por lo que algunas categorías se expresan como no estimables. El profesional sanitario debe valorar la relación temporal y descartar causas alternativas antes de atribuir el acontecimiento al medicamento.
+
+Lista tabulada de reacciones adversas
+Las reacciones se presentan por clasificación de órganos y por categoría de incidencia comunicada. Dentro de cada grupo, los términos se mantienen según la denominación clínica utilizada en la evaluación del producto.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+frecuencia no conocida: Leucopenia.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+frecuencia no conocida: Crisis oculógira, Neuropatía óptica/neuritis.
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN
+frecuencia no conocida: Anorexia.
+
+INFECCIONES E INFESTACIONES
+frecuentes: Superinfecciones con cándida.
+no frecuente: Colitis pseudomembranosa.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+frecuencia no conocida: Convulsiones epileptiformes transitorias, Insomnio, Meningitis aséptica, Mioclono, Neuropatía sensorial periférica, Somnolencia.
+
+TRASTORNOS PSIQUIÁTRICOS
+frecuencia no conocida: Depresión.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+frecuencia no conocida: DIarrea, Disfagia, Disgeusia, Dolor abdominal, Estomatitis, Glositis, Lengua peluda, Náuseas, Vómitos.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+frecuencia no conocida: Eritema multiforme, Necrólisis epidérmic tóxica.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+frecuencia no conocida: Reacciones de hipersensibilidad leves a moderadas.
+no frecuente: Reacciones graves de hipersensibilidad sistémica aguda.
+
+Descripción de reacciones adversas seleccionadas
+Durante la administración pueden aparecer manifestaciones que afecten a la tolerabilidad del tratamiento y que aconsejen seguimiento clínico, especialmente en pacientes con antecedentes relevantes o exposición prolongada. Debe informarse al paciente de que comunique cualquier síntoma nuevo, inesperado o de evolución rápida, aunque inicialmente parezca leve. La evaluación debe incluir la cronología de inicio, la dosis recibida, la duración del tratamiento y la existencia de tratamientos concomitantes.
+
+Los acontecimientos que sugieran afectación neurológica, inmunológica o cutánea deben valorarse con especial atención por su potencial relevancia clínica. La reexposición no debe realizarse de forma automática si el episodio previo fue clínicamente significativo. La decisión de continuar, suspender o sustituir el tratamiento corresponde al médico, tras ponderar el beneficio esperado y la gravedad del cuadro.
+
+La notificación de sospechas de reacciones adversas permite una supervisión continuada de la relación beneficio-riesgo del medicamento. Se recomienda a los profesionales sanitarios comunicar cualquier sospecha a través de los sistemas habituales de farmacovigilancia.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En el sistema de clasificación de órganos TRASTORNOS PSIQUIÁTRICOS, se ha notificado Depresión (ánimo bajo) durante el tratamiento con metronidazol. La frecuencia se considera frecuencia no conocida, ya que no puede estimarse a partir de los datos disponibles.
+
+Lista tabulada:
+- TRASTORNOS PSIQUIÁTRICOS: Depresión; frecuencia no conocida.
+
+Aunque no se ha establecido un mecanismo específico, se recomienda valorar la evolución clínica si aparecen cambios persistentes del estado de ánimo. En pacientes tratados con Metronidazol Normon, la continuidad del tratamiento deberá reconsiderarse según la situación clínica y el balance beneficio-riesgo individual.
+
+-- Caso 2 --
+En el sistema TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO se ha descrito la siguiente reacción adversa asociada a METRONIDAZOL NORMON 250 mg COMPRIMIDOS EFG:
+
+- Mialgia: nan.
+
+La Mialgia (dolor muscular) puede aparecer durante el tratamiento con metronidazol y debe valorarse en el contexto clínico del paciente, especialmente si persiste o interfiere con la actividad habitual. Se recomienda realizar seguimiento de la evolución y considerar la relación temporal con la administración del medicamento, sin que ello implique necesariamente la suspensión automática del tratamiento.
+
+-- Caso 3 --
+En la clasificación por sistema de órganos Infecciones e infestaciones, se ha descrito Colitis pseudomembranosa con frecuencia no frecuente durante el tratamiento con metronidazol, también conocido en algunos entornos como Flagyl. Esta reacción debe considerarse ante un cuadro clínico compatible y valorarse de forma individual, especialmente si aparece durante el tratamiento o poco después de su finalización.
+
+Lista tabulada:
+- Infecciones e infestaciones: Colitis pseudomembranosa (no frecuente).
+
+Se recomienda seguimiento clínico y reconsiderar la continuidad del tratamiento cuando la situación lo requiera, de acuerdo con la práctica médica habitual.

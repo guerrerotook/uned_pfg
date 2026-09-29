@@ -1,0 +1,1395 @@
+{
+  "codigo": "75005",
+  "variante": 1,
+  "codigo_variant": "75005_v1",
+  "medicamento": "LEVETIRACETAM CINFA 1000 mg COMPRIMIDOS RECUBIERTOS CON PELICULA EFG",
+  "model": "gpt-5.5",
+  "style_variant_idx": 0,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil de seguridad de LEVETIRACETAM se ha caracterizado mediante la revisión de los acontecimientos notificados durante el uso clínico y el seguimiento posterior. En general, las notificaciones fueron de intensidad variable y requirieron una valoración individual de la relación temporal, la dosis administrada y las características basales del paciente. La información disponible no sustituye la vigilancia clínica habitual ni la evaluación de otras causas posibles. La aparición de signos nuevos o persistentes debe conducir a una reevaluación del tratamiento y de las medidas de soporte apropiadas.\n\nLista tabulada de reacciones adversas\nLas reacciones se presentan por sistema de clasificación de órganos y por frecuencia.\n\nTRASTORNOS PSIQUIÁTRICOS\nfrecuentes: Depresión, agresividad, ansiedad, insomnio, nerviosismo.\npoco frecuentes: Intento de suicidio, agitación, alteraciones psicóticas, alucinaciones, ataque de pánico, cambios de humor, cólera, estado confusiona.\nno frecuente: Suicidio, delirio, trastornos de personalidad.\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS\npoco frecuentes: Trombocitopenia, leucopenia.\nno frecuente: Pancitopenia, agranulocitosis, neutropenia.\n\nTRASTORNOS DE PIEL Y TEJIDOS\nfrecuentes: Rash.\npoco frecuentes: Alopecia, eczema, prurito.\nno frecuente: Necrólisis epidérmica tóxica, eritema multiforme, síndrome de Stevens- Johnson.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nmuy frecuentes: Somnolencia, cefalea.\nfrecuentes: Convulsión, letargo, mareo, temblor, trastorno del equilibrio.\npoco frecuentes: Amnesia, alteración de la atención, coordinación anorma.\nno frecuente: Coreoatetosis, alteración de la marcha, crisis epilépticas agravadas, discinesia, encefalopatia, síndrome neuroléptico maligno.\n\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN\nfrecuentes: Anorexia.\npoco frecuentes: Pérdida de peso, aumento de peso.\nno frecuente: Hiponatremia.\n\nTRASTORNOS DEL SISTEMA GENERAL\nfrecuentes: Astenia.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\npoco frecuentes: Debilidad muscular, Lesión, mialgia.\nno frecuente: Cefalea, Rabdomiólisis.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nfrecuentes: Dolor abdominal, diarrea, dispepsia, náuseas.\npoco frecuentes: Pruebas anormales de la función hepática.\nno frecuente: Pancreatitis, hepatitis.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\nfrecuentes: Vértigo.\npoco frecuentes: Diplopía, visión borrosa.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\nno frecuente: hipersensibilidad.\n\nINFECCIONES E INFESTACIONES\nmuy frecuentes: Nasofaringitis.\nno frecuente: Infección.\n\nTRASTORNOS DEL SISTEMA EXCRETOR\nno frecuente: Lesión renal aguda.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\nno frecuente: Prolongación del intervalo QT.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\nfrecuentes: Tos.\n\nDescripción de reacciones adversas seleccionadas\nLa valoración de los acontecimientos de carácter conductual o del estado mental debe realizarse de forma sistemática, especialmente cuando exista antecedente relevante o cambios recientes en la situación clínica. Se recomienda informar al paciente y a sus cuidadores de la necesidad de comunicar de inmediato cualquier modificación marcada del comportamiento.\n\nLas alteraciones cutáneas graves requieren una actuación rápida, con suspensión del tratamiento si se sospecha una relación causal y según criterio clínico. Las alteraciones hematológicas, hepáticas o renales deben investigarse mediante las pruebas complementarias adecuadas cuando existan síntomas compatibles o hallazgos analíticos inesperados.\n\nEn pacientes con deterioro clínico, polimedicación o factores de riesgo concomitantes, la interpretación de los casos notificados debe considerar diagnósticos alternativos y la evolución temporal. La decisión de continuar, ajustar o retirar el tratamiento debe basarse en el balance individual entre beneficio y riesgo.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nEn la tabla de reacciones adversas, Convulsión se clasifica como frecuentes dentro de TRASTORNOS DEL SISTEMA NERVIOSO para LEVETIRACETAM. Esta notificación debe interpretarse en el contexto de la enfermedad de base y de la variabilidad individual de la respuesta al tratamiento, sin que la sola aparición establezca una relación causal definitiva en todos los casos. Se recomienda vigilancia clínica durante el seguimiento, especialmente tras cambios de dosis o situaciones que puedan modificar la exposición al tratamiento, valorando la continuidad terapéutica conforme al balance beneficio-riesgo individual.\n\n-- Caso 2 --\nEn la clasificación por órganos y sistemas, bajo TRASTORNOS DEL SISTEMA NERVIOSO, se han notificado Somnolencia, cefalea como reacciones adversas muy frecuentes durante el tratamiento con LEVETIRACETAM. Estas manifestaciones son coherentes con la acción central del medicamento y pueden aparecer al inicio del tratamiento o tras ajustes de dosis. Se recomienda valorar la intensidad y la persistencia de los síntomas durante el seguimiento clínico, especialmente cuando puedan interferir con actividades que requieran atención. La necesidad de modificar la pauta debe considerarse de forma individual, de acuerdo con la situación clínica del paciente.\n\n-- Caso 3 --\nEn la clasificación de Trastornos del sistema nervioso, se han notificado crisis epilépticas agravadas con una frecuencia no frecuente durante el tratamiento con LEVETIRACETAM. Este acontecimiento debe interpretarse en el contexto de la variabilidad propia de la enfermedad de base y de posibles factores intercurrentes, por lo que se recomienda valorar la evolución clínica y la adherencia al tratamiento. Si se observa un incremento relevante de la actividad convulsiva, el paciente debe ser reevaluado y considerarse el ajuste terapéutico conforme al criterio clínico.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "LEVETIRACETAM",
+      "surface": "LEVETIRACETAM",
+      "start": 83,
+      "end": 96
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 789,
+      "end": 813
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 814,
+      "end": 824
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión",
+      "surface": "Depresión",
+      "start": 826,
+      "end": 835
+    },
+    {
+      "type": "REACT",
+      "canonical": "agresividad",
+      "surface": "agresividad",
+      "start": 837,
+      "end": 848
+    },
+    {
+      "type": "REACT",
+      "canonical": "ansiedad",
+      "surface": "ansiedad",
+      "start": 850,
+      "end": 858
+    },
+    {
+      "type": "REACT",
+      "canonical": "insomnio",
+      "surface": "insomnio",
+      "start": 860,
+      "end": 868
+    },
+    {
+      "type": "REACT",
+      "canonical": "nerviosismo",
+      "surface": "nerviosismo",
+      "start": 870,
+      "end": 881
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 883,
+      "end": 898
+    },
+    {
+      "type": "REACT",
+      "canonical": "Intento de suicidio",
+      "surface": "Intento de suicidio",
+      "start": 900,
+      "end": 919
+    },
+    {
+      "type": "REACT",
+      "canonical": "agitación",
+      "surface": "agitación",
+      "start": 921,
+      "end": 930
+    },
+    {
+      "type": "REACT",
+      "canonical": "alteraciones psicóticas",
+      "surface": "alteraciones psicóticas",
+      "start": 932,
+      "end": 955
+    },
+    {
+      "type": "REACT",
+      "canonical": "alucinaciones",
+      "surface": "alucinaciones",
+      "start": 957,
+      "end": 970
+    },
+    {
+      "type": "REACT",
+      "canonical": "ataque de pánico",
+      "surface": "ataque de pánico",
+      "start": 972,
+      "end": 988
+    },
+    {
+      "type": "REACT",
+      "canonical": "cambios de humor",
+      "surface": "cambios de humor",
+      "start": 990,
+      "end": 1006
+    },
+    {
+      "type": "REACT",
+      "canonical": "cólera",
+      "surface": "cólera",
+      "start": 1008,
+      "end": 1014
+    },
+    {
+      "type": "REACT",
+      "canonical": "estado confusiona",
+      "surface": "estado confusiona",
+      "start": 1016,
+      "end": 1033
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 1035,
+      "end": 1047
+    },
+    {
+      "type": "REACT",
+      "canonical": "Suicidio",
+      "surface": "Suicidio",
+      "start": 911,
+      "end": 919
+    },
+    {
+      "type": "REACT",
+      "canonical": "delirio",
+      "surface": "delirio",
+      "start": 1059,
+      "end": 1066
+    },
+    {
+      "type": "REACT",
+      "canonical": "trastornos de personalidad",
+      "surface": "trastornos de personalidad",
+      "start": 1068,
+      "end": 1094
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 1097,
+      "end": 1146
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombocitopenia",
+      "surface": "Trombocitopenia",
+      "start": 1164,
+      "end": 1179
+    },
+    {
+      "type": "REACT",
+      "canonical": "leucopenia",
+      "surface": "leucopenia",
+      "start": 1181,
+      "end": 1191
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pancitopenia",
+      "surface": "Pancitopenia",
+      "start": 1207,
+      "end": 1219
+    },
+    {
+      "type": "REACT",
+      "canonical": "agranulocitosis",
+      "surface": "agranulocitosis",
+      "start": 1221,
+      "end": 1236
+    },
+    {
+      "type": "REACT",
+      "canonical": "neutropenia",
+      "surface": "neutropenia",
+      "start": 1238,
+      "end": 1249
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 1252,
+      "end": 1280
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rash",
+      "surface": "Rash",
+      "start": 1293,
+      "end": 1297
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alopecia",
+      "surface": "Alopecia",
+      "start": 1316,
+      "end": 1324
+    },
+    {
+      "type": "REACT",
+      "canonical": "eczema",
+      "surface": "eczema",
+      "start": 1326,
+      "end": 1332
+    },
+    {
+      "type": "REACT",
+      "canonical": "prurito",
+      "surface": "prurito",
+      "start": 1334,
+      "end": 1341
+    },
+    {
+      "type": "REACT",
+      "canonical": "Necrólisis epidérmica tóxica",
+      "surface": "Necrólisis epidérmica tóxica",
+      "start": 1357,
+      "end": 1385
+    },
+    {
+      "type": "REACT",
+      "canonical": "eritema multiforme",
+      "surface": "eritema multiforme",
+      "start": 1387,
+      "end": 1405
+    },
+    {
+      "type": "REACT",
+      "canonical": "síndrome de Stevens- Johnson",
+      "surface": "síndrome de Stevens- Johnson",
+      "start": 1407,
+      "end": 1435
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1438,
+      "end": 1469
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes",
+      "start": 1470,
+      "end": 1484
+    },
+    {
+      "type": "REACT",
+      "canonical": "Somnolencia, cefalea",
+      "surface": "Somnolencia, cefalea",
+      "start": 1486,
+      "end": 1506
+    },
+    {
+      "type": "REACT",
+      "canonical": "Convulsión",
+      "surface": "Convulsión",
+      "start": 1520,
+      "end": 1530
+    },
+    {
+      "type": "REACT",
+      "canonical": "letargo",
+      "surface": "letargo",
+      "start": 1532,
+      "end": 1539
+    },
+    {
+      "type": "REACT",
+      "canonical": "mareo",
+      "surface": "mareo",
+      "start": 1541,
+      "end": 1546
+    },
+    {
+      "type": "REACT",
+      "canonical": "temblor",
+      "surface": "temblor",
+      "start": 1548,
+      "end": 1555
+    },
+    {
+      "type": "REACT",
+      "canonical": "trastorno del equilibrio",
+      "surface": "trastorno del equilibrio",
+      "start": 1557,
+      "end": 1581
+    },
+    {
+      "type": "REACT",
+      "canonical": "Amnesia",
+      "surface": "Amnesia",
+      "start": 1600,
+      "end": 1607
+    },
+    {
+      "type": "REACT",
+      "canonical": "alteración de la atención",
+      "surface": "alteración de la atención",
+      "start": 1609,
+      "end": 1634
+    },
+    {
+      "type": "REACT",
+      "canonical": "coordinación anorma",
+      "surface": "coordinación anorma",
+      "start": 1636,
+      "end": 1655
+    },
+    {
+      "type": "REACT",
+      "canonical": "Coreoatetosis",
+      "surface": "Coreoatetosis",
+      "start": 1671,
+      "end": 1684
+    },
+    {
+      "type": "REACT",
+      "canonical": "alteración de la marcha",
+      "surface": "alteración de la marcha",
+      "start": 1686,
+      "end": 1709
+    },
+    {
+      "type": "REACT",
+      "canonical": "crisis epilépticas agravadas",
+      "surface": "crisis epilépticas agravadas",
+      "start": 1711,
+      "end": 1739
+    },
+    {
+      "type": "REACT",
+      "canonical": "discinesia",
+      "surface": "discinesia",
+      "start": 1741,
+      "end": 1751
+    },
+    {
+      "type": "REACT",
+      "canonical": "encefalopatia",
+      "surface": "encefalopatia",
+      "start": 1753,
+      "end": 1766
+    },
+    {
+      "type": "REACT",
+      "canonical": "síndrome neuroléptico maligno",
+      "surface": "síndrome neuroléptico maligno",
+      "start": 1768,
+      "end": 1797
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "start": 1800,
+      "end": 1841
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anorexia",
+      "surface": "Anorexia",
+      "start": 1854,
+      "end": 1862
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pérdida de peso",
+      "surface": "Pérdida de peso",
+      "start": 1881,
+      "end": 1896
+    },
+    {
+      "type": "REACT",
+      "canonical": "aumento de peso",
+      "surface": "aumento de peso",
+      "start": 1898,
+      "end": 1913
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiponatremia",
+      "surface": "Hiponatremia",
+      "start": 1929,
+      "end": 1941
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 1944,
+      "end": 1974
+    },
+    {
+      "type": "REACT",
+      "canonical": "Astenia",
+      "surface": "Astenia",
+      "start": 1987,
+      "end": 1994
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 1997,
+      "end": 2039
+    },
+    {
+      "type": "REACT",
+      "canonical": "Debilidad muscular",
+      "surface": "Debilidad muscular",
+      "start": 2057,
+      "end": 2075
+    },
+    {
+      "type": "REACT",
+      "canonical": "Lesión",
+      "surface": "Lesión",
+      "start": 2077,
+      "end": 2083
+    },
+    {
+      "type": "REACT",
+      "canonical": "mialgia",
+      "surface": "mialgia",
+      "start": 2085,
+      "end": 2092
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea",
+      "start": 1499,
+      "end": 1506
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rabdomiólisis",
+      "surface": "Rabdomiólisis",
+      "start": 2117,
+      "end": 2130
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 2133,
+      "end": 2165
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor abdominal",
+      "surface": "Dolor abdominal",
+      "start": 2178,
+      "end": 2193
+    },
+    {
+      "type": "REACT",
+      "canonical": "diarrea",
+      "surface": "diarrea",
+      "start": 2195,
+      "end": 2202
+    },
+    {
+      "type": "REACT",
+      "canonical": "dispepsia",
+      "surface": "dispepsia",
+      "start": 2204,
+      "end": 2213
+    },
+    {
+      "type": "REACT",
+      "canonical": "náuseas",
+      "surface": "náuseas",
+      "start": 2215,
+      "end": 2222
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pruebas anormales de la función hepática",
+      "surface": "Pruebas anormales de la función hepática",
+      "start": 2241,
+      "end": 2281
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pancreatitis",
+      "surface": "Pancreatitis",
+      "start": 2297,
+      "end": 2309
+    },
+    {
+      "type": "REACT",
+      "canonical": "hepatitis",
+      "surface": "hepatitis",
+      "start": 2311,
+      "end": 2320
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 2323,
+      "end": 2360
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vértigo",
+      "surface": "Vértigo",
+      "start": 2373,
+      "end": 2380
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diplopía",
+      "surface": "Diplopía",
+      "start": 2399,
+      "end": 2407
+    },
+    {
+      "type": "REACT",
+      "canonical": "visión borrosa",
+      "surface": "visión borrosa",
+      "start": 2409,
+      "end": 2423
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 2426,
+      "end": 2461
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipersensibilidad",
+      "surface": "hipersensibilidad",
+      "start": 2476,
+      "end": 2493
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "INFECCIONES E INFESTACIONES",
+      "start": 2496,
+      "end": 2523
+    },
+    {
+      "type": "REACT",
+      "canonical": "Nasofaringitis",
+      "surface": "Nasofaringitis",
+      "start": 2540,
+      "end": 2554
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infección",
+      "surface": "Infección",
+      "start": 2570,
+      "end": 2579
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "start": 2582,
+      "end": 2613
+    },
+    {
+      "type": "REACT",
+      "canonical": "Lesión renal aguda",
+      "surface": "Lesión renal aguda",
+      "start": 2628,
+      "end": 2646
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 2649,
+      "end": 2686
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prolongación del intervalo QT",
+      "surface": "Prolongación del intervalo QT",
+      "start": 2701,
+      "end": 2730
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 2733,
+      "end": 2768
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tos",
+      "surface": "Tos",
+      "start": 2781,
+      "end": 2784
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "Trastornos del sistema nervioso",
+      "start": 1438,
+      "end": 1469
+    }
+  ],
+  "raw_long_doc_text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil de seguridad de LEVETIRACETAM se ha caracterizado mediante la revisión de los acontecimientos notificados durante el uso clínico y el seguimiento posterior. En general, las notificaciones fueron de intensidad variable y requirieron una valoración individual de la relación temporal, la dosis administrada y las características basales del paciente. La información disponible no sustituye la vigilancia clínica habitual ni la evaluación de otras causas posibles. La aparición de signos nuevos o persistentes debe conducir a una reevaluación del tratamiento y de las medidas de soporte apropiadas.\n\nLista tabulada de reacciones adversas\nLas reacciones se presentan por sistema de clasificación de órganos y por frecuencia.\n\nTRASTORNOS PSIQUIÁTRICOS\nfrecuentes: Depresión, agresividad, ansiedad, insomnio, nerviosismo.\npoco frecuentes: Intento de suicidio, agitación, alteraciones psicóticas, alucinaciones, ataque de pánico, cambios de humor, cólera, estado confusiona.\nno frecuente: Suicidio, delirio, trastornos de personalidad.\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS\npoco frecuentes: Trombocitopenia, leucopenia.\nno frecuente: Pancitopenia, agranulocitosis, neutropenia.\n\nTRASTORNOS DE PIEL Y TEJIDOS\nfrecuentes: Rash.\npoco frecuentes: Alopecia, eczema, prurito.\nno frecuente: Necrólisis epidérmica tóxica, eritema multiforme, síndrome de Stevens- Johnson.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nmuy frecuentes: Somnolencia, cefalea.\nfrecuentes: Convulsión, letargo, mareo, temblor, trastorno del equilibrio.\npoco frecuentes: Amnesia, alteración de la atención, coordinación anorma.\nno frecuente: Coreoatetosis, alteración de la marcha, crisis epilépticas agravadas, discinesia, encefalopatia, síndrome neuroléptico maligno.\n\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN\nfrecuentes: Anorexia.\npoco frecuentes: Pérdida de peso, aumento de peso.\nno frecuente: Hiponatremia.\n\nTRASTORNOS DEL SISTEMA GENERAL\nfrecuentes: Astenia.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\npoco frecuentes: Debilidad muscular, Lesión, mialgia.\nno frecuente: Cefalea, Rabdomiólisis.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nfrecuentes: Dolor abdominal, diarrea, dispepsia, náuseas.\npoco frecuentes: Pruebas anormales de la función hepática.\nno frecuente: Pancreatitis, hepatitis.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\nfrecuentes: Vértigo.\npoco frecuentes: Diplopía, visión borrosa.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\nno frecuente: hipersensibilidad.\n\nINFECCIONES E INFESTACIONES\nmuy frecuentes: Nasofaringitis.\nno frecuente: Infección.\n\nTRASTORNOS DEL SISTEMA EXCRETOR\nno frecuente: Lesión renal aguda.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\nno frecuente: Prolongación del intervalo QT.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\nfrecuentes: Tos.\n\nDescripción de reacciones adversas seleccionadas\nLa valoración de los acontecimientos de carácter conductual o del estado mental debe realizarse de forma sistemática, especialmente cuando exista antecedente relevante o cambios recientes en la situación clínica. Se recomienda informar al paciente y a sus cuidadores de la necesidad de comunicar de inmediato cualquier modificación marcada del comportamiento.\n\nLas alteraciones cutáneas graves requieren una actuación rápida, con suspensión del tratamiento si se sospecha una relación causal y según criterio clínico. Las alteraciones hematológicas, hepáticas o renales deben investigarse mediante las pruebas complementarias adecuadas cuando existan síntomas compatibles o hallazgos analíticos inesperados.\n\nEn pacientes con deterioro clínico, polimedicación o factores de riesgo concomitantes, la interpretación de los casos notificados debe considerar diagnósticos alternativos y la evolución temporal. La decisión de continuar, ajustar o retirar el tratamiento debe basarse en el balance individual entre beneficio y riesgo.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "LEVETIRACETAM",
+      "surface": "LEVETIRACETAM"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión",
+      "surface": "Depresión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "agresividad",
+      "surface": "agresividad"
+    },
+    {
+      "type": "REACT",
+      "canonical": "ansiedad",
+      "surface": "ansiedad"
+    },
+    {
+      "type": "REACT",
+      "canonical": "insomnio",
+      "surface": "insomnio"
+    },
+    {
+      "type": "REACT",
+      "canonical": "nerviosismo",
+      "surface": "nerviosismo"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Intento de suicidio",
+      "surface": "Intento de suicidio"
+    },
+    {
+      "type": "REACT",
+      "canonical": "agitación",
+      "surface": "agitación"
+    },
+    {
+      "type": "REACT",
+      "canonical": "alteraciones psicóticas",
+      "surface": "alteraciones psicóticas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "alucinaciones",
+      "surface": "alucinaciones"
+    },
+    {
+      "type": "REACT",
+      "canonical": "ataque de pánico",
+      "surface": "ataque de pánico"
+    },
+    {
+      "type": "REACT",
+      "canonical": "cambios de humor",
+      "surface": "cambios de humor"
+    },
+    {
+      "type": "REACT",
+      "canonical": "cólera",
+      "surface": "cólera"
+    },
+    {
+      "type": "REACT",
+      "canonical": "estado confusiona",
+      "surface": "estado confusiona"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Suicidio",
+      "surface": "Suicidio"
+    },
+    {
+      "type": "REACT",
+      "canonical": "delirio",
+      "surface": "delirio"
+    },
+    {
+      "type": "REACT",
+      "canonical": "trastornos de personalidad",
+      "surface": "trastornos de personalidad"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombocitopenia",
+      "surface": "Trombocitopenia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "leucopenia",
+      "surface": "leucopenia"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pancitopenia",
+      "surface": "Pancitopenia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "agranulocitosis",
+      "surface": "agranulocitosis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "neutropenia",
+      "surface": "neutropenia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rash",
+      "surface": "Rash"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alopecia",
+      "surface": "Alopecia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "eczema",
+      "surface": "eczema"
+    },
+    {
+      "type": "REACT",
+      "canonical": "prurito",
+      "surface": "prurito"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Necrólisis epidérmica tóxica",
+      "surface": "Necrólisis epidérmica tóxica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "eritema multiforme",
+      "surface": "eritema multiforme"
+    },
+    {
+      "type": "REACT",
+      "canonical": "síndrome de Stevens- Johnson",
+      "surface": "síndrome de Stevens- Johnson"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Somnolencia, cefalea",
+      "surface": "Somnolencia, cefalea"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Convulsión",
+      "surface": "Convulsión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "letargo",
+      "surface": "letargo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "mareo",
+      "surface": "mareo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "temblor",
+      "surface": "temblor"
+    },
+    {
+      "type": "REACT",
+      "canonical": "trastorno del equilibrio",
+      "surface": "trastorno del equilibrio"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Amnesia",
+      "surface": "Amnesia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "alteración de la atención",
+      "surface": "alteración de la atención"
+    },
+    {
+      "type": "REACT",
+      "canonical": "coordinación anorma",
+      "surface": "coordinación anorma"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Coreoatetosis",
+      "surface": "Coreoatetosis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "alteración de la marcha",
+      "surface": "alteración de la marcha"
+    },
+    {
+      "type": "REACT",
+      "canonical": "crisis epilépticas agravadas",
+      "surface": "crisis epilépticas agravadas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "discinesia",
+      "surface": "discinesia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "encefalopatia",
+      "surface": "encefalopatia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "síndrome neuroléptico maligno",
+      "surface": "síndrome neuroléptico maligno"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anorexia",
+      "surface": "Anorexia"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pérdida de peso",
+      "surface": "Pérdida de peso"
+    },
+    {
+      "type": "REACT",
+      "canonical": "aumento de peso",
+      "surface": "aumento de peso"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiponatremia",
+      "surface": "Hiponatremia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Astenia",
+      "surface": "Astenia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Debilidad muscular",
+      "surface": "Debilidad muscular"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Lesión",
+      "surface": "Lesión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "mialgia",
+      "surface": "mialgia"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rabdomiólisis",
+      "surface": "Rabdomiólisis"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor abdominal",
+      "surface": "Dolor abdominal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "diarrea",
+      "surface": "diarrea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "dispepsia",
+      "surface": "dispepsia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "náuseas",
+      "surface": "náuseas"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pruebas anormales de la función hepática",
+      "surface": "Pruebas anormales de la función hepática"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pancreatitis",
+      "surface": "Pancreatitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "hepatitis",
+      "surface": "hepatitis"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vértigo",
+      "surface": "Vértigo"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diplopía",
+      "surface": "Diplopía"
+    },
+    {
+      "type": "REACT",
+      "canonical": "visión borrosa",
+      "surface": "visión borrosa"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipersensibilidad",
+      "surface": "hipersensibilidad"
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "INFECCIONES E INFESTACIONES"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Nasofaringitis",
+      "surface": "Nasofaringitis"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infección",
+      "surface": "Infección"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Lesión renal aguda",
+      "surface": "Lesión renal aguda"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prolongación del intervalo QT",
+      "surface": "Prolongación del intervalo QT"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tos",
+      "surface": "Tos"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "LEVETIRACETAM CINFA 1000 mg COMPRIMIDOS RECUBIERTOS CON PELICULA EFG",
+        "pactivo": "LEVETIRACETAM",
+        "reaccion": "Convulsión",
+        "frecuencia": "FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA NERVIOSO"
+      },
+      "text": "En la tabla de reacciones adversas, Convulsión se clasifica como frecuentes dentro de TRASTORNOS DEL SISTEMA NERVIOSO para LEVETIRACETAM. Esta notificación debe interpretarse en el contexto de la enfermedad de base y de la variabilidad individual de la respuesta al tratamiento, sin que la sola aparición establezca una relación causal definitiva en todos los casos. Se recomienda vigilancia clínica durante el seguimiento, especialmente tras cambios de dosis o situaciones que puedan modificar la exposición al tratamiento, valorando la continuidad terapéutica conforme al balance beneficio-riesgo individual.",
+      "declared": [
+        {
+          "type": "REACT",
+          "canonical": "Convulsión",
+          "surface": "Convulsión"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LEVETIRACETAM",
+          "surface": "LEVETIRACETAM"
+        }
+      ],
+      "validated": [
+        {
+          "type": "REACT",
+          "canonical": "Convulsión",
+          "surface": "Convulsión",
+          "start": 36,
+          "end": 46
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes",
+          "start": 65,
+          "end": 75
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "start": 86,
+          "end": 117
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LEVETIRACETAM",
+          "surface": "LEVETIRACETAM",
+          "start": 123,
+          "end": 136
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "LEVETIRACETAM CINFA 1000 mg COMPRIMIDOS RECUBIERTOS CON PELICULA EFG",
+        "pactivo": "LEVETIRACETAM",
+        "reaccion": "Somnolencia, cefalea",
+        "frecuencia": "MUY FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA NERVIOSO"
+      },
+      "text": "En la clasificación por órganos y sistemas, bajo TRASTORNOS DEL SISTEMA NERVIOSO, se han notificado Somnolencia, cefalea como reacciones adversas muy frecuentes durante el tratamiento con LEVETIRACETAM. Estas manifestaciones son coherentes con la acción central del medicamento y pueden aparecer al inicio del tratamiento o tras ajustes de dosis. Se recomienda valorar la intensidad y la persistencia de los síntomas durante el seguimiento clínico, especialmente cuando puedan interferir con actividades que requieran atención. La necesidad de modificar la pauta debe considerarse de forma individual, de acuerdo con la situación clínica del paciente.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Somnolencia, cefalea",
+          "surface": "Somnolencia, cefalea"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "MUY FRECUENTE",
+          "surface": "muy frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LEVETIRACETAM",
+          "surface": "LEVETIRACETAM"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "start": 49,
+          "end": 80
+        },
+        {
+          "type": "REACT",
+          "canonical": "Somnolencia, cefalea",
+          "surface": "Somnolencia, cefalea",
+          "start": 100,
+          "end": 120
+        },
+        {
+          "type": "FREQ",
+          "canonical": "MUY FRECUENTE",
+          "surface": "muy frecuentes",
+          "start": 146,
+          "end": 160
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LEVETIRACETAM",
+          "surface": "LEVETIRACETAM",
+          "start": 188,
+          "end": 201
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "LEVETIRACETAM CINFA 1000 mg COMPRIMIDOS RECUBIERTOS CON PELICULA EFG",
+        "pactivo": "LEVETIRACETAM",
+        "reaccion": "crisis epilépticas agravadas",
+        "frecuencia": "NO FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA NERVIOSO"
+      },
+      "text": "En la clasificación de Trastornos del sistema nervioso, se han notificado crisis epilépticas agravadas con una frecuencia no frecuente durante el tratamiento con LEVETIRACETAM. Este acontecimiento debe interpretarse en el contexto de la variabilidad propia de la enfermedad de base y de posibles factores intercurrentes, por lo que se recomienda valorar la evolución clínica y la adherencia al tratamiento. Si se observa un incremento relevante de la actividad convulsiva, el paciente debe ser reevaluado y considerarse el ajuste terapéutico conforme al criterio clínico.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "surface": "Trastornos del sistema nervioso"
+        },
+        {
+          "type": "REACT",
+          "canonical": "crisis epilépticas agravadas",
+          "surface": "crisis epilépticas agravadas"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LEVETIRACETAM",
+          "surface": "LEVETIRACETAM"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "surface": "Trastornos del sistema nervioso",
+          "start": 23,
+          "end": 54
+        },
+        {
+          "type": "REACT",
+          "canonical": "crisis epilépticas agravadas",
+          "surface": "crisis epilépticas agravadas",
+          "start": 74,
+          "end": 102
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente",
+          "start": 122,
+          "end": 134
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LEVETIRACETAM",
+          "surface": "LEVETIRACETAM",
+          "start": 162,
+          "end": 175
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

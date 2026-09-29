@@ -1,0 +1,57 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+La experiencia disponible con USTEKINUMAB (ustekinumab; Stelara) muestra un perfil de seguridad coherente con el esperado para este tipo de tratamiento biológico. La mayoría de los acontecimientos comunicados fueron de intensidad leve o moderada y pudieron manejarse con seguimiento clínico habitual, sin requerir cambios relevantes en la pauta en todos los casos. La valoración debe realizarse siempre de forma individual, teniendo en cuenta la situación basal del paciente, los tratamientos concomitantes y la evolución temporal tras la administración. En caso de aparición de manifestaciones persistentes, progresivas o clínicamente relevantes, se recomienda una evaluación médica adecuada antes de continuar el tratamiento. La información siguiente se presenta por clasificación de órganos y por categoría de presentación, utilizando la terminología comunicada en la evaluación clínica.
+
+Lista tabulada de reacciones adversas
+
+TRASTORNOS DE PIEL Y TEJIDOS
+frecuentes: Enrojecimiento y dolor en el lugar de inyección; Picor (“prurito”).
+poco frecuentes: Acné; Anafilaxia; Descamación de la piel; Endurecimiento, hinchazón y picor en el lugar de la inyección; Erupción cutánea; cardenales.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+poco frecuentes: Depresión; Parálisis facial (normalmente temporal); Párpado caído.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+frecuentes: Diarrea; Dolor de garganta; Náuseas; Vómitos.
+poco frecuentes: Dificultad para respirar y tragar.
+
+TRASTORNOS DEL SISTEMA GENERAL
+frecuentes: Dolor de cabeza; Sensación de cansancio; Sensación de mareo.
+poco frecuentes: Sentirse débil.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+frecuentes: Dolor de espalda, muscular o articular.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+poco frecuentes: Hemorragia.
+
+INFECCIONES E INFESTACIONES
+frecuentes: Infecciones nariz o garganta; Resfriado común; Sinusitis.
+poco frecuentes: Infecciones dentales; Infecciones vaginales por levaduras; Taponamiento o congestión nasal.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+poco frecuentes: Tensión arterial baja.
+
+Descripción de la información de seguridad
+La interpretación de estos datos debe considerar que la notificación espontánea y la observación durante el seguimiento pueden estar influidas por la enfermedad de base y por la exposición previa a otros medicamentos. La aparición temporal tras la administración no implica necesariamente una relación causal definitiva, aunque debe tenerse en cuenta en la valoración clínica. Se aconseja registrar cuidadosamente los acontecimientos relevantes, su duración, la intensidad percibida y las medidas adoptadas. Esta información contribuye a una evaluación continuada del balance beneficio-riesgo y facilita una comunicación homogénea entre profesionales sanitarios.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En el sistema de clasificación de órganos INFECCIONES E INFESTACIONES se han notificado Infecciones nariz o garganta con ustekinumab (Stelara). Esta reacción adversa se clasifica como frecuentes, de acuerdo con la clasificación de frecuencia utilizada en la ficha técnica.
+
+Tabla resumida:
+- INFECCIONES E INFESTACIONES: Infecciones nariz o garganta; frecuentes.
+
+Dado el mecanismo inmunomodulador del tratamiento, se recomienda valorar la presencia de síntomas compatibles durante el seguimiento clínico y considerar la evolución del paciente antes de continuar la administración. En general, el manejo debe basarse en la evaluación clínica habitual y en las recomendaciones de monitorización del producto.
+
+-- Caso 2 --
+En la evaluación de seguridad con ustekinumab (Stelara), se ha notificado Párpado caído, clasificado dentro de Trastornos del sistema nervioso y con una frecuencia de poco frecuentes. En la lista tabulada de reacciones adversas debe mantenerse la denominación: Párpado caído. Este hallazgo puede ser compatible con alteraciones funcionales neurológicas transitorias; se recomienda valorar la cronología respecto a la administración y realizar seguimiento clínico si persiste o interfiere con la visión. La continuación del tratamiento debe individualizarse según la intensidad, evolución y relación temporal, sin modificar la categoría de frecuencia asignada.
+
+-- Caso 3 --
+En la evaluación de seguridad, ustekinumab y Stelara se han asociado a reacciones incluidas en el sistema Trastornos del sistema general. La reacción adversa notificada para esta categoría fue:
+
+- Sensación de cansancio (cansancio): frecuentes.
+
+Este síntoma puede aparecer durante el tratamiento y debe interpretarse en el contexto clínico del paciente y de la evolución temporal tras la administración. Se recomienda realizar seguimiento si persiste o interfiere con las actividades habituales, sin que ello implique necesariamente la interrupción del tratamiento.

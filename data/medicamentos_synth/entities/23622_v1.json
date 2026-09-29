@@ -1,0 +1,254 @@
+{
+  "codigo": "23622",
+  "variante": 1,
+  "codigo_variant": "23622_v1",
+  "medicamento": "Sulmetin simple 150 mg/ml solución inyectable y para perfusión",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "CITRATO TRISODIO",
+      "surface": "CITRATO TRISODIO",
+      "start": 127,
+      "end": 143
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1001,
+      "end": 1038
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 1041,
+      "end": 1051
+    },
+    {
+      "type": "REACT",
+      "canonical": "bradicardia",
+      "surface": "bradicardia",
+      "start": 1053,
+      "end": 1064
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipotensión por vasodilatación periférica",
+      "surface": "hipotensión por vasodilatación periférica",
+      "start": 1066,
+      "end": 1107
+    },
+    {
+      "type": "REACT",
+      "canonical": "rubor",
+      "surface": "rubor",
+      "start": 1109,
+      "end": 1114
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 1118,
+      "end": 1133
+    },
+    {
+      "type": "REACT",
+      "canonical": "parada cardiaca o colapso circulatorio",
+      "surface": "parada cardiaca o colapso circulatorio",
+      "start": 1135,
+      "end": 1173
+    },
+    {
+      "type": "REACT",
+      "canonical": "vasodilatación consensación de calor",
+      "surface": "vasodilatación consensación de calor",
+      "start": 1175,
+      "end": 1211
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1214,
+      "end": 1245
+    },
+    {
+      "type": "REACT",
+      "canonical": "pérdida de reflejo tendinoso",
+      "surface": "pérdida de reflejo tendinoso",
+      "start": 1260,
+      "end": 1288
+    },
+    {
+      "type": "REACT",
+      "canonical": "coma",
+      "surface": "coma",
+      "start": 1309,
+      "end": 1313
+    },
+    {
+      "type": "REACT",
+      "canonical": "confusión",
+      "surface": "confusión",
+      "start": 1315,
+      "end": 1324
+    },
+    {
+      "type": "REACT",
+      "canonical": "depresión del SNC que puede preceder a la parálisis respiratoria",
+      "surface": "depresión del SNC que puede preceder a la parálisis respiratoria",
+      "start": 1326,
+      "end": 1390
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor de cabeza",
+      "surface": "dolor de cabeza",
+      "start": 1392,
+      "end": 1407
+    },
+    {
+      "type": "REACT",
+      "canonical": "mareos",
+      "surface": "mareos",
+      "start": 1409,
+      "end": 1415
+    },
+    {
+      "type": "REACT",
+      "canonical": "somnolencia",
+      "surface": "somnolencia",
+      "start": 1417,
+      "end": 1428
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 1431,
+      "end": 1473
+    },
+    {
+      "type": "REACT",
+      "canonical": "debilidad muscular.",
+      "surface": "debilidad muscular.",
+      "start": 1493,
+      "end": 1512
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 1514,
+      "end": 1549
+    },
+    {
+      "type": "REACT",
+      "canonical": "depresión respiratoria debido al bloqueo neuromuscular",
+      "surface": "depresión respiratoria debido al bloqueo neuromuscular",
+      "start": 1569,
+      "end": 1623
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 1626,
+      "end": 1654
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor en el punto de inyección",
+      "surface": "dolor en el punto de inyección",
+      "start": 1674,
+      "end": 1704
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 1707,
+      "end": 1737
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipotermia",
+      "surface": "hipotermia",
+      "start": 1757,
+      "end": 1767
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1770,
+      "end": 1802
+    },
+    {
+      "type": "REACT",
+      "canonical": "náuseas",
+      "surface": "náuseas",
+      "start": 1822,
+      "end": 1829
+    },
+    {
+      "type": "REACT",
+      "canonical": "sed",
+      "surface": "sed",
+      "start": 1831,
+      "end": 1834
+    },
+    {
+      "type": "REACT",
+      "canonical": "vómitos",
+      "surface": "vómitos",
+      "start": 1836,
+      "end": 1843
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 1846,
+      "end": 1883
+    },
+    {
+      "type": "REACT",
+      "canonical": "problemas de la visión",
+      "surface": "problemas de la visión",
+      "start": 1903,
+      "end": 1925
+    },
+    {
+      "type": "REACT",
+      "canonical": "problemas del habla",
+      "surface": "problemas del habla",
+      "start": 1927,
+      "end": 1946
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "surface": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "start": 1949,
+      "end": 1981
+    },
+    {
+      "type": "REACT",
+      "canonical": "sudoración excesiva",
+      "surface": "sudoración excesiva",
+      "start": 2001,
+      "end": 2020
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "Trastornos del sistema nervioso",
+      "start": 1214,
+      "end": 1245
+    }
+  ]
+}

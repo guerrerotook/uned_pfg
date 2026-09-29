@@ -1,0 +1,1035 @@
+{
+  "codigo": "63936",
+  "variante": 1,
+  "codigo_variant": "63936_v1",
+  "medicamento": "MIDAZOLAM NORMON 1 MG/ML SOLUCIÓN INYECTABLE Y PARA PERFUSIÓN EFG",
+  "model": "gpt-5.5",
+  "style_variant_idx": 0,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nMIDAZOLAM puede producir efectos no deseados relacionados con su actividad farmacológica y con la situación clínica del paciente. La intensidad y la duración de estos efectos pueden variar según la dosis administrada, la velocidad de administración y la respuesta individual. En el uso parenteral se recomienda observación continuada, especialmente cuando se administra en procedimientos diagnósticos o terapéuticos. Algunas manifestaciones pueden aparecer durante la administración o en el periodo posterior, por lo que debe disponerse de medidas adecuadas de vigilancia y soporte. Con los datos disponibles no puede estimarse una incidencia fiable; por ello, las reacciones enumeradas se clasifican como frecuencia no conocida.\n\nLista tabulada de reacciones adversas\nLas reacciones se presentan por sistema de clasificación de órganos. Dentro de cada grupo se mantiene la denominación clínica estándar utilizada para la notificación y evaluación de seguridad.\n\nTRASTORNOS PSIQUIÁTRICOS: Abuso, Agitación, Agresividad, Alucinaciones, Ansiedad, Cambios en la líbido, Comportamiento inadecuado, Conducta agresiva, Dependencia física, Desorientación, Estados de cosnfusión, Excitación paroxística, Inquietud, Ira, Irritabilidad, Nerviosismo, Pesadillas, Psicosis, Reacciones paradójicas del comportamiento, Sueños anormales, Síndrome de retirada, Trastornos emocionales y anímicos.\n\nTRASTORNOS DEL SISTEMA NERVIOSO: Amnesia anterógrada, Ataxia, Cefalea, Convulsiones después de la retirada, Disminución de la alerta, Hiperactividad, Movimientos involuntarios, Sedación, Somnolencia, Vértigos.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO: Angioedema, Hipersensibilidad, Shock anafiláctico.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO: Apnea, Depresión respiratoria, Disnea, Hipo, Laringoespasmo, Parada respiratoria.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR: Bradicardia, Hipotensión, Parada cardíaca, Síndrome de Kounis, Tromboflebitis, Trombosis, Vasodilatación.\n\nLESIONES TRAUMÁTICAS, INTOXICACIONES Y COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS: Caídas y fracturas.\n\nTRASTORNOS DEL SISTEMA GENERAL: Eritema y dolor en el lugar de la inyección, Fatiga.\n\nTRASTORNOS DE PIEL Y TEJIDOS: Erupción cutánea, Prurito, Urticaria.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO: Estreñimiento, Náuseas, Sequedad de boca, Vómitos.\n\nDescripción de reacciones adversas seleccionadas\nDurante la utilización clínica deben considerarse las características del paciente, la indicación y la exposición acumulada. La valoración de cualquier acontecimiento debe realizarse de forma individual, teniendo en cuenta la medicación concomitante y el contexto del procedimiento. La recuperación puede requerir un periodo de observación suficiente antes del alta o del traslado a una unidad con menor supervisión.\n\nLa comunicación de sospechas tras la autorización permite mantener actualizada la información de seguridad. Los profesionales sanitarios deben registrar los datos relevantes del episodio, incluida la temporalidad, la dosis y la evolución, para facilitar una evaluación adecuada. Si se considera necesario, la administración deberá interrumpirse y se instaurarán las medidas clínicas apropiadas según el estado del paciente.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nEn la clasificación por sistemas y órganos, dentro de TRASTORNOS PSIQUIÁTRICOS, se ha descrito Psicosis asociada al uso de MIDAZOLAM, con frecuencia no conocida a partir de los datos disponibles. Esta reacción adversa requiere valoración clínica individual y debe interpretarse en el contexto del estado basal del paciente y de la exposición al medicamento. En caso de sospecha, se recomienda seguimiento estrecho, medidas de soporte cuando sean necesarias y reevaluación de la continuidad del tratamiento conforme al balance beneficio-riesgo.\n\n-- Caso 2 --\nEn el sistema de clasificación de órganos TRASTORNOS DEL SISTEMA NERVIOSO, se ha notificado Vértigos durante el tratamiento con MIDAZOLAM, con frecuencia no conocida. Este acontecimiento debe considerarse en la valoración clínica del paciente, especialmente durante la administración parenteral y en el periodo de recuperación, dado el efecto depresor central del principio activo. Se recomienda vigilancia clínica y reevaluación de la necesidad de continuar o ajustar la administración según la situación del paciente y la evolución del episodio. La aparición tras la dosis requiere valorar factores concomitantes y mantener medidas habituales de seguridad.\n\n-- Caso 3 --\nDentro de TRASTORNOS PSIQUIÁTRICOS, se han notificado Pesadillas asociadas al uso de MIDAZOLAM con frecuencia no conocida. Debido a sus efectos farmacológicos centrales y a la posible modificación del ciclo sueño-vigilia durante el periodo de recuperación, este acontecimiento debe valorarse en el contexto clínico del paciente. Si se observa tras la administración, se recomienda seguimiento clínico y reconsiderar las condiciones de uso, especialmente cuando la aparición temporal sugiera relación con el tratamiento. La notificación de sospechas contribuye a caracterizar mejor el perfil de seguridad.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "MIDAZOLAM",
+      "surface": "MIDAZOLAM",
+      "start": 57,
+      "end": 66
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 763,
+      "end": 785
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 1020,
+      "end": 1044
+    },
+    {
+      "type": "REACT",
+      "canonical": "Abuso",
+      "surface": "Abuso",
+      "start": 1046,
+      "end": 1051
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agitación",
+      "surface": "Agitación",
+      "start": 1053,
+      "end": 1062
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agresividad",
+      "surface": "Agresividad",
+      "start": 1064,
+      "end": 1075
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alucinaciones",
+      "surface": "Alucinaciones",
+      "start": 1077,
+      "end": 1090
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ansiedad",
+      "surface": "Ansiedad",
+      "start": 1092,
+      "end": 1100
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cambios en la líbido",
+      "surface": "Cambios en la líbido",
+      "start": 1102,
+      "end": 1122
+    },
+    {
+      "type": "REACT",
+      "canonical": "Comportamiento inadecuado",
+      "surface": "Comportamiento inadecuado",
+      "start": 1124,
+      "end": 1149
+    },
+    {
+      "type": "REACT",
+      "canonical": "Conducta agresiva",
+      "surface": "Conducta agresiva",
+      "start": 1151,
+      "end": 1168
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dependencia física",
+      "surface": "Dependencia física",
+      "start": 1170,
+      "end": 1188
+    },
+    {
+      "type": "REACT",
+      "canonical": "Desorientación",
+      "surface": "Desorientación",
+      "start": 1190,
+      "end": 1204
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estados de cosnfusión",
+      "surface": "Estados de cosnfusión",
+      "start": 1206,
+      "end": 1227
+    },
+    {
+      "type": "REACT",
+      "canonical": "Excitación paroxística",
+      "surface": "Excitación paroxística",
+      "start": 1229,
+      "end": 1251
+    },
+    {
+      "type": "REACT",
+      "canonical": "Inquietud",
+      "surface": "Inquietud",
+      "start": 1253,
+      "end": 1262
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ira",
+      "surface": "Ira",
+      "start": 1264,
+      "end": 1267
+    },
+    {
+      "type": "REACT",
+      "canonical": "Irritabilidad",
+      "surface": "Irritabilidad",
+      "start": 1269,
+      "end": 1282
+    },
+    {
+      "type": "REACT",
+      "canonical": "Nerviosismo",
+      "surface": "Nerviosismo",
+      "start": 1284,
+      "end": 1295
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pesadillas",
+      "surface": "Pesadillas",
+      "start": 1297,
+      "end": 1307
+    },
+    {
+      "type": "REACT",
+      "canonical": "Psicosis",
+      "surface": "Psicosis",
+      "start": 1309,
+      "end": 1317
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacciones paradójicas del comportamiento",
+      "surface": "Reacciones paradójicas del comportamiento",
+      "start": 1319,
+      "end": 1360
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sueños anormales",
+      "surface": "Sueños anormales",
+      "start": 1362,
+      "end": 1378
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de retirada",
+      "surface": "Síndrome de retirada",
+      "start": 1380,
+      "end": 1400
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastornos emocionales y anímicos",
+      "surface": "Trastornos emocionales y anímicos",
+      "start": 1402,
+      "end": 1435
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1438,
+      "end": 1469
+    },
+    {
+      "type": "REACT",
+      "canonical": "Amnesia anterógrada",
+      "surface": "Amnesia anterógrada",
+      "start": 1471,
+      "end": 1490
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ataxia",
+      "surface": "Ataxia",
+      "start": 1492,
+      "end": 1498
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea",
+      "start": 1500,
+      "end": 1507
+    },
+    {
+      "type": "REACT",
+      "canonical": "Convulsiones después de la retirada",
+      "surface": "Convulsiones después de la retirada",
+      "start": 1509,
+      "end": 1544
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de la alerta",
+      "surface": "Disminución de la alerta",
+      "start": 1546,
+      "end": 1570
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperactividad",
+      "surface": "Hiperactividad",
+      "start": 1572,
+      "end": 1586
+    },
+    {
+      "type": "REACT",
+      "canonical": "Movimientos involuntarios",
+      "surface": "Movimientos involuntarios",
+      "start": 1588,
+      "end": 1613
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sedación",
+      "surface": "Sedación",
+      "start": 1615,
+      "end": 1623
+    },
+    {
+      "type": "REACT",
+      "canonical": "Somnolencia",
+      "surface": "Somnolencia",
+      "start": 1625,
+      "end": 1636
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vértigos",
+      "surface": "Vértigos",
+      "start": 1638,
+      "end": 1646
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 1649,
+      "end": 1684
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angioedema",
+      "surface": "Angioedema",
+      "start": 1686,
+      "end": 1696
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipersensibilidad",
+      "surface": "Hipersensibilidad",
+      "start": 1698,
+      "end": 1715
+    },
+    {
+      "type": "REACT",
+      "canonical": "Shock anafiláctico",
+      "surface": "Shock anafiláctico",
+      "start": 1717,
+      "end": 1735
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 1738,
+      "end": 1773
+    },
+    {
+      "type": "REACT",
+      "canonical": "Apnea",
+      "surface": "Apnea",
+      "start": 1775,
+      "end": 1780
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión respiratoria",
+      "surface": "Depresión respiratoria",
+      "start": 1782,
+      "end": 1804
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disnea",
+      "surface": "Disnea",
+      "start": 1806,
+      "end": 1812
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipo",
+      "surface": "Hipo",
+      "start": 1814,
+      "end": 1818
+    },
+    {
+      "type": "REACT",
+      "canonical": "Laringoespasmo",
+      "surface": "Laringoespasmo",
+      "start": 1820,
+      "end": 1834
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parada respiratoria",
+      "surface": "Parada respiratoria",
+      "start": 1836,
+      "end": 1855
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1858,
+      "end": 1895
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bradicardia",
+      "surface": "Bradicardia",
+      "start": 1897,
+      "end": 1908
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión",
+      "start": 1910,
+      "end": 1921
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parada cardíaca",
+      "surface": "Parada cardíaca",
+      "start": 1923,
+      "end": 1938
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de Kounis",
+      "surface": "Síndrome de Kounis",
+      "start": 1940,
+      "end": 1958
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tromboflebitis",
+      "surface": "Tromboflebitis",
+      "start": 1960,
+      "end": 1974
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombosis",
+      "surface": "Trombosis",
+      "start": 1976,
+      "end": 1985
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vasodilatación",
+      "surface": "Vasodilatación",
+      "start": 1987,
+      "end": 2001
+    },
+    {
+      "type": "SYS",
+      "canonical": "LESIONES TRAUMÁTICAS, INTOXICACIONES Y COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS",
+      "surface": "LESIONES TRAUMÁTICAS, INTOXICACIONES Y COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS",
+      "start": 2004,
+      "end": 2088
+    },
+    {
+      "type": "REACT",
+      "canonical": "Caídas y fracturas",
+      "surface": "Caídas y fracturas",
+      "start": 2090,
+      "end": 2108
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 2111,
+      "end": 2141
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eritema y dolor en el lugar de la inyección",
+      "surface": "Eritema y dolor en el lugar de la inyección",
+      "start": 2143,
+      "end": 2186
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "Fatiga",
+      "start": 2188,
+      "end": 2194
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 2197,
+      "end": 2225
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción cutánea",
+      "surface": "Erupción cutánea",
+      "start": 2227,
+      "end": 2243
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito",
+      "start": 2245,
+      "end": 2252
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria",
+      "start": 2254,
+      "end": 2263
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 2266,
+      "end": 2298
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento",
+      "start": 2300,
+      "end": 2313
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 2315,
+      "end": 2322
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad de boca",
+      "surface": "Sequedad de boca",
+      "start": 2324,
+      "end": 2340
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos",
+      "start": 2342,
+      "end": 2349
+    }
+  ],
+  "raw_long_doc_text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nMIDAZOLAM puede producir efectos no deseados relacionados con su actividad farmacológica y con la situación clínica del paciente. La intensidad y la duración de estos efectos pueden variar según la dosis administrada, la velocidad de administración y la respuesta individual. En el uso parenteral se recomienda observación continuada, especialmente cuando se administra en procedimientos diagnósticos o terapéuticos. Algunas manifestaciones pueden aparecer durante la administración o en el periodo posterior, por lo que debe disponerse de medidas adecuadas de vigilancia y soporte. Con los datos disponibles no puede estimarse una incidencia fiable; por ello, las reacciones enumeradas se clasifican como frecuencia no conocida.\n\nLista tabulada de reacciones adversas\nLas reacciones se presentan por sistema de clasificación de órganos. Dentro de cada grupo se mantiene la denominación clínica estándar utilizada para la notificación y evaluación de seguridad.\n\nTRASTORNOS PSIQUIÁTRICOS: Abuso, Agitación, Agresividad, Alucinaciones, Ansiedad, Cambios en la líbido, Comportamiento inadecuado, Conducta agresiva, Dependencia física, Desorientación, Estados de cosnfusión, Excitación paroxística, Inquietud, Ira, Irritabilidad, Nerviosismo, Pesadillas, Psicosis, Reacciones paradójicas del comportamiento, Sueños anormales, Síndrome de retirada, Trastornos emocionales y anímicos.\n\nTRASTORNOS DEL SISTEMA NERVIOSO: Amnesia anterógrada, Ataxia, Cefalea, Convulsiones después de la retirada, Disminución de la alerta, Hiperactividad, Movimientos involuntarios, Sedación, Somnolencia, Vértigos.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO: Angioedema, Hipersensibilidad, Shock anafiláctico.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO: Apnea, Depresión respiratoria, Disnea, Hipo, Laringoespasmo, Parada respiratoria.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR: Bradicardia, Hipotensión, Parada cardíaca, Síndrome de Kounis, Tromboflebitis, Trombosis, Vasodilatación.\n\nLESIONES TRAUMÁTICAS, INTOXICACIONES Y COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS: Caídas y fracturas.\n\nTRASTORNOS DEL SISTEMA GENERAL: Eritema y dolor en el lugar de la inyección, Fatiga.\n\nTRASTORNOS DE PIEL Y TEJIDOS: Erupción cutánea, Prurito, Urticaria.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO: Estreñimiento, Náuseas, Sequedad de boca, Vómitos.\n\nDescripción de reacciones adversas seleccionadas\nDurante la utilización clínica deben considerarse las características del paciente, la indicación y la exposición acumulada. La valoración de cualquier acontecimiento debe realizarse de forma individual, teniendo en cuenta la medicación concomitante y el contexto del procedimiento. La recuperación puede requerir un periodo de observación suficiente antes del alta o del traslado a una unidad con menor supervisión.\n\nLa comunicación de sospechas tras la autorización permite mantener actualizada la información de seguridad. Los profesionales sanitarios deben registrar los datos relevantes del episodio, incluida la temporalidad, la dosis y la evolución, para facilitar una evaluación adecuada. Si se considera necesario, la administración deberá interrumpirse y se instaurarán las medidas clínicas apropiadas según el estado del paciente.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "MIDAZOLAM",
+      "surface": "MIDAZOLAM"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Abuso",
+      "surface": "Abuso"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agitación",
+      "surface": "Agitación"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agresividad",
+      "surface": "Agresividad"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alucinaciones",
+      "surface": "Alucinaciones"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ansiedad",
+      "surface": "Ansiedad"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cambios en la líbido",
+      "surface": "Cambios en la líbido"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Comportamiento inadecuado",
+      "surface": "Comportamiento inadecuado"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Conducta agresiva",
+      "surface": "Conducta agresiva"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dependencia física",
+      "surface": "Dependencia física"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Desorientación",
+      "surface": "Desorientación"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estados de cosnfusión",
+      "surface": "Estados de cosnfusión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Excitación paroxística",
+      "surface": "Excitación paroxística"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Inquietud",
+      "surface": "Inquietud"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ira",
+      "surface": "Ira"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Irritabilidad",
+      "surface": "Irritabilidad"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Nerviosismo",
+      "surface": "Nerviosismo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pesadillas",
+      "surface": "Pesadillas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Psicosis",
+      "surface": "Psicosis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacciones paradójicas del comportamiento",
+      "surface": "Reacciones paradójicas del comportamiento"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sueños anormales",
+      "surface": "Sueños anormales"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de retirada",
+      "surface": "Síndrome de retirada"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastornos emocionales y anímicos",
+      "surface": "Trastornos emocionales y anímicos"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Amnesia anterógrada",
+      "surface": "Amnesia anterógrada"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ataxia",
+      "surface": "Ataxia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Convulsiones después de la retirada",
+      "surface": "Convulsiones después de la retirada"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de la alerta",
+      "surface": "Disminución de la alerta"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperactividad",
+      "surface": "Hiperactividad"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Movimientos involuntarios",
+      "surface": "Movimientos involuntarios"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sedación",
+      "surface": "Sedación"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Somnolencia",
+      "surface": "Somnolencia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vértigos",
+      "surface": "Vértigos"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angioedema",
+      "surface": "Angioedema"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipersensibilidad",
+      "surface": "Hipersensibilidad"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Shock anafiláctico",
+      "surface": "Shock anafiláctico"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Apnea",
+      "surface": "Apnea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión respiratoria",
+      "surface": "Depresión respiratoria"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disnea",
+      "surface": "Disnea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipo",
+      "surface": "Hipo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Laringoespasmo",
+      "surface": "Laringoespasmo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parada respiratoria",
+      "surface": "Parada respiratoria"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bradicardia",
+      "surface": "Bradicardia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parada cardíaca",
+      "surface": "Parada cardíaca"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de Kounis",
+      "surface": "Síndrome de Kounis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tromboflebitis",
+      "surface": "Tromboflebitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombosis",
+      "surface": "Trombosis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vasodilatación",
+      "surface": "Vasodilatación"
+    },
+    {
+      "type": "SYS",
+      "canonical": "LESIONES TRAUMÁTICAS, INTOXICACIONES Y COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS",
+      "surface": "LESIONES TRAUMÁTICAS, INTOXICACIONES Y COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Caídas y fracturas",
+      "surface": "Caídas y fracturas"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eritema y dolor en el lugar de la inyección",
+      "surface": "Eritema y dolor en el lugar de la inyección"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "Fatiga"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción cutánea",
+      "surface": "Erupción cutánea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad de boca",
+      "surface": "Sequedad de boca"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "MIDAZOLAM NORMON 1 MG/ML SOLUCIÓN INYECTABLE Y PARA PERFUSIÓN EFG",
+        "pactivo": "MIDAZOLAM",
+        "reaccion": "Psicosis",
+        "frecuencia": "SIN FRECUENCIA",
+        "sistema": "TRASTORNOS PSIQUIÁTRICOS"
+      },
+      "text": "En la clasificación por sistemas y órganos, dentro de TRASTORNOS PSIQUIÁTRICOS, se ha descrito Psicosis asociada al uso de MIDAZOLAM, con frecuencia no conocida a partir de los datos disponibles. Esta reacción adversa requiere valoración clínica individual y debe interpretarse en el contexto del estado basal del paciente y de la exposición al medicamento. En caso de sospecha, se recomienda seguimiento estrecho, medidas de soporte cuando sean necesarias y reevaluación de la continuidad del tratamiento conforme al balance beneficio-riesgo.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+          "surface": "TRASTORNOS PSIQUIÁTRICOS"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Psicosis",
+          "surface": "Psicosis"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "MIDAZOLAM",
+          "surface": "MIDAZOLAM"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+          "surface": "TRASTORNOS PSIQUIÁTRICOS",
+          "start": 54,
+          "end": 78
+        },
+        {
+          "type": "REACT",
+          "canonical": "Psicosis",
+          "surface": "Psicosis",
+          "start": 95,
+          "end": 103
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "MIDAZOLAM",
+          "surface": "MIDAZOLAM",
+          "start": 123,
+          "end": 132
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida",
+          "start": 138,
+          "end": 160
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "MIDAZOLAM NORMON 1 MG/ML SOLUCIÓN INYECTABLE Y PARA PERFUSIÓN EFG",
+        "pactivo": "MIDAZOLAM",
+        "reaccion": "Vértigos",
+        "frecuencia": "SIN FRECUENCIA",
+        "sistema": "TRASTORNOS DEL SISTEMA NERVIOSO"
+      },
+      "text": "En el sistema de clasificación de órganos TRASTORNOS DEL SISTEMA NERVIOSO, se ha notificado Vértigos durante el tratamiento con MIDAZOLAM, con frecuencia no conocida. Este acontecimiento debe considerarse en la valoración clínica del paciente, especialmente durante la administración parenteral y en el periodo de recuperación, dado el efecto depresor central del principio activo. Se recomienda vigilancia clínica y reevaluación de la necesidad de continuar o ajustar la administración según la situación del paciente y la evolución del episodio. La aparición tras la dosis requiere valorar factores concomitantes y mantener medidas habituales de seguridad.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Vértigos",
+          "surface": "Vértigos"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "MIDAZOLAM",
+          "surface": "MIDAZOLAM"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "start": 42,
+          "end": 73
+        },
+        {
+          "type": "REACT",
+          "canonical": "Vértigos",
+          "surface": "Vértigos",
+          "start": 92,
+          "end": 100
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "MIDAZOLAM",
+          "surface": "MIDAZOLAM",
+          "start": 128,
+          "end": 137
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida",
+          "start": 143,
+          "end": 165
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "MIDAZOLAM NORMON 1 MG/ML SOLUCIÓN INYECTABLE Y PARA PERFUSIÓN EFG",
+        "pactivo": "MIDAZOLAM",
+        "reaccion": "Pesadillas",
+        "frecuencia": "SIN FRECUENCIA",
+        "sistema": "TRASTORNOS PSIQUIÁTRICOS"
+      },
+      "text": "Dentro de TRASTORNOS PSIQUIÁTRICOS, se han notificado Pesadillas asociadas al uso de MIDAZOLAM con frecuencia no conocida. Debido a sus efectos farmacológicos centrales y a la posible modificación del ciclo sueño-vigilia durante el periodo de recuperación, este acontecimiento debe valorarse en el contexto clínico del paciente. Si se observa tras la administración, se recomienda seguimiento clínico y reconsiderar las condiciones de uso, especialmente cuando la aparición temporal sugiera relación con el tratamiento. La notificación de sospechas contribuye a caracterizar mejor el perfil de seguridad.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+          "surface": "TRASTORNOS PSIQUIÁTRICOS"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Pesadillas",
+          "surface": "Pesadillas"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "MIDAZOLAM",
+          "surface": "MIDAZOLAM"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+          "surface": "TRASTORNOS PSIQUIÁTRICOS",
+          "start": 10,
+          "end": 34
+        },
+        {
+          "type": "REACT",
+          "canonical": "Pesadillas",
+          "surface": "Pesadillas",
+          "start": 54,
+          "end": 64
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "MIDAZOLAM",
+          "surface": "MIDAZOLAM",
+          "start": 85,
+          "end": 94
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida",
+          "start": 99,
+          "end": 121
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

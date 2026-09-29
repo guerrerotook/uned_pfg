@@ -1,0 +1,89 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+Durante el tratamiento con AZITROMICINA DIHIDRATO se han comunicado acontecimientos generalmente compatibles con el uso de antibacterianos macrólidos. En los estudios clínicos y en la experiencia posterior a la comercialización, la mayoría de los casos fueron de intensidad leve o moderada y se resolvieron sin medidas específicas. La evaluación debe tener en cuenta la situación basal del paciente, la indicación tratada y la posible administración concomitante de otros medicamentos. Se recomienda valorar de forma individual cualquier manifestación persistente, inesperada o clínicamente relevante.
+
+Lista tabulada de reacciones adversas
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+muy frecuentes: Diarrea.
+frecuentes: Náuseas, Vómitos.
+poco frecuentes: Dispepsia, Distensión abdominal, Flatulencia, Estreñimiento, Sequedad de boca, Gastritis, Hipersecreción salivar, Eructos, Disfagia, Ulceración de la boca.
+frecuencia no conocida: Pancreatitis, Cambio del color de la lengua, Hepatitis fulminante, Insuficiencia hepática (raramente mortal), Necrosis hepática.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+frecuentes: Cefalea.
+poco frecuentes: Disgeusia, Mareos, Parestesias, Somnolencia.
+frecuencia no conocida: Convulsión, Hipoestesia, Síncope, Miastenia gravis, Ageusia, Anosmia, Parosmia, Hiperactividad psicomotora.
+
+TRASTORNOS PSIQUIÁTRICOS
+poco frecuentes: Insomnio, Nerviosismo.
+frecuencia no conocida: Agresividad, Alucinación, Ansiedad, Delirio.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+poco frecuentes: Eosinofilia, Leucopenia, Neutropenia.
+frecuencia no conocida: Anemia hemolítica, Trombocitopenia.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+poco frecuentes: Angioedema, Hipersensibilidad.
+frecuencia no conocida: Reacción anafiláctica.
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN
+poco frecuentes: Anorexia.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+poco frecuentes: Palpitaciones, Sofocos.
+frecuencia no conocida: Hipotensión, Prolongación del QT, Torsade de pointes, Arritmia incluyendo taquicardia ventricular.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+poco frecuentes: Alteración visual, Trastorno del oido, Vértigo, Sordera.
+frecuencia no conocida: Acúfenos.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+poco frecuentes: Dermatitis, Erupción, Prurito, Urticaria, Hiperhidrosis, Sequedad de piel.
+frecuencia no conocida: Eritema multiforme, Necrolisis epidérmica tóxica (NET), Síndrome de Stevens - Johnson (SSJ).
+
+INFECCIONES E INFESTACIONES
+poco frecuentes: Candidiasis, Faringitis, Gastroenteritis, Infección bacteriana, Infección fúngica, Infección vaginal, Neumonía, Rinitis, Trastorno respiratorio.
+frecuencia no conocida: Colitis pseudomembranosa.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+poco frecuentes: Disnea, Epixtasis.
+
+TRASTORNOS DEL SISTEMA EXCRETOR
+poco frecuentes: Disuria.
+frecuencia no conocida: Insuficiencia renal aguda, Nefritis intersticial.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+poco frecuentes: Mialgia, Osteoartritis.
+frecuencia no conocida: Artralgia.
+
+TRASTORNOS DEL SISTEMA GENERAL
+frecuentes: Recuento disminuido de linfocitos.
+poco frecuentes: Astenia, Fatiga, Malestar general, Pirexia.
+
+PRUEBAS COMPLEMENTARIAS
+frecuentes: Basófilos elevados, Bicarbonato disminuido en sangre, Monocitos elevados, Neutrófilos elevados, Recuento elevado de eosinófilos.
+poco frecuentes: Hiperbilirrubinemia, Hematocrito disminuido, Glucosa elevada, Potasio anormal en sangre, Sodio anormal, Incremento de transaminasas (AST, ALT), Incremento de creatitina en sangre, Incremento de urea en sangre, Plaquetas aumentadas, Incremento cloruro, Bicarbonato elevado.
+
+LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS
+poco frecuentes: Complicaciones post-intervención.
+
+TRASTORNOS DEL SISTEMA REPRODUCTOR
+poco frecuentes: Metrorragia, Trastorno testicular.
+
+Descripción de reacciones adversas seleccionadas
+La aparición de acontecimientos durante el tratamiento no implica necesariamente una relación causal, aunque debe registrarse y evaluarse conforme a la evolución temporal y a la respuesta tras la retirada. En pacientes con antecedentes relevantes o con tratamientos concomitantes, se aconseja una vigilancia clínica adecuada y la adopción de medidas de soporte cuando proceda.
+
+Las alteraciones analíticas descritas suelen detectarse en controles de rutina y deben interpretarse junto con la situación clínica. Cuando se observen signos de afectación grave o progresiva, el tratamiento debe reconsiderarse de acuerdo con el criterio médico y con las recomendaciones generales de uso prudente de antibacterianos.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En la clasificación por sistemas y órganos, dentro de TRASTORNOS DEL SISTEMA DIGESTIVO, Diarrea se ha notificado como reacción adversa con la categoría de frecuencia muy frecuentes durante el tratamiento con AZITROMICINA DIHIDRATO. Este efecto es coherente con la acción antibacteriana sobre la flora gastrointestinal y, en general, debe valorarse según su intensidad, duración y repercusión clínica. Se recomienda mantener una adecuada vigilancia del paciente y considerar medidas de soporte si el cuadro persiste o compromete la hidratación, de acuerdo con la práctica clínica habitual.
+
+-- Caso 2 --
+En la clasificación por sistema y órgano, dentro de TRASTORNOS DE PIEL Y TEJIDOS, se ha notificado Eritema multiforme asociado al uso de AZITROMICINA DIHIDRATO, con frecuencia no conocida. La aparición de manifestaciones compatibles debe valorarse clínicamente, teniendo en cuenta la evolución temporal tras la administración y otros factores del paciente. Si se sospecha una relación con el tratamiento, se recomienda instaurar el seguimiento adecuado y considerar las medidas clínicas pertinentes conforme a la gravedad y al criterio médico.
+
+-- Caso 3 --
+En el sistema de clasificación de órganos TRASTORNOS PSIQUIÁTRICOS, Agitación se clasifica como no frecuente en pacientes tratados con AZITROMICINA DIHIDRATO. Esta manifestación debe interpretarse en el contexto clínico individual, considerando la temporalidad con la administración y otros factores concomitantes que puedan contribuir al cuadro. Se recomienda realizar seguimiento clínico y valorar la continuidad del tratamiento según la intensidad del episodio y la evolución del paciente.

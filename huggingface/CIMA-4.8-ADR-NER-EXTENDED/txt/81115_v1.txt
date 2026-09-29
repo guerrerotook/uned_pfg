@@ -1,0 +1,71 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+
+La combinación de BUDESONIDA y FORMOTEROL FUMARATO DIHIDRATO presenta un perfil de tolerabilidad coherente con el observado para un corticosteroide inhalado asociado a un agonista beta2 de acción prolongada. La mayoría de las reacciones notificadas fueron de intensidad leve o moderada y tendieron a disminuir con la continuación del tratamiento. La técnica de inhalación correcta y el enjuague de la boca después de cada administración pueden reducir la aparición de acontecimientos locales. En pacientes con enfermedad respiratoria crónica se recomienda valorar periódicamente la respuesta clínica y la necesidad de mantener la dosis mínima eficaz. La evaluación de la causalidad debe considerar la enfermedad de base, el uso concomitante de otros medicamentos y la exposición acumulada.
+
+Lista tabulada de reacciones adversas
+
+Las reacciones adversas se presentan por clasificación de órganos y por categoría de frecuencia. Dentro de cada grupo, las reacciones se enumeran en orden decreciente de relevancia clínica.
+
+TRASTORNOS PSIQUIÁTRICOS
+no frecuente: Depresión, alteraciones del comportamiento (principalmente en niños).
+poco frecuentes: Agresividad, alteraciones del sueño, ansiedad, hiperactividad psicomotora.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+frecuentes: Cefalea, temblor.
+no frecuente: Alteraciones del gusto.
+poco frecuentes: Mareo.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+frecuentes: Palpitaciones.
+no frecuente: Angina de pecho, Arritmias cardíacas, como fibrilación auricular, taquicardia supraventricular, extrasístoles, Variaciones en la presión arterial, prolongación del intervalo QTc.
+poco frecuentes: Taquicardia.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+frecuentes: Irritación leve de garganta, Tos, disfonía incluida ronquera.
+no frecuente: broncoespasmo.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+poco frecuentes: Calambres musculares.
+
+INFECCIONES E INFESTACIONES
+frecuentes: Candidiasis orofaríngea, Neumonía (en pacientes con EPOC).
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+no frecuente: Cataratas y glaucoma.
+poco frecuentes: Visión borrosa.
+
+TRASTORNOS DEL SISTEMA ENDOCRINO
+no frecuente: Síndrome de Cushing, disminución de la densidad mineral ósea, retraso del crecimiento, supresión adrenal.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+poco frecuentes: Hematomas.
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN
+no frecuente: Hiperglucemia, Hipocalemia.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+poco frecuentes: Náuseas.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+no frecuente: Reacciones de hipersensibilidad inmediata y retardada, como exantema, urticaria, prurito, dermatitis, angioedema y reacción anafiláctica.
+
+Descripción de reacciones adversas seleccionadas
+
+Algunos acontecimientos locales pueden relacionarse con el depósito del medicamento en la cavidad oral y la faringe. La revisión de la técnica de uso del dispositivo, junto con medidas higiénicas sencillas tras la inhalación, es una intervención habitual en la práctica clínica y no modifica por sí misma la pauta prescrita. Si los síntomas persisten o son molestos, debe reevaluarse el tratamiento y confirmar que el paciente utiliza el inhalador de forma adecuada.
+
+Los acontecimientos relacionados con la estimulación beta2-adrenérgica suelen aparecer al inicio del tratamiento o tras incrementos de dosis. En general son transitorios, pero pueden requerir una valoración individual en pacientes con antecedentes clínicos relevantes o con tratamientos concomitantes que favorezcan cambios electrofisiológicos o metabólicos. La monitorización debe adaptarse a la situación clínica y a la gravedad de los síntomas.
+
+Los efectos sistémicos asociados a corticosteroides inhalados son más probables con dosis elevadas y tratamientos prolongados. En población pediátrica se aconseja seguimiento clínico regular y utilización de la menor dosis que mantenga el control adecuado. Ante la aparición de signos compatibles con exposición sistémica, debe considerarse una revisión integral del balance beneficio-riesgo.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+Dentro del sistema de clasificación de órganos INFECCIONES E INFESTACIONES, Neumonía (en pacientes con EPOC) se ha descrito como una reacción adversa frecuente; las notificaciones se consideran frecuentes. El tratamiento con BUDESONIDA, FORMOTEROL FUMARATO DIHIDRATO debe mantenerse bajo vigilancia clínica habitual en esta población, valorando los signos compatibles durante el seguimiento. En pacientes con EPOC se recomienda reevaluar el balance beneficio-riesgo si el episodio se confirma o se repite, de acuerdo con la práctica clínica y las recomendaciones de uso del medicamento.
+
+-- Caso 2 --
+En la clasificación por sistema de órganos, dentro de TRASTORNOS PSIQUIÁTRICOS, se ha notificado hiperactividad psicomotora como reacción adversa poco frecuentes durante el tratamiento con BUDESONIDA, FORMOTEROL FUMARATO DIHIDRATO. Este efecto puede relacionarse con la actividad farmacológica del componente beta2-adrenérgico y debe valorarse en el contexto clínico del paciente. Se recomienda realizar seguimiento si aparecen cambios conductuales o aumento de la actividad motora, especialmente tras el inicio del tratamiento o ajustes de dosis.
+
+-- Caso 3 --
+En TRASTORNOS DEL SISTEMA INMUNOLÓGICO se han notificado, con frecuencia no frecuente, Reacciones de hipersensibilidad inmediata y retardada, como exantema, urticaria, prurito, dermatitis, angioedema y reacción anafiláctica durante el tratamiento con BUDESONIDA, FORMOTEROL FUMARATO DIHIDRATO. Estas manifestaciones pueden aparecer tras la administración o de forma diferida, por lo que debe mantenerse vigilancia clínica, especialmente al inicio del tratamiento o tras cambios relevantes de la exposición. Si se sospecha una relación temporal con el medicamento, se recomienda valorar la continuación del tratamiento y aplicar las medidas clínicas habituales de seguimiento.

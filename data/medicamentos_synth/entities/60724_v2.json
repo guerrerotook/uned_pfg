@@ -1,0 +1,562 @@
+{
+  "codigo": "60724",
+  "variante": 2,
+  "codigo_variant": "60724_v2",
+  "medicamento": "MANIDON RETARD 180 mg COMPRIMIDOS DE LIBERACION PROLONGADA",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "VERAPAMILO HIDROCLORURO",
+      "surface": "MANIDON",
+      "start": 82,
+      "end": 89
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "VERAPAMILO HIDROCLORURO",
+      "surface": "VERAPAMILO HIDROCLORURO",
+      "start": 113,
+      "end": 136
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "VERAPAMILO HIDROCLORURO",
+      "surface": "verapamilo",
+      "start": 113,
+      "end": 123
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 865,
+      "end": 893
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 894,
+      "end": 916
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alopecia",
+      "surface": "Alopecia",
+      "start": 918,
+      "end": 926
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angioedema",
+      "surface": "Angioedema",
+      "start": 928,
+      "end": 938
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eritema multiforme",
+      "surface": "Eritema multiforme",
+      "start": 940,
+      "end": 958
+    },
+    {
+      "type": "REACT",
+      "canonical": "Exantema maculopapular",
+      "surface": "Exantema maculopapular",
+      "start": 960,
+      "end": 982
+    },
+    {
+      "type": "REACT",
+      "canonical": "Picazón",
+      "surface": "Picazón",
+      "start": 984,
+      "end": 991
+    },
+    {
+      "type": "REACT",
+      "canonical": "Picazón",
+      "surface": "picazón",
+      "start": 984,
+      "end": 991
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito",
+      "start": 1016,
+      "end": 1023
+    },
+    {
+      "type": "REACT",
+      "canonical": "Púrpura",
+      "surface": "Púrpura",
+      "start": 1025,
+      "end": 1032
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de Stevens-Johnson",
+      "surface": "Síndrome de Stevens-Johnson",
+      "start": 1034,
+      "end": 1061
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria",
+      "start": 1063,
+      "end": 1072
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 1074,
+      "end": 1086
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperhidrosis",
+      "surface": "Hiperhidrosis",
+      "start": 1088,
+      "end": 1101
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 1104,
+      "end": 1146
+    },
+    {
+      "type": "REACT",
+      "canonical": "Artralgia",
+      "surface": "Artralgia",
+      "start": 1171,
+      "end": 1180
+    },
+    {
+      "type": "REACT",
+      "canonical": "Debilidad muscular",
+      "surface": "Debilidad muscular",
+      "start": 1182,
+      "end": 1200
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mialgia",
+      "surface": "Mialgia",
+      "start": 1202,
+      "end": 1209
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1212,
+      "end": 1249
+    },
+    {
+      "type": "REACT",
+      "canonical": "Asístole",
+      "surface": "Asístole",
+      "start": 1274,
+      "end": 1282
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bloqueo auriculoventricular",
+      "surface": "Bloqueo auriculoventricular",
+      "start": 1284,
+      "end": 1311
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bradicardia sinusal",
+      "surface": "Bradicardia sinusal",
+      "start": 1313,
+      "end": 1332
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia cardíaca",
+      "surface": "Insuficiencia cardíaca",
+      "start": 1334,
+      "end": 1356
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pausa sinusal",
+      "surface": "Pausa sinusal",
+      "start": 1358,
+      "end": 1371
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 1373,
+      "end": 1383
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bradicardia",
+      "surface": "Bradicardia",
+      "start": 1313,
+      "end": 1324
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión",
+      "start": 1398,
+      "end": 1409
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sofocos",
+      "surface": "Sofocos",
+      "start": 1411,
+      "end": 1418
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 1420,
+      "end": 1435
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones",
+      "start": 1437,
+      "end": 1450
+    },
+    {
+      "type": "REACT",
+      "canonical": "Taquicardia",
+      "surface": "Taquicardia",
+      "start": 1452,
+      "end": 1463
+    },
+    {
+      "type": "SYS",
+      "canonical": "EXPLORACIONES COMPLEMENTARIAS",
+      "surface": "EXPLORACIONES COMPLEMENTARIAS",
+      "start": 1466,
+      "end": 1495
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la prolactina en sangre",
+      "surface": "Aumento de la prolactina en sangre",
+      "start": 1520,
+      "end": 1554
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "surface": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "start": 1557,
+      "end": 1592
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de las enzimas hepáticas",
+      "surface": "Aumento de las enzimas hepáticas",
+      "start": 1617,
+      "end": 1649
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 1652,
+      "end": 1687
+    },
+    {
+      "type": "REACT",
+      "canonical": "Broncoespasmo",
+      "surface": "Broncoespasmo",
+      "start": 1712,
+      "end": 1725
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disnea",
+      "surface": "Disnea",
+      "start": 1727,
+      "end": 1733
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1736,
+      "end": 1767
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea",
+      "start": 1780,
+      "end": 1787
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareos",
+      "surface": "Mareos",
+      "start": 1789,
+      "end": 1795
+    },
+    {
+      "type": "REACT",
+      "canonical": "Convulsiones",
+      "surface": "Convulsiones",
+      "start": 1821,
+      "end": 1833
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parálisis (tetraparesia con el uso de colchicina)",
+      "surface": "Parálisis (tetraparesia con el uso de colchicina)",
+      "start": 1835,
+      "end": 1884
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastornos extrapiramidales",
+      "surface": "Trastornos extrapiramidales",
+      "start": 1886,
+      "end": 1913
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parestesia",
+      "surface": "Parestesia",
+      "start": 1929,
+      "end": 1939
+    },
+    {
+      "type": "REACT",
+      "canonical": "Temblor",
+      "surface": "Temblor",
+      "start": 1941,
+      "end": 1948
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "start": 1951,
+      "end": 1985
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disfunción eréctil",
+      "surface": "Disfunción eréctil",
+      "start": 2010,
+      "end": 2028
+    },
+    {
+      "type": "REACT",
+      "canonical": "Galactorrea",
+      "surface": "Galactorrea",
+      "start": 2030,
+      "end": 2041
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ginecomastia",
+      "surface": "Ginecomastia",
+      "start": 2043,
+      "end": 2055
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 2058,
+      "end": 2090
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor abdominal",
+      "surface": "Dolor abdominal",
+      "start": 2108,
+      "end": 2123
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento",
+      "start": 2137,
+      "end": 2150
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 2152,
+      "end": 2159
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperplasia gingival",
+      "surface": "Hiperplasia gingival",
+      "start": 2185,
+      "end": 2205
+    },
+    {
+      "type": "REACT",
+      "canonical": "Molestias abdominales",
+      "surface": "Molestias abdominales",
+      "start": 2207,
+      "end": 2228
+    },
+    {
+      "type": "REACT",
+      "canonical": "Oclusión intestinal",
+      "surface": "Oclusión intestinal",
+      "start": 2230,
+      "end": 2249
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos",
+      "start": 2265,
+      "end": 2272
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 2275,
+      "end": 2305
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema periférico",
+      "surface": "Edema periférico",
+      "start": 2318,
+      "end": 2334
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "Fatiga",
+      "start": 2353,
+      "end": 2359
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "start": 2362,
+      "end": 2403
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperpotasemia",
+      "surface": "Hiperpotasemia",
+      "start": 2428,
+      "end": 2442
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 2445,
+      "end": 2480
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipersensibilidad",
+      "surface": "Hipersensibilidad",
+      "start": 2505,
+      "end": 2522
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "start": 2525,
+      "end": 2556
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia renal",
+      "surface": "Insuficiencia renal",
+      "start": 2581,
+      "end": 2600
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 2603,
+      "end": 2627
+    },
+    {
+      "type": "REACT",
+      "canonical": "Somnolencia",
+      "surface": "Somnolencia",
+      "start": 2642,
+      "end": 2653
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 2656,
+      "end": 2693
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tinnitus",
+      "surface": "Tinnitus",
+      "start": 2708,
+      "end": 2716
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vértigo",
+      "surface": "Vértigo",
+      "start": 2742,
+      "end": 2749
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "Trastornos del sistema nervioso",
+      "start": 1736,
+      "end": 1767
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 1074,
+      "end": 1086
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "Trastornos del sistema cardiovascular",
+      "start": 1212,
+      "end": 1249
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "VERAPAMILO HIDROCLORURO",
+      "surface": "verapamilo hidrocloruro",
+      "start": 113,
+      "end": 136
+    }
+  ]
+}

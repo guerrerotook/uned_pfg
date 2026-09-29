@@ -1,0 +1,74 @@
+Resumen del perfil de seguridad
+RIFAXIMINA presenta una absorción sistémica limitada y el perfil descrito se basa en acontecimientos notificados durante el uso clínico. En conjunto, las notificaciones fueron generalmente de intensidad leve o moderada y se resolvieron sin medidas específicas. La valoración debe realizarse teniendo en cuenta la situación basal del paciente y la indicación de tratamiento. La rifaximina también puede identificarse en la práctica clínica por el nombre Spiraxin; estas denominaciones se refieren al mismo principio activo. Como en otros tratamientos, se recomienda comunicar cualquier manifestación no esperada para mejorar el seguimiento de seguridad.
+
+Lista tabulada de reacciones adversas
+INFECCIONES E INFESTACIONES
+frecuencia no conocida: Infección causada por la bacteriaClostridium difficile.
+poco frecuentes: Candidiasis (infección por un tipo de hongo), herpes en los labios, infección de las vías respiratorias superiores, inflamación o infección de la nariz y/o garganta.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+poco frecuentes: Erupciones cutáneas y sarpullidos que pueden ser de aparición súbita, brazo hinchado (edema periférico), quemaduras solares, sudoración abundante.
+frecuencia no conocida: Hinchazón de piel y mucosas, dermatitis, dermatitis con descamación de la piel, eczema, eritemas, manchas rojas en la piel (púrpura), picor, urticaria.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+frecuentes: Estreñimiento, diarrea, distensión abdominal, dolor abdominal, dolor de cabeza, esfuerzo involuntario y doloroso o ineficaz, flatulencia, náuseas, sensación de tener necesidad de defecar, vómitos.
+poco frecuentes: Acumulación de líquido en el abdomen (ascitis), Pérdida de apetito, Resultados anormales de la prueba del hígado (incremento de la aspartato aminotransferasa), deshidratación, desórdenes de la motilidad gastrointestinal, digestión pesada, dolor abdominal superior, heces duras, heces mucosas, sangre en las heces, sequedad labial, trastornos del gusto.
+frecuencia no conocida: Anomalías en las pruebas de la función del hígado.
+
+TRASTORNOS DEL SISTEMA GENERAL
+poco frecuentes: Agotamiento, Sofocos, dolor y malestar, escalofríos, sintomatología similar a la de una gripe, sudor frío.
+
+TRASTORNOS DEL SISTEMA EXCRETOR
+poco frecuentes: Resultados anormales de análisis de orina: presencia de glucosa en la orina, aumento de la cantidad de orina excretada, aumento de la frecuencia de orinar,, presencia de proteínas en la orina, sangre en la orina.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+poco frecuentes: Aumento de la presión sanguínea, Palpitaciones.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+poco frecuentes: Dolor de espalda, calambres musculares,, debilidad muscular, dolor en el cuello, dolores musculares generalizados.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+poco frecuentes: Dificultad para respirar, congestión nasal, dolor de garganta, goteo de la nariz, sequedad de garganta, tos.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+frecuentes: Fiebre, Mareo.
+poco frecuentes: Disminución de la sensibilidad, Dolor de oído, Insomnio, Visión doble, dolor en la frente o en un lado de la cabeza, estado de ánimo deprimido, migraña, nerviosismo, sensación de hormigueo, sensación de que la habitación da vueltas (vértigo), somnolencia, sueños anormales.
+frecuencia no conocida: Sensación de desmayo.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+frecuencia no conocida: Disminución del número de plaquetas en la sangre, Valores anormales en las pruebas de coagulacion sanguínea (Relación Normalizada Internacional).
+poco frecuentes: Recuento anormal de glóbulos blancos en la sangre (aumento de linfocitos y monocitos y disminución de neutrófilos).
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+frecuencia no conocida: Reacciones alérgicas graves, hipersensibilidad.
+
+TRASTORNOS DEL SISTEMA REPRODUCTOR
+poco frecuentes: Períodos menstruales prolongados e irregulares.
+
+Descripción de reacciones adversas seleccionadas
+La información se presenta de acuerdo con la terminología regulatoria habitual y permite comparar los datos procedentes de distintos entornos de utilización. La ausencia de una estimación precisa en algunas notificaciones no implica necesariamente una mayor gravedad; puede deberse a que los datos disponibles no permiten calcular una incidencia fiable.
+
+En la evaluación clínica se debe considerar la evolución temporal respecto al inicio del tratamiento, la presencia de enfermedades concomitantes y el uso de otros medicamentos. Cuando sea necesario, el profesional sanitario decidirá si procede mantener, interrumpir o modificar la pauta, de acuerdo con el estado general del paciente.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+Dentro de los TRASTORNOS DEL SISTEMA NERVIOSO, se ha notificado Mareo asociado al tratamiento con RIFAXIMINA. En la lista tabulada de reacciones adversas, este acontecimiento se clasifica como frecuentes:
+
+- TRASTORNOS DEL SISTEMA NERVIOSO: Mareo.
+
+El Mareo observado durante el uso de Spiraxin suele considerarse compatible con el perfil de tolerabilidad del tratamiento y no implica necesariamente la interrupción del mismo. Se recomienda valorar la evolución clínica y las circunstancias concurrentes, especialmente si el síntoma aparece tras el inicio de RIFAXIMINA o interfiere con actividades que requieren atención.
+
+-- Caso 2 --
+En la clasificación de Trastornos del sistema general, durante el tratamiento con rifaximina se ha notificado la siguiente reacción adversa:
+
+- escalofríos: poco frecuentes.
+
+Este acontecimiento se considera compatible con una respuesta sistémica inespecífica y, en general, debe valorarse en el contexto clínico del paciente y de la evolución temporal tras la administración. Si la manifestación persiste o resulta clínicamente relevante, se recomienda seguimiento y reconsiderar la continuidad del tratamiento según criterio médico. La notificación de sospechas contribuye a caracterizar el perfil de seguridad en la práctica clínica.
+
+-- Caso 3 --
+En la tabla de reacciones adversas de RIFAXIMINA (Spiraxin) se incluye, dentro del sistema TRASTORNOS DE PIEL Y TEJIDOS, la siguiente reacción:
+
+- dermatitis con descamación de la piel: frecuencia no conocida.
+
+La dermatitis con descamación de la piel (piel que se pela) se ha notificado durante el tratamiento, sin que pueda estimarse su incidencia a partir de los datos disponibles. Se recomienda valorar la evolución clínica y la relación temporal con la administración, manteniendo el seguimiento habitual y considerando la interrupción si el cuadro progresa.

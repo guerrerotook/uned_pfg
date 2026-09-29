@@ -1,0 +1,275 @@
+{
+  "codigo": "113907004",
+  "variante": 2,
+  "codigo_variant": "113907004_v2",
+  "medicamento": "ADEMPAS 1 MG COMPRIMIDOS RECUBIERTOS CON PELICULA",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "RIOCIGUAT",
+      "surface": "RIOCIGUAT",
+      "start": 83,
+      "end": 92
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "RIOCIGUAT",
+      "surface": "Adempas",
+      "start": 356,
+      "end": 363
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 1044,
+      "end": 1079
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 1080,
+      "end": 1090
+    },
+    {
+      "type": "REACT",
+      "canonical": "Congestión nasal",
+      "surface": "Congestión nasal",
+      "start": 1092,
+      "end": 1108
+    },
+    {
+      "type": "REACT",
+      "canonical": "Epixtasis",
+      "surface": "Epixtasis",
+      "start": 1110,
+      "end": 1119
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemoptisis",
+      "surface": "Hemoptisis",
+      "start": 1145,
+      "end": 1155
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 1157,
+      "end": 1172
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia pulmonar",
+      "surface": "Hemorragia pulmonar",
+      "start": 1174,
+      "end": 1193
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 1196,
+      "end": 1245
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia (incl. los parámetros de laboratorio respectivos)",
+      "surface": "Anemia (incl. los parámetros de laboratorio respectivos)",
+      "start": 1258,
+      "end": 1314
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1317,
+      "end": 1348
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes",
+      "start": 1349,
+      "end": 1363
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea",
+      "start": 1365,
+      "end": 1372
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareo",
+      "surface": "Mareo",
+      "start": 1374,
+      "end": 1379
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1382,
+      "end": 1414
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea",
+      "start": 1431,
+      "end": 1438
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dispepsia",
+      "surface": "Dispepsia",
+      "start": 1440,
+      "end": 1449
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 1451,
+      "end": 1458
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos",
+      "start": 1460,
+      "end": 1467
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disfagia",
+      "surface": "Disfagia",
+      "start": 1481,
+      "end": 1489
+    },
+    {
+      "type": "REACT",
+      "canonical": "Distensión abdominal",
+      "surface": "Distensión abdominal",
+      "start": 1491,
+      "end": 1511
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor gastrointestinal y abdominal",
+      "surface": "Dolor gastrointestinal y abdominal",
+      "start": 1513,
+      "end": 1547
+    },
+    {
+      "type": "REACT",
+      "canonical": "Enfermedad por reflujo gastroesofágico",
+      "surface": "Enfermedad por reflujo gastroesofágico",
+      "start": 1549,
+      "end": 1587
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento",
+      "start": 1589,
+      "end": 1602
+    },
+    {
+      "type": "REACT",
+      "canonical": "Gastritis",
+      "surface": "Gastritis",
+      "start": 1604,
+      "end": 1613
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 1616,
+      "end": 1646
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema periférico",
+      "surface": "Edema periférico",
+      "start": 1663,
+      "end": 1679
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "INFECCIONES E INFESTACIONES",
+      "start": 1682,
+      "end": 1709
+    },
+    {
+      "type": "REACT",
+      "canonical": "Gastroenteritis",
+      "surface": "Gastroenteritis",
+      "start": 1722,
+      "end": 1737
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1740,
+      "end": 1777
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión",
+      "start": 1790,
+      "end": 1801
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones",
+      "start": 1803,
+      "end": 1816
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "RIOCIGUAT",
+      "surface": "riociguat",
+      "start": 83,
+      "end": 92
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "Trastornos del sistema nervioso",
+      "start": 1317,
+      "end": 1348
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "Trastornos del sistema respiratorio",
+      "start": 1044,
+      "end": 1079
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "trastornos del sistema digestivo",
+      "start": 1382,
+      "end": 1414
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "Trastornos del sistema digestivo",
+      "start": 1382,
+      "end": 1414
+    }
+  ]
+}

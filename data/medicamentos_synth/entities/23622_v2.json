@@ -1,0 +1,317 @@
+{
+  "codigo": "23622",
+  "variante": 2,
+  "codigo_variant": "23622_v2",
+  "medicamento": "Sulmetin simple 150 mg/ml solución inyectable y para perfusión",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "CITRATO TRISODIO",
+      "surface": "Sulmetin",
+      "start": 94,
+      "end": 102
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "CITRATO TRISODIO",
+      "surface": "CITRATO TRISODIO",
+      "start": 174,
+      "end": 190
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "CITRATO TRISODIO",
+      "surface": "citrato trisódico",
+      "start": 494,
+      "end": 511
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 974,
+      "end": 1011
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 1012,
+      "end": 1022
+    },
+    {
+      "type": "REACT",
+      "canonical": "bradicardia",
+      "surface": "bradicardia",
+      "start": 1024,
+      "end": 1035
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipotensión por vasodilatación periférica",
+      "surface": "hipotensión por vasodilatación periférica",
+      "start": 1037,
+      "end": 1078
+    },
+    {
+      "type": "REACT",
+      "canonical": "rubor",
+      "surface": "rubor",
+      "start": 1080,
+      "end": 1085
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 1087,
+      "end": 1102
+    },
+    {
+      "type": "REACT",
+      "canonical": "parada cardiaca o colapso circulatorio",
+      "surface": "parada cardiaca o colapso circulatorio",
+      "start": 1104,
+      "end": 1142
+    },
+    {
+      "type": "REACT",
+      "canonical": "vasodilatación consensación de calor",
+      "surface": "vasodilatación consensación de calor",
+      "start": 1144,
+      "end": 1180
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1183,
+      "end": 1214
+    },
+    {
+      "type": "REACT",
+      "canonical": "coma",
+      "surface": "coma",
+      "start": 1232,
+      "end": 1236
+    },
+    {
+      "type": "REACT",
+      "canonical": "confusión",
+      "surface": "confusión",
+      "start": 1238,
+      "end": 1247
+    },
+    {
+      "type": "REACT",
+      "canonical": "depresión del SNC que puede preceder a la parálisis respiratoria",
+      "surface": "depresión del SNC que puede preceder a la parálisis respiratoria",
+      "start": 1249,
+      "end": 1313
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor de cabeza",
+      "surface": "dolor de cabeza",
+      "start": 1315,
+      "end": 1330
+    },
+    {
+      "type": "REACT",
+      "canonical": "mareos",
+      "surface": "mareos",
+      "start": 1332,
+      "end": 1338
+    },
+    {
+      "type": "REACT",
+      "canonical": "somnolencia",
+      "surface": "somnolencia",
+      "start": 1340,
+      "end": 1351
+    },
+    {
+      "type": "REACT",
+      "canonical": "pérdida de reflejo tendinoso",
+      "surface": "pérdida de reflejo tendinoso",
+      "start": 1365,
+      "end": 1393
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 1396,
+      "end": 1438
+    },
+    {
+      "type": "REACT",
+      "canonical": "debilidad muscular.",
+      "surface": "debilidad muscular.",
+      "start": 1456,
+      "end": 1475
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 1477,
+      "end": 1512
+    },
+    {
+      "type": "REACT",
+      "canonical": "depresión respiratoria debido al bloqueo neuromuscular",
+      "surface": "depresión respiratoria debido al bloqueo neuromuscular",
+      "start": 1530,
+      "end": 1584
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 1587,
+      "end": 1615
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor en el punto de inyección",
+      "surface": "dolor en el punto de inyección",
+      "start": 1633,
+      "end": 1663
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 1666,
+      "end": 1696
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipotermia",
+      "surface": "hipotermia",
+      "start": 1714,
+      "end": 1724
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1727,
+      "end": 1759
+    },
+    {
+      "type": "REACT",
+      "canonical": "náuseas",
+      "surface": "náuseas",
+      "start": 1777,
+      "end": 1784
+    },
+    {
+      "type": "REACT",
+      "canonical": "sed",
+      "surface": "sed",
+      "start": 1786,
+      "end": 1789
+    },
+    {
+      "type": "REACT",
+      "canonical": "vómitos",
+      "surface": "vómitos",
+      "start": 1791,
+      "end": 1798
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 1801,
+      "end": 1838
+    },
+    {
+      "type": "REACT",
+      "canonical": "problemas de la visión",
+      "surface": "problemas de la visión",
+      "start": 1856,
+      "end": 1878
+    },
+    {
+      "type": "REACT",
+      "canonical": "problemas del habla",
+      "surface": "problemas del habla",
+      "start": 1880,
+      "end": 1899
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "surface": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "start": 1902,
+      "end": 1934
+    },
+    {
+      "type": "REACT",
+      "canonical": "sudoración excesiva",
+      "surface": "sudoración excesiva",
+      "start": 1952,
+      "end": 1971
+    },
+    {
+      "type": "REACT",
+      "canonical": "rubor",
+      "surface": "sofoco",
+      "start": 2221,
+      "end": 2227
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "Trastornos del sistema nervioso",
+      "start": 1183,
+      "end": 1214
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "CITRATO TRISODIO",
+      "surface": "citrato trisodio",
+      "start": 174,
+      "end": 190
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "CITRATO TRISODIO",
+      "surface": "citrato sódico",
+      "start": 3558,
+      "end": 3572
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "CITRATO TRISODIO",
+      "surface": "Sulmetin simple",
+      "start": 3761,
+      "end": 3776
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "CITRATO TRISODIO",
+      "surface": "citrato de sodio",
+      "start": 3886,
+      "end": 3902
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "Trastornos del sistema cardiovascular",
+      "start": 974,
+      "end": 1011
+    },
+    {
+      "type": "REACT",
+      "canonical": "rubor",
+      "surface": "enrojecimiento pasajero",
+      "start": 4089,
+      "end": 4112
+    }
+  ]
+}

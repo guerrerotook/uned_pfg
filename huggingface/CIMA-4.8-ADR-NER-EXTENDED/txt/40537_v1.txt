@@ -1,0 +1,63 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+La información disponible para INDOMETACINA muestra un perfil de tolerabilidad compatible con su uso clínico en tratamientos de corta duración y con vigilancia individualizada. La valoración de los acontecimientos debe realizarse considerando la dosis administrada, la duración de la exposición, los antecedentes del paciente y el uso concomitante de otros medicamentos. En pacientes con factores de riesgo, la aparición de síntomas persistentes o de intensidad relevante requiere reevaluación del tratamiento. La comunicación de cualquier sospecha permite actualizar de forma continua la relación beneficio-riesgo. Las categorías indicadas a continuación se presentan según la clasificación habitual utilizada en ficha técnica.
+
+Lista tabulada de reacciones adversas
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+muy frecuentes: Aturdimiento, Cefalea, Mareos, Vértigo.
+frecuentes: Cansancio, malestar, languidez.
+no frecuente: Ansiedad, Coma, Convulsiones, Debilidad muscular, Disartria, Empeoramiento de la epilepsia o de la enfermedad de Parkinson, Insomnio, Movimientos involuntarios, Neuropatía periférica, Parestesia, Somnolencia, Síncopes.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+frecuentes: Anorexia, Diarrea, Dolor abdominal, Dolor epigástrico, Estreñimiento, Náuseas, Vómitos.
+poco frecuentes: Empeoramiento del dolor abdominal principalmente en pacientes con colitis ulcerosa, Estomatitis, Flatulencia, Gastritis, Hemorragia en el cólon sigmoide, Perforación de lesiones pre-existentes en el colon sigmoide, Sangrado gastrointestinal.
+no frecuente: Estomatitis ulcerosa, Úlcera gastrointestinal con estenosis y obstrucción, Úlceras únicas o múltiples en el esófago, estómago, duodeno e intestino delgado o grueso (incluida perforación y hemorrágia).
+frecuencia no conocida: Pancreatitis.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+poco frecuentes: Acúfenos.
+no frecuente: Diplopia, Dolor orbitario y periorbitario, Epistaxis, Hipoacusia, Trastornos auditivos, Visión borrosa.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+poco frecuentes: Alopecia.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+no frecuente: Anafilaxia aguda, Angioedema, Angitis, Asma, Caída rápida de la presión arterial parecida a un estado de shock, Disnea súbita, Distrés respiratorio agudo, Edema pulmonar, Eritema nudoso, Erupción cutánea, Prurito, Urticaria.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+no frecuente: Arritmia, Dolor torácico, Hipertensión, Hipotensión, Insuficiencia cardíaca congestiva, Palpitaciones, Taquicardia.
+
+TRASTORNOS DEL SISTEMA REPRODUCTOR
+no frecuente: Aumento de las mamas, Ginecomastia, Hemorragia vaginal, Sensibilidad.
+
+TRASTORNOS DEL SISTEMA HEPATOBILIAR
+poco frecuentes: Aumento de las transaminasas séricas (3 veces por encima del límite normal).
+no frecuente: Hepatitis con o sin ictericia, Lesión hepática.
+
+TRASTORNOS PSIQUIÁTRICOS
+frecuentes: Depresión.
+no frecuente: Confusión mental, Estados psicóticos, Trastornos psicológicos (despersonalización).
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN
+no frecuente: Elevación de la urea, Glucosuria, Hiperglucemia, Hiperpotasemia.
+
+TRASTORNOS DEL SISTEMA GENERAL
+no frecuente: Rubefacción, Sudoración.
+
+Descripción de reacciones adversas seleccionadas
+La intensidad y el curso temporal de los acontecimientos pueden variar entre pacientes. En general, cuando se identifican manifestaciones clínicamente significativas, se recomienda valorar la continuidad del tratamiento y aplicar las medidas de soporte apropiadas. La revisión de antecedentes personales, la edad, la situación funcional y la presencia de enfermedades concomitantes facilitan una interpretación adecuada de los hallazgos comunicados.
+
+El seguimiento debe centrarse en la detección temprana de signos de alarma y en la educación del paciente para comunicar cambios relevantes durante el tratamiento. La notificación de sospechas contribuye a caracterizar mejor la seguridad del medicamento en condiciones reales de uso.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En el sistema de clasificación de órganos TRASTORNOS DEL SISTEMA NERVIOSO, Cefalea se incluye entre las reacciones adversas muy frecuentes descritas durante el tratamiento con INDOMETACINA. Este acontecimiento puede relacionarse con la actividad farmacológica del medicamento y debe valorarse en el contexto clínico del paciente, especialmente si aparece al inicio del tratamiento o interfiere con las actividades habituales. Se recomienda realizar seguimiento clínico y considerar las medidas habituales de manejo si los síntomas persisten o resultan clínicamente relevantes, de acuerdo con la evaluación beneficio-riesgo individual.
+
+-- Caso 2 --
+En la clase de órganos Trastornos del sistema hepatobiliar, se ha descrito Aumento de las transaminasas séricas (3 veces por encima del límite normal), incluida entre las reacciones adversas poco frecuentes asociadas al tratamiento con INDOMETACINA. Esta alteración puede detectarse durante el seguimiento analítico y debe interpretarse en el contexto clínico del paciente y de la exposición al medicamento. Se recomienda valorar la continuidad del tratamiento si los valores permanecen elevados o se incrementan, de acuerdo con la práctica clínica y las precauciones de uso establecidas.
+
+-- Caso 3 --
+En la clasificación por órganos y sistemas, dentro de TRASTORNOS DEL SISTEMA DIGESTIVO, se ha notificado Dolor epigástrico como una reacción adversa incluida entre las frecuentes durante el tratamiento con INDOMETACINA. Este hallazgo es coherente con el perfil farmacológico del principio activo y con su posible efecto local o sistémico sobre la mucosa digestiva. En caso de persistencia o empeoramiento, debe valorarse la situación clínica del paciente y la conveniencia de continuar el tratamiento, de acuerdo con la evaluación beneficio-riesgo individual.

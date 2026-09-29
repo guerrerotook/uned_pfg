@@ -1,0 +1,326 @@
+[
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Neutropenia",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Agranulocitosis",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Bradicardia",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS CARDIACOS"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Bradicardia acusada",
+    "frecuencia": "MUY RARA",
+    "trastorno": "TRASTORNOS CARDIACOS"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Paro sinusal",
+    "frecuencia": "MUY RARA",
+    "trastorno": "TRASTORNOS CARDIACOS"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Inicio o empeoramiento de las arritmias",
+    "frecuencia": "MUY RARA",
+    "trastorno": "TRASTORNOS CARDIACOS"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Parada cardíaca",
+    "frecuencia": "MUY RARA",
+    "trastorno": "TRASTORNOS CARDIACOS"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Torsades de pointes",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS CARDIACOS"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Síndrome de secreción inadecuada de hormona antidiurética (SIADH)",
+    "frecuencia": "MUY RARA",
+    "trastorno": "TRASTORNOS ENDOCRINOS"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Hipertiroidismo",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS ENDOCRINOS"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Neuropatía/neuritis óptica",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS OCULARES"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Náuseas",
+    "frecuencia": "MUY RARA",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Pancreatitis aguda",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Dolor en el lugar de la inyección",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Eritema en el lugar de la inyección",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Edema en el lugar de la inyección",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Necrosis en el lugar de la inyección",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Extravasación en el lugar de la inyección",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Infiltración en el lugar de la inyección",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Inflamación en el lugar de la inyección",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Induración en el lugar de la inyección",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Tromboflebitis en el lugar de la inyección",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Flebitis en el lugar de la inyección",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Celulitis en el lugar de la inyección",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Infección en el lugar de la inyección",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Cambios de la pigmentación en el lugar de la inyección",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Elevación aislada y a menudo moderada de las transaminasas en suero",
+    "frecuencia": "MUY RARA",
+    "trastorno": "TRASTORNOS HEPATOBILIARES"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Trastornos hepáticos agudos con elevación de transaminasas séricas y/o ictericia",
+    "frecuencia": "MUY RARA",
+    "trastorno": "TRASTORNOS HEPATOBILIARES"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Insuficiencia hepática",
+    "frecuencia": "MUY RARA",
+    "trastorno": "TRASTORNOS HEPATOBILIARES"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Shock anafiláctico",
+    "frecuencia": "MUY RARA",
+    "trastorno": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Edema angioneurótico (edema de Quincke)",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Dolor de espalda",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS MUSCULOESQUELÉTICOS Y DEL TEJIDO CONJUNTIVO"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Hipertensión intracraneal benigna (pseudotumor cerebri)",
+    "frecuencia": "MUY RARA",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO CENTRAL"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Dolor de cabeza",
+    "frecuencia": "MUY RARA",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO CENTRAL"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Disminución de la libido",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Estado de delirio (incluido estado de confusión)",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Alucinaciones",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Pneumonitis intersticial",
+    "frecuencia": "MUY RARA",
+    "trastorno": "TRASTORNOS RESPIRATORIOS, TORÁCICOS Y MEDIASTÍNICOS"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Fibrosis pulmonar",
+    "frecuencia": "MUY RARA",
+    "trastorno": "TRASTORNOS RESPIRATORIOS, TORÁCICOS Y MEDIASTÍNICOS"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Síndrome de sufrimiento respiratorio agudo del adulto",
+    "frecuencia": "MUY RARA",
+    "trastorno": "TRASTORNOS RESPIRATORIOS, TORÁCICOS Y MEDIASTÍNICOS"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Broncoespasmo",
+    "frecuencia": "MUY RARA",
+    "trastorno": "TRASTORNOS RESPIRATORIOS, TORÁCICOS Y MEDIASTÍNICOS"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Apnea",
+    "frecuencia": "MUY RARA",
+    "trastorno": "TRASTORNOS RESPIRATORIOS, TORÁCICOS Y MEDIASTÍNICOS"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Eczema",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Sudoración",
+    "frecuencia": "MUY RARA",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Urticaria",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Necrólisis epidérmica tóxica (NET)",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Síndrome de Stevens-Johnson (SSJ)",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Dermatitis bullosa",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Reacción al medicamento con eosinofilia y síntomas sistémicos (DRESS)",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Disminución de la presión sanguínea",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS VASCULARES"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Hipotensión grave",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS VASCULARES"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Colapso",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS VASCULARES"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Sofocos",
+    "frecuencia": "MUY RARA",
+    "trastorno": "TRASTORNOS VASCULARES"
+  },
+  {
+    "principio activo": "AMIODARONA HIDROCLORURO",
+    "reacción adversa": "Disfunción primaria del injerto (DPI) post trasplante cardíaco",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "LESIONES TRAUMÁTICAS, INTOXICACIONES Y COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS"
+  }
+]

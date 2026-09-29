@@ -1,0 +1,64 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil de seguridad de USTEKINUMAB, comercializado también como Stelara, se ha caracterizado a partir de la experiencia clínica acumulada en las indicaciones autorizadas. La mayoría de los acontecimientos descritos fueron de intensidad leve o moderada y se manejaron con medidas clínicas habituales. La notificación debe interpretarse teniendo en cuenta la enfermedad de base, los tratamientos concomitantes y la variabilidad individual. La información siguiente se presenta de forma sintética, agrupada por sistema de clasificación de órganos y por categoría de aparición. No se pretende establecer diferencias de gravedad dentro de cada grupo, sino facilitar una lectura ordenada de los datos de seguridad.
+
+Lista tabulada de reacciones adversas
+
+TRASTORNOS DE PIEL Y TEJIDOS
+frecuentes: Enrojecimiento y dolor en el lugar de inyección; Picor (“prurito”).
+poco frecuentes: Acné; Anafilaxia; Descamación de la piel; Endurecimiento, hinchazón y picor en el lugar de la inyección; Erupción cutánea; cardenales.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+poco frecuentes: Depresión; Parálisis facial (normalmente temporal); Párpado caído.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+frecuentes: Diarrea; Dolor de garganta; Náuseas; Vómitos.
+poco frecuentes: Dificultad para respirar y tragar.
+
+TRASTORNOS DEL SISTEMA GENERAL
+frecuentes: Dolor de cabeza; Sensación de cansancio; Sensación de mareo.
+poco frecuentes: Sentirse débil.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+frecuentes: Dolor de espalda, muscular o articular.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+poco frecuentes: Hemorragia.
+
+INFECCIONES E INFESTACIONES
+frecuentes: Infecciones nariz o garganta; Resfriado común; Sinusitis.
+poco frecuentes: Infecciones dentales; Infecciones vaginales por levaduras; Taponamiento o congestión nasal.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+poco frecuentes: Tensión arterial baja.
+
+Descripción de reacciones adversas seleccionadas
+Las manifestaciones en el punto de administración se observaron generalmente tras la inyección y fueron autolimitadas. Se recomienda valorar la evolución clínica cuando los síntomas locales persisten o se acompañan de afectación general. En la práctica asistencial, la educación del paciente ayuda a reconocer cambios relevantes y a comunicar cualquier empeoramiento de forma temprana.
+
+La aparición de Anafilaxia o de Dificultad para respirar y tragar requiere una evaluación médica inmediata, ya que puede indicar una reacción de especial importancia clínica. Aunque estos episodios se recogen dentro de la tabla, su manejo debe basarse en la situación del paciente y en los procedimientos asistenciales habituales.
+
+Los episodios neurológicos como Parálisis facial (normalmente temporal) o Párpado caído deben documentarse con detalle, incluyendo el momento de inicio y la duración. Cuando se observe Tensión arterial baja, se aconseja revisar el contexto clínico y las posibles causas concomitantes antes de decidir la continuidad del tratamiento.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En la evaluación del perfil de seguridad de ustekinumab (Stelara), se ha identificado la siguiente reacción dentro de Trastornos del sistema digestivo:
+- Vómitos: frecuentes.
+
+Los Vómitos (ganas de vomitar) suelen notificarse durante el tratamiento y deben valorarse en el contexto clínico del paciente. Se recomienda realizar seguimiento si el episodio persiste, aumenta en intensidad o interfiere con la hidratación o la administración habitual del medicamento, aplicando las medidas clínicas habituales según criterio médico.
+
+-- Caso 2 --
+Dentro del sistema de clasificación de órganos trastornos de piel y tejidos, se han notificado cardenales (moratones) como reacción adversa asociada a ustekinumab (Stelara), con una frecuencia poco frecuentes.
+
+Lista tabulada:
+- Trastornos de piel y tejidos: cardenales.
+
+La aparición de estas manifestaciones puede estar relacionada con la respuesta local o sistémica al tratamiento y debe valorarse en el contexto clínico del paciente. Se recomienda registrar su evolución y considerar la evaluación médica si persisten, aumentan de tamaño o se acompañan de otros signos clínicamente relevantes.
+
+-- Caso 3 --
+En el perfil de seguridad de USTEKINUMAB, comercializado como Stelara, se ha notificado la siguiente reacción adversa dentro de TRASTORNOS DEL SISTEMA GENERAL:
+
+- Dolor de cabeza (cefalea): frecuentes.
+
+Este acontecimiento suele valorarse en el contexto clínico del paciente y de la administración del tratamiento, considerando la intensidad y la duración comunicadas. Se recomienda registrar su aparición durante el seguimiento y actuar conforme a la práctica clínica habitual si interfiere con la continuidad del tratamiento. No se requiere una evaluación adicional sistemática en todos los casos.

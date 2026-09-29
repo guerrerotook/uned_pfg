@@ -1,0 +1,151 @@
+{
+  "model_name": "CIMA-BERTIN-4.8-NER-CONLL-SYNTH-freq",
+  "timestamp": "2026-05-15T16:46:52.285964+00:00",
+  "entity_types": [
+    "FREQ"
+  ],
+  "labels": [
+    "O",
+    "B-FREQ",
+    "I-FREQ"
+  ],
+  "summary": {
+    "total_codes": 28,
+    "total_sentences": 1577,
+    "total_tokens": 26213,
+    "label_counts": {
+      "O": 25005,
+      "B-FREQ": 596,
+      "I-FREQ": 612
+    },
+    "missing_txt_files": [],
+    "docs_with_no_tags": []
+  },
+  "seqeval": {
+    "precision": 0.998324958123953,
+    "recall": 1.0,
+    "f1": 0.9991617770326907,
+    "per_entity": {
+      "FREQ": {
+        "precision": 0.998324958123953,
+        "recall": 1.0,
+        "f1-score": 0.9991617770326907,
+        "support": 596
+      },
+      "micro avg": {
+        "precision": 0.998324958123953,
+        "recall": 1.0,
+        "f1-score": 0.9991617770326907,
+        "support": 596
+      },
+      "macro avg": {
+        "precision": 0.998324958123953,
+        "recall": 1.0,
+        "f1-score": 0.9991617770326907,
+        "support": 596
+      },
+      "weighted avg": {
+        "precision": 0.9983249581239532,
+        "recall": 1.0,
+        "f1-score": 0.9991617770326907,
+        "support": 596
+      }
+    }
+  },
+  "overall": {
+    "ent_type": {
+      "correct": 596,
+      "incorrect": 0,
+      "partial": 0,
+      "missed": 0,
+      "spurious": 1,
+      "precision": 0.9983,
+      "recall": 1.0,
+      "f1": 0.9992
+    },
+    "exact": {
+      "correct": 596,
+      "incorrect": 0,
+      "partial": 0,
+      "missed": 0,
+      "spurious": 1,
+      "precision": 0.9983,
+      "recall": 1.0,
+      "f1": 0.9992
+    },
+    "partial": {
+      "correct": 596,
+      "incorrect": 0,
+      "partial": 0,
+      "missed": 0,
+      "spurious": 1,
+      "precision": 0.9983,
+      "recall": 1.0,
+      "f1": 0.9992
+    },
+    "strict": {
+      "correct": 596,
+      "incorrect": 0,
+      "partial": 0,
+      "missed": 0,
+      "spurious": 1,
+      "precision": 0.9983,
+      "recall": 1.0,
+      "f1": 0.9992
+    }
+  },
+  "entities": {
+    "FREQ": {
+      "ent_type": {
+        "correct": 596,
+        "incorrect": 0,
+        "partial": 0,
+        "missed": 0,
+        "spurious": 1,
+        "precision": 0.9983,
+        "recall": 1.0,
+        "f1": 0.9992
+      },
+      "exact": {
+        "correct": 596,
+        "incorrect": 0,
+        "partial": 0,
+        "missed": 0,
+        "spurious": 1,
+        "precision": 0.9983,
+        "recall": 1.0,
+        "f1": 0.9992
+      },
+      "partial": {
+        "correct": 596,
+        "incorrect": 0,
+        "partial": 0,
+        "missed": 0,
+        "spurious": 1,
+        "precision": 0.9983,
+        "recall": 1.0,
+        "f1": 0.9992
+      },
+      "strict": {
+        "correct": 596,
+        "incorrect": 0,
+        "partial": 0,
+        "missed": 0,
+        "spurious": 1,
+        "precision": 0.9983,
+        "recall": 1.0,
+        "f1": 0.9992
+      }
+    }
+  },
+  "loose_overlap": {
+    "FREQ": {
+      "precision": 0.9983,
+      "recall": 1.0,
+      "f1": 0.9992,
+      "matched_pred": 596,
+      "gold": 596,
+      "pred": 597
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "react": {
+    "labels": [
+      "O",
+      "B-REACT",
+      "I-REACT"
+    ],
+    "train_sentences": 1134,
+    "test_sentences": 552,
+    "train_tokens": 18440,
+    "test_tokens": 9090
+  },
+  "active": {
+    "labels": [
+      "O",
+      "B-ACTIVE",
+      "I-ACTIVE"
+    ],
+    "train_sentences": 1134,
+    "test_sentences": 552,
+    "train_tokens": 18440,
+    "test_tokens": 9090
+  },
+  "freq": {
+    "labels": [
+      "O",
+      "B-FREQ",
+      "I-FREQ"
+    ],
+    "train_sentences": 1134,
+    "test_sentences": 552,
+    "train_tokens": 18440,
+    "test_tokens": 9090
+  },
+  "sys": {
+    "labels": [
+      "O",
+      "B-SYS",
+      "I-SYS"
+    ],
+    "train_sentences": 1134,
+    "test_sentences": 552,
+    "train_tokens": 18440,
+    "test_tokens": 9090
+  },
+  "react-active-freq-sys": {
+    "labels": [
+      "O",
+      "B-REACT",
+      "I-REACT",
+      "B-ACTIVE",
+      "I-ACTIVE",
+      "B-FREQ",
+      "I-FREQ",
+      "B-SYS",
+      "I-SYS"
+    ],
+    "train_sentences": 1134,
+    "test_sentences": 552,
+    "train_tokens": 18440,
+    "test_tokens": 9090
+  }
+}

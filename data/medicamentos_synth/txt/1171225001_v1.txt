@@ -1,0 +1,71 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+
+El perfil de seguridad descrito procede de la evaluación conjunta de los datos disponibles para la asociación administrada por vía oral. La interpretación de los acontecimientos se realizó teniendo en cuenta la enfermedad de base, la exposición previa a tratamientos y la medicación concomitante. El medicamento contiene darunavir, cobicistat, emtricitabina y tenofovir alafenamida. En la mayoría de los casos, los acontecimientos notificados fueron de intensidad leve o moderada y se manejaron con medidas clínicas habituales, sin necesidad de modificar el tratamiento. La vigilancia periódica de los pacientes facilita la identificación temprana de alteraciones clínicas o analíticas durante el seguimiento.
+
+Lista tabulada de reacciones adversas
+
+Las reacciones se presentan por sistema de clasificación de órganos y por categoría de frecuencia. Dentro de cada grupo, las reacciones adversas se enumeran sin implicar un orden de gravedad.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+frecuentes: Anemia.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+muy frecuentes: erupción (incluyendo erupción macular, maculopapular, papular, eritematosa, prurítica, erupción generalizada y dermatitis alérgica).
+frecuentes: prurito, urticaria.
+poco frecuentes: angioedema.
+no frecuente: reacción al medicamento con eosinofilia y síntomas sistémicos, síndrome de Stevens-Johnson.
+frecuencia no conocida: necrólisis epidérmica tóxica, pustulosis exantemática generalizada aguda.
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN
+frecuentes: anorexia, aumento de lipoproteína de baja densidad, diabetes mellitus, dislipidemia, hipercolesterolemia, hiperlipidemia, hipertrigliceridemia.
+poco frecuentes: hiperglucemia.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+frecuentes: artralgia, mialgia.
+poco frecuentes: osteonecrosis.
+
+TRASTORNOS DEL SISTEMA GENERAL
+frecuentes: astenia, aumento de la creatinina en sangre, cansancio.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+muy frecuentes: diarrea.
+frecuentes: Nauseas, aumento de las enzimas hepáticas, dispepsia, distensión abdominal, dolor abdominal, flatulencia, vómitos.
+poco frecuentes: aumento de las enzimas pancreáticas, hepatitis aguda, hepatitis citolítica, pancreatitis aguda.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+muy frecuentes: cefalea.
+frecuentes: mareo.
+
+TRASTORNOS DEL SISTEMA REPRODUCTOR
+poco frecuentes: ginecomastia.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+frecuentes: hipersensibilidad (al medicamento).
+poco frecuentes: síndrome inflamatorio de reconstitución inmunitaria.
+
+TRASTORNOS DEL SISTEMA EXCRETOR
+no frecuente: nefropatía por depósito de cristales.
+
+TRASTORNOS PSIQUIÁTRICOS
+frecuentes: sueños anormales.
+
+Descripción de reacciones adversas seleccionadas
+
+Las manifestaciones cutáneas deben valorarse de forma individual, especialmente cuando aparecen de forma extensa, progresiva o acompañadas de signos generales. Si se sospecha una reacción grave, se recomienda realizar una evaluación clínica completa y aplicar las medidas oportunas de acuerdo con la práctica médica habitual.
+
+Durante el seguimiento pueden observarse cambios en parámetros bioquímicos y metabólicos. La interpretación de estos hallazgos debe considerar factores de riesgo preexistentes, antecedentes terapéuticos y otros tratamientos administrados simultáneamente. En pacientes con enfermedad avanzada o con antecedentes relevantes, puede ser apropiado intensificar la monitorización.
+
+Los acontecimientos digestivos y generales suelen aparecer al inicio del tratamiento y, en muchos pacientes, se resuelven sin intervención específica. La decisión de continuar, interrumpir o modificar el tratamiento debe basarse en la gravedad, la evolución temporal y el balance beneficio-riesgo individual.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En el sistema de clasificación de órganos Trastornos del sistema músculo-esquelético, se incluye osteonecrosis entre las reacciones adversas poco frecuentes notificadas en pacientes tratados con darunavir, cobicistat, emtricitabina, tenofovir alafenamida. La evaluación clínica debe considerar factores predisponentes y la exposición acumulada al tratamiento, especialmente cuando existan hallazgos compatibles durante el seguimiento. La continuidad del tratamiento y las medidas de monitorización deben valorarse de forma individual, de acuerdo con el estado clínico del paciente y la práctica clínica habitual.
+
+-- Caso 2 --
+Dentro de Trastornos del sistema excretor, se ha notificado nefropatía por depósito de cristales con frecuencia no frecuente en pacientes tratados con darunavir, cobicistat, emtricitabina, tenofovir alafenamida. Este acontecimiento puede relacionarse con precipitación tubular de cristales en condiciones predisponentes y requiere valoración clínica individual. Se recomienda considerar la monitorización de la función renal y de los parámetros urinarios cuando existan factores de riesgo, así como revisar la continuidad del tratamiento si aparecen hallazgos compatibles. La información disponible no permite establecer circunstancias adicionales específicas para todos los pacientes expuestos.
+
+-- Caso 3 --
+En el sistema de clasificación de órganos TRASTORNOS DEL SISTEMA INMUNOLÓGICO, se incluye hipersensibilidad al tratamiento con darunavir, cobicistat, emtricitabina, tenofovir alafenamida entre las reacciones adversas frecuentes. Este hallazgo es coherente con respuestas inmunológicas individuales observadas durante el uso de tratamientos antirretrovirales combinados. Se recomienda vigilancia clínica, especialmente al inicio del tratamiento, y valoración médica si aparecen signos compatibles que sugieran relación temporal con la administración del medicamento.

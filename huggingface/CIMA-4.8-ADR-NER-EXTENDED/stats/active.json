@@ -1,0 +1,35 @@
+{
+  "config": "active",
+  "entity_types": [
+    "ACTIVE"
+  ],
+  "labels": [
+    "O",
+    "B-ACTIVE",
+    "I-ACTIVE"
+  ],
+  "train": {
+    "documents": 70,
+    "sentences": 4023,
+    "tokens": 60386,
+    "label_counts": {
+      "O": 59707,
+      "B-ACTIVE": 455,
+      "I-ACTIVE": 224
+    },
+    "missing_txt_files": [],
+    "docs_with_no_tags": []
+  },
+  "test": {
+    "documents": 28,
+    "sentences": 1577,
+    "tokens": 26213,
+    "label_counts": {
+      "O": 25912,
+      "B-ACTIVE": 180,
+      "I-ACTIVE": 121
+    },
+    "missing_txt_files": [],
+    "docs_with_no_tags": []
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "config": "react-active-freq-sys",
+  "entity_types": [
+    "REACT",
+    "ACTIVE",
+    "FREQ",
+    "SYS"
+  ],
+  "labels": [
+    "O",
+    "B-REACT",
+    "I-REACT",
+    "B-ACTIVE",
+    "I-ACTIVE",
+    "B-FREQ",
+    "I-FREQ",
+    "B-SYS",
+    "I-SYS"
+  ],
+  "train": {
+    "documents": 18,
+    "sentences": 1134,
+    "tokens": 18440,
+    "label_counts": {
+      "O": 15456,
+      "B-FREQ": 155,
+      "I-FREQ": 80,
+      "B-REACT": 1349,
+      "I-REACT": 1130,
+      "B-SYS": 59,
+      "I-SYS": 147,
+      "B-ACTIVE": 61,
+      "I-ACTIVE": 3
+    },
+    "missing_txt_files": [],
+    "docs_with_no_tags": []
+  },
+  "test": {
+    "documents": 8,
+    "sentences": 552,
+    "tokens": 9090,
+    "label_counts": {
+      "O": 7519,
+      "B-ACTIVE": 43,
+      "B-REACT": 698,
+      "B-FREQ": 134,
+      "I-FREQ": 66,
+      "B-SYS": 22,
+      "I-SYS": 53,
+      "I-REACT": 553,
+      "I-ACTIVE": 2
+    },
+    "missing_txt_files": [],
+    "docs_with_no_tags": []
+  }
+}

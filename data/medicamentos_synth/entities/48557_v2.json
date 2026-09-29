@@ -1,0 +1,562 @@
+{
+  "codigo": "48557",
+  "variante": 2,
+  "codigo_variant": "48557_v2",
+  "medicamento": "DOGMATIL 50 mg/ml SOLUCION INYECTABLE",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "SULPIRIDA",
+      "surface": "SULPIRIDA",
+      "start": 83,
+      "end": 92
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "SULPIRIDA",
+      "surface": "Dogmatil",
+      "start": 203,
+      "end": 211
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 673,
+      "end": 704
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 705,
+      "end": 715
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parkinsonismo",
+      "surface": "Parkinsonismo",
+      "start": 717,
+      "end": 730
+    },
+    {
+      "type": "REACT",
+      "canonical": "acatisia",
+      "surface": "acatisia",
+      "start": 732,
+      "end": 740
+    },
+    {
+      "type": "REACT",
+      "canonical": "sedación",
+      "surface": "sedación",
+      "start": 742,
+      "end": 750
+    },
+    {
+      "type": "REACT",
+      "canonical": "somnolencia",
+      "surface": "somnolencia",
+      "start": 752,
+      "end": 763
+    },
+    {
+      "type": "REACT",
+      "canonical": "temblor",
+      "surface": "temblor",
+      "start": 765,
+      "end": 772
+    },
+    {
+      "type": "REACT",
+      "canonical": "trastorno extrapiramidal",
+      "surface": "trastorno extrapiramidal",
+      "start": 774,
+      "end": 798
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 800,
+      "end": 815
+    },
+    {
+      "type": "REACT",
+      "canonical": "discinesia",
+      "surface": "discinesia",
+      "start": 817,
+      "end": 827
+    },
+    {
+      "type": "REACT",
+      "canonical": "distonía",
+      "surface": "distonía",
+      "start": 829,
+      "end": 837
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipertonía",
+      "surface": "hipertonía",
+      "start": 839,
+      "end": 849
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 851,
+      "end": 863
+    },
+    {
+      "type": "REACT",
+      "canonical": "crisis oculógiras",
+      "surface": "crisis oculógiras",
+      "start": 865,
+      "end": 882
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 884,
+      "end": 906
+    },
+    {
+      "type": "REACT",
+      "canonical": "convulsiones",
+      "surface": "convulsiones",
+      "start": 908,
+      "end": 920
+    },
+    {
+      "type": "REACT",
+      "canonical": "discinesia tardía",
+      "surface": "discinesia tardía",
+      "start": 922,
+      "end": 939
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipoquinesia",
+      "surface": "hipoquinesia",
+      "start": 941,
+      "end": 953
+    },
+    {
+      "type": "REACT",
+      "canonical": "síndrome neuroléptico maligno",
+      "surface": "síndrome neuroléptico maligno",
+      "start": 955,
+      "end": 984
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 987,
+      "end": 1036
+    },
+    {
+      "type": "REACT",
+      "canonical": "Leucopenia",
+      "surface": "Leucopenia",
+      "start": 1054,
+      "end": 1064
+    },
+    {
+      "type": "REACT",
+      "canonical": "agranulocitosis",
+      "surface": "agranulocitosis",
+      "start": 1090,
+      "end": 1105
+    },
+    {
+      "type": "REACT",
+      "canonical": "neutropenia",
+      "surface": "neutropenia",
+      "start": 1107,
+      "end": 1118
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "start": 1121,
+      "end": 1155
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor de pecho",
+      "surface": "dolor de pecho",
+      "start": 1168,
+      "end": 1182
+    },
+    {
+      "type": "REACT",
+      "canonical": "galactorrea",
+      "surface": "galactorrea",
+      "start": 1184,
+      "end": 1195
+    },
+    {
+      "type": "REACT",
+      "canonical": "amenorrea",
+      "surface": "amenorrea",
+      "start": 1214,
+      "end": 1223
+    },
+    {
+      "type": "REACT",
+      "canonical": "aumento del pecho",
+      "surface": "aumento del pecho",
+      "start": 1225,
+      "end": 1242
+    },
+    {
+      "type": "REACT",
+      "canonical": "disfunción eréctil",
+      "surface": "disfunción eréctil",
+      "start": 1244,
+      "end": 1262
+    },
+    {
+      "type": "REACT",
+      "canonical": "orgasmo anormal",
+      "surface": "orgasmo anormal",
+      "start": 1264,
+      "end": 1279
+    },
+    {
+      "type": "REACT",
+      "canonical": "ginecomastia",
+      "surface": "ginecomastia",
+      "start": 1305,
+      "end": 1317
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1320,
+      "end": 1357
+    },
+    {
+      "type": "REACT",
+      "canonical": "arritmia ventricular",
+      "surface": "arritmia ventricular",
+      "start": 1375,
+      "end": 1395
+    },
+    {
+      "type": "REACT",
+      "canonical": "fibrilación ventricular",
+      "surface": "fibrilación ventricular",
+      "start": 1397,
+      "end": 1420
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipotensión ortostática",
+      "surface": "hipotensión ortostática",
+      "start": 1422,
+      "end": 1445
+    },
+    {
+      "type": "REACT",
+      "canonical": "taquicardia ventricular",
+      "surface": "taquicardia ventricular",
+      "start": 1447,
+      "end": 1470
+    },
+    {
+      "type": "REACT",
+      "canonical": "aumento de la presión sanguínea",
+      "surface": "aumento de la presión sanguínea",
+      "start": 1496,
+      "end": 1527
+    },
+    {
+      "type": "REACT",
+      "canonical": "embolismo pulmonar",
+      "surface": "embolismo pulmonar",
+      "start": 1529,
+      "end": 1547
+    },
+    {
+      "type": "REACT",
+      "canonical": "muerte súbita",
+      "surface": "muerte súbita",
+      "start": 1549,
+      "end": 1562
+    },
+    {
+      "type": "REACT",
+      "canonical": "neumonía por aspiración",
+      "surface": "neumonía por aspiración",
+      "start": 1564,
+      "end": 1587
+    },
+    {
+      "type": "REACT",
+      "canonical": "paro cardiaco",
+      "surface": "paro cardiaco",
+      "start": 1589,
+      "end": 1602
+    },
+    {
+      "type": "REACT",
+      "canonical": "prolongación del intervalo QT en electrocardiograma",
+      "surface": "prolongación del intervalo QT en electrocardiograma",
+      "start": 1604,
+      "end": 1655
+    },
+    {
+      "type": "REACT",
+      "canonical": "torsade de pointes",
+      "surface": "torsade de pointes",
+      "start": 1657,
+      "end": 1675
+    },
+    {
+      "type": "REACT",
+      "canonical": "tromboembolismo venoso",
+      "surface": "tromboembolismo venoso",
+      "start": 1677,
+      "end": 1699
+    },
+    {
+      "type": "REACT",
+      "canonical": "trombosis venosa profunda",
+      "surface": "trombosis venosa profunda",
+      "start": 1701,
+      "end": 1726
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 1729,
+      "end": 1759
+    },
+    {
+      "type": "REACT",
+      "canonical": "aumento de peso",
+      "surface": "aumento de peso",
+      "start": 1772,
+      "end": 1787
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipertermia",
+      "surface": "hipertermia",
+      "start": 1813,
+      "end": 1824
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 1827,
+      "end": 1851
+    },
+    {
+      "type": "REACT",
+      "canonical": "insomnio",
+      "surface": "insomnio",
+      "start": 1864,
+      "end": 1872
+    },
+    {
+      "type": "REACT",
+      "canonical": "confusion",
+      "surface": "confusion",
+      "start": 1898,
+      "end": 1907
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1910,
+      "end": 1942
+    },
+    {
+      "type": "REACT",
+      "canonical": "estreñimiento",
+      "surface": "estreñimiento",
+      "start": 1955,
+      "end": 1968
+    },
+    {
+      "type": "REACT",
+      "canonical": "incremento de enzimas hepáticas",
+      "surface": "incremento de enzimas hepáticas",
+      "start": 1970,
+      "end": 2001
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipersecreción salival",
+      "surface": "hipersecreción salival",
+      "start": 2020,
+      "end": 2042
+    },
+    {
+      "type": "REACT",
+      "canonical": "daño hepático hepatocelular, colestásico o mixto",
+      "surface": "daño hepático hepatocelular, colestásico o mixto",
+      "start": 2068,
+      "end": 2116
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 2119,
+      "end": 2154
+    },
+    {
+      "type": "REACT",
+      "canonical": "disnea",
+      "surface": "disnea",
+      "start": 2179,
+      "end": 2185
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipotensión",
+      "surface": "hipotensión",
+      "start": 1422,
+      "end": 1433
+    },
+    {
+      "type": "REACT",
+      "canonical": "shock anafiláctico",
+      "surface": "shock anafiláctico",
+      "start": 2200,
+      "end": 2218
+    },
+    {
+      "type": "REACT",
+      "canonical": "urticaria",
+      "surface": "urticaria",
+      "start": 2220,
+      "end": 2229
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "surface": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "start": 2232,
+      "end": 2264
+    },
+    {
+      "type": "REACT",
+      "canonical": "hiperprolactinemia",
+      "surface": "hiperprolactinemia",
+      "start": 2277,
+      "end": 2295
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "start": 2298,
+      "end": 2339
+    },
+    {
+      "type": "REACT",
+      "canonical": "SIHAD",
+      "surface": "SIHAD",
+      "start": 2364,
+      "end": 2369
+    },
+    {
+      "type": "REACT",
+      "canonical": "hiponatremia",
+      "surface": "hiponatremia",
+      "start": 2371,
+      "end": 2383
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 2386,
+      "end": 2428
+    },
+    {
+      "type": "REACT",
+      "canonical": "rabdomiólisis",
+      "surface": "rabdomiólisis",
+      "start": 2453,
+      "end": 2466
+    },
+    {
+      "type": "REACT",
+      "canonical": "tortícolis",
+      "surface": "tortícolis",
+      "start": 2468,
+      "end": 2478
+    },
+    {
+      "type": "REACT",
+      "canonical": "trismo",
+      "surface": "trismo",
+      "start": 2480,
+      "end": 2486
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 2489,
+      "end": 2517
+    },
+    {
+      "type": "REACT",
+      "canonical": "rash maculopapular",
+      "surface": "rash maculopapular",
+      "start": 2530,
+      "end": 2548
+    },
+    {
+      "type": "REACT",
+      "canonical": "rash maculopapular",
+      "surface": "rash",
+      "start": 2530,
+      "end": 2534
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "Trastornos del sistema reproductor",
+      "start": 1121,
+      "end": 1155
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "SULPIRIDA",
+      "surface": "sulpirida",
+      "start": 83,
+      "end": 92
+    },
+    {
+      "type": "REACT",
+      "canonical": "galactorrea",
+      "surface": "secreción láctea fuera de la lactancia",
+      "start": 4115,
+      "end": 4153
+    },
+    {
+      "type": "REACT",
+      "canonical": "crisis oculógiras",
+      "surface": "giro involuntario de los ojos",
+      "start": 4571,
+      "end": 4600
+    }
+  ]
+}

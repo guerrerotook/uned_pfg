@@ -1,0 +1,93 @@
+{
+  "codigo": "77045",
+  "variante": 2,
+  "codigo_variant": "77045_v2",
+  "medicamento": "LEVOTIROXINA SODICA TEVA 100 microgramos COMPRIMIDOS EFG",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "LEVOTIROXINA SODICA",
+      "surface": "LEVOTIROXINA SODICA",
+      "start": 95,
+      "end": 114
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "LEVOTIROXINA SODICA",
+      "surface": "levotiroxina",
+      "start": 95,
+      "end": 107
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "LEVOTIROXINA SODICA",
+      "surface": "T4",
+      "start": 485,
+      "end": 487
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 960,
+      "end": 982
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "Trastornos de piel y tejidos",
+      "start": 1473,
+      "end": 1501
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angioedema",
+      "surface": "Angioedema",
+      "start": 1527,
+      "end": 1537
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción cuttánea",
+      "surface": "Erupción cuttánea",
+      "start": 1539,
+      "end": 1556
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción cuttánea",
+      "surface": "sarpullido",
+      "start": 1558,
+      "end": 1568
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria",
+      "start": 1571,
+      "end": 1580
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "ronchas",
+      "start": 1582,
+      "end": 1589
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "LEVOTIROXINA SODICA",
+      "surface": "levotiroxina sódica",
+      "start": 95,
+      "end": 114
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 1473,
+      "end": 1501
+    }
+  ]
+}

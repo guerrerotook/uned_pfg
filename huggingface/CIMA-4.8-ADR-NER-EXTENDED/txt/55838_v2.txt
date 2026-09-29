@@ -1,0 +1,42 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+
+El perfil de seguridad observado con Sueroral, formulación oral basada en GLUCOSA y electrolitos, es el esperado para un preparado destinado a la reposición hidroelectrolítica cuando se utiliza de acuerdo con las recomendaciones de administración. En general, las notificaciones descritas han sido limitadas y se han relacionado sobre todo con la situación clínica de base, la velocidad de ingesta o la capacidad del paciente para compensar los aportes. La dextrosa incluida en la formulación contribuye al transporte intestinal de sales y agua, y no se ha identificado un patrón amplio de intolerancia cuando la solución se prepara correctamente. No obstante, en pacientes vulnerables, especialmente cuando la eliminación renal está reducida, debe mantenerse una vigilancia clínica adecuada. La aparición de molestias digestivas aisladas suele resolverse al ajustar la forma de administración, sin que ello implique necesariamente la interrupción definitiva del tratamiento.
+
+Lista tabulada de reacciones adversas
+
+Las reacciones se presentan agrupadas por sistema de clasificación de órganos y por frecuencia. Dentro de cada grupo, se enumeran manteniendo la terminología comunicada. Las categorías de frecuencia se interpretan de forma convencional y deben valorarse junto con la exposición del paciente y las circunstancias de uso.
+
+TRASTORNOS DEL SISTEMA GENERAL
+poco frecuentes:
+En pacientes con deterioro renal puede dar lugar a hipernatremia e hiperkaliemia
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+poco frecuentes:
+vómitos
+
+Descripción de reacciones adversas seleccionadas
+
+La alteración incluida en el apartado general debe considerarse principalmente en situaciones en las que exista una limitación para eliminar los componentes aportados por la solución. En estos casos, la supervisión del balance hídrico, la cantidad administrada y la respuesta clínica resulta especialmente importante. La correcta reconstitución del polvo y el respeto de las cantidades indicadas reducen la posibilidad de concentraciones inadecuadas de la solución. Si se identifican signos clínicos compatibles con mala tolerancia, se recomienda reevaluar el aporte y la situación del paciente antes de continuar.
+
+En relación con la tolerancia gastrointestinal, los vómitos (devolver) pueden presentarse de forma aislada durante la administración oral. Este efecto puede verse favorecido por una toma demasiado rápida, por el estado previo del paciente o por la administración de volúmenes elevados en poco tiempo. En la práctica, puede ser útil fraccionar las tomas y administrar la solución lentamente, siempre respetando las indicaciones de uso. Si el episodio persiste o impide una hidratación adecuada, debe considerarse una valoración clínica adicional.
+
+La información anterior no sustituye a la evaluación individual. La comunicación de cualquier sospecha de reacción permite actualizar el conocimiento del perfil de seguridad y mantener una vigilancia proporcional al uso del medicamento en la población tratada.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En los datos disponibles, dentro de Trastornos del sistema digestivo, se han notificado vómitos como reacción adversa poco frecuentes durante el uso de soluciones de rehidratación que contienen glucosa, también denominada dextrosa.
+
+Tabla de reacciones adversas:
+- Trastornos del sistema digestivo: vómitos (poco frecuentes).
+
+La aparición de este episodio (devolver) puede relacionarse con la tolerancia gastrointestinal individual y con la velocidad de administración. Se recomienda valorar la continuidad del tratamiento y mantener una adecuada vigilancia clínica si el síntoma persiste o dificulta la reposición oral de líquidos.
+
+-- Caso 2 --
+En la tabla siguiente se recoge la reacción adversa identificada para glucosa (dextrosa), clasificada según MedDRA. La notificación se integra en Trastornos del sistema general y la categoría de frecuencia es poco frecuentes.
+
+- Trastornos del sistema general: poco frecuentes: En pacientes con deterioro renal puede dar lugar a hipernatremia e hiperkaliemia.
+
+El aporte de glucosa puede requerir especial vigilancia en pacientes con función renal reducida, en particular cuando la ingesta de la solución no se ajusta a las necesidades clínicas. Se recomienda considerar el seguimiento analítico habitual y valorar la interrupción o ajuste del tratamiento si la situación clínica lo aconseja.

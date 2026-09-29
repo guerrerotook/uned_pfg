@@ -1,0 +1,47 @@
+Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Luis Miguel Guerrero Guirado — Universidad Nacional de Educación a Distancia (UNED)
+
+This dataset is licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0). You are free to:
+
+  - Share — copy and redistribute the material in any medium or format
+  - Adapt — remix, transform, and build upon the material for any
+    purpose, even commercially.
+
+Under the following terms:
+
+  - Attribution — You must give appropriate credit, provide a link to
+    the license, and indicate if changes were made. You may do so in
+    any reasonable manner, but not in any way that suggests the
+    licensor endorses you or your use.
+
+The full legal code is available at:
+  https://creativecommons.org/licenses/by/4.0/legalcode
+
+SYNTHETIC CONTENT NOTICE
+------------------------
+Every section-4.8 document in this dataset is FICTIONAL: it was written
+by a large language model and does not correspond to any officially
+published drug fact sheet. The documents must not be used as a source
+of clinical, pharmacological or regulatory information about any real
+medicine. What comes from the real world is only the underlying set of
+canonical annotations — the (adverse reaction, frequency, organ system,
+active ingredient) tuples extracted from the AEMPS-CIMA fact sheets that
+seeded the generation.
+
+ATTRIBUTION
+-----------
+The canonical annotations behind the generated text derive from the
+Spanish drug fact sheets (fichas técnicas / Summary of Product
+Characteristics, SmPC) published by the Spanish Agency for Medicines and
+Medical Devices (Agencia Española de Medicamentos y Productos
+Sanitarios, AEMPS) through the CIMA portal (https://cima.aemps.es/).
+When redistributing or building upon this dataset, please attribute
+both:
+
+  1. Guerrero Guirado, L. M. (2026). CIMA Sección 4.8 ADR NER Extended
+     (corpus sintético de reacciones adversas). UNED PFG.
+     https://huggingface.co/datasets/guerrerotook/CIMA-4.8-ADR-NER-EXTENDED
+  2. AEMPS — Centro de Información Online de Medicamentos (CIMA).
+     https://cima.aemps.es/

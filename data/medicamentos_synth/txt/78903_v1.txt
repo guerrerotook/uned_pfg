@@ -1,0 +1,64 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil de seguridad de BISOPROLOL FUMARATO es concordante con el esperado para un bloqueante beta utilizado en la práctica clínica. Las reacciones adversas observadas suelen estar relacionadas con la respuesta farmacológica y con la susceptibilidad individual del paciente. En general, la tolerabilidad debe valorarse de forma continua, especialmente durante el inicio del tratamiento y tras los ajustes de dosis. La aparición de signos clínicamente relevantes requiere una evaluación individual, teniendo en cuenta la enfermedad de base, los tratamientos concomitantes y la situación hemodinámica. La interrupción del tratamiento, cuando sea necesaria, debe realizarse conforme a las recomendaciones clínicas habituales.
+
+Lista tabulada de reacciones adversas
+Las reacciones se presentan agrupadas por sistema de clasificación de órganos y por categoría de frecuencia. Dentro de cada grupo, las reacciones se enumeran siguiendo una terminología médica estandarizada.
+
+Trastornos de piel y tejidos
+frecuencia no conocida: Alopecia, Erupciones similares a la psoriasis, Psoriasis.
+no frecuente: Hipersensibilidad (prurito, rubefacción, erupción cutánea, angioedema).
+
+Trastornos del sistema cardiovascular
+muy frecuentes: Bradicardia.
+frecuentes: Hipotensión, Insuficiencia cardiaca descompensada, Sensación de frío o entumecimiento de extremidades.
+poco frecuentes: Alteraciones de la conducción AV, Hipotensión ortostática.
+
+Trastornos psiquiátricos
+poco frecuentes: Alteraciones del sueño, Depresión.
+no frecuente: Alucinación, Pesadillas.
+
+Trastornos del sistema general
+frecuentes: Astenia, Fatiga.
+
+Pruebas complementarias
+no frecuente: Aumento de las enzimas hepáticas (AST, ALT), Aumento de los triglicéridos.
+
+Trastornos del sistema respiratorio
+poco frecuentes: Broncoespasmo en pacientes con asma bronquial u obstrucción de las vías aéreas.
+no frecuente: Rinitis alérgica.
+
+Trastornos del sistema músculo-esquelético
+poco frecuentes: Calambres, Debilidad muscular.
+
+Trastornos del sistema nervioso
+frecuentes: Cefalea, Mareos.
+no frecuente: Síncope.
+
+Trastornos de órganos de los sentidos
+frecuencia no conocida: Conjuntivitis.
+no frecuente: Deterioro de la audición, Disminución de la producción de lágrimas (a tener en cuenta si se utiliza lentes de contacto).
+
+Trastornos del sistema digestivo
+frecuentes: Diarrea, Estreñimiento, Náuseas, Vómitos.
+no frecuente: Hepatitis.
+
+Trastornos del sistema reproductor
+no frecuente: Disfunción eréctil.
+
+Descripción de reacciones adversas seleccionadas
+Durante el seguimiento del paciente se recomienda prestar atención a la evolución temporal de los síntomas y a su relación con el ajuste posológico. La valoración debe incluir la situación clínica previa y la presencia de factores que puedan modificar la tolerabilidad. En pacientes vulnerables, la supervisión clínica puede facilitar la detección temprana de acontecimientos que requieran medidas de soporte o modificación del tratamiento.
+
+La notificación de sospechas de reacciones adversas tras la autorización del medicamento es importante, ya que permite continuar la evaluación de la relación beneficio-riesgo. Se invita a los profesionales sanitarios a comunicar cualquier sospecha a través del sistema nacional de notificación establecido.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En la clasificación TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS, se ha descrito Disminución de la producción de lágrimas (a tener en cuenta si se utiliza lentes de contacto) con frecuencia no frecuente durante el tratamiento con BISOPROLOL FUMARATO. Esta alteración puede relacionarse con la acción farmacológica beta-bloqueante y debe considerarse en pacientes que utilizan lentes de contacto. Se recomienda informar al paciente para que comunique la aparición o persistencia de molestias compatibles, valorando la necesidad de seguimiento clínico según la situación individual y la evolución tras el inicio o ajuste del tratamiento.
+
+-- Caso 2 --
+Trastornos del sistema cardiovascular: Bradicardia, con una frecuencia clasificada como muy frecuentes. Este efecto es coherente con la acción farmacológica de BISOPROLOL FUMARATO sobre la frecuencia cardiaca. Se recomienda valorar la situación clínica del paciente y realizar seguimiento de la frecuencia cardiaca, especialmente al inicio del tratamiento o tras ajustes de dosis. La necesidad de modificar el tratamiento debe establecerse de forma individual, de acuerdo con la tolerabilidad y la respuesta clínica observada.
+
+-- Caso 3 --
+En el sistema TRASTORNOS PSIQUIÁTRICOS, las reacciones adversas poco frecuentes comunicadas con BISOPROLOL FUMARATO incluyen depresión. Este acontecimiento debe interpretarse en el contexto clínico del paciente y de la evolución temporal respecto al inicio del tratamiento. Durante el seguimiento, se recomienda valorar la persistencia o intensificación de la sintomatología y considerar las medidas clínicas apropiadas según el estado del paciente y la necesidad de continuar el tratamiento.

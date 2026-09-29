@@ -1,0 +1,35 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+
+El perfil de seguridad de LEVOTIROXINA SODICA está condicionado por la necesidad de mantener un ajuste individualizado del tratamiento y por la vigilancia clínica durante el seguimiento. La información disponible procede de la notificación clínica habitual y debe interpretarse junto con la situación basal del paciente y la respuesta al tratamiento. En la experiencia acumulada se han comunicado Angioedema, Erupción cuttánea y Urticaria con frecuencia no conocida. Estas notificaciones no permiten establecer una estimación fiable de aparición, pero son relevantes para la evaluación continuada de la tolerabilidad. La identificación temprana de cualquier manifestación compatible facilita la toma de decisiones y la revisión de la pauta cuando se considere necesario.
+
+Como en otros tratamientos de uso prolongado, la valoración de una sospecha debe tener en cuenta la cronología, la evolución tras la actuación clínica y la posible presencia de factores concomitantes. La comunicación de sospechas contribuye a caracterizar mejor el perfil de seguridad en la práctica asistencial. No se dispone de datos que permitan definir subgrupos con un patrón específico a partir de la información resumida en esta sección. La actuación debe ajustarse a criterios clínicos y a las recomendaciones generales de farmacovigilancia.
+
+Lista tabulada de reacciones adversas
+
+Las reacciones adversas se presentan a continuación según el sistema de clasificación de órganos y la categoría indicada para la estimación disponible. Dentro de cada grupo, los términos se expresan utilizando una denominación estándar y se mantienen sin jerarquización de gravedad.
+
+Sistema de clasificación de órganos: TRASTORNOS DE PIEL Y TEJIDOS
+frecuencia no conocida: Angioedema, Erupción cuttánea, Urticaria.
+
+Descripción de reacciones adversas seleccionadas
+
+Angioedema se ha notificado de forma aislada durante el tratamiento con LEVOTIROXINA SODICA. Ante una sospecha clínica, debe valorarse la relación temporal con la administración y la necesidad de medidas adecuadas de control. La decisión sobre la continuidad o modificación del tratamiento debe basarse en la situación del paciente y en la evaluación médica individual. Cuando proceda, la información debe registrarse de forma completa para facilitar el seguimiento posterior.
+
+Erupción cuttánea y Urticaria pueden aparecer como manifestaciones de tolerabilidad durante la exposición al medicamento. La evolución puede ser variable y requiere observación clínica, especialmente si los síntomas reaparecen tras una nueva exposición. En ausencia de datos cuantitativos suficientes, ambas se consideran de frecuencia no conocida. La revisión de tratamientos concomitantes, antecedentes relevantes y cambios recientes en la medicación puede ayudar a contextualizar la sospecha.
+
+Notificación de sospechas de reacciones adversas
+
+Es importante notificar las sospechas de reacciones adversas tras la autorización del medicamento. Ello permite una supervisión continuada de la relación beneficio-riesgo. Se invita a los profesionales sanitarios a comunicar cualquier sospecha por los procedimientos establecidos en el sistema nacional de notificación correspondiente. La información clínica completa, incluyendo la fecha de inicio, evolución, medidas adoptadas y desenlace, mejora la calidad de la evaluación farmacológica.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+Dentro de TRASTORNOS DE PIEL Y TEJIDOS, se ha notificado Angioedema asociado al uso de LEVOTIROXINA SODICA, con frecuencia no conocida, ya que no puede estimarse a partir de los datos disponibles. La aparición de este cuadro puede ser compatible con un mecanismo de sensibilidad individual al tratamiento. Si se sospecha una relación temporal con la administración, debe valorarse la interrupción del medicamento y establecerse seguimiento clínico adecuado, de acuerdo con la gravedad y la evolución del paciente. La notificación espontánea tras la comercialización contribuye a caracterizar mejor este riesgo.
+
+-- Caso 2 --
+Dentro del sistema TRASTORNOS DE PIEL Y TEJIDOS, se ha notificado erupción cutánea asociada al tratamiento con LEVOTIROXINA SODICA, con frecuencia no conocida a partir de los datos disponibles. La aparición de esta manifestación debe valorarse en el contexto clínico del paciente y de la exposición al tratamiento. Se recomienda realizar seguimiento clínico y considerar la adecuación de la pauta si los síntomas persisten o resultan clínicamente relevantes.
+
+-- Caso 3 --
+Dentro del sistema TRASTORNOS DE PIEL Y TEJIDOS, se ha notificado Urticaria asociada al uso de LEVOTIROXINA SODICA, con frecuencia no conocida. Esta frecuencia procede de notificación espontánea o de información poscomercialización, por lo que no puede estimarse de forma fiable a partir de los datos disponibles. En pacientes tratados, la aparición de lesiones compatibles debe motivar valoración clínica y revisión del tratamiento, considerando la relación temporal con la administración y la evolución tras las medidas adoptadas. La evaluación debe realizarse de acuerdo con la práctica clínica habitual, teniendo en cuenta antecedentes relevantes y la necesidad de continuidad del tratamiento.

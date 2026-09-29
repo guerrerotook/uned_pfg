@@ -1,0 +1,47 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil de seguridad de CASPOFUNGINA se ha evaluado en pacientes tratados por infección fúngica invasiva o en situación de riesgo clínico elevado. En conjunto, las reacciones notificadas fueron habitualmente manejables con vigilancia clínica, control analítico y medidas de soporte. La administración intravenosa puede asociarse a manifestaciones generales o locales, por lo que se recomienda observar el lugar de administración durante el tratamiento. La interpretación de los hallazgos debe considerar la enfermedad de base, los tratamientos concomitantes y la situación inmunológica del paciente. En la lista se emplean exclusivamente las categorías frecuentes, poco frecuentes y frecuencia no conocida.
+
+Lista tabulada de reacciones adversas
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR: frecuentes: Flebitis; poco frecuentes: Acaloramiento, Arritmia, Fibrilación auricular, Hipertensión, Hipotensión, Taquicardia, Tromboflebitis.
+
+PRUEBAS COMPLEMENTARIAS: frecuentes: Albúmina disminuida en sangre, Potasio disminuido en sangre; poco frecuentes: Creatinina elevada en sangre, Hematuria, Glucosa elevada en sangre, Presión arterial aumentada, Urea elevada en sangre, Sodio disminuido en sangre.
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN: frecuentes: Hipokalemia; poco frecuentes: Acidosis metabólica, Anorexia, Desequilibrio electrolítico, Hiperglucemia, Hipocalcemia, Hipomagnesemia.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS: frecuentes: Hematocrito disminuido, Hemoglobina disminuida, Recuento disminuido de leucocitos; poco frecuentes: Anemia, Leucopenia, Trombocitopenia, Coagulopatía.
+
+TRASTORNOS PSIQUIÁTRICOS: poco frecuentes: Ansiedad, Desorientación, Insomnio.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO: frecuentes: Artralgia; poco frecuentes: Dolor de espalda, Dolor en una extremidad, Mialgia.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO: frecuentes: Diarrea, Náuseas, Vómitos, Elevación de los valores hepáticos (ALT, AST, FALc, bilirrubina conjugada, bilirrubina en sangre); poco frecuentes: Dolor abdominal, Estreñimiento, Dispepsia, Hiperbilirrubinemia, Ictericia, Hepatotoxicidad.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO: poco frecuentes: Broncoespasmo, Tos, Hipoxia, Sibilancia.
+
+TRASTORNOS DEL SISTEMA NERVIOSO: frecuentes: Cefalea; poco frecuentes: Mareo, Parestesias, Somnolencia, Temblor.
+
+TRASTORNOS DE PIEL Y TEJIDOS: frecuentes: Eritema, Erupción, Hiperhidrosis, Prurito; poco frecuentes: Urticaria, Erupción maculopapular, Prurito generalizado; frecuencia no conocida: Necrolisis epidérmica tóxica (NET), Síndrome de Stevens - Johnson (SSJ).
+
+TRASTORNOS DEL SISTEMA REPRODUCTOR: frecuentes: Disnea.
+
+TRASTORNOS DEL SISTEMA GENERAL: frecuentes: Escalofrío, Pirexia, Prurito en el lugar de perfusión; poco frecuentes: Dolor, Edema, Fatiga, Malestar general, Dolor en el lugar de perfusión, Eritema en la zona de perfusión, Extravasación en el lugar de perfusión.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS: poco frecuentes: Edema palpebral, Visión borrosa, Lagrimeo aumentado.
+
+TRASTORNOS DEL SISTEMA EXCRETOR: poco frecuentes: Fallo renal, Insuficiencia renal aguda.
+
+Descripción de reacciones adversas seleccionadas
+La vigilancia durante el tratamiento debe incluir la valoración periódica del estado clínico y de los parámetros de laboratorio que resulten relevantes para cada paciente. En caso de hallazgos clínicamente significativos, se debe considerar la relación temporal con la administración y la presencia de otros factores contribuyentes. Las manifestaciones locales asociadas a la administración suelen requerir únicamente medidas sintomáticas, aunque pueden justificar una revisión de la vía utilizada. Las alteraciones graves de la piel requieren suspensión del tratamiento y evaluación médica inmediata.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En la clasificación por sistemas y órganos, dentro de TRASTORNOS DE PIEL Y TEJIDOS, se ha notificado Síndrome de Stevens - Johnson (SSJ) asociado al tratamiento con CASPOFUNGINA, con frecuencia no conocida. La relación temporal debe valorarse en el contexto clínico del paciente y de la administración concomitante de otros medicamentos. Ante la sospecha de esta reacción, debe considerarse la interrupción del tratamiento según criterio médico y realizarse un seguimiento estrecho hasta la resolución o estabilización clínica. La evaluación de causalidad debe quedar documentada en la historia clínica.
+
+-- Caso 2 --
+En la clasificación por órganos, las Náuseas se incluyen dentro de Trastornos del sistema digestivo y se han notificado como frecuentes durante el tratamiento con CASPOFUNGINA. Este hallazgo es coherente con un perfil de tolerabilidad gastrointestinal observado durante la administración intravenosa, sin que por sí solo implique necesariamente la interrupción del tratamiento. Se recomienda valorar la intensidad, la relación temporal con la perfusión y la evolución clínica, especialmente en pacientes con factores concomitantes que puedan dificultar la interpretación. La información debe considerarse junto con el estado basal del paciente y el seguimiento clínico habitual.
+
+-- Caso 3 --
+En la clasificación de TRASTORNOS DEL SISTEMA GENERAL, se incluye Malestar general entre las reacciones adversas poco frecuentes notificadas durante el tratamiento con CASPOFUNGINA. Este acontecimiento debe interpretarse en el contexto del estado clínico del paciente y de la administración concomitante de otros tratamientos, sin que por sí solo implique necesariamente la interrupción del tratamiento. Se recomienda realizar seguimiento clínico y valorar la evolución temporal tras cada perfusión, especialmente si el síntoma persiste o afecta a la tolerabilidad. La evaluación debe basarse en la intensidad, la duración y la relación temporal con la administración.

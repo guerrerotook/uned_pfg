@@ -1,0 +1,35 @@
+{
+  "config": "react",
+  "entity_types": [
+    "REACT"
+  ],
+  "labels": [
+    "O",
+    "B-REACT",
+    "I-REACT"
+  ],
+  "train": {
+    "documents": 18,
+    "sentences": 1134,
+    "tokens": 18440,
+    "label_counts": {
+      "O": 15961,
+      "B-REACT": 1349,
+      "I-REACT": 1130
+    },
+    "missing_txt_files": [],
+    "docs_with_no_tags": []
+  },
+  "test": {
+    "documents": 8,
+    "sentences": 552,
+    "tokens": 9090,
+    "label_counts": {
+      "O": 7839,
+      "B-REACT": 698,
+      "I-REACT": 553
+    },
+    "missing_txt_files": [],
+    "docs_with_no_tags": []
+  }
+}

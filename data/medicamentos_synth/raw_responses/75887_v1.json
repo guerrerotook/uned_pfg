@@ -1,0 +1,445 @@
+{
+  "codigo": "75887",
+  "variante": 1,
+  "codigo_variant": "75887_v1",
+  "medicamento": "LAMIVUDINA NORMON 100 mg COMPRIMIDOS RECUBIERTOS CON PELICULA EFG",
+  "model": "gpt-5.5",
+  "style_variant_idx": 0,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\n\nEl perfil de seguridad de LAMIVUDINA se ha establecido a partir de datos procedentes de la experiencia clínica y de la vigilancia posterior a la autorización. En general, las reacciones comunicadas fueron compatibles con el uso de este tipo de tratamiento y se notificaron con intensidad variable. La valoración de causalidad debe considerar la situación clínica de base, los tratamientos concomitantes y la evolución temporal tras el inicio o la interrupción del medicamento. En caso de aparición de manifestaciones clínicas relevantes, se recomienda realizar una evaluación individualizada y adoptar las medidas asistenciales habituales.\n\nLa información que se presenta a continuación se organiza por sistema de clasificación de órganos. Dentro de cada apartado, las categorías se muestran siguiendo la terminología de frecuencia utilizada en fichas técnicas. Las reacciones se citan con la denominación preferente empleada para su registro y seguimiento. Esta presentación no implica necesariamente que todos los acontecimientos descritos tengan la misma gravedad ni el mismo impacto clínico.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\nno frecuente: Angioedema.\n\nTRASTORNOS DEL SISTEMA HEPATOBILIAR\nmuy frecuentes: Aumento de la alanina aminotransferasa.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\nfrecuentes: Calambres, Incremento de la creatinafosfocinasa, Mialgias.\nfrecuencia no conocida: Rabdomiólisis.\n\nTRASTORNOS DE PIEL Y TEJIDOS\nfrecuentes: Erupción, Prurito.\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS\nfrecuencia no conocida: Trombocitopenia.\n\nDescripción de reacciones adversas seleccionadas\n\nDurante el tratamiento pueden detectarse hallazgos analíticos o manifestaciones clínicas que requieran seguimiento. La interpretación de estos datos debe realizarse en el contexto del estado basal del paciente y de los controles previos disponibles. Cuando se observen cambios relevantes, puede ser necesario repetir la determinación, valorar otros factores contribuyentes y considerar la continuidad del tratamiento según criterio clínico.\n\nLas manifestaciones cutáneas o de tolerabilidad general deben evaluarse de forma individual, especialmente cuando se acompañen de otros signos clínicos. La actuación dependerá de la intensidad, la evolución y la relación temporal con la administración del medicamento. En situaciones leves puede ser suficiente la observación, mientras que los cuadros persistentes o progresivos pueden requerir una revisión del tratamiento.\n\nLa notificación de sospechas de reacciones adversas tras la autorización del medicamento es importante. Permite continuar la evaluación del balance beneficio-riesgo y facilita la identificación de nueva información de seguridad. Se invita a los profesionales sanitarios a comunicar cualquier sospecha mediante el sistema nacional de notificación correspondiente.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nDentro de TRASTORNOS DE PIEL Y TEJIDOS, Erupción se incluye entre las reacciones adversas frecuentes notificadas durante el tratamiento con LAMIVUDINA. En la práctica clínica, su identificación debe integrarse en la valoración global de tolerabilidad, considerando la cronología de aparición y la evolución tras las medidas habituales de seguimiento. Si la manifestación persiste o se considera clínicamente relevante, se recomienda reevaluar la continuidad del tratamiento de acuerdo con el criterio médico y la información disponible del paciente, sin retrasar la atención cuando proceda.\n\n-- Caso 2 --\nEn la clasificación por órganos y sistemas, dentro de TRASTORNOS DEL SISTEMA INMUNOLÓGICO, se ha notificado Angioedema con frecuencia no frecuente en pacientes tratados con LAMIVUDINA. La aparición de este acontecimiento debe valorarse clínicamente de forma individual, considerando la relación temporal con la administración y la evolución tras las medidas adoptadas. En caso de sospecha de asociación, se recomienda vigilancia adecuada, registro del caso y revisión de la continuidad del tratamiento conforme al criterio clínico y al balance beneficio-riesgo del paciente.\n\n-- Caso 3 --\nDentro del sistema TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS, se ha identificado Trombocitopenia asociada al uso de LAMIVUDINA, con frecuencia no conocida a partir de los datos disponibles.\nLa aparición de esta alteración debe considerarse en pacientes que presenten cambios hematológicos durante el tratamiento. Se recomienda realizar seguimiento clínico y analítico cuando esté indicado, especialmente si existen factores predisponentes o tratamientos concomitantes que puedan influir en los recuentos plaquetarios. Ante una disminución clínicamente relevante, debe valorarse la continuidad del tratamiento conforme al estado del paciente.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "LAMIVUDINA",
+      "surface": "LAMIVUDINA",
+      "start": 84,
+      "end": 94
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 1194,
+      "end": 1229
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 1230,
+      "end": 1242
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angioedema",
+      "surface": "Angioedema",
+      "start": 1244,
+      "end": 1254
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "surface": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "start": 1257,
+      "end": 1292
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes",
+      "start": 1293,
+      "end": 1307
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la alanina aminotransferasa",
+      "surface": "Aumento de la alanina aminotransferasa",
+      "start": 1309,
+      "end": 1347
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 1350,
+      "end": 1392
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 1297,
+      "end": 1307
+    },
+    {
+      "type": "REACT",
+      "canonical": "Calambres",
+      "surface": "Calambres",
+      "start": 1405,
+      "end": 1414
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de la creatinafosfocinasa",
+      "surface": "Incremento de la creatinafosfocinasa",
+      "start": 1416,
+      "end": 1452
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mialgias",
+      "surface": "Mialgias",
+      "start": 1454,
+      "end": 1462
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 1464,
+      "end": 1486
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rabdomiólisis",
+      "surface": "Rabdomiólisis",
+      "start": 1488,
+      "end": 1501
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 1504,
+      "end": 1532
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción",
+      "surface": "Erupción",
+      "start": 1545,
+      "end": 1553
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito",
+      "start": 1555,
+      "end": 1562
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 1565,
+      "end": 1614
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombocitopenia",
+      "surface": "Trombocitopenia",
+      "start": 1639,
+      "end": 1654
+    }
+  ],
+  "raw_long_doc_text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\n\nEl perfil de seguridad de LAMIVUDINA se ha establecido a partir de datos procedentes de la experiencia clínica y de la vigilancia posterior a la autorización. En general, las reacciones comunicadas fueron compatibles con el uso de este tipo de tratamiento y se notificaron con intensidad variable. La valoración de causalidad debe considerar la situación clínica de base, los tratamientos concomitantes y la evolución temporal tras el inicio o la interrupción del medicamento. En caso de aparición de manifestaciones clínicas relevantes, se recomienda realizar una evaluación individualizada y adoptar las medidas asistenciales habituales.\n\nLa información que se presenta a continuación se organiza por sistema de clasificación de órganos. Dentro de cada apartado, las categorías se muestran siguiendo la terminología de frecuencia utilizada en fichas técnicas. Las reacciones se citan con la denominación preferente empleada para su registro y seguimiento. Esta presentación no implica necesariamente que todos los acontecimientos descritos tengan la misma gravedad ni el mismo impacto clínico.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\nno frecuente: Angioedema.\n\nTRASTORNOS DEL SISTEMA HEPATOBILIAR\nmuy frecuentes: Aumento de la alanina aminotransferasa.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\nfrecuentes: Calambres, Incremento de la creatinafosfocinasa, Mialgias.\nfrecuencia no conocida: Rabdomiólisis.\n\nTRASTORNOS DE PIEL Y TEJIDOS\nfrecuentes: Erupción, Prurito.\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS\nfrecuencia no conocida: Trombocitopenia.\n\nDescripción de reacciones adversas seleccionadas\n\nDurante el tratamiento pueden detectarse hallazgos analíticos o manifestaciones clínicas que requieran seguimiento. La interpretación de estos datos debe realizarse en el contexto del estado basal del paciente y de los controles previos disponibles. Cuando se observen cambios relevantes, puede ser necesario repetir la determinación, valorar otros factores contribuyentes y considerar la continuidad del tratamiento según criterio clínico.\n\nLas manifestaciones cutáneas o de tolerabilidad general deben evaluarse de forma individual, especialmente cuando se acompañen de otros signos clínicos. La actuación dependerá de la intensidad, la evolución y la relación temporal con la administración del medicamento. En situaciones leves puede ser suficiente la observación, mientras que los cuadros persistentes o progresivos pueden requerir una revisión del tratamiento.\n\nLa notificación de sospechas de reacciones adversas tras la autorización del medicamento es importante. Permite continuar la evaluación del balance beneficio-riesgo y facilita la identificación de nueva información de seguridad. Se invita a los profesionales sanitarios a comunicar cualquier sospecha mediante el sistema nacional de notificación correspondiente.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "LAMIVUDINA",
+      "surface": "LAMIVUDINA"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angioedema",
+      "surface": "Angioedema"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "surface": "TRASTORNOS DEL SISTEMA HEPATOBILIAR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la alanina aminotransferasa",
+      "surface": "Aumento de la alanina aminotransferasa"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Calambres",
+      "surface": "Calambres"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de la creatinafosfocinasa",
+      "surface": "Incremento de la creatinafosfocinasa"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mialgias",
+      "surface": "Mialgias"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rabdomiólisis",
+      "surface": "Rabdomiólisis"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción",
+      "surface": "Erupción"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombocitopenia",
+      "surface": "Trombocitopenia"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "LAMIVUDINA NORMON 100 mg COMPRIMIDOS RECUBIERTOS CON PELICULA EFG",
+        "pactivo": "LAMIVUDINA",
+        "reaccion": "Erupción",
+        "frecuencia": "FRECUENTE",
+        "sistema": "TRASTORNOS DE PIEL Y TEJIDOS"
+      },
+      "text": "Dentro de TRASTORNOS DE PIEL Y TEJIDOS, Erupción se incluye entre las reacciones adversas frecuentes notificadas durante el tratamiento con LAMIVUDINA. En la práctica clínica, su identificación debe integrarse en la valoración global de tolerabilidad, considerando la cronología de aparición y la evolución tras las medidas habituales de seguimiento. Si la manifestación persiste o se considera clínicamente relevante, se recomienda reevaluar la continuidad del tratamiento de acuerdo con el criterio médico y la información disponible del paciente, sin retrasar la atención cuando proceda.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Erupción",
+          "surface": "Erupción"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LAMIVUDINA",
+          "surface": "LAMIVUDINA"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "start": 10,
+          "end": 38
+        },
+        {
+          "type": "REACT",
+          "canonical": "Erupción",
+          "surface": "Erupción",
+          "start": 40,
+          "end": 48
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes",
+          "start": 90,
+          "end": 100
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LAMIVUDINA",
+          "surface": "LAMIVUDINA",
+          "start": 140,
+          "end": 150
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "LAMIVUDINA NORMON 100 mg COMPRIMIDOS RECUBIERTOS CON PELICULA EFG",
+        "pactivo": "LAMIVUDINA",
+        "reaccion": "Angioedema",
+        "frecuencia": "NO FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+      },
+      "text": "En la clasificación por órganos y sistemas, dentro de TRASTORNOS DEL SISTEMA INMUNOLÓGICO, se ha notificado Angioedema con frecuencia no frecuente en pacientes tratados con LAMIVUDINA. La aparición de este acontecimiento debe valorarse clínicamente de forma individual, considerando la relación temporal con la administración y la evolución tras las medidas adoptadas. En caso de sospecha de asociación, se recomienda vigilancia adecuada, registro del caso y revisión de la continuidad del tratamiento conforme al criterio clínico y al balance beneficio-riesgo del paciente.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+          "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Angioedema",
+          "surface": "Angioedema"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LAMIVUDINA",
+          "surface": "LAMIVUDINA"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+          "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+          "start": 54,
+          "end": 89
+        },
+        {
+          "type": "REACT",
+          "canonical": "Angioedema",
+          "surface": "Angioedema",
+          "start": 108,
+          "end": 118
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente",
+          "start": 134,
+          "end": 146
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LAMIVUDINA",
+          "surface": "LAMIVUDINA",
+          "start": 173,
+          "end": 183
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "LAMIVUDINA NORMON 100 mg COMPRIMIDOS RECUBIERTOS CON PELICULA EFG",
+        "pactivo": "LAMIVUDINA",
+        "reaccion": "Trombocitopenia",
+        "frecuencia": "SIN FRECUENCIA",
+        "sistema": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS"
+      },
+      "text": "Dentro del sistema TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS, se ha identificado Trombocitopenia asociada al uso de LAMIVUDINA, con frecuencia no conocida a partir de los datos disponibles.\nLa aparición de esta alteración debe considerarse en pacientes que presenten cambios hematológicos durante el tratamiento. Se recomienda realizar seguimiento clínico y analítico cuando esté indicado, especialmente si existen factores predisponentes o tratamientos concomitantes que puedan influir en los recuentos plaquetarios. Ante una disminución clínicamente relevante, debe valorarse la continuidad del tratamiento conforme al estado del paciente.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+          "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Trombocitopenia",
+          "surface": "Trombocitopenia"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LAMIVUDINA",
+          "surface": "LAMIVUDINA"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+          "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+          "start": 19,
+          "end": 68
+        },
+        {
+          "type": "REACT",
+          "canonical": "Trombocitopenia",
+          "surface": "Trombocitopenia",
+          "start": 89,
+          "end": 104
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LAMIVUDINA",
+          "surface": "LAMIVUDINA",
+          "start": 124,
+          "end": 134
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida",
+          "start": 140,
+          "end": 162
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

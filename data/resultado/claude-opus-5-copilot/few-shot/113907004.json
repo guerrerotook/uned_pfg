@@ -1,0 +1,128 @@
+[
+  {
+    "principio activo": "RIOCIGUAT",
+    "reacción adversa": "Gastroenteritis",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "INFECCIONES E INFESTACIONES"
+  },
+  {
+    "principio activo": "RIOCIGUAT",
+    "reacción adversa": "Anemia (incl. los parámetros de laboratorio respectivos)",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "RIOCIGUAT",
+    "reacción adversa": "Mareo",
+    "frecuencia": "MUY FRECUENTE",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "RIOCIGUAT",
+    "reacción adversa": "Cefalea",
+    "frecuencia": "MUY FRECUENTE",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "RIOCIGUAT",
+    "reacción adversa": "Palpitaciones",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS CARDIACOS"
+  },
+  {
+    "principio activo": "RIOCIGUAT",
+    "reacción adversa": "Hipotensión",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS VASCULARES"
+  },
+  {
+    "principio activo": "RIOCIGUAT",
+    "reacción adversa": "Hemoptisis",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS RESPIRATORIOS, TORÁCICOS Y MEDIASTÍNICOS"
+  },
+  {
+    "principio activo": "RIOCIGUAT",
+    "reacción adversa": "Epistaxis",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS RESPIRATORIOS, TORÁCICOS Y MEDIASTÍNICOS"
+  },
+  {
+    "principio activo": "RIOCIGUAT",
+    "reacción adversa": "Congestión nasal",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS RESPIRATORIOS, TORÁCICOS Y MEDIASTÍNICOS"
+  },
+  {
+    "principio activo": "RIOCIGUAT",
+    "reacción adversa": "Hemorragia pulmonar",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS RESPIRATORIOS, TORÁCICOS Y MEDIASTÍNICOS"
+  },
+  {
+    "principio activo": "RIOCIGUAT",
+    "reacción adversa": "Dispepsia",
+    "frecuencia": "MUY FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "RIOCIGUAT",
+    "reacción adversa": "Diarrea",
+    "frecuencia": "MUY FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "RIOCIGUAT",
+    "reacción adversa": "Náuseas",
+    "frecuencia": "MUY FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "RIOCIGUAT",
+    "reacción adversa": "Vómitos",
+    "frecuencia": "MUY FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "RIOCIGUAT",
+    "reacción adversa": "Gastritis",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "RIOCIGUAT",
+    "reacción adversa": "Enfermedad por reflujo gastroesofágico",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "RIOCIGUAT",
+    "reacción adversa": "Disfagia",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "RIOCIGUAT",
+    "reacción adversa": "Dolor gastrointestinal y abdominal",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "RIOCIGUAT",
+    "reacción adversa": "Estreñimiento",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "RIOCIGUAT",
+    "reacción adversa": "Distensión abdominal",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "RIOCIGUAT",
+    "reacción adversa": "Edema periférico",
+    "frecuencia": "MUY FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  }
+]

@@ -1,0 +1,35 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil de seguridad de LINEZOLID se ha caracterizado en pacientes tratados por infecciones bacterianas, con vigilancia clínica y analítica durante el tratamiento. En general, las reacciones notificadas fueron de intensidad leve o moderada y rara vez obligaron a suspender la administración. La evaluación debe considerar la situación basal del paciente, la duración del tratamiento y la exposición concomitante a otros medicamentos. Se recomienda interpretar las alteraciones de laboratorio junto con la evolución clínica. La notificación de sospechas permite una supervisión continuada del balance beneficio-riesgo.
+
+Lista tabulada de reacciones adversas
+EXPLORACIONES COMPLEMENTARIAS: frecuentes: Aumento de la LDH, Aumento de la amilasa, Aumento de la creatinquinasa, Aumento de la glucemia no basal, Aumento de la lipasa, Aumento o disminucipon del recuento de leucocitos, Aumento o disminución del bicarbonato, Aumento o disminución del potasio, Aumento o disminución del recuento de plaquetas, DIsminución de hemoglobina, Disminución de la albúmina, Disminución de las proteínas totales, Disminución del calcio, Disminución del hematocrito, Disminución del recuento de hematíes, Disminución del sodio, Eosinofilia, Neutrofilia; poco frecuentes: Aumento del calcio, Aumento del recuento de reticulocitos, Aumento del sodio, Aumento o disminucipón del cloruro, Disminución de la glucemia no basal.
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN: no frecuente: Acidosis láctica; poco frecuentes: Hiponatremia.
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS: poco frecuentes: Acúfenos, Neuropatía óptica, Visión borrosa; no frecuente: Cambios anormales del campo visual; frecuencia no conocida: Cambios en la agudeza visual, Cambios en la visión del color, Neuritis óptica, Pérdida de visión.
+TRASTORNOS DE PIEL Y TEJIDOS: frecuentes: Erupción cutánea, Prurito; poco frecuentes: Angioedema, Dermatitis, Dermatitis ampollosa, Diaforesis, Urticaria; no frecuente: Necrólisis epidérmica tóxica, Síndrome de Stevens-Johnson, Vascultis por hipersensibilidad; frecuencia no conocida: Alopecia.
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO: no frecuente: Anafilaxia.
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS: frecuentes: Anemia, Trombocitopenia; poco frecuentes: Eosinofilia, Leucopenia, Neutropenia, Pancitopenia; no frecuente: Anemia sideroblástica; frecuencia no conocida: Mielosupresión.
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR: frecuentes: Hipertensión; poco frecuentes: Arritmia (taquicardia), Ataques isquémicos transitorios, Flebitis, Tromboflebitis.
+TRASTORNOS DEL SISTEMA DIGESTIVO: frecuentes: Diarrea, Dispepsia, Dolor abdominal localizado o generalizado, Estreñimiento, Náuseas, Vómitos; poco frecuentes: Boca seca, Distensión abdominal, Estomatitis, Gatritis, Glositis, Heces blandas, Pancreatitis, Trastorno o cambio del color de la lengua; no frecuente: Decoloración de la superficie dental.
+INFECCIONES E INFESTACIONES: frecuentes: Candidiasis, Candidiasis oral, Candidiasis vaginal, Infecciones fúngicas; poco frecuentes: Colitis asociada a antibióticos, Colitis pseudomembranosa, Vaginitis.
+TRASTORNOS DEL SISTEMA NERVIOSO: frecuentes: Cefalea, Mareos, Percepción errónea del sabor (sabor metálico); poco frecuentes: Convulsiones, Hipoestesia, Neuropatía periférica, Parestesia; frecuencia no conocida: Síndrome serotoninérico.
+TRASTORNOS DEL SISTEMA GENERAL: frecuentes: Dolor localizado, Fiebre; poco frecuentes: Dolor en la zona de inyección, Escalofríos, Fatiga, Sed aumentada.
+TRASTORNOS DEL SISTEMA EXCRETOR: frecuentes: Incremento del BUN; poco frecuentes: Fallo renal, Incremento de la creatinina, Poliuria.
+TRASTORNOS DEL SISTEMA HEPATOBILIAR: frecuentes: Incremento de la ALT, Incremento de la AST, Incremento de la fosfatasa alcalina, Pruebas de función hepática anormales; poco frecuentes: Incremento de la bilirrubina total.
+TRASTORNOS PSIQUIÁTRICOS: frecuentes: Insomnio.
+TRASTORNOS DEL SISTEMA REPRODUCTOR: poco frecuentes: Trastornos vulvovaginales.
+
+Descripción de reacciones adversas seleccionadas
+Durante tratamientos prolongados se aconseja seguimiento clínico y analítico periódico, especialmente en pacientes con factores predisponentes. Las pruebas complementarias deben valorarse de forma seriada y en relación con la respuesta al tratamiento. Si aparecen manifestaciones visuales, cutáneas graves o alteraciones hematológicas relevantes, debe reevaluarse la continuidad del tratamiento conforme al criterio clínico. La información posterior a la comercialización puede incluir casos aislados en los que no sea posible estimar la incidencia con los datos disponibles.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En la experiencia clínica con LINEZOLID, dentro del sistema Exploraciones complementarias, se ha notificado Aumento del recuento de reticulocitos con una frecuencia de poco frecuentes. Este hallazgo analítico debe interpretarse en el contexto del estado hematológico basal y de la evolución clínica del paciente, especialmente durante tratamientos prolongados. Se recomienda considerar el seguimiento de los parámetros hematológicos según la práctica clínica habitual y valorar la relevancia del resultado si aparece durante el tratamiento, teniendo en cuenta otros factores clínicos concomitantes.
+
+-- Caso 2 --
+En el sistema TRASTORNOS DE PIEL Y TEJIDOS, se ha notificado Síndrome de Stevens-Johnson con frecuencia no frecuente durante el tratamiento con LINEZOLID. La aparición de manifestaciones cutáneas o mucosas compatibles requiere valoración clínica inmediata y considerar la interrupción del tratamiento, de acuerdo con la gravedad y el contexto del paciente. Esta reacción se considera potencialmente grave y debe ser objeto de seguimiento estrecho; los pacientes deben ser informados de que consulten sin demora si aparecen cambios extensos de la piel o afectación de mucosas durante la exposición al medicamento.
+
+-- Caso 3 --
+Dentro del sistema Infecciones e infestaciones, Candidiasis oral se incluye entre las reacciones adversas frecuentes notificadas durante el tratamiento con LINEZOLID. Este hallazgo es coherente con la posible modificación de la microbiota orofaríngea asociada al tratamiento antibacteriano. En pacientes con factores predisponentes o tratamiento prolongado, se recomienda vigilar la mucosa oral y valorar medidas terapéuticas adecuadas si aparecen signos clínicos compatibles. La evaluación debe realizarse de acuerdo con la situación clínica del paciente.

@@ -1,0 +1,151 @@
+{
+  "model_name": "CIMA-RoBERTa-NER-baseline-CONLL-SYNTH-react",
+  "timestamp": "2026-05-15T16:50:28.380378+00:00",
+  "entity_types": [
+    "REACT"
+  ],
+  "labels": [
+    "O",
+    "B-REACT",
+    "I-REACT"
+  ],
+  "summary": {
+    "total_codes": 28,
+    "total_sentences": 1577,
+    "total_tokens": 26213,
+    "label_counts": {
+      "O": 20901,
+      "B-REACT": 2177,
+      "I-REACT": 3135
+    },
+    "missing_txt_files": [],
+    "docs_with_no_tags": []
+  },
+  "seqeval": {
+    "precision": 0.9658158614402917,
+    "recall": 0.9733578318787321,
+    "f1": 0.9695721802791124,
+    "per_entity": {
+      "REACT": {
+        "precision": 0.9658158614402917,
+        "recall": 0.9733578318787321,
+        "f1-score": 0.9695721802791124,
+        "support": 2177
+      },
+      "micro avg": {
+        "precision": 0.9658158614402917,
+        "recall": 0.9733578318787321,
+        "f1-score": 0.9695721802791124,
+        "support": 2177
+      },
+      "macro avg": {
+        "precision": 0.9658158614402917,
+        "recall": 0.9733578318787321,
+        "f1-score": 0.9695721802791124,
+        "support": 2177
+      },
+      "weighted avg": {
+        "precision": 0.9658158614402917,
+        "recall": 0.9733578318787321,
+        "f1-score": 0.9695721802791124,
+        "support": 2177
+      }
+    }
+  },
+  "overall": {
+    "ent_type": {
+      "correct": 2170,
+      "incorrect": 0,
+      "partial": 0,
+      "missed": 7,
+      "spurious": 24,
+      "precision": 0.9891,
+      "recall": 0.9968,
+      "f1": 0.9929
+    },
+    "exact": {
+      "correct": 2119,
+      "incorrect": 51,
+      "partial": 0,
+      "missed": 7,
+      "spurious": 24,
+      "precision": 0.9658,
+      "recall": 0.9734,
+      "f1": 0.9696
+    },
+    "partial": {
+      "correct": 2119,
+      "incorrect": 0,
+      "partial": 51,
+      "missed": 7,
+      "spurious": 24,
+      "precision": 0.9774,
+      "recall": 0.9851,
+      "f1": 0.9812
+    },
+    "strict": {
+      "correct": 2119,
+      "incorrect": 51,
+      "partial": 0,
+      "missed": 7,
+      "spurious": 24,
+      "precision": 0.9658,
+      "recall": 0.9734,
+      "f1": 0.9696
+    }
+  },
+  "entities": {
+    "REACT": {
+      "ent_type": {
+        "correct": 2170,
+        "incorrect": 0,
+        "partial": 0,
+        "missed": 7,
+        "spurious": 24,
+        "precision": 0.9891,
+        "recall": 0.9968,
+        "f1": 0.9929
+      },
+      "exact": {
+        "correct": 2119,
+        "incorrect": 51,
+        "partial": 0,
+        "missed": 7,
+        "spurious": 24,
+        "precision": 0.9658,
+        "recall": 0.9734,
+        "f1": 0.9696
+      },
+      "partial": {
+        "correct": 2119,
+        "incorrect": 0,
+        "partial": 51,
+        "missed": 7,
+        "spurious": 24,
+        "precision": 0.9774,
+        "recall": 0.9851,
+        "f1": 0.9812
+      },
+      "strict": {
+        "correct": 2119,
+        "incorrect": 51,
+        "partial": 0,
+        "missed": 7,
+        "spurious": 24,
+        "precision": 0.9658,
+        "recall": 0.9734,
+        "f1": 0.9696
+      }
+    }
+  },
+  "loose_overlap": {
+    "REACT": {
+      "precision": 0.9941,
+      "recall": 0.9972,
+      "f1": 0.9957,
+      "matched_pred": 2181,
+      "gold": 2177,
+      "pred": 2194
+    }
+  }
+}

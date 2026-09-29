@@ -1,0 +1,485 @@
+{
+  "codigo": "89413",
+  "variante": 1,
+  "codigo_variant": "89413_v1",
+  "medicamento": "SOTALOL 80 mg comp",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "SOTALOL HIDROCLORURO",
+      "surface": "SOTALOL HIDROCLORURO",
+      "start": 59,
+      "end": 79
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 859,
+      "end": 887
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "Frecuentes",
+      "start": 888,
+      "end": 898
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alopecia",
+      "surface": "Alopecia",
+      "start": 900,
+      "end": 908
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción",
+      "surface": "Erupción",
+      "start": 910,
+      "end": 918
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperhidrosis",
+      "surface": "Hiperhidrosis",
+      "start": 920,
+      "end": 933
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito",
+      "start": 935,
+      "end": 942
+    },
+    {
+      "type": "REACT",
+      "canonical": "pirexia",
+      "surface": "pirexia",
+      "start": 944,
+      "end": 951
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "Frecuencia no conocida",
+      "start": 953,
+      "end": 975
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastornos psoriásicos",
+      "surface": "Trastornos psoriásicos",
+      "start": 977,
+      "end": 999
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 1002,
+      "end": 1039
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteración visual",
+      "surface": "Alteración visual",
+      "start": 1052,
+      "end": 1069
+    },
+    {
+      "type": "REACT",
+      "canonical": "Discapacidad auditiva",
+      "surface": "Discapacidad auditiva",
+      "start": 1071,
+      "end": 1092
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1095,
+      "end": 1132
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "Muy frecuentes",
+      "start": 1133,
+      "end": 1147
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bradicardia",
+      "surface": "Bradicardia",
+      "start": 1149,
+      "end": 1160
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disnea",
+      "surface": "Disnea",
+      "start": 1162,
+      "end": 1168
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor torácico",
+      "surface": "Dolor torácico",
+      "start": 1170,
+      "end": 1184
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema",
+      "surface": "Edema",
+      "start": 1186,
+      "end": 1191
+    },
+    {
+      "type": "REACT",
+      "canonical": "Electrocardiografía anormal",
+      "surface": "Electrocardiografía anormal",
+      "start": 1193,
+      "end": 1220
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones",
+      "start": 1222,
+      "end": 1235
+    },
+    {
+      "type": "REACT",
+      "canonical": "Arritmia",
+      "surface": "Arritmia",
+      "start": 1249,
+      "end": 1257
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión",
+      "start": 1259,
+      "end": 1270
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia cardíaca",
+      "surface": "Insuficiencia cardíaca",
+      "start": 1272,
+      "end": 1294
+    },
+    {
+      "type": "REACT",
+      "canonical": "Presíncope",
+      "surface": "Presíncope",
+      "start": 1296,
+      "end": 1306
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síncope",
+      "surface": "Síncope",
+      "start": 1308,
+      "end": 1315
+    },
+    {
+      "type": "REACT",
+      "canonical": "Torsade de pointes",
+      "surface": "Torsade de pointes",
+      "start": 1317,
+      "end": 1335
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angina de pecho",
+      "surface": "Angina de pecho",
+      "start": 1361,
+      "end": 1376
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bloqueo auriculoventricular",
+      "surface": "Bloqueo auriculoventricular",
+      "start": 1378,
+      "end": 1405
+    },
+    {
+      "type": "REACT",
+      "canonical": "Enfermedad vascular periférica (síndrome de Raynaud, claudicación intermitente)",
+      "surface": "Enfermedad vascular periférica (síndrome de Raynaud, claudicación intermitente)",
+      "start": 1407,
+      "end": 1486
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 1489,
+      "end": 1513
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastornos del sueño",
+      "surface": "Trastornos del sueño",
+      "start": 1530,
+      "end": 1550
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ansiedad",
+      "surface": "Ansiedad",
+      "start": 1564,
+      "end": 1572
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cambios del estado de ánimo",
+      "surface": "Cambios del estado de ánimo",
+      "start": 1574,
+      "end": 1601
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión",
+      "surface": "Depresión",
+      "start": 1603,
+      "end": 1612
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 1615,
+      "end": 1657
+    },
+    {
+      "type": "REACT",
+      "canonical": "Artralgia",
+      "surface": "Artralgia",
+      "start": 1670,
+      "end": 1679
+    },
+    {
+      "type": "REACT",
+      "canonical": "Espasmos musculares",
+      "surface": "Espasmos musculares",
+      "start": 1681,
+      "end": 1700
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mialgia",
+      "surface": "Mialgia",
+      "start": 1702,
+      "end": 1709
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 1712,
+      "end": 1747
+    },
+    {
+      "type": "REACT",
+      "canonical": "Asma",
+      "surface": "Asma",
+      "start": 1760,
+      "end": 1764
+    },
+    {
+      "type": "REACT",
+      "canonical": "Broncoespasmo",
+      "surface": "Broncoespasmo",
+      "start": 1790,
+      "end": 1803
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1806,
+      "end": 1837
+    },
+    {
+      "type": "REACT",
+      "canonical": "Astenia",
+      "surface": "Astenia",
+      "start": 1854,
+      "end": 1861
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefaleas",
+      "surface": "Cefaleas",
+      "start": 1863,
+      "end": 1871
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareo",
+      "surface": "Mareo",
+      "start": 1873,
+      "end": 1878
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vahído",
+      "surface": "Vahído",
+      "start": 1880,
+      "end": 1886
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disgeusia",
+      "surface": "Disgeusia",
+      "start": 1900,
+      "end": 1909
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "Fatiga",
+      "start": 1911,
+      "end": 1917
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parestesia",
+      "surface": "Parestesia",
+      "start": 1919,
+      "end": 1929
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1953,
+      "end": 1985
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea",
+      "start": 2002,
+      "end": 2009
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos",
+      "start": 2011,
+      "end": 2018
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dispepsia",
+      "surface": "Dispepsia",
+      "start": 2032,
+      "end": 2041
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor abdominal",
+      "surface": "Dolor abdominal",
+      "start": 2043,
+      "end": 2058
+    },
+    {
+      "type": "REACT",
+      "canonical": "Flatulencia",
+      "surface": "Flatulencia",
+      "start": 2060,
+      "end": 2071
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 2073,
+      "end": 2080
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "start": 2083,
+      "end": 2117
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disfunción sexual",
+      "surface": "Disfunción sexual",
+      "start": 2130,
+      "end": 2147
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "start": 2150,
+      "end": 2191
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipoglucemia",
+      "surface": "Hipoglucemia",
+      "start": 2216,
+      "end": 2228
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 2231,
+      "end": 2280
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombocitopenia",
+      "surface": "Trombocitopenia",
+      "start": 2305,
+      "end": 2320
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "Trastornos del sistema cardiovascular",
+      "start": 1095,
+      "end": 1132
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes",
+      "start": 1133,
+      "end": 1147
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "Trastornos del sistema nervioso",
+      "start": 1806,
+      "end": 1837
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 888,
+      "end": 898
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 953,
+      "end": 975
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil observado con DIAZEPAM, también denominado diazepam, es coherente con el de los medicamentos de acción central administrados por vía rectal. En la práctica clínica, Stesolid debe valorarse atendiendo a la situación basal del paciente, la dosis administrada y la posible exposición concomitante a otros tratamientos. La mayoría de los acontecimientos descritos son transitorios y tienden a relacionarse con la intensidad de la respuesta farmacológica. En la información al paciente puede explicarse somnolencia (sueño) como una tendencia marcada a quedarse dormido.
+
+Lista tabulada de reacciones adversas
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+no frecuente: disminuir la temperatura corporal
+poco frecuentes: alteraciones del habla, convulsiones de rebote, hiperactividad, temblor
+frecuentes: confusión, dolor de cabeza, falta de coordinación muscular, mareos
+muy frecuentes: somnolencia
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+no frecuente: alergias
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+poco frecuentes: alteración del ritmo del corazón e inflamación de venas con formación de trombos, bajada de tensión severa, colapso circulatorio, disminución de la frecuencia cardíaca
+no frecuente: vasculitis bullosa
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+poco frecuentes: alteraciones de la salivación, estreñimiento, náuseas, trastornos gastrointestinales
+no frecuente: coloración amarilla de la piel, elevación de enzimas hepáticos
+
+TRASTORNOS PSIQUIÁTRICOS
+poco frecuentes: Alteraciones mentales leves: pérdida de memoria, enlentecimiento del tiempo de reacción.
+depresión, disminución del deseo sexual, excitación paradójica que puede conllevar: hostilidad, agresión y desinhibición, ansiedad, alucinaciones, insomnio, alteraciones del sueño.
+no frecuente: dificultad para recordar algunas cosas
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+no frecuente: anemia, disminución de las plaquetas, pacientes con baja concentración de sodio en sangre se puede producir dolor y debilidad muscular, pancitopenia
+poco frecuentes: inflamación de las venas, irritación local, neutropenia
+
+TRASTORNOS DEL SISTEMA ENDOCRINO
+no frecuente: aumento del volumen de las mamas en hombres, secreción de leche por el pezón
+
+TRASTORNOS DEL SISTEMA GENERAL
+no frecuente: cuadro clínico que cursa con fiebre, erupciones y alteraciones de la sangre (síndrome de Sweet)
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+frecuentes: depresión respiratoria
+
+TRASTORNOS DE PIEL Y TEJIDOS
+poco frecuentes: erupción y urticaria, hinchazón, irritación local tras administración rectal, sudoración
+
+TRASTORNOS DEL SISTEMA EXCRETOR
+poco frecuentes: incontinencia, retención urinaria
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+poco frecuentes: movimientos involuntarios de los ojos, visión borrosa, visión doble, vértigo
+
+Descripción de reacciones adversas seleccionadas
+La valoración de los acontecimientos debe realizarse de forma individual, especialmente cuando existen factores que puedan modificar la respuesta al tratamiento. La aparición de manifestaciones de intensidad relevante puede requerir observación clínica y medidas de soporte, de acuerdo con el juicio médico. Cuando el cuadro se presenta tras la administración, se recomienda documentar el momento de inicio, la duración y la evolución, así como cualquier circunstancia que pudiera haber contribuido.
+
+En pacientes vulnerables, la repercusión funcional puede ser más evidente y conviene extremar la vigilancia tras la administración. La información recogida durante el seguimiento debe notificarse por los canales habituales para mejorar el conocimiento del perfil de seguridad. Si se considera necesaria la continuación del tratamiento, la decisión debe basarse en la relación beneficio-riesgo individual y en la respuesta observada.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En el sistema de clasificación de órganos Trastornos del sistema endocrino, se ha descrito con diazepam, incluido Stesolid, aumento del volumen de las mamas en hombres, con frecuencia no frecuente. Esta reacción debe valorarse en el contexto clínico del paciente y de la exposición al tratamiento, especialmente si persiste o resulta molesta.
+
+Trastornos del sistema endocrino:
+- no frecuente: aumento del volumen de las mamas en hombres.
+
+-- Caso 2 --
+En la clasificación TRASTORNOS DEL SISTEMA NERVIOSO, la somnolencia se incluye entre las reacciones adversas muy frecuentes notificadas con diazepam. Este efecto es coherente con la actividad farmacológica del principio activo sobre el sistema nervioso central y puede ser más evidente al inicio del tratamiento o tras ajustes de la dosis.
+
+Lista tabulada:
+- TRASTORNOS DEL SISTEMA NERVIOSO: somnolencia (sueño).
+
+Durante el tratamiento con Stesolid, se recomienda valorar la intensidad de la somnolencia y su repercusión funcional, especialmente cuando pueda interferir con actividades que requieran atención mantenida.
+
+-- Caso 3 --
+Dentro de Trastornos del sistema digestivo, se ha notificado la siguiente reacción adversa asociada a diazepam:
+- estreñimiento: poco frecuentes.
+Este efecto debe valorarse en el contexto del tratamiento y de las características del paciente, especialmente si existen factores predisponentes. Se recomienda seguimiento clínico y medidas generales de manejo si el cuadro persiste o resulta clínicamente relevante, sin que ello implique modificar la frecuencia establecida.

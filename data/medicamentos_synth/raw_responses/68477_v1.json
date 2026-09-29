@@ -1,0 +1,1281 @@
+{
+  "codigo": "68477",
+  "variante": 1,
+  "codigo_variant": "68477_v1",
+  "medicamento": "LORAZEPAM CINFA 1 mg COMPRIMIDOS EFG",
+  "model": "gpt-5.5",
+  "style_variant_idx": 0,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\n\nDurante el tratamiento con LORAZEPAM se han notificado acontecimientos que, en general, se relacionan con su acción farmacológica y con la sensibilidad individual del paciente. La intensidad de las manifestaciones puede variar según la dosis administrada, la duración del uso y la situación clínica de base. En pacientes de edad avanzada o debilitados puede ser necesaria una vigilancia más estrecha. La valoración clínica debe considerar la evolución temporal de los síntomas y la posible contribución de factores concomitantes. La información se presenta a continuación por clasificación de órganos y por frecuencia.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS PSIQUIÁTRICOS\nfrecuencia no conocida: Agitación, Agresividad, Alteraciones del sueño, Alucinaciones, Ansiedad, Deseo sexual, Deshinibición, Euforia, Excitación, Furia, Hostilidad, Ideas e intentos de suicidio, Insomnio.\npoco frecuentes: Cambio de  la líbido, Disminución de orgasmos.\nfrecuentes: Confusión, Depresión, Desenmascaramiento de depresión.\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS\nfrecuencia no conocida: Agranulositosis, Pancitopenia, Trombocitopenia.\n\nTRASTORNOS DE PIEL Y TEJIDOS\nfrecuencia no conocida: Alopecia, Angioedema, Reaciones alérgicas en la piel.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nmuy frecuentes: Sedación, Somnolencia.\nfrecuentes: Ataxia, Mareos.\nfrecuencia no conocida: Alteraciones de la atención/concentración, Amnesia, Coma, Convulsiones, Disartria, Dolor de cabeza, Efecto depresor del SNC a altas dosis, Síntomas extrapiramidales, Temblor, Trastorno del equilibrio.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\nfrecuencia no conocida: Apnea, Empeoramiento de la EPOC dosis dependiente, Empeoramiento de la apnea del sueño, Insuficiencia respiratoria.\n\nTRASTORNOS DEL SISTEMA GENERAL\nmuy frecuentes: Fatiga.\nfrecuentes: Astenia.\nfrecuencia no conocida: Hipotermia.\n\nEXPLORACIONES COMPLEMENTARIAS\nfrecuencia no conocida: Aumento de la bilirrubina, Aumento de la fosfatasa alcalina, Aumento de las transaminasas.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\nfrecuentes: Debilidad muscular.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\nfrecuencia no conocida: Dismninución de la presión sanguínea, Hipotensión.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\npoco frecuentes: Náuseas.\nfrecuencia no conocida: Estreñimiento.\n\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN\nfrecuencia no conocida: Hiponatremia.\n\nTRASTORNOS DEL SISTEMA HEPATOBILIAR\nfrecuencia no conocida: Ictericia.\n\nTRASTORNOS DEL SISTEMA REPRODUCTOR\npoco frecuentes: Impotencia.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\nfrecuencia no conocida: Problemas visuales (diplopia y visión borrosa), Vértigo.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\nfrecuencia no conocida: Reacciones de hipersensibilidad y anafilácticas/anafilactoides.\n\nTRASTORNOS DEL SISTEMA ENDOCRINO\nfrecuencia no conocida: Síndrome de secreción inapropiada de hormona antidiurética.\n\nDescripción de reacciones adversas seleccionadas\n\nLa aparición de acontecimientos inesperados debe evaluarse de forma individual, especialmente cuando exista tratamiento concomitante o enfermedad subyacente. En caso de observarse cambios clínicamente relevantes, se recomienda reconsiderar la pauta y realizar seguimiento hasta su resolución o estabilización.\n\nAlgunos acontecimientos pueden comprometer la capacidad para realizar actividades que requieren atención sostenida. Por ello, se aconseja informar al paciente de que la respuesta al tratamiento puede variar y de que debe evitar situaciones de riesgo si nota afectación funcional. La notificación de sospechas permite mantener actualizada la información de seguridad del medicamento.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nDentro de TRASTORNOS DEL SISTEMA GENERAL, la reacción adversa Fatiga se clasifica como muy frecuentes durante el tratamiento con LORAZEPAM. Este hallazgo es coherente con el perfil farmacológico del medicamento y puede observarse especialmente al inicio del tratamiento o tras ajustes de dosis. Se recomienda valorar la evolución clínica y la tolerabilidad individual, considerando las circunstancias del paciente y la necesidad de mantener, reducir o modificar la pauta según criterio médico. La información debe interpretarse en el contexto del seguimiento habitual de seguridad y de la notificación de sospechas de reacciones adversas.\n\n-- Caso 2 --\nDentro del sistema de clasificación de órganos Trastornos psiquiátricos, se ha notificado Agresividad durante el tratamiento con LORAZEPAM, con frecuencia no conocida. Esta reacción puede aparecer de forma imprevisible y debe valorarse en el contexto clínico del paciente, especialmente cuando se observen cambios conductuales tras el inicio o ajuste de dosis. Se recomienda vigilancia clínica y reconsiderar la continuidad del tratamiento si el cuadro resulta clínicamente relevante. La evaluación debe considerar factores predisponentes, uso concomitante de otros medicamentos y la relación temporal con la exposición, sin descartar medidas de reducción o retirada gradual cuando proceda.\n\n-- Caso 3 --\nEn la clasificación TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO, se incluye entre las reacciones adversas frecuentes: Debilidad muscular. Este efecto puede relacionarse con la acción depresora central de LORAZEPAM y debe considerarse al valorar la capacidad funcional del paciente durante el tratamiento, especialmente en situaciones que requieran estabilidad postural. En caso de aparición o persistencia, se recomienda seguimiento clínico y revisión de la dosis, teniendo en cuenta la evolución, la edad y la sensibilidad individual. La notificación de esta reacción contribuye a mantener actualizado el perfil de seguridad durante el uso autorizado.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "LORAZEPAM",
+      "surface": "LORAZEPAM",
+      "start": 85,
+      "end": 94
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 717,
+      "end": 741
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 742,
+      "end": 764
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agitación",
+      "surface": "Agitación",
+      "start": 766,
+      "end": 775
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agresividad",
+      "surface": "Agresividad",
+      "start": 777,
+      "end": 788
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones del sueño",
+      "surface": "Alteraciones del sueño",
+      "start": 790,
+      "end": 812
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alucinaciones",
+      "surface": "Alucinaciones",
+      "start": 814,
+      "end": 827
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ansiedad",
+      "surface": "Ansiedad",
+      "start": 829,
+      "end": 837
+    },
+    {
+      "type": "REACT",
+      "canonical": "Deseo sexual",
+      "surface": "Deseo sexual",
+      "start": 839,
+      "end": 851
+    },
+    {
+      "type": "REACT",
+      "canonical": "Deshinibición",
+      "surface": "Deshinibición",
+      "start": 853,
+      "end": 866
+    },
+    {
+      "type": "REACT",
+      "canonical": "Euforia",
+      "surface": "Euforia",
+      "start": 868,
+      "end": 875
+    },
+    {
+      "type": "REACT",
+      "canonical": "Excitación",
+      "surface": "Excitación",
+      "start": 877,
+      "end": 887
+    },
+    {
+      "type": "REACT",
+      "canonical": "Furia",
+      "surface": "Furia",
+      "start": 889,
+      "end": 894
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hostilidad",
+      "surface": "Hostilidad",
+      "start": 896,
+      "end": 906
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ideas e intentos de suicidio",
+      "surface": "Ideas e intentos de suicidio",
+      "start": 908,
+      "end": 936
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insomnio",
+      "surface": "Insomnio",
+      "start": 938,
+      "end": 946
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 948,
+      "end": 963
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cambio de  la líbido",
+      "surface": "Cambio de  la líbido",
+      "start": 965,
+      "end": 985
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de orgasmos",
+      "surface": "Disminución de orgasmos",
+      "start": 987,
+      "end": 1010
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 953,
+      "end": 963
+    },
+    {
+      "type": "REACT",
+      "canonical": "Confusión",
+      "surface": "Confusión",
+      "start": 1024,
+      "end": 1033
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión",
+      "surface": "Depresión",
+      "start": 1035,
+      "end": 1044
+    },
+    {
+      "type": "REACT",
+      "canonical": "Desenmascaramiento de depresión",
+      "surface": "Desenmascaramiento de depresión",
+      "start": 1046,
+      "end": 1077
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 1080,
+      "end": 1129
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agranulositosis",
+      "surface": "Agranulositosis",
+      "start": 1154,
+      "end": 1169
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pancitopenia",
+      "surface": "Pancitopenia",
+      "start": 1171,
+      "end": 1183
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombocitopenia",
+      "surface": "Trombocitopenia",
+      "start": 1185,
+      "end": 1200
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 1203,
+      "end": 1231
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alopecia",
+      "surface": "Alopecia",
+      "start": 1256,
+      "end": 1264
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angioedema",
+      "surface": "Angioedema",
+      "start": 1266,
+      "end": 1276
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reaciones alérgicas en la piel",
+      "surface": "Reaciones alérgicas en la piel",
+      "start": 1278,
+      "end": 1308
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1311,
+      "end": 1342
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes",
+      "start": 1343,
+      "end": 1357
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sedación",
+      "surface": "Sedación",
+      "start": 1359,
+      "end": 1367
+    },
+    {
+      "type": "REACT",
+      "canonical": "Somnolencia",
+      "surface": "Somnolencia",
+      "start": 1369,
+      "end": 1380
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ataxia",
+      "surface": "Ataxia",
+      "start": 1394,
+      "end": 1400
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareos",
+      "surface": "Mareos",
+      "start": 1402,
+      "end": 1408
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones de la atención/concentración",
+      "surface": "Alteraciones de la atención/concentración",
+      "start": 1434,
+      "end": 1475
+    },
+    {
+      "type": "REACT",
+      "canonical": "Amnesia",
+      "surface": "Amnesia",
+      "start": 1477,
+      "end": 1484
+    },
+    {
+      "type": "REACT",
+      "canonical": "Coma",
+      "surface": "Coma",
+      "start": 1486,
+      "end": 1490
+    },
+    {
+      "type": "REACT",
+      "canonical": "Convulsiones",
+      "surface": "Convulsiones",
+      "start": 1492,
+      "end": 1504
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disartria",
+      "surface": "Disartria",
+      "start": 1506,
+      "end": 1515
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor de cabeza",
+      "surface": "Dolor de cabeza",
+      "start": 1517,
+      "end": 1532
+    },
+    {
+      "type": "REACT",
+      "canonical": "Efecto depresor del SNC a altas dosis",
+      "surface": "Efecto depresor del SNC a altas dosis",
+      "start": 1534,
+      "end": 1571
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síntomas extrapiramidales",
+      "surface": "Síntomas extrapiramidales",
+      "start": 1573,
+      "end": 1598
+    },
+    {
+      "type": "REACT",
+      "canonical": "Temblor",
+      "surface": "Temblor",
+      "start": 1600,
+      "end": 1607
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastorno del equilibrio",
+      "surface": "Trastorno del equilibrio",
+      "start": 1609,
+      "end": 1633
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 1636,
+      "end": 1671
+    },
+    {
+      "type": "REACT",
+      "canonical": "Apnea",
+      "surface": "Apnea",
+      "start": 1696,
+      "end": 1701
+    },
+    {
+      "type": "REACT",
+      "canonical": "Empeoramiento de la EPOC dosis dependiente",
+      "surface": "Empeoramiento de la EPOC dosis dependiente",
+      "start": 1703,
+      "end": 1745
+    },
+    {
+      "type": "REACT",
+      "canonical": "Empeoramiento de la apnea del sueño",
+      "surface": "Empeoramiento de la apnea del sueño",
+      "start": 1747,
+      "end": 1782
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia respiratoria",
+      "surface": "Insuficiencia respiratoria",
+      "start": 1784,
+      "end": 1810
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 1813,
+      "end": 1843
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "Fatiga",
+      "start": 1860,
+      "end": 1866
+    },
+    {
+      "type": "REACT",
+      "canonical": "Astenia",
+      "surface": "Astenia",
+      "start": 1880,
+      "end": 1887
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotermia",
+      "surface": "Hipotermia",
+      "start": 1913,
+      "end": 1923
+    },
+    {
+      "type": "SYS",
+      "canonical": "EXPLORACIONES COMPLEMENTARIAS",
+      "surface": "EXPLORACIONES COMPLEMENTARIAS",
+      "start": 1926,
+      "end": 1955
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la bilirrubina",
+      "surface": "Aumento de la bilirrubina",
+      "start": 1980,
+      "end": 2005
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la fosfatasa alcalina",
+      "surface": "Aumento de la fosfatasa alcalina",
+      "start": 2007,
+      "end": 2039
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de las transaminasas",
+      "surface": "Aumento de las transaminasas",
+      "start": 2041,
+      "end": 2069
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 2072,
+      "end": 2114
+    },
+    {
+      "type": "REACT",
+      "canonical": "Debilidad muscular",
+      "surface": "Debilidad muscular",
+      "start": 2127,
+      "end": 2145
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 2148,
+      "end": 2185
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dismninución de la presión sanguínea",
+      "surface": "Dismninución de la presión sanguínea",
+      "start": 2210,
+      "end": 2246
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión",
+      "start": 2248,
+      "end": 2259
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 2262,
+      "end": 2294
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 2312,
+      "end": 2319
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento",
+      "start": 2345,
+      "end": 2358
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "start": 2361,
+      "end": 2402
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiponatremia",
+      "surface": "Hiponatremia",
+      "start": 2427,
+      "end": 2439
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "surface": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "start": 2442,
+      "end": 2477
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ictericia",
+      "surface": "Ictericia",
+      "start": 2502,
+      "end": 2511
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "start": 2514,
+      "end": 2548
+    },
+    {
+      "type": "REACT",
+      "canonical": "Impotencia",
+      "surface": "Impotencia",
+      "start": 2566,
+      "end": 2576
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 2579,
+      "end": 2616
+    },
+    {
+      "type": "REACT",
+      "canonical": "Problemas visuales (diplopia y visión borrosa)",
+      "surface": "Problemas visuales (diplopia y visión borrosa)",
+      "start": 2641,
+      "end": 2687
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vértigo",
+      "surface": "Vértigo",
+      "start": 2689,
+      "end": 2696
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 2699,
+      "end": 2734
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacciones de hipersensibilidad y anafilácticas/anafilactoides",
+      "surface": "Reacciones de hipersensibilidad y anafilácticas/anafilactoides",
+      "start": 2759,
+      "end": 2821
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "surface": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "start": 2824,
+      "end": 2856
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de secreción inapropiada de hormona antidiurética",
+      "surface": "Síndrome de secreción inapropiada de hormona antidiurética",
+      "start": 2881,
+      "end": 2939
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "Trastornos psiquiátricos",
+      "start": 717,
+      "end": 741
+    }
+  ],
+  "raw_long_doc_text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\n\nDurante el tratamiento con LORAZEPAM se han notificado acontecimientos que, en general, se relacionan con su acción farmacológica y con la sensibilidad individual del paciente. La intensidad de las manifestaciones puede variar según la dosis administrada, la duración del uso y la situación clínica de base. En pacientes de edad avanzada o debilitados puede ser necesaria una vigilancia más estrecha. La valoración clínica debe considerar la evolución temporal de los síntomas y la posible contribución de factores concomitantes. La información se presenta a continuación por clasificación de órganos y por frecuencia.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS PSIQUIÁTRICOS\nfrecuencia no conocida: Agitación, Agresividad, Alteraciones del sueño, Alucinaciones, Ansiedad, Deseo sexual, Deshinibición, Euforia, Excitación, Furia, Hostilidad, Ideas e intentos de suicidio, Insomnio.\npoco frecuentes: Cambio de  la líbido, Disminución de orgasmos.\nfrecuentes: Confusión, Depresión, Desenmascaramiento de depresión.\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS\nfrecuencia no conocida: Agranulositosis, Pancitopenia, Trombocitopenia.\n\nTRASTORNOS DE PIEL Y TEJIDOS\nfrecuencia no conocida: Alopecia, Angioedema, Reaciones alérgicas en la piel.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nmuy frecuentes: Sedación, Somnolencia.\nfrecuentes: Ataxia, Mareos.\nfrecuencia no conocida: Alteraciones de la atención/concentración, Amnesia, Coma, Convulsiones, Disartria, Dolor de cabeza, Efecto depresor del SNC a altas dosis, Síntomas extrapiramidales, Temblor, Trastorno del equilibrio.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\nfrecuencia no conocida: Apnea, Empeoramiento de la EPOC dosis dependiente, Empeoramiento de la apnea del sueño, Insuficiencia respiratoria.\n\nTRASTORNOS DEL SISTEMA GENERAL\nmuy frecuentes: Fatiga.\nfrecuentes: Astenia.\nfrecuencia no conocida: Hipotermia.\n\nEXPLORACIONES COMPLEMENTARIAS\nfrecuencia no conocida: Aumento de la bilirrubina, Aumento de la fosfatasa alcalina, Aumento de las transaminasas.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\nfrecuentes: Debilidad muscular.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\nfrecuencia no conocida: Dismninución de la presión sanguínea, Hipotensión.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\npoco frecuentes: Náuseas.\nfrecuencia no conocida: Estreñimiento.\n\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN\nfrecuencia no conocida: Hiponatremia.\n\nTRASTORNOS DEL SISTEMA HEPATOBILIAR\nfrecuencia no conocida: Ictericia.\n\nTRASTORNOS DEL SISTEMA REPRODUCTOR\npoco frecuentes: Impotencia.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\nfrecuencia no conocida: Problemas visuales (diplopia y visión borrosa), Vértigo.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\nfrecuencia no conocida: Reacciones de hipersensibilidad y anafilácticas/anafilactoides.\n\nTRASTORNOS DEL SISTEMA ENDOCRINO\nfrecuencia no conocida: Síndrome de secreción inapropiada de hormona antidiurética.\n\nDescripción de reacciones adversas seleccionadas\n\nLa aparición de acontecimientos inesperados debe evaluarse de forma individual, especialmente cuando exista tratamiento concomitante o enfermedad subyacente. En caso de observarse cambios clínicamente relevantes, se recomienda reconsiderar la pauta y realizar seguimiento hasta su resolución o estabilización.\n\nAlgunos acontecimientos pueden comprometer la capacidad para realizar actividades que requieren atención sostenida. Por ello, se aconseja informar al paciente de que la respuesta al tratamiento puede variar y de que debe evitar situaciones de riesgo si nota afectación funcional. La notificación de sospechas permite mantener actualizada la información de seguridad del medicamento.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "LORAZEPAM",
+      "surface": "LORAZEPAM"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agitación",
+      "surface": "Agitación"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agresividad",
+      "surface": "Agresividad"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones del sueño",
+      "surface": "Alteraciones del sueño"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alucinaciones",
+      "surface": "Alucinaciones"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ansiedad",
+      "surface": "Ansiedad"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Deseo sexual",
+      "surface": "Deseo sexual"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Deshinibición",
+      "surface": "Deshinibición"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Euforia",
+      "surface": "Euforia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Excitación",
+      "surface": "Excitación"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Furia",
+      "surface": "Furia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hostilidad",
+      "surface": "Hostilidad"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ideas e intentos de suicidio",
+      "surface": "Ideas e intentos de suicidio"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insomnio",
+      "surface": "Insomnio"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cambio de  la líbido",
+      "surface": "Cambio de  la líbido"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de orgasmos",
+      "surface": "Disminución de orgasmos"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Confusión",
+      "surface": "Confusión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión",
+      "surface": "Depresión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Desenmascaramiento de depresión",
+      "surface": "Desenmascaramiento de depresión"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agranulositosis",
+      "surface": "Agranulositosis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pancitopenia",
+      "surface": "Pancitopenia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombocitopenia",
+      "surface": "Trombocitopenia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alopecia",
+      "surface": "Alopecia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angioedema",
+      "surface": "Angioedema"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reaciones alérgicas en la piel",
+      "surface": "Reaciones alérgicas en la piel"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sedación",
+      "surface": "Sedación"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Somnolencia",
+      "surface": "Somnolencia"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ataxia",
+      "surface": "Ataxia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareos",
+      "surface": "Mareos"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones de la atención/concentración",
+      "surface": "Alteraciones de la atención/concentración"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Amnesia",
+      "surface": "Amnesia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Coma",
+      "surface": "Coma"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Convulsiones",
+      "surface": "Convulsiones"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disartria",
+      "surface": "Disartria"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor de cabeza",
+      "surface": "Dolor de cabeza"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Efecto depresor del SNC a altas dosis",
+      "surface": "Efecto depresor del SNC a altas dosis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síntomas extrapiramidales",
+      "surface": "Síntomas extrapiramidales"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Temblor",
+      "surface": "Temblor"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastorno del equilibrio",
+      "surface": "Trastorno del equilibrio"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Apnea",
+      "surface": "Apnea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Empeoramiento de la EPOC dosis dependiente",
+      "surface": "Empeoramiento de la EPOC dosis dependiente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Empeoramiento de la apnea del sueño",
+      "surface": "Empeoramiento de la apnea del sueño"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia respiratoria",
+      "surface": "Insuficiencia respiratoria"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "Fatiga"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Astenia",
+      "surface": "Astenia"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotermia",
+      "surface": "Hipotermia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "EXPLORACIONES COMPLEMENTARIAS",
+      "surface": "EXPLORACIONES COMPLEMENTARIAS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la bilirrubina",
+      "surface": "Aumento de la bilirrubina"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la fosfatasa alcalina",
+      "surface": "Aumento de la fosfatasa alcalina"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de las transaminasas",
+      "surface": "Aumento de las transaminasas"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Debilidad muscular",
+      "surface": "Debilidad muscular"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dismninución de la presión sanguínea",
+      "surface": "Dismninución de la presión sanguínea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiponatremia",
+      "surface": "Hiponatremia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "surface": "TRASTORNOS DEL SISTEMA HEPATOBILIAR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ictericia",
+      "surface": "Ictericia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Impotencia",
+      "surface": "Impotencia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Problemas visuales (diplopia y visión borrosa)",
+      "surface": "Problemas visuales (diplopia y visión borrosa)"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vértigo",
+      "surface": "Vértigo"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacciones de hipersensibilidad y anafilácticas/anafilactoides",
+      "surface": "Reacciones de hipersensibilidad y anafilácticas/anafilactoides"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "surface": "TRASTORNOS DEL SISTEMA ENDOCRINO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de secreción inapropiada de hormona antidiurética",
+      "surface": "Síndrome de secreción inapropiada de hormona antidiurética"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "LORAZEPAM CINFA 1 mg COMPRIMIDOS EFG",
+        "pactivo": "LORAZEPAM",
+        "reaccion": "Fatiga",
+        "frecuencia": "MUY FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA GENERAL"
+      },
+      "text": "Dentro de TRASTORNOS DEL SISTEMA GENERAL, la reacción adversa Fatiga se clasifica como muy frecuentes durante el tratamiento con LORAZEPAM. Este hallazgo es coherente con el perfil farmacológico del medicamento y puede observarse especialmente al inicio del tratamiento o tras ajustes de dosis. Se recomienda valorar la evolución clínica y la tolerabilidad individual, considerando las circunstancias del paciente y la necesidad de mantener, reducir o modificar la pauta según criterio médico. La información debe interpretarse en el contexto del seguimiento habitual de seguridad y de la notificación de sospechas de reacciones adversas.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+          "surface": "TRASTORNOS DEL SISTEMA GENERAL"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Fatiga",
+          "surface": "Fatiga"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "MUY FRECUENTE",
+          "surface": "muy frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LORAZEPAM",
+          "surface": "LORAZEPAM"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+          "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+          "start": 10,
+          "end": 40
+        },
+        {
+          "type": "REACT",
+          "canonical": "Fatiga",
+          "surface": "Fatiga",
+          "start": 62,
+          "end": 68
+        },
+        {
+          "type": "FREQ",
+          "canonical": "MUY FRECUENTE",
+          "surface": "muy frecuentes",
+          "start": 87,
+          "end": 101
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LORAZEPAM",
+          "surface": "LORAZEPAM",
+          "start": 129,
+          "end": 138
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "LORAZEPAM CINFA 1 mg COMPRIMIDOS EFG",
+        "pactivo": "LORAZEPAM",
+        "reaccion": "Agresividad",
+        "frecuencia": "SIN FRECUENCIA",
+        "sistema": "TRASTORNOS PSIQUIÁTRICOS"
+      },
+      "text": "Dentro del sistema de clasificación de órganos Trastornos psiquiátricos, se ha notificado Agresividad durante el tratamiento con LORAZEPAM, con frecuencia no conocida. Esta reacción puede aparecer de forma imprevisible y debe valorarse en el contexto clínico del paciente, especialmente cuando se observen cambios conductuales tras el inicio o ajuste de dosis. Se recomienda vigilancia clínica y reconsiderar la continuidad del tratamiento si el cuadro resulta clínicamente relevante. La evaluación debe considerar factores predisponentes, uso concomitante de otros medicamentos y la relación temporal con la exposición, sin descartar medidas de reducción o retirada gradual cuando proceda.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+          "surface": "Trastornos psiquiátricos"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Agresividad",
+          "surface": "Agresividad"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LORAZEPAM",
+          "surface": "LORAZEPAM"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+          "surface": "Trastornos psiquiátricos",
+          "start": 47,
+          "end": 71
+        },
+        {
+          "type": "REACT",
+          "canonical": "Agresividad",
+          "surface": "Agresividad",
+          "start": 90,
+          "end": 101
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LORAZEPAM",
+          "surface": "LORAZEPAM",
+          "start": 129,
+          "end": 138
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida",
+          "start": 144,
+          "end": 166
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "LORAZEPAM CINFA 1 mg COMPRIMIDOS EFG",
+        "pactivo": "LORAZEPAM",
+        "reaccion": "Debilidad muscular",
+        "frecuencia": "FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO"
+      },
+      "text": "En la clasificación TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO, se incluye entre las reacciones adversas frecuentes: Debilidad muscular. Este efecto puede relacionarse con la acción depresora central de LORAZEPAM y debe considerarse al valorar la capacidad funcional del paciente durante el tratamiento, especialmente en situaciones que requieran estabilidad postural. En caso de aparición o persistencia, se recomienda seguimiento clínico y revisión de la dosis, teniendo en cuenta la evolución, la edad y la sensibilidad individual. La notificación de esta reacción contribuye a mantener actualizado el perfil de seguridad durante el uso autorizado.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+          "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Debilidad muscular",
+          "surface": "Debilidad muscular"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LORAZEPAM",
+          "surface": "LORAZEPAM"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+          "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+          "start": 20,
+          "end": 62
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes",
+          "start": 105,
+          "end": 115
+        },
+        {
+          "type": "REACT",
+          "canonical": "Debilidad muscular",
+          "surface": "Debilidad muscular",
+          "start": 117,
+          "end": 135
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LORAZEPAM",
+          "surface": "LORAZEPAM",
+          "start": 203,
+          "end": 212
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

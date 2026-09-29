@@ -1,0 +1,71 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil observado con SOTALOL HIDROCLORURO es el esperado para un antiarrítmico con propiedades beta-bloqueantes. En esta sección, sotalol se presenta agrupado por sistemas y por categorías de frecuencia, manteniendo una terminología clínica homogénea. La mayoría de los casos fueron transitorios o se resolvieron tras la revisión de la pauta, aunque la valoración debe considerar la situación basal y el tratamiento concomitante. La aparición de bradicardia, mareo o molestias digestivas puede requerir seguimiento estrecho. En la comunicación al paciente puede explicarse la pirexia (fiebre) con lenguaje sencillo, sin sustituir la denominación técnica.
+
+Lista tabulada de reacciones adversas
+
+TRASTORNOS DE PIEL Y TEJIDOS
+frecuentes: Alopecia, Erupción, Hiperhidrosis, Prurito, pirexia.
+frecuencia no conocida: Trastornos psoriásicos.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+frecuentes: Alteración visual, Discapacidad auditiva.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+muy frecuentes: Bradicardia, Disnea, Dolor torácico, Edema, Electrocardiografía anormal, Palpitaciones.
+frecuentes: Arritmia, Hipotensión, Insuficiencia cardíaca, Presíncope, Síncope, Torsade de pointes.
+frecuencia no conocida: Angina de pecho, Bloqueo auriculoventricular, Enfermedad vascular periférica (síndrome de Raynaud, claudicación intermitente).
+
+TRASTORNOS PSIQUIÁTRICOS
+muy frecuentes: Trastornos del sueño.
+frecuentes: Ansiedad, Cambios del estado de ánimo, Depresión.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+frecuentes: Artralgia, Espasmos musculares, Mialgia.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+frecuentes: Asma.
+frecuencia no conocida: Broncoespasmo.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+muy frecuentes: Astenia, Cefaleas, Mareo, Vahído.
+frecuentes: Disgeusia, Fatiga, Parestesia, Presíncope, Síncope.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+muy frecuentes: Diarrea, Vómitos.
+frecuentes: Dispepsia, Dolor abdominal, Flatulencia, Náuseas.
+
+TRASTORNOS DEL SISTEMA REPRODUCTOR
+frecuentes: Disfunción sexual.
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN
+frecuencia no conocida: Hipoglucemia.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+frecuencia no conocida: Trombocitopenia.
+
+Descripción de reacciones adversas seleccionadas
+La presencia de Torsade de pointes, Síncope o Presíncope debe valorarse en el contexto clínico, especialmente durante ajustes de dosis o en pacientes con antecedentes relevantes. La decisión de continuar el tratamiento con SOTALOL HIDROCLORURO debe basarse en la evolución del paciente y en la relación beneficio-riesgo individual.
+
+Los cuadros cutáneos y digestivos suelen manejarse con medidas de soporte y vigilancia. Cuando aparezcan Vómitos, Diarrea o Náuseas, se recomienda comprobar la tolerabilidad y descartar factores contribuyentes. En pacientes predispuestos, Broncoespasmo, Hipoglucemia o Trombocitopenia requieren una evaluación específica y notificación conforme a los procedimientos habituales.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En el sistema Trastornos de piel y tejidos, se ha comunicado esta reacción durante el tratamiento con SOTALOL HIDROCLORURO (sotalol). En la tabla de reacciones adversas se recoge literalmente como:
+- Hiperhidrosis (sudoración excesiva): frecuentes.
+La aparición de esta manifestación debe interpretarse en el contexto clínico del paciente y de la respuesta al tratamiento. Si persiste o resulta molesta, se recomienda valorar la evolución, la intensidad y la posible relación temporal con la administración, sin interrumpir el tratamiento sin supervisión médica y revisando los factores predisponentes.
+
+-- Caso 2 --
+En el sistema de clasificación de órganos Trastornos del sistema nervioso, el Vahído se ha notificado como una reacción adversa muy frecuentes durante el tratamiento con sotalol hidrocloruro. También puede describirse por el paciente como vahído (sensación de desvanecimiento), especialmente al inicio del tratamiento o tras ajustes de dosis.
+
+La aparición de este acontecimiento es coherente con los efectos farmacodinámicos de sotalol sobre la respuesta cardiovascular y requiere valoración clínica si persiste o interfiere con las actividades habituales. En la lista tabulada de reacciones adversas debe mantenerse la denominación: Vahído.
+
+-- Caso 3 --
+En el sistema Trastornos de piel y tejidos, durante el tratamiento con sotalol (también identificado como SOTALOL HIDROCLORURO), se han notificado Trastornos psoriásicos con frecuencia no conocida. La relación temporal debe valorarse junto con antecedentes dermatológicos y exposición concomitante, sin que la ausencia de estimación permita cuantificar el riesgo.
+
+Lista tabulada:
+- Trastornos de piel y tejidos: Trastornos psoriásicos (frecuencia no conocida).
+
+Ante la aparición o empeoramiento de estas manifestaciones (brotes cutáneos), se recomienda seguimiento clínico y considerar la continuidad del tratamiento según la gravedad y la situación cardiológica del paciente.

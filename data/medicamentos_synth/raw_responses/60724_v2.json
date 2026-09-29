@@ -1,0 +1,1289 @@
+{
+  "codigo": "60724",
+  "variante": 2,
+  "codigo_variant": "60724_v2",
+  "medicamento": "MANIDON RETARD 180 mg COMPRIMIDOS DE LIBERACION PROLONGADA",
+  "model": "gpt-5.5",
+  "style_variant_idx": 1,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "4.8 Reacciones adversas\nResumen del perfil de seguridad\nEl perfil de seguridad de MANIDON, formulación retard de VERAPAMILO HIDROCLORURO, es coherente con la experiencia acumulada con verapamilo en la práctica clínica. La mayoría de los acontecimientos comunicados fueron de intensidad leve o moderada y se resolvieron con medidas habituales o con el ajuste del tratamiento, según criterio clínico. La aparición de síntomas persistentes, progresivos o clínicamente relevantes debe valorarse teniendo en cuenta la situación basal del paciente y los tratamientos concomitantes. En el contexto de la notificación espontánea, algunos acontecimientos no permiten estimar una incidencia fiable. La información siguiente se presenta conforme a la terminología habitual de las fichas técnicas y agrupada por clasificación de órganos.\n\nLista tabulada de reacciones adversas\nTRASTORNOS DE PIEL Y TEJIDOS\nfrecuencia no conocida: Alopecia, Angioedema, Eritema multiforme, Exantema maculopapular, Picazón (sensación de picazón), Prurito, Púrpura, Síndrome de Stevens-Johnson, Urticaria.\nno frecuente: Hiperhidrosis.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\nfrecuencia no conocida: Artralgia, Debilidad muscular, Mialgia.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\nfrecuencia no conocida: Asístole, Bloqueo auriculoventricular, Bradicardia sinusal, Insuficiencia cardíaca, Pausa sinusal.\nfrecuentes: Bradicardia, Hipotensión, Sofocos.\npoco frecuentes: Palpitaciones, Taquicardia.\n\nEXPLORACIONES COMPLEMENTARIAS\nfrecuencia no conocida: Aumento de la prolactina en sangre.\n\nTRASTORNOS DEL SISTEMA HEPATOBILIAR\nfrecuencia no conocida: Aumento de las enzimas hepáticas.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\nfrecuencia no conocida: Broncoespasmo, Disnea.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nfrecuentes: Cefalea, Mareos.\nfrecuencia no conocida: Convulsiones, Parálisis (tetraparesia con el uso de colchicina), Trastornos extrapiramidales.\nno frecuente: Parestesia, Temblor.\n\nTRASTORNOS DEL SISTEMA REPRODUCTOR\nfrecuencia no conocida: Disfunción eréctil, Galactorrea, Ginecomastia.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\npoco frecuentes: Dolor abdominal.\nfrecuentes: Estreñimiento, Náuseas.\nfrecuencia no conocida: Hiperplasia gingival, Molestias abdominales, Oclusión intestinal.\nno frecuente: Vómitos.\n\nTRASTORNOS DEL SISTEMA GENERAL\nfrecuentes: Edema periférico.\npoco frecuentes: Fatiga.\n\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN\nfrecuencia no conocida: Hiperpotasemia.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\nfrecuencia no conocida: Hipersensibilidad.\n\nTRASTORNOS DEL SISTEMA EXCRETOR\nfrecuencia no conocida: Insuficiencia renal.\n\nTRASTORNOS PSIQUIÁTRICOS\nno frecuente: Somnolencia.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\nno frecuente: Tinnitus.\nfrecuencia no conocida: Vértigo.\n\nDescripción de reacciones adversas seleccionadas\nLa evaluación clínica debe considerar la cronología de inicio, la dosis administrada y la posible contribución de otros medicamentos. Si el cuadro obliga a interrumpir temporalmente el tratamiento, la reintroducción solo debería plantearse tras una valoración individual. En pacientes de edad avanzada o con comorbilidad, se recomienda una vigilancia proporcional al estado clínico, especialmente al iniciar el tratamiento o modificar la pauta.\n\nEn las notificaciones procedentes de la práctica clínica, la relación causal puede ser difícil de establecer cuando existen enfermedades concomitantes. Por ello, la comunicación de cualquier sospecha contribuye a completar el perfil de seguridad y a detectar patrones relevantes. La actuación terapéutica debe basarse en la intensidad del cuadro, la evolución temporal y el balance entre beneficio y riesgo para cada paciente.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nEn el sistema de clasificación de órganos Trastornos del sistema nervioso, se ha notificado Parestesia con VERAPAMILO HIDROCLORURO. La frecuencia comunicada es no frecuente.\n\n- Parestesia: no frecuente.\n\nEste hallazgo es compatible con la acción farmacológica del verapamilo sobre la conducción neuromuscular y la regulación vascular periférica. En caso de persistencia o aumento de la intensidad, se recomienda valorar la evolución clínica y la conveniencia de continuar el tratamiento según el contexto del paciente.\n\n-- Caso 2 --\nDentro de la clasificación Trastornos del sistema cardiovascular, se han notificado Palpitaciones con verapamilo hidrocloruro; en la lista tabulada se consideran poco frecuentes.\n\n- Trastornos del sistema cardiovascular: Palpitaciones (latidos percibidos), poco frecuentes.\n\nEste hallazgo es coherente con la actividad del verapamilo sobre la conducción y la respuesta vascular, y debe valorarse en el contexto clínico del paciente. Si las manifestaciones son persistentes o clínicamente relevantes, se recomienda seguimiento y reconsiderar la relación temporal con el tratamiento, especialmente tras ajustes de dosis o cambios en la pauta de administración.\n\n-- Caso 3 --\nEn pacientes tratados con verapamilo, el perfil farmacológico puede asociarse a una disminución del tránsito intestinal, por lo que se recomienda valorar la evolución clínica y las medidas dietéticas habituales si el síntoma persiste.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\n- frecuentes: Estreñimiento (dificultad para evacuar).\n\nEste efecto debe interpretarse dentro del seguimiento general del tratamiento y, en caso de persistencia o malestar relevante, puede requerir reevaluación de la pauta por el profesional sanitario.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "VERAPAMILO HIDROCLORURO",
+      "surface": "MANIDON",
+      "start": 82,
+      "end": 89
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "VERAPAMILO HIDROCLORURO",
+      "surface": "VERAPAMILO HIDROCLORURO",
+      "start": 113,
+      "end": 136
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "VERAPAMILO HIDROCLORURO",
+      "surface": "verapamilo",
+      "start": 113,
+      "end": 123
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 865,
+      "end": 893
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 894,
+      "end": 916
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alopecia",
+      "surface": "Alopecia",
+      "start": 918,
+      "end": 926
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angioedema",
+      "surface": "Angioedema",
+      "start": 928,
+      "end": 938
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eritema multiforme",
+      "surface": "Eritema multiforme",
+      "start": 940,
+      "end": 958
+    },
+    {
+      "type": "REACT",
+      "canonical": "Exantema maculopapular",
+      "surface": "Exantema maculopapular",
+      "start": 960,
+      "end": 982
+    },
+    {
+      "type": "REACT",
+      "canonical": "Picazón",
+      "surface": "Picazón",
+      "start": 984,
+      "end": 991
+    },
+    {
+      "type": "REACT",
+      "canonical": "Picazón",
+      "surface": "picazón",
+      "start": 984,
+      "end": 991
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito",
+      "start": 1016,
+      "end": 1023
+    },
+    {
+      "type": "REACT",
+      "canonical": "Púrpura",
+      "surface": "Púrpura",
+      "start": 1025,
+      "end": 1032
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de Stevens-Johnson",
+      "surface": "Síndrome de Stevens-Johnson",
+      "start": 1034,
+      "end": 1061
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria",
+      "start": 1063,
+      "end": 1072
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 1074,
+      "end": 1086
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperhidrosis",
+      "surface": "Hiperhidrosis",
+      "start": 1088,
+      "end": 1101
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 1104,
+      "end": 1146
+    },
+    {
+      "type": "REACT",
+      "canonical": "Artralgia",
+      "surface": "Artralgia",
+      "start": 1171,
+      "end": 1180
+    },
+    {
+      "type": "REACT",
+      "canonical": "Debilidad muscular",
+      "surface": "Debilidad muscular",
+      "start": 1182,
+      "end": 1200
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mialgia",
+      "surface": "Mialgia",
+      "start": 1202,
+      "end": 1209
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1212,
+      "end": 1249
+    },
+    {
+      "type": "REACT",
+      "canonical": "Asístole",
+      "surface": "Asístole",
+      "start": 1274,
+      "end": 1282
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bloqueo auriculoventricular",
+      "surface": "Bloqueo auriculoventricular",
+      "start": 1284,
+      "end": 1311
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bradicardia sinusal",
+      "surface": "Bradicardia sinusal",
+      "start": 1313,
+      "end": 1332
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia cardíaca",
+      "surface": "Insuficiencia cardíaca",
+      "start": 1334,
+      "end": 1356
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pausa sinusal",
+      "surface": "Pausa sinusal",
+      "start": 1358,
+      "end": 1371
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 1373,
+      "end": 1383
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bradicardia",
+      "surface": "Bradicardia",
+      "start": 1313,
+      "end": 1324
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión",
+      "start": 1398,
+      "end": 1409
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sofocos",
+      "surface": "Sofocos",
+      "start": 1411,
+      "end": 1418
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 1420,
+      "end": 1435
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones",
+      "start": 1437,
+      "end": 1450
+    },
+    {
+      "type": "REACT",
+      "canonical": "Taquicardia",
+      "surface": "Taquicardia",
+      "start": 1452,
+      "end": 1463
+    },
+    {
+      "type": "SYS",
+      "canonical": "EXPLORACIONES COMPLEMENTARIAS",
+      "surface": "EXPLORACIONES COMPLEMENTARIAS",
+      "start": 1466,
+      "end": 1495
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la prolactina en sangre",
+      "surface": "Aumento de la prolactina en sangre",
+      "start": 1520,
+      "end": 1554
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "surface": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "start": 1557,
+      "end": 1592
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de las enzimas hepáticas",
+      "surface": "Aumento de las enzimas hepáticas",
+      "start": 1617,
+      "end": 1649
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 1652,
+      "end": 1687
+    },
+    {
+      "type": "REACT",
+      "canonical": "Broncoespasmo",
+      "surface": "Broncoespasmo",
+      "start": 1712,
+      "end": 1725
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disnea",
+      "surface": "Disnea",
+      "start": 1727,
+      "end": 1733
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1736,
+      "end": 1767
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea",
+      "start": 1780,
+      "end": 1787
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareos",
+      "surface": "Mareos",
+      "start": 1789,
+      "end": 1795
+    },
+    {
+      "type": "REACT",
+      "canonical": "Convulsiones",
+      "surface": "Convulsiones",
+      "start": 1821,
+      "end": 1833
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parálisis (tetraparesia con el uso de colchicina)",
+      "surface": "Parálisis (tetraparesia con el uso de colchicina)",
+      "start": 1835,
+      "end": 1884
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastornos extrapiramidales",
+      "surface": "Trastornos extrapiramidales",
+      "start": 1886,
+      "end": 1913
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parestesia",
+      "surface": "Parestesia",
+      "start": 1929,
+      "end": 1939
+    },
+    {
+      "type": "REACT",
+      "canonical": "Temblor",
+      "surface": "Temblor",
+      "start": 1941,
+      "end": 1948
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "start": 1951,
+      "end": 1985
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disfunción eréctil",
+      "surface": "Disfunción eréctil",
+      "start": 2010,
+      "end": 2028
+    },
+    {
+      "type": "REACT",
+      "canonical": "Galactorrea",
+      "surface": "Galactorrea",
+      "start": 2030,
+      "end": 2041
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ginecomastia",
+      "surface": "Ginecomastia",
+      "start": 2043,
+      "end": 2055
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 2058,
+      "end": 2090
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor abdominal",
+      "surface": "Dolor abdominal",
+      "start": 2108,
+      "end": 2123
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento",
+      "start": 2137,
+      "end": 2150
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 2152,
+      "end": 2159
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperplasia gingival",
+      "surface": "Hiperplasia gingival",
+      "start": 2185,
+      "end": 2205
+    },
+    {
+      "type": "REACT",
+      "canonical": "Molestias abdominales",
+      "surface": "Molestias abdominales",
+      "start": 2207,
+      "end": 2228
+    },
+    {
+      "type": "REACT",
+      "canonical": "Oclusión intestinal",
+      "surface": "Oclusión intestinal",
+      "start": 2230,
+      "end": 2249
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos",
+      "start": 2265,
+      "end": 2272
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 2275,
+      "end": 2305
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema periférico",
+      "surface": "Edema periférico",
+      "start": 2318,
+      "end": 2334
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "Fatiga",
+      "start": 2353,
+      "end": 2359
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "start": 2362,
+      "end": 2403
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperpotasemia",
+      "surface": "Hiperpotasemia",
+      "start": 2428,
+      "end": 2442
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 2445,
+      "end": 2480
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipersensibilidad",
+      "surface": "Hipersensibilidad",
+      "start": 2505,
+      "end": 2522
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "start": 2525,
+      "end": 2556
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia renal",
+      "surface": "Insuficiencia renal",
+      "start": 2581,
+      "end": 2600
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 2603,
+      "end": 2627
+    },
+    {
+      "type": "REACT",
+      "canonical": "Somnolencia",
+      "surface": "Somnolencia",
+      "start": 2642,
+      "end": 2653
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 2656,
+      "end": 2693
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tinnitus",
+      "surface": "Tinnitus",
+      "start": 2708,
+      "end": 2716
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vértigo",
+      "surface": "Vértigo",
+      "start": 2742,
+      "end": 2749
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "Trastornos del sistema nervioso",
+      "start": 1736,
+      "end": 1767
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 1074,
+      "end": 1086
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "Trastornos del sistema cardiovascular",
+      "start": 1212,
+      "end": 1249
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "VERAPAMILO HIDROCLORURO",
+      "surface": "verapamilo hidrocloruro",
+      "start": 113,
+      "end": 136
+    }
+  ],
+  "raw_long_doc_text": "4.8 Reacciones adversas\nResumen del perfil de seguridad\nEl perfil de seguridad de MANIDON, formulación retard de VERAPAMILO HIDROCLORURO, es coherente con la experiencia acumulada con verapamilo en la práctica clínica. La mayoría de los acontecimientos comunicados fueron de intensidad leve o moderada y se resolvieron con medidas habituales o con el ajuste del tratamiento, según criterio clínico. La aparición de síntomas persistentes, progresivos o clínicamente relevantes debe valorarse teniendo en cuenta la situación basal del paciente y los tratamientos concomitantes. En el contexto de la notificación espontánea, algunos acontecimientos no permiten estimar una incidencia fiable. La información siguiente se presenta conforme a la terminología habitual de las fichas técnicas y agrupada por clasificación de órganos.\n\nLista tabulada de reacciones adversas\nTRASTORNOS DE PIEL Y TEJIDOS\nfrecuencia no conocida: Alopecia, Angioedema, Eritema multiforme, Exantema maculopapular, Picazón (sensación de picazón), Prurito, Púrpura, Síndrome de Stevens-Johnson, Urticaria.\nno frecuente: Hiperhidrosis.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\nfrecuencia no conocida: Artralgia, Debilidad muscular, Mialgia.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\nfrecuencia no conocida: Asístole, Bloqueo auriculoventricular, Bradicardia sinusal, Insuficiencia cardíaca, Pausa sinusal.\nfrecuentes: Bradicardia, Hipotensión, Sofocos.\npoco frecuentes: Palpitaciones, Taquicardia.\n\nEXPLORACIONES COMPLEMENTARIAS\nfrecuencia no conocida: Aumento de la prolactina en sangre.\n\nTRASTORNOS DEL SISTEMA HEPATOBILIAR\nfrecuencia no conocida: Aumento de las enzimas hepáticas.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\nfrecuencia no conocida: Broncoespasmo, Disnea.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nfrecuentes: Cefalea, Mareos.\nfrecuencia no conocida: Convulsiones, Parálisis (tetraparesia con el uso de colchicina), Trastornos extrapiramidales.\nno frecuente: Parestesia, Temblor.\n\nTRASTORNOS DEL SISTEMA REPRODUCTOR\nfrecuencia no conocida: Disfunción eréctil, Galactorrea, Ginecomastia.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\npoco frecuentes: Dolor abdominal.\nfrecuentes: Estreñimiento, Náuseas.\nfrecuencia no conocida: Hiperplasia gingival, Molestias abdominales, Oclusión intestinal.\nno frecuente: Vómitos.\n\nTRASTORNOS DEL SISTEMA GENERAL\nfrecuentes: Edema periférico.\npoco frecuentes: Fatiga.\n\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN\nfrecuencia no conocida: Hiperpotasemia.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\nfrecuencia no conocida: Hipersensibilidad.\n\nTRASTORNOS DEL SISTEMA EXCRETOR\nfrecuencia no conocida: Insuficiencia renal.\n\nTRASTORNOS PSIQUIÁTRICOS\nno frecuente: Somnolencia.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\nno frecuente: Tinnitus.\nfrecuencia no conocida: Vértigo.\n\nDescripción de reacciones adversas seleccionadas\nLa evaluación clínica debe considerar la cronología de inicio, la dosis administrada y la posible contribución de otros medicamentos. Si el cuadro obliga a interrumpir temporalmente el tratamiento, la reintroducción solo debería plantearse tras una valoración individual. En pacientes de edad avanzada o con comorbilidad, se recomienda una vigilancia proporcional al estado clínico, especialmente al iniciar el tratamiento o modificar la pauta.\n\nEn las notificaciones procedentes de la práctica clínica, la relación causal puede ser difícil de establecer cuando existen enfermedades concomitantes. Por ello, la comunicación de cualquier sospecha contribuye a completar el perfil de seguridad y a detectar patrones relevantes. La actuación terapéutica debe basarse en la intensidad del cuadro, la evolución temporal y el balance entre beneficio y riesgo para cada paciente.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "VERAPAMILO HIDROCLORURO",
+      "surface": "MANIDON"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "VERAPAMILO HIDROCLORURO",
+      "surface": "VERAPAMILO HIDROCLORURO"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "VERAPAMILO HIDROCLORURO",
+      "surface": "verapamilo"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alopecia",
+      "surface": "Alopecia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angioedema",
+      "surface": "Angioedema"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eritema multiforme",
+      "surface": "Eritema multiforme"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Exantema maculopapular",
+      "surface": "Exantema maculopapular"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Picazón",
+      "surface": "Picazón"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Picazón",
+      "surface": "picazón"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Púrpura",
+      "surface": "Púrpura"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de Stevens-Johnson",
+      "surface": "Síndrome de Stevens-Johnson"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperhidrosis",
+      "surface": "Hiperhidrosis"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Artralgia",
+      "surface": "Artralgia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Debilidad muscular",
+      "surface": "Debilidad muscular"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mialgia",
+      "surface": "Mialgia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Asístole",
+      "surface": "Asístole"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bloqueo auriculoventricular",
+      "surface": "Bloqueo auriculoventricular"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bradicardia sinusal",
+      "surface": "Bradicardia sinusal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia cardíaca",
+      "surface": "Insuficiencia cardíaca"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pausa sinusal",
+      "surface": "Pausa sinusal"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bradicardia",
+      "surface": "Bradicardia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sofocos",
+      "surface": "Sofocos"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Taquicardia",
+      "surface": "Taquicardia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "EXPLORACIONES COMPLEMENTARIAS",
+      "surface": "EXPLORACIONES COMPLEMENTARIAS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la prolactina en sangre",
+      "surface": "Aumento de la prolactina en sangre"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "surface": "TRASTORNOS DEL SISTEMA HEPATOBILIAR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de las enzimas hepáticas",
+      "surface": "Aumento de las enzimas hepáticas"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Broncoespasmo",
+      "surface": "Broncoespasmo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disnea",
+      "surface": "Disnea"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareos",
+      "surface": "Mareos"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Convulsiones",
+      "surface": "Convulsiones"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parálisis (tetraparesia con el uso de colchicina)",
+      "surface": "Parálisis (tetraparesia con el uso de colchicina)"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastornos extrapiramidales",
+      "surface": "Trastornos extrapiramidales"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parestesia",
+      "surface": "Parestesia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Temblor",
+      "surface": "Temblor"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disfunción eréctil",
+      "surface": "Disfunción eréctil"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Galactorrea",
+      "surface": "Galactorrea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ginecomastia",
+      "surface": "Ginecomastia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor abdominal",
+      "surface": "Dolor abdominal"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperplasia gingival",
+      "surface": "Hiperplasia gingival"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Molestias abdominales",
+      "surface": "Molestias abdominales"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Oclusión intestinal",
+      "surface": "Oclusión intestinal"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema periférico",
+      "surface": "Edema periférico"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "Fatiga"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperpotasemia",
+      "surface": "Hiperpotasemia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipersensibilidad",
+      "surface": "Hipersensibilidad"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia renal",
+      "surface": "Insuficiencia renal"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Somnolencia",
+      "surface": "Somnolencia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tinnitus",
+      "surface": "Tinnitus"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vértigo",
+      "surface": "Vértigo"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "MANIDON RETARD 180 mg COMPRIMIDOS DE LIBERACION PROLONGADA",
+        "pactivo": "VERAPAMILO HIDROCLORURO",
+        "reaccion": "Parestesia",
+        "frecuencia": "NO FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA NERVIOSO"
+      },
+      "text": "En el sistema de clasificación de órganos Trastornos del sistema nervioso, se ha notificado Parestesia con VERAPAMILO HIDROCLORURO. La frecuencia comunicada es no frecuente.\n\n- Parestesia: no frecuente.\n\nEste hallazgo es compatible con la acción farmacológica del verapamilo sobre la conducción neuromuscular y la regulación vascular periférica. En caso de persistencia o aumento de la intensidad, se recomienda valorar la evolución clínica y la conveniencia de continuar el tratamiento según el contexto del paciente.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "surface": "Trastornos del sistema nervioso"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Parestesia",
+          "surface": "Parestesia"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "VERAPAMILO HIDROCLORURO",
+          "surface": "VERAPAMILO HIDROCLORURO"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Parestesia",
+          "surface": "Parestesia"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "VERAPAMILO HIDROCLORURO",
+          "surface": "verapamilo"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "surface": "Trastornos del sistema nervioso",
+          "start": 42,
+          "end": 73
+        },
+        {
+          "type": "REACT",
+          "canonical": "Parestesia",
+          "surface": "Parestesia",
+          "start": 92,
+          "end": 102
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "VERAPAMILO HIDROCLORURO",
+          "surface": "VERAPAMILO HIDROCLORURO",
+          "start": 107,
+          "end": 130
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente",
+          "start": 160,
+          "end": 172
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "VERAPAMILO HIDROCLORURO",
+          "surface": "verapamilo",
+          "start": 107,
+          "end": 117
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "MANIDON RETARD 180 mg COMPRIMIDOS DE LIBERACION PROLONGADA",
+        "pactivo": "VERAPAMILO HIDROCLORURO",
+        "reaccion": "Palpitaciones",
+        "frecuencia": "POCO FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+      },
+      "text": "Dentro de la clasificación Trastornos del sistema cardiovascular, se han notificado Palpitaciones con verapamilo hidrocloruro; en la lista tabulada se consideran poco frecuentes.\n\n- Trastornos del sistema cardiovascular: Palpitaciones (latidos percibidos), poco frecuentes.\n\nEste hallazgo es coherente con la actividad del verapamilo sobre la conducción y la respuesta vascular, y debe valorarse en el contexto clínico del paciente. Si las manifestaciones son persistentes o clínicamente relevantes, se recomienda seguimiento y reconsiderar la relación temporal con el tratamiento, especialmente tras ajustes de dosis o cambios en la pauta de administración.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "surface": "Trastornos del sistema cardiovascular"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Palpitaciones",
+          "surface": "Palpitaciones"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "VERAPAMILO HIDROCLORURO",
+          "surface": "verapamilo hidrocloruro"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "surface": "Trastornos del sistema cardiovascular"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Palpitaciones",
+          "surface": "Palpitaciones"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "VERAPAMILO HIDROCLORURO",
+          "surface": "verapamilo"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "surface": "Trastornos del sistema cardiovascular",
+          "start": 27,
+          "end": 64
+        },
+        {
+          "type": "REACT",
+          "canonical": "Palpitaciones",
+          "surface": "Palpitaciones",
+          "start": 84,
+          "end": 97
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "VERAPAMILO HIDROCLORURO",
+          "surface": "verapamilo hidrocloruro",
+          "start": 102,
+          "end": 125
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes",
+          "start": 162,
+          "end": 177
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "VERAPAMILO HIDROCLORURO",
+          "surface": "verapamilo",
+          "start": 102,
+          "end": 112
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "MANIDON RETARD 180 mg COMPRIMIDOS DE LIBERACION PROLONGADA",
+        "pactivo": "VERAPAMILO HIDROCLORURO",
+        "reaccion": "Estreñimiento",
+        "frecuencia": "FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+      },
+      "text": "En pacientes tratados con verapamilo, el perfil farmacológico puede asociarse a una disminución del tránsito intestinal, por lo que se recomienda valorar la evolución clínica y las medidas dietéticas habituales si el síntoma persiste.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\n- frecuentes: Estreñimiento (dificultad para evacuar).\n\nEste efecto debe interpretarse dentro del seguimiento general del tratamiento y, en caso de persistencia o malestar relevante, puede requerir reevaluación de la pauta por el profesional sanitario.",
+      "declared": [
+        {
+          "type": "ACTIVE",
+          "canonical": "VERAPAMILO HIDROCLORURO",
+          "surface": "verapamilo"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Estreñimiento",
+          "surface": "Estreñimiento"
+        }
+      ],
+      "validated": [
+        {
+          "type": "ACTIVE",
+          "canonical": "VERAPAMILO HIDROCLORURO",
+          "surface": "verapamilo",
+          "start": 26,
+          "end": 36
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "start": 236,
+          "end": 268
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes",
+          "start": 271,
+          "end": 281
+        },
+        {
+          "type": "REACT",
+          "canonical": "Estreñimiento",
+          "surface": "Estreñimiento",
+          "start": 283,
+          "end": 296
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+4.8 Reacciones adversas
+Resumen del perfil de seguridad
+El perfil de seguridad de MANIDON, formulación retard de VERAPAMILO HIDROCLORURO, es coherente con la experiencia acumulada con verapamilo en la práctica clínica. La mayoría de los acontecimientos comunicados fueron de intensidad leve o moderada y se resolvieron con medidas habituales o con el ajuste del tratamiento, según criterio clínico. La aparición de síntomas persistentes, progresivos o clínicamente relevantes debe valorarse teniendo en cuenta la situación basal del paciente y los tratamientos concomitantes. En el contexto de la notificación espontánea, algunos acontecimientos no permiten estimar una incidencia fiable. La información siguiente se presenta conforme a la terminología habitual de las fichas técnicas y agrupada por clasificación de órganos.
+
+Lista tabulada de reacciones adversas
+TRASTORNOS DE PIEL Y TEJIDOS
+frecuencia no conocida: Alopecia, Angioedema, Eritema multiforme, Exantema maculopapular, Picazón (sensación de picazón), Prurito, Púrpura, Síndrome de Stevens-Johnson, Urticaria.
+no frecuente: Hiperhidrosis.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+frecuencia no conocida: Artralgia, Debilidad muscular, Mialgia.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+frecuencia no conocida: Asístole, Bloqueo auriculoventricular, Bradicardia sinusal, Insuficiencia cardíaca, Pausa sinusal.
+frecuentes: Bradicardia, Hipotensión, Sofocos.
+poco frecuentes: Palpitaciones, Taquicardia.
+
+EXPLORACIONES COMPLEMENTARIAS
+frecuencia no conocida: Aumento de la prolactina en sangre.
+
+TRASTORNOS DEL SISTEMA HEPATOBILIAR
+frecuencia no conocida: Aumento de las enzimas hepáticas.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+frecuencia no conocida: Broncoespasmo, Disnea.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+frecuentes: Cefalea, Mareos.
+frecuencia no conocida: Convulsiones, Parálisis (tetraparesia con el uso de colchicina), Trastornos extrapiramidales.
+no frecuente: Parestesia, Temblor.
+
+TRASTORNOS DEL SISTEMA REPRODUCTOR
+frecuencia no conocida: Disfunción eréctil, Galactorrea, Ginecomastia.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+poco frecuentes: Dolor abdominal.
+frecuentes: Estreñimiento, Náuseas.
+frecuencia no conocida: Hiperplasia gingival, Molestias abdominales, Oclusión intestinal.
+no frecuente: Vómitos.
+
+TRASTORNOS DEL SISTEMA GENERAL
+frecuentes: Edema periférico.
+poco frecuentes: Fatiga.
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN
+frecuencia no conocida: Hiperpotasemia.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+frecuencia no conocida: Hipersensibilidad.
+
+TRASTORNOS DEL SISTEMA EXCRETOR
+frecuencia no conocida: Insuficiencia renal.
+
+TRASTORNOS PSIQUIÁTRICOS
+no frecuente: Somnolencia.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+no frecuente: Tinnitus.
+frecuencia no conocida: Vértigo.
+
+Descripción de reacciones adversas seleccionadas
+La evaluación clínica debe considerar la cronología de inicio, la dosis administrada y la posible contribución de otros medicamentos. Si el cuadro obliga a interrumpir temporalmente el tratamiento, la reintroducción solo debería plantearse tras una valoración individual. En pacientes de edad avanzada o con comorbilidad, se recomienda una vigilancia proporcional al estado clínico, especialmente al iniciar el tratamiento o modificar la pauta.
+
+En las notificaciones procedentes de la práctica clínica, la relación causal puede ser difícil de establecer cuando existen enfermedades concomitantes. Por ello, la comunicación de cualquier sospecha contribuye a completar el perfil de seguridad y a detectar patrones relevantes. La actuación terapéutica debe basarse en la intensidad del cuadro, la evolución temporal y el balance entre beneficio y riesgo para cada paciente.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En el sistema de clasificación de órganos Trastornos del sistema nervioso, se ha notificado Parestesia con VERAPAMILO HIDROCLORURO. La frecuencia comunicada es no frecuente.
+
+- Parestesia: no frecuente.
+
+Este hallazgo es compatible con la acción farmacológica del verapamilo sobre la conducción neuromuscular y la regulación vascular periférica. En caso de persistencia o aumento de la intensidad, se recomienda valorar la evolución clínica y la conveniencia de continuar el tratamiento según el contexto del paciente.
+
+-- Caso 2 --
+Dentro de la clasificación Trastornos del sistema cardiovascular, se han notificado Palpitaciones con verapamilo hidrocloruro; en la lista tabulada se consideran poco frecuentes.
+
+- Trastornos del sistema cardiovascular: Palpitaciones (latidos percibidos), poco frecuentes.
+
+Este hallazgo es coherente con la actividad del verapamilo sobre la conducción y la respuesta vascular, y debe valorarse en el contexto clínico del paciente. Si las manifestaciones son persistentes o clínicamente relevantes, se recomienda seguimiento y reconsiderar la relación temporal con el tratamiento, especialmente tras ajustes de dosis o cambios en la pauta de administración.
+
+-- Caso 3 --
+En pacientes tratados con verapamilo, el perfil farmacológico puede asociarse a una disminución del tránsito intestinal, por lo que se recomienda valorar la evolución clínica y las medidas dietéticas habituales si el síntoma persiste.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+- frecuentes: Estreñimiento (dificultad para evacuar).
+
+Este efecto debe interpretarse dentro del seguimiento general del tratamiento y, en caso de persistencia o malestar relevante, puede requerir reevaluación de la pauta por el profesional sanitario.

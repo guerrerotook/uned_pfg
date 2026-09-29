@@ -1,0 +1,65 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+DIAZEPAM administrado por vía rectal presenta un perfil de seguridad compatible con el observado para este grupo terapéutico cuando se emplea en situaciones que requieren un efecto rápido. La intensidad de las manifestaciones comunicadas suele depender de la dosis, la edad, el estado clínico previo y el uso concomitante de otros medicamentos. En pacientes vulnerables se recomienda una vigilancia estrecha tras la administración y durante el periodo posterior de observación. La evaluación individual debe tener en cuenta la duración del tratamiento, la respuesta obtenida y la posibilidad de efectos residuales.
+
+Lista tabulada de reacciones adversas
+Las reacciones adversas se presentan a continuación agrupadas por sistema de clasificación de órganos y por categoría de frecuencia.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+no frecuente: disminuir la temperatura corporal.
+poco frecuentes: alteraciones del habla, convulsiones de rebote, hiperactividad, temblor.
+frecuentes: confusión, dolor de cabeza, falta de coordinación muscular, mareos.
+muy frecuentes: somnolencia.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+no frecuente: alergias.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+poco frecuentes: alteración del ritmo del corazón e inflamación de venas con formación de trombos, bajada de tensión severa, colapso circulatorio, disminución de la frecuencia cardíaca.
+no frecuente: vasculitis bullosa.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+poco frecuentes: alteraciones de la salivación, estreñimiento, náuseas, trastornos gastrointestinales.
+no frecuente: coloración amarilla de la piel, elevación de enzimas hepáticos.
+
+TRASTORNOS PSIQUIÁTRICOS
+poco frecuentes: Alteraciones mentales leves: pérdida de memoria, enlentecimiento del tiempo de reacción.
+depresión, disminución del deseo sexual, excitación paradójica que puede conllevar: hostilidad, agresión y desinhibición, ansiedad, alucinaciones, insomnio, alteraciones del sueño.
+no frecuente: dificultad para recordar algunas cosas.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+no frecuente: anemia, disminución de las plaquetas, pacientes con baja concentración de sodio en sangre se puede producir dolor y debilidad muscular, pancitopenia.
+poco frecuentes: inflamación de las venas, irritación local, neutropenia.
+
+TRASTORNOS DEL SISTEMA ENDOCRINO
+no frecuente: aumento del volumen de las mamas en hombres, secreción de leche por el pezón.
+
+TRASTORNOS DEL SISTEMA GENERAL
+no frecuente: cuadro clínico que cursa con fiebre, erupciones y alteraciones de la sangre (síndrome de Sweet).
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+frecuentes: depresión respiratoria.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+poco frecuentes: erupción y urticaria, hinchazón, irritación local tras administración rectal, sudoración.
+
+TRASTORNOS DEL SISTEMA EXCRETOR
+poco frecuentes: incontinencia, retención urinaria.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+poco frecuentes: movimientos involuntarios de los ojos, visión borrosa, visión doble, vértigo.
+
+Descripción de reacciones adversas seleccionadas
+En la práctica clínica, la monitorización tras la administración debe mantenerse hasta que el paciente recupere una respuesta adecuada y estable. En personas de edad avanzada, debilitadas o con patología concomitante, puede ser necesario ajustar la pauta y reforzar las medidas de observación. Si aparece una manifestación clínicamente relevante, se debe valorar la continuidad del tratamiento y aplicar las medidas de soporte habituales. La comunicación de sospechas contribuye a una mejor caracterización del perfil de seguridad del medicamento.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En la clasificación por órganos y sistemas, dentro de Trastornos del sistema nervioso, se incluye somnolencia entre las reacciones adversas muy frecuentes asociadas al uso de DIAZEPAM. Este efecto es coherente con el perfil farmacológico del medicamento y debe considerarse especialmente tras la administración, recomendándose observar al paciente y valorar la necesidad de medidas de precaución en actividades que requieran atención. La intensidad puede depender de la sensibilidad individual y del contexto clínico, por lo que el seguimiento debe ajustarse a la respuesta observada.
+
+-- Caso 2 --
+Dentro de TRASTORNOS DEL SISTEMA ENDOCRINO, durante el tratamiento con DIAZEPAM se ha descrito secreción de leche por el pezón con frecuencia no frecuente. Esta manifestación debe interpretarse en el contexto del perfil farmacológico del medicamento y de la posible influencia sobre la regulación neuroendocrina. Si aparece durante el uso clínico, se recomienda valorar la evolución del cuadro y la necesidad de seguimiento, especialmente cuando la manifestación sea persistente o clínicamente relevante.
+
+-- Caso 3 --
+En el sistema de clasificación de órganos TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS, se ha notificado vértigo con DIAZEPAM como reacción adversa incluida entre las poco frecuentes. La aparición de este síntoma puede relacionarse con la acción depresora central del principio activo y suele requerir valoración clínica según la intensidad y el contexto del paciente. Se recomienda considerar el seguimiento del paciente y la revisión de la administración si el episodio persiste o interfiere con la actividad habitual, sin perjuicio de la evaluación individual del balance beneficio-riesgo.

@@ -1,0 +1,302 @@
+[
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Hipotrombinemia (con dosis altas)",
+    "frecuencia": "Frecuente",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Anemia ferropénica",
+    "frecuencia": "Poco frecuente",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Anemia hemorrágica",
+    "frecuencia": "Rara",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Hemólisis",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Anemia hemolítica",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Hipersensibilidad",
+    "frecuencia": "Poco frecuente",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Hipersensibilidad inducida por fármacos",
+    "frecuencia": "Rara",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Edema alérgico",
+    "frecuencia": "Rara",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Angioedema",
+    "frecuencia": "Rara",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Reacción anafiláctica",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Shock anafiláctico",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Reacción anafilactoide",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Mareo",
+    "frecuencia": "Frecuente",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Hemorragia cerebral",
+    "frecuencia": "Rara",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Hemorragia intracraneal",
+    "frecuencia": "Rara",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Tinnitus",
+    "frecuencia": "Frecuente",
+    "trastorno": "Trastornos del oído y del laberinto"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Sordera",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del oído y del laberinto"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Distrés cardiorrespiratorio",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Hematoma",
+    "frecuencia": "Poco frecuente",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Hemorragia",
+    "frecuencia": "Rara",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Hemorragia muscular",
+    "frecuencia": "Rara",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Hemorragia procedimental",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Epistaxis",
+    "frecuencia": "Frecuente",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Rinitis",
+    "frecuencia": "Frecuente",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Congestión nasal",
+    "frecuencia": "Poco frecuente",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Enfermedad respiratoria exacerbada por ácido acetilsalicílico",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Dispepsia",
+    "frecuencia": "Frecuente",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Dolor gastrointestinal",
+    "frecuencia": "Frecuente",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Dolor abdominal",
+    "frecuencia": "Frecuente",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Inflamación gastrointestinal",
+    "frecuencia": "Frecuente",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Hemorragia del tracto gastrointestinal",
+    "frecuencia": "Frecuente",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Sangrado gingival",
+    "frecuencia": "Poco frecuente",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Erosión gastrointestinal",
+    "frecuencia": "Poco frecuente",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Úlcera gastrointestinal",
+    "frecuencia": "Poco frecuente",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Perforación de úlcera gastrointestinal",
+    "frecuencia": "Rara",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Enfermedad diafragmática intestinal",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Insuficiencia hepática",
+    "frecuencia": "Poco frecuente",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Hepatitis",
+    "frecuencia": "Rara",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Incremento de transaminasas",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Erupción cutánea",
+    "frecuencia": "Frecuente",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Prurito",
+    "frecuencia": "Frecuente",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Urticaria",
+    "frecuencia": "Poco frecuente",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Sudoración",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Hemorragia del tracto urogenital",
+    "frecuencia": "Frecuente",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Insuficiencia renal",
+    "frecuencia": "Rara",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Fallo renal agudo",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Nefritis intersticial aguda",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Síndrome de Reye",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos generales"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Cefalea",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos generales"
+  },
+  {
+    "principio activo": "ACETILSALICILICO ACIDO",
+    "reacción adversa": "Confusión",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos psiquiátricos"
+  }
+]

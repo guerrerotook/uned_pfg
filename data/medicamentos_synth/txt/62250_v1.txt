@@ -1,0 +1,44 @@
+Resumen del perfil de seguridad
+RIFAXIMINA se ha evaluado en pacientes tratados por vía oral en condiciones controladas y en la experiencia posterior a la autorización. El perfil observado fue en general compatible con una baja exposición sistémica. La mayoría de los acontecimientos comunicados fueron de intensidad leve o moderada y remitieron sin medidas específicas. La notificación espontánea puede limitar la estimación precisa de algunos acontecimientos. La evaluación clínica debe considerar la situación basal del paciente y la posible coexistencia de otros tratamientos.
+
+Lista tabulada de reacciones adversas
+frecuentes
+TRASTORNOS DEL SISTEMA DIGESTIVO: Estreñimiento, diarrea, distensión abdominal, dolor abdominal, dolor de cabeza, esfuerzo involuntario y doloroso o ineficaz, flatulencia, náuseas, sensación de tener necesidad de defecar, vómitos.
+TRASTORNOS DEL SISTEMA NERVIOSO: Fiebre, Mareo.
+
+poco frecuentes
+INFECCIONES E INFESTACIONES: Candidiasis (infección por un tipo de hongo), herpes en los labios, infección de las vías respiratorias superiores, inflamación o infección de la nariz y/o garganta.
+TRASTORNOS DE PIEL Y TEJIDOS: Erupciones cutáneas y sarpullidos que pueden ser de aparición súbita, brazo hinchado (edema periférico), quemaduras solares, sudoración abundante.
+TRASTORNOS DEL SISTEMA DIGESTIVO: Acumulación de líquido en el abdomen (ascitis), Pérdida de apetito, Resultados anormales de la prueba del hígado (incremento de la aspartato aminotransferasa), deshidratación, desórdenes de la motilidad gastrointestinal, digestión pesada, dolor abdominal superior, heces duras, heces mucosas, sangre en las heces, sequedad labial, trastornos del gusto.
+TRASTORNOS DEL SISTEMA GENERAL: Agotamiento, Sofocos, dolor y malestar, escalofríos, sintomatología similar a la de una gripe, sudor frío.
+TRASTORNOS DEL SISTEMA EXCRETOR: Resultados anormales de análisis de orina: presencia de glucosa en la orina, aumento de la cantidad de orina excretada, aumento de la frecuencia de orinar, presencia de proteínas en la orina, sangre en la orina.
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR: Aumento de la presión sanguínea, Palpitaciones.
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO: Dolor de espalda, calambres musculares, debilidad muscular, dolor en el cuello, dolores musculares generalizados.
+TRASTORNOS DEL SISTEMA RESPIRATORIO: Dificultad para respirar, congestión nasal, dolor de garganta, goteo de la nariz, sequedad de garganta, tos.
+TRASTORNOS DEL SISTEMA NERVIOSO: Disminución de la sensibilidad, Dolor de oído, Insomnio, Visión doble, dolor en la frente o en un lado de la cabeza, estado de ánimo deprimido, migraña, nerviosismo, sensación de hormigueo, sensación de que la habitación da vueltas (vértigo), somnolencia, sueños anormales.
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS: Recuento anormal de glóbulos blancos en la sangre (aumento de linfocitos y monocitos y disminución de neutrófilos).
+TRASTORNOS DEL SISTEMA REPRODUCTOR: Períodos menstruales prolongados e irregulares.
+
+frecuencia no conocida
+INFECCIONES E INFESTACIONES: Infección causada por la bacteriaClostridium difficile.
+TRASTORNOS DE PIEL Y TEJIDOS: Hinchazón de piel y mucosas, dermatitis, dermatitis con descamación de la piel, eczema, eritemas, manchas rojas en la piel (púrpura), picor, urticaria.
+TRASTORNOS DEL SISTEMA DIGESTIVO: Anomalías en las pruebas de la función del hígado.
+TRASTORNOS DEL SISTEMA NERVIOSO: Sensación de desmayo.
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS: Disminución del número de plaquetas en la sangre, Valores anormales en las pruebas de coagulacion sanguínea (Relación Normalizada Internacional).
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO: Reacciones alérgicas graves, hipersensibilidad.
+
+Descripción de reacciones adversas seleccionadas
+En los estudios disponibles, los acontecimientos fueron recogidos mediante entrevista dirigida y revisión de datos analíticos cuando procedía. La interpretación de hallazgos aislados debe realizarse con cautela, especialmente si existen enfermedades concomitantes o alteraciones previas. En caso de aparición de manifestaciones clínicamente relevantes, se recomienda valorar la continuidad del tratamiento de acuerdo con el criterio médico.
+
+La información posterior a la comercialización procede de notificaciones voluntarias y no siempre permite establecer una relación temporal completa. Por ello, algunos acontecimientos se mantienen sin una estimación cuantitativa fiable. El seguimiento clínico y la comunicación de sospechas contribuyen a una caracterización más precisa del perfil de seguridad.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+Dentro del sistema de clasificación de órganos TRASTORNOS DE PIEL Y TEJIDOS, se han notificado eritemas con frecuencia no conocida durante el tratamiento con RIFAXIMINA. La aparición de estas manifestaciones cutáneas debe valorarse en el contexto clínico del paciente y de la exposición al medicamento. La información disponible procede principalmente de la experiencia posterior a la comercialización, por lo que no permite estimar una incidencia precisa. En caso de persistencia o progresión, se recomienda seguimiento clínico y reconsiderar la continuidad del tratamiento según criterio médico, teniendo en cuenta la relación temporal con la administración.
+
+-- Caso 2 --
+Se ha descrito la reacción adversa copiar durante el tratamiento con RIFAXIMINA. En la información disponible, la frecuencia se recoge como nan y el sistema de clasificación de órganos se consigna como nan. La aparición de este acontecimiento debe valorarse en el contexto clínico del paciente y de la evolución temporal tras la administración del medicamento. Se recomienda realizar seguimiento clínico y considerar la relación temporal con la exposición, sin que estos datos modifiquen por sí solos el perfil general de seguridad descrito.
+
+-- Caso 3 --
+En el sistema de clasificación de órganos Infecciones e infestaciones, se ha descrito infección de las vías respiratorias superiores durante el tratamiento con RIFAXIMINA, con una frecuencia de notificación clasificada como poco frecuentes. La aparición de este acontecimiento debe valorarse en el contexto clínico del paciente, considerando la evolución temporal respecto al inicio del tratamiento y la presencia de factores predisponentes. En caso de persistencia o empeoramiento de los síntomas, se recomienda realizar seguimiento clínico y aplicar las medidas terapéuticas habituales, sin que ello implique necesariamente la suspensión del medicamento.

@@ -1,0 +1,60 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil de seguridad observado con MIDAZOLAM es coherente con el esperado para un medicamento de uso parenteral en el contexto de procedimientos diagnósticos, terapéuticos o cuidados asistenciales. En algunos entornos clínicos se reconoce también por nombres de uso habitual, como Dormicum, aunque la valoración debe realizarse siempre atendiendo a la dosis, la velocidad de administración y la situación basal del paciente. La mayoría de las notificaciones proceden de la experiencia poscomercialización, por lo que no siempre es posible estimar una incidencia fiable. La vigilancia clínica debe mantenerse hasta que el paciente recupere un nivel funcional adecuado, especialmente cuando se administran otros medicamentos con efecto depresor central. Para midazolam, la interpretación de los acontecimientos debe considerar la edad, el estado general y la presencia de enfermedades concomitantes.
+
+Lista tabulada de reacciones adversas
+
+TRASTORNOS PSIQUIÁTRICOS
+frecuencia no conocida: Abuso, Agitación, Agresividad, Alucinaciones, Ansiedad, Cambios en la líbido, Comportamiento inadecuado, Conducta agresiva, Dependencia física, Desorientación, Estados de cosnfusión, Excitación paroxística, Inquietud, Ira, Irritabilidad, Nerviosismo, Pesadillas, Psicosis, Reacciones paradójicas del comportamiento, Sueños anormales, Síndrome de retirada, Trastornos emocionales y anímicos.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+frecuencia no conocida: Amnesia anterógrada, Ataxia, Cefalea, Convulsiones después de la retirada, Disminución de la alerta, Hiperactividad, Movimientos involuntarios, Sedación, Somnolencia, Vértigos.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+frecuencia no conocida: Angioedema, Hipersensibilidad, Shock anafiláctico.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+frecuencia no conocida: Apnea, Depresión respiratoria, Disnea, Hipo, Laringoespasmo, Parada respiratoria.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+frecuencia no conocida: Bradicardia, Hipotensión, Parada cardíaca, Síndrome de Kounis, Tromboflebitis, Trombosis, Vasodilatación.
+
+LESIONES TRAUMÁTICAS, INTOXICACIONES Y COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS
+frecuencia no conocida: Caídas y fracturas.
+
+TRASTORNOS DEL SISTEMA GENERAL
+frecuencia no conocida: Eritema y dolor en el lugar de la inyección, Fatiga.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+frecuencia no conocida: Erupción cutánea, Prurito, Urticaria.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+frecuencia no conocida: Estreñimiento, Náuseas, Sequedad de boca, Vómitos.
+
+Descripción de reacciones adversas seleccionadas
+Se han descrito Reacciones paradójicas del comportamiento con manifestaciones como Agitación, Irritabilidad o Conducta agresiva. Estas comunicaciones pueden aparecer de forma imprevisible y requieren una reevaluación del manejo clínico si comprometen la seguridad del paciente o del procedimiento.
+
+Los acontecimientos relacionados con la función respiratoria, como Apnea, Depresión respiratoria o Parada respiratoria, son especialmente relevantes en la administración intravenosa y cuando concurren factores que aumentan la sensibilidad al tratamiento. Debe disponerse de medios adecuados para el seguimiento y la intervención si fuese necesario.
+
+La Amnesia anterógrada puede ser más evidente cuando se administran dosis superiores o repetidas. También pueden notificarse Somnolencia, Sedación y Vértigos, que pueden interferir con la recuperación inmediata. En el aparato digestivo, la Sequedad de boca (boca seca), las Náuseas y los Vómitos suelen comunicarse en el periodo de observación posterior.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+Dentro del sistema TRASTORNOS DE PIEL Y TEJIDOS, se ha identificado la siguiente reacción adversa asociada a MIDAZOLAM, notificada tras la administración del fármaco:
+
+- Prurito: frecuencia no conocida.
+
+El prurito (picor) puede aparecer en el contexto de la exposición a midazolam y debe valorarse junto con la situación clínica del paciente y los medicamentos administrados de forma concomitante. Se recomienda realizar seguimiento si el síntoma persiste o resulta clínicamente relevante, considerando las medidas habituales de vigilancia y registro de acontecimientos adversos.
+
+-- Caso 2 --
+Tras la administración de midazolam, se ha notificado la siguiente reacción adversa encuadrada en Trastornos del sistema nervioso:
+- Hiperactividad: frecuencia no conocida.
+Este efecto puede presentarse de forma paradójica durante o tras la sedación, especialmente en situaciones de mayor sensibilidad individual, sin que ello permita estimar su incidencia a partir de los datos disponibles. Se recomienda mantener vigilancia clínica y valorar la evolución temporal en relación con la administración antes de decidir medidas adicionales. La notificación de estos casos contribuye a completar la información de seguridad en la práctica clínica habitual.
+
+-- Caso 3 --
+Trastornos psiquiátricos
+- Dependencia física: frecuencia no conocida.
+
+Durante el tratamiento con midazolam, especialmente tras administración prolongada o dosis repetidas, puede desarrollarse dependencia física (habituación corporal). La retirada debe realizarse de forma gradual cuando sea clínicamente apropiado y el paciente debe mantenerse en seguimiento para valorar la necesidad de continuar el tratamiento. El riesgo debe considerarse al prescribir tratamientos sedantes en pacientes con exposición previa.

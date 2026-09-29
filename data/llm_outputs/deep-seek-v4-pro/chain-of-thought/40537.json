@@ -1,0 +1,578 @@
+[
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "anemia aplástica",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "anemia hemolítica",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "leucopenia",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "agranulocitosis",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "petequias o equimosis",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "púrpura",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "trombocitopenia",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "coagulopatía intravascular diseminada",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "prurito",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "urticaria",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "angitis",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "eritema nudoso",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "erupción cutánea",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "distrés respiratorio agudo",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "caída rápida de la presión arterial parecida a un estado de shock",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "anafilaxia aguda",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "angioedema",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "disnea súbita",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "asma",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "edema pulmonar",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "depresión",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "trastornos psicológicos (como despersonalización)",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "estados psicóticos",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "confusión mental",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "cefalea",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "mareos",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "aturdimiento",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "vértigo",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "cansancio (incluido malestar y languidez)",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "ansiedad",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "sincopes",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "somnolencia",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "parestesia",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "disartria",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "neuropatía periférica",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "insomnio",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "empeoramiento de la epilepsia o de la enfermedad de Parkinson",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "movimientos musculares involuntarios",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "debilidad muscular",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "convulsiones",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "coma",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "visión borrosa",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "diplopia",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "dolor orbitario y peri-orbitario",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "depósitos corneales",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "alteraciones retinianas incluidas las alteraciones en la mácula",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "acúfenos",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del oído y del laberinto"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "trastornos auditivos",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del oído y del laberinto"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "hipoacusia",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del oído y del laberinto"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "taquicardia",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos cardíacos"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "arritmia",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos cardíacos"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "palpitaciones",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos cardíacos"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "insuficiencia cardiaca congestiva",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos cardíacos"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "dolor torácico",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos cardíacos"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "hipertensión",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "hipotensión",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "aumento de las transaminasas séricas",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "hepatitis con o sin ictericia",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "lesión hepática",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "náuseas",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "anorexia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "vómitos",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "dolor epigástrico",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "dolor abdominal",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "estreñimiento",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "diarrea",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "sangrado gastrointestinal",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "empeoramiento del dolor abdominal principalmente en pacientes con colitis ulcerosa",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "hemorragia en el colon sigmoide (oculta o proveniente de un divertículo)",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "perforación de lesiones pre-existentes en el colon sigmoide (divertículo, carcinoma)",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "estomatitis",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "gastritis",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "flatulencia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "úlcera gastrointestinal con estenosis y obstrucción",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "úlceras únicas o múltiples en el esófago, estómago, duodeno e intestino delgado o grueso (incluida perforación y hemorragia)",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "pancreatitis",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "edema",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "hematuria",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "proteinuria",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "síndrome nefrótico",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "nefritis intersticial",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "insuficiencia renal incluido fallo renal",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "alopecia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "dermatitis exfoliativa",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "eritema multiforme",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "reacciones ampollosas incluyendo el síndrome de Stevens Johnson y necrolisis epidérmica tóxica",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "hemorragia vaginal",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del aparato reproductor y de la mama"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "cambios en las mamas incluidas aumento de las mamas, sensibilidad, ginecomastia",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del aparato reproductor y de la mama"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "rubefacción",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "sudoración",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "epistaxis",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "estomatitis ulcerosa",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "hiperpotasemia",
+    "frecuencia": "Raras",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "hiperglucemia",
+    "frecuencia": "Raras",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "glucosuria",
+    "frecuencia": "Raras",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "INDOMETACINA",
+    "reacción adversa": "elevación de la urea",
+    "frecuencia": "Raras",
+    "trastorno": "Exploraciones complementarias"
+  }
+]

@@ -1,0 +1,1189 @@
+{
+  "codigo": "69589",
+  "variante": 2,
+  "codigo_variant": "69589_v2",
+  "medicamento": "SPIRIVA RESPIMAT 2,5 microgramos SOLUCION PARA INHALACION",
+  "model": "gpt-5.5",
+  "style_variant_idx": 1,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\n\nEl perfil de seguridad descrito para TIOTROPIO BROMURO es coherente con su actividad farmacológica local y sistémica tras la administración inhalada. En la práctica clínica, tiotropio se utiliza de forma continuada y la valoración de tolerabilidad debe considerar la edad, las enfermedades concomitantes y el uso correcto del dispositivo. Spiriva Respimat puede asociarse a manifestaciones de intensidad variable; la mayoría se identifican durante el seguimiento habitual y no requieren una actuación específica si son leves y transitorias. La información siguiente se presenta con terminología compatible con MedDRA y se agrupa por sistema de clasificación de órganos. Dentro de cada grupo, las reacciones se ordenan por la categoría comunicada en los datos disponibles.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\npoco frecuentes: Aumento de la presión intraocular, Glaucoma, Visón borrosa.\nfrecuencia no conocida: Aumento de la presión intraocular, Glaucoma, Visón borrosa.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\npoco frecuentes: Broncoespasmo, Disfonía, Epistaxis, Faringitis, Laringitis, Tos.\nfrecuencia no conocida: Laringitis, Sinusitis.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nfrecuentes: Sequedad de boca (boca seca).\npoco frecuentes: Candidiasis orofaríngea, Caries dental, Disfagia, Estomatitis, Estreñimiento, Gingivitis, Glositis, Reflujo gastroesofágico, Sequedad de boca.\nfrecuencia no conocida: Caries dental, Disfagia, Estomatitis, Glositis, Náuseas, Obstrucción intestinal, incluyendo íleo paralítico, Reflujo gastroesofágico.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\npoco frecuentes: Cefalea, Insonmio, Mareos.\n\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN\nfrecuencia no conocida: Deshidratación.\n\nTRASTORNOS DEL SISTEMA EXCRETOR\npoco frecuentes: Disuria, Infección del tracto urinario, Retención urinaria.\nfrecuencia no conocida: Disuria, Infección del tracto urinario, Retención urinaria.\n\nTRASTORNOS DE PIEL Y TEJIDOS\npoco frecuentes: Edema angioneurótico, Erupción, Hipersensibilidad, Infección de la piel/úlcera en la piel, Piel seca, Prurito, Urticaria.\nfrecuencia no conocida: Hipersensibilidad, Infección de la piel/úlcera en la piel, Piel seca, Reacción anafiláctica.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\npoco frecuentes: Fibrilación auricular, Palpitaciones, Taquicardia, Taquicardia supraventricular.\nfrecuencia no conocida: Fibrilación auricular, Taquicardia, Taquicardia supraventricular.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\nfrecuencia no conocida: Tumefacción en articulación.\n\nDescripción de reacciones adversas seleccionadas\n\nLa sensación descrita como boca seca puede aparecer al inicio o durante el tratamiento mantenido. En general, se recomienda revisar la técnica de inhalación y valorar factores predisponentes antes de modificar la pauta. Si persiste o se acompaña de molestias orales, puede ser útil una evaluación clínica individualizada.\n\nLos signos oculares como Aumento de la presión intraocular, Glaucoma o Visón borrosa deben interpretarse en relación con la posibilidad de exposición accidental del ojo al aerosol. Se aconseja instruir al paciente para evitar la pulverización hacia la cara y solicitar atención médica si aparecen síntomas compatibles.\n\nEn pacientes predispuestos, Retención urinaria o Disuria pueden requerir seguimiento, especialmente si existe antecedente urológico. Broncoespasmo tras la inhalación y Reacción anafiláctica requieren valoración inmediata y la decisión terapéutica deberá basarse en la gravedad del cuadro.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nEn el sistema de clasificación de órganos TRASTORNOS DEL SISTEMA RESPIRATORIO se ha identificado la siguiente reacción adversa asociada al tratamiento inhalado con TIOTROPIO BROMURO (tiotropio):\n\n- Sinusitis: frecuencia no conocida.\n\nLa Sinusitis se considera compatible con la exposición local en vías respiratorias durante el uso de anticolinérgicos inhalados, aunque los datos disponibles no permiten estimar su incidencia. Se recomienda valorar la evolución clínica y las posibles condiciones predisponentes, manteniendo el seguimiento habitual del paciente. Si los síntomas persisten o resultan clínicamente relevantes, debe reconsiderarse la relación temporal con el tratamiento.\n\n-- Caso 2 --\nEn el tratamiento inhalado con tiotropio bromuro (tiotropio), la sequedad de boca se ha notificado como reacción adversa de carácter anticolinérgico, generalmente leve y relacionada con el efecto farmacológico local. En la clasificación por órganos y sistemas, se incluye en Trastornos del sistema digestivo y se considera dentro de las reacciones frecuentes.\n\nTabla de reacciones adversas:\n- Trastornos del sistema digestivo: Sequedad de boca (frecuentes).\n\nSe recomienda informar al paciente de que mantenga una adecuada higiene oral y comunique la persistencia o molestia relevante durante el seguimiento clínico.\n\n-- Caso 3 --\nDentro del sistema de clasificación de órganos Trastornos de piel y tejidos, se ha notificado:\n- Edema angioneurótico: poco frecuentes.\n\nEn pacientes tratados con TIOTROPIO BROMURO (Spiriva), este hallazgo es compatible con una reacción de hipersensibilidad y debe valorarse en relación temporal con la administración inhalada. Se recomienda vigilar la evolución clínica y considerar la interrupción del tratamiento si el cuadro progresa, especialmente cuando afecte a zonas anatómicas de riesgo, de acuerdo con la práctica clínica.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "TIOTROPIO BROMURO",
+      "surface": "TIOTROPIO BROMURO",
+      "start": 95,
+      "end": 112
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "TIOTROPIO BROMURO",
+      "surface": "tiotropio",
+      "start": 95,
+      "end": 104
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "TIOTROPIO BROMURO",
+      "surface": "Spiriva Respimat",
+      "start": 397,
+      "end": 413
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 870,
+      "end": 907
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 908,
+      "end": 923
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la presión intraocular",
+      "surface": "Aumento de la presión intraocular",
+      "start": 925,
+      "end": 958
+    },
+    {
+      "type": "REACT",
+      "canonical": "Glaucoma",
+      "surface": "Glaucoma",
+      "start": 960,
+      "end": 968
+    },
+    {
+      "type": "REACT",
+      "canonical": "Visón borrosa",
+      "surface": "Visón borrosa",
+      "start": 970,
+      "end": 983
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 985,
+      "end": 1007
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 1070,
+      "end": 1105
+    },
+    {
+      "type": "REACT",
+      "canonical": "Broncoespasmo",
+      "surface": "Broncoespasmo",
+      "start": 1123,
+      "end": 1136
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disfonía",
+      "surface": "Disfonía",
+      "start": 1138,
+      "end": 1146
+    },
+    {
+      "type": "REACT",
+      "canonical": "Epistaxis",
+      "surface": "Epistaxis",
+      "start": 1148,
+      "end": 1157
+    },
+    {
+      "type": "REACT",
+      "canonical": "Faringitis",
+      "surface": "Faringitis",
+      "start": 1159,
+      "end": 1169
+    },
+    {
+      "type": "REACT",
+      "canonical": "Laringitis",
+      "surface": "Laringitis",
+      "start": 1171,
+      "end": 1181
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tos",
+      "surface": "Tos",
+      "start": 1183,
+      "end": 1186
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sinusitis",
+      "surface": "Sinusitis",
+      "start": 1224,
+      "end": 1233
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1236,
+      "end": 1268
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 913,
+      "end": 923
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad de boca",
+      "surface": "Sequedad de boca",
+      "start": 1281,
+      "end": 1297
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad de boca",
+      "surface": "boca seca",
+      "start": 1299,
+      "end": 1308
+    },
+    {
+      "type": "REACT",
+      "canonical": "Candidiasis orofaríngea",
+      "surface": "Candidiasis orofaríngea",
+      "start": 1328,
+      "end": 1351
+    },
+    {
+      "type": "REACT",
+      "canonical": "Caries dental",
+      "surface": "Caries dental",
+      "start": 1353,
+      "end": 1366
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disfagia",
+      "surface": "Disfagia",
+      "start": 1368,
+      "end": 1376
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estomatitis",
+      "surface": "Estomatitis",
+      "start": 1378,
+      "end": 1389
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento",
+      "start": 1391,
+      "end": 1404
+    },
+    {
+      "type": "REACT",
+      "canonical": "Gingivitis",
+      "surface": "Gingivitis",
+      "start": 1406,
+      "end": 1416
+    },
+    {
+      "type": "REACT",
+      "canonical": "Glositis",
+      "surface": "Glositis",
+      "start": 1418,
+      "end": 1426
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reflujo gastroesofágico",
+      "surface": "Reflujo gastroesofágico",
+      "start": 1428,
+      "end": 1451
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 1543,
+      "end": 1550
+    },
+    {
+      "type": "REACT",
+      "canonical": "Obstrucción intestinal, incluyendo íleo paralítico",
+      "surface": "Obstrucción intestinal, incluyendo íleo paralítico",
+      "start": 1552,
+      "end": 1602
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1630,
+      "end": 1661
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea",
+      "start": 1679,
+      "end": 1686
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insonmio",
+      "surface": "Insonmio",
+      "start": 1688,
+      "end": 1696
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareos",
+      "surface": "Mareos",
+      "start": 1698,
+      "end": 1704
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "start": 1707,
+      "end": 1748
+    },
+    {
+      "type": "REACT",
+      "canonical": "Deshidratación",
+      "surface": "Deshidratación",
+      "start": 1773,
+      "end": 1787
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "start": 1790,
+      "end": 1821
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disuria",
+      "surface": "Disuria",
+      "start": 1839,
+      "end": 1846
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infección del tracto urinario",
+      "surface": "Infección del tracto urinario",
+      "start": 1848,
+      "end": 1877
+    },
+    {
+      "type": "REACT",
+      "canonical": "Retención urinaria",
+      "surface": "Retención urinaria",
+      "start": 1879,
+      "end": 1897
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 1984,
+      "end": 2012
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema angioneurótico",
+      "surface": "Edema angioneurótico",
+      "start": 2030,
+      "end": 2050
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción",
+      "surface": "Erupción",
+      "start": 2052,
+      "end": 2060
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipersensibilidad",
+      "surface": "Hipersensibilidad",
+      "start": 2062,
+      "end": 2079
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infección de la piel/úlcera en la piel",
+      "surface": "Infección de la piel/úlcera en la piel",
+      "start": 2081,
+      "end": 2119
+    },
+    {
+      "type": "REACT",
+      "canonical": "Piel seca",
+      "surface": "Piel seca",
+      "start": 2121,
+      "end": 2130
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito",
+      "start": 2132,
+      "end": 2139
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria",
+      "start": 2141,
+      "end": 2150
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacción anafiláctica",
+      "surface": "Reacción anafiláctica",
+      "start": 2246,
+      "end": 2267
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 2270,
+      "end": 2307
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fibrilación auricular",
+      "surface": "Fibrilación auricular",
+      "start": 2325,
+      "end": 2346
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones",
+      "start": 2348,
+      "end": 2361
+    },
+    {
+      "type": "REACT",
+      "canonical": "Taquicardia",
+      "surface": "Taquicardia",
+      "start": 2363,
+      "end": 2374
+    },
+    {
+      "type": "REACT",
+      "canonical": "Taquicardia supraventricular",
+      "surface": "Taquicardia supraventricular",
+      "start": 2376,
+      "end": 2404
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 2497,
+      "end": 2539
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tumefacción en articulación",
+      "surface": "Tumefacción en articulación",
+      "start": 2564,
+      "end": 2591
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "TIOTROPIO BROMURO",
+      "surface": "tiotropio bromuro",
+      "start": 95,
+      "end": 112
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad de boca",
+      "surface": "sequedad de boca",
+      "start": 1281,
+      "end": 1297
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "Trastornos del sistema digestivo",
+      "start": 1236,
+      "end": 1268
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "Trastornos de piel y tejidos",
+      "start": 1984,
+      "end": 2012
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "TIOTROPIO BROMURO",
+      "surface": "Spiriva",
+      "start": 397,
+      "end": 404
+    }
+  ],
+  "raw_long_doc_text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\n\nEl perfil de seguridad descrito para TIOTROPIO BROMURO es coherente con su actividad farmacológica local y sistémica tras la administración inhalada. En la práctica clínica, tiotropio se utiliza de forma continuada y la valoración de tolerabilidad debe considerar la edad, las enfermedades concomitantes y el uso correcto del dispositivo. Spiriva Respimat puede asociarse a manifestaciones de intensidad variable; la mayoría se identifican durante el seguimiento habitual y no requieren una actuación específica si son leves y transitorias. La información siguiente se presenta con terminología compatible con MedDRA y se agrupa por sistema de clasificación de órganos. Dentro de cada grupo, las reacciones se ordenan por la categoría comunicada en los datos disponibles.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\npoco frecuentes: Aumento de la presión intraocular, Glaucoma, Visón borrosa.\nfrecuencia no conocida: Aumento de la presión intraocular, Glaucoma, Visón borrosa.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\npoco frecuentes: Broncoespasmo, Disfonía, Epistaxis, Faringitis, Laringitis, Tos.\nfrecuencia no conocida: Laringitis, Sinusitis.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nfrecuentes: Sequedad de boca (boca seca).\npoco frecuentes: Candidiasis orofaríngea, Caries dental, Disfagia, Estomatitis, Estreñimiento, Gingivitis, Glositis, Reflujo gastroesofágico, Sequedad de boca.\nfrecuencia no conocida: Caries dental, Disfagia, Estomatitis, Glositis, Náuseas, Obstrucción intestinal, incluyendo íleo paralítico, Reflujo gastroesofágico.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\npoco frecuentes: Cefalea, Insonmio, Mareos.\n\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN\nfrecuencia no conocida: Deshidratación.\n\nTRASTORNOS DEL SISTEMA EXCRETOR\npoco frecuentes: Disuria, Infección del tracto urinario, Retención urinaria.\nfrecuencia no conocida: Disuria, Infección del tracto urinario, Retención urinaria.\n\nTRASTORNOS DE PIEL Y TEJIDOS\npoco frecuentes: Edema angioneurótico, Erupción, Hipersensibilidad, Infección de la piel/úlcera en la piel, Piel seca, Prurito, Urticaria.\nfrecuencia no conocida: Hipersensibilidad, Infección de la piel/úlcera en la piel, Piel seca, Reacción anafiláctica.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\npoco frecuentes: Fibrilación auricular, Palpitaciones, Taquicardia, Taquicardia supraventricular.\nfrecuencia no conocida: Fibrilación auricular, Taquicardia, Taquicardia supraventricular.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\nfrecuencia no conocida: Tumefacción en articulación.\n\nDescripción de reacciones adversas seleccionadas\n\nLa sensación descrita como boca seca puede aparecer al inicio o durante el tratamiento mantenido. En general, se recomienda revisar la técnica de inhalación y valorar factores predisponentes antes de modificar la pauta. Si persiste o se acompaña de molestias orales, puede ser útil una evaluación clínica individualizada.\n\nLos signos oculares como Aumento de la presión intraocular, Glaucoma o Visón borrosa deben interpretarse en relación con la posibilidad de exposición accidental del ojo al aerosol. Se aconseja instruir al paciente para evitar la pulverización hacia la cara y solicitar atención médica si aparecen síntomas compatibles.\n\nEn pacientes predispuestos, Retención urinaria o Disuria pueden requerir seguimiento, especialmente si existe antecedente urológico. Broncoespasmo tras la inhalación y Reacción anafiláctica requieren valoración inmediata y la decisión terapéutica deberá basarse en la gravedad del cuadro.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "TIOTROPIO BROMURO",
+      "surface": "TIOTROPIO BROMURO"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "TIOTROPIO BROMURO",
+      "surface": "tiotropio"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "TIOTROPIO BROMURO",
+      "surface": "Spiriva Respimat"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la presión intraocular",
+      "surface": "Aumento de la presión intraocular"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Glaucoma",
+      "surface": "Glaucoma"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Visón borrosa",
+      "surface": "Visón borrosa"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la presión intraocular",
+      "surface": "Aumento de la presión intraocular"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Glaucoma",
+      "surface": "Glaucoma"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Visón borrosa",
+      "surface": "Visón borrosa"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Broncoespasmo",
+      "surface": "Broncoespasmo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disfonía",
+      "surface": "Disfonía"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Epistaxis",
+      "surface": "Epistaxis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Faringitis",
+      "surface": "Faringitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Laringitis",
+      "surface": "Laringitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tos",
+      "surface": "Tos"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Laringitis",
+      "surface": "Laringitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sinusitis",
+      "surface": "Sinusitis"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad de boca",
+      "surface": "Sequedad de boca"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad de boca",
+      "surface": "boca seca"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Candidiasis orofaríngea",
+      "surface": "Candidiasis orofaríngea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Caries dental",
+      "surface": "Caries dental"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disfagia",
+      "surface": "Disfagia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estomatitis",
+      "surface": "Estomatitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Gingivitis",
+      "surface": "Gingivitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Glositis",
+      "surface": "Glositis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reflujo gastroesofágico",
+      "surface": "Reflujo gastroesofágico"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad de boca",
+      "surface": "Sequedad de boca"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Caries dental",
+      "surface": "Caries dental"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disfagia",
+      "surface": "Disfagia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estomatitis",
+      "surface": "Estomatitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Glositis",
+      "surface": "Glositis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Obstrucción intestinal, incluyendo íleo paralítico",
+      "surface": "Obstrucción intestinal, incluyendo íleo paralítico"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reflujo gastroesofágico",
+      "surface": "Reflujo gastroesofágico"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insonmio",
+      "surface": "Insonmio"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareos",
+      "surface": "Mareos"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Deshidratación",
+      "surface": "Deshidratación"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disuria",
+      "surface": "Disuria"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infección del tracto urinario",
+      "surface": "Infección del tracto urinario"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Retención urinaria",
+      "surface": "Retención urinaria"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disuria",
+      "surface": "Disuria"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infección del tracto urinario",
+      "surface": "Infección del tracto urinario"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Retención urinaria",
+      "surface": "Retención urinaria"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema angioneurótico",
+      "surface": "Edema angioneurótico"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción",
+      "surface": "Erupción"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipersensibilidad",
+      "surface": "Hipersensibilidad"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infección de la piel/úlcera en la piel",
+      "surface": "Infección de la piel/úlcera en la piel"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Piel seca",
+      "surface": "Piel seca"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipersensibilidad",
+      "surface": "Hipersensibilidad"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infección de la piel/úlcera en la piel",
+      "surface": "Infección de la piel/úlcera en la piel"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Piel seca",
+      "surface": "Piel seca"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacción anafiláctica",
+      "surface": "Reacción anafiláctica"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fibrilación auricular",
+      "surface": "Fibrilación auricular"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Taquicardia",
+      "surface": "Taquicardia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Taquicardia supraventricular",
+      "surface": "Taquicardia supraventricular"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fibrilación auricular",
+      "surface": "Fibrilación auricular"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Taquicardia",
+      "surface": "Taquicardia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Taquicardia supraventricular",
+      "surface": "Taquicardia supraventricular"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tumefacción en articulación",
+      "surface": "Tumefacción en articulación"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad de boca",
+      "surface": "boca seca"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la presión intraocular",
+      "surface": "Aumento de la presión intraocular"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Glaucoma",
+      "surface": "Glaucoma"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Visón borrosa",
+      "surface": "Visón borrosa"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Retención urinaria",
+      "surface": "Retención urinaria"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disuria",
+      "surface": "Disuria"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Broncoespasmo",
+      "surface": "Broncoespasmo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacción anafiláctica",
+      "surface": "Reacción anafiláctica"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "SPIRIVA RESPIMAT 2,5 microgramos SOLUCION PARA INHALACION",
+        "pactivo": "TIOTROPIO BROMURO",
+        "reaccion": "Sinusitis",
+        "frecuencia": "SIN FRECUENCIA",
+        "sistema": "TRASTORNOS DEL SISTEMA RESPIRATORIO"
+      },
+      "text": "En el sistema de clasificación de órganos TRASTORNOS DEL SISTEMA RESPIRATORIO se ha identificado la siguiente reacción adversa asociada al tratamiento inhalado con TIOTROPIO BROMURO (tiotropio):\n\n- Sinusitis: frecuencia no conocida.\n\nLa Sinusitis se considera compatible con la exposición local en vías respiratorias durante el uso de anticolinérgicos inhalados, aunque los datos disponibles no permiten estimar su incidencia. Se recomienda valorar la evolución clínica y las posibles condiciones predisponentes, manteniendo el seguimiento habitual del paciente. Si los síntomas persisten o resultan clínicamente relevantes, debe reconsiderarse la relación temporal con el tratamiento.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+          "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "TIOTROPIO BROMURO",
+          "surface": "TIOTROPIO BROMURO"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "TIOTROPIO BROMURO",
+          "surface": "tiotropio"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Sinusitis",
+          "surface": "Sinusitis"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Sinusitis",
+          "surface": "Sinusitis"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+          "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+          "start": 42,
+          "end": 77
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "TIOTROPIO BROMURO",
+          "surface": "TIOTROPIO BROMURO",
+          "start": 164,
+          "end": 181
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "TIOTROPIO BROMURO",
+          "surface": "tiotropio",
+          "start": 164,
+          "end": 173
+        },
+        {
+          "type": "REACT",
+          "canonical": "Sinusitis",
+          "surface": "Sinusitis",
+          "start": 198,
+          "end": 207
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida",
+          "start": 209,
+          "end": 231
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "SPIRIVA RESPIMAT 2,5 microgramos SOLUCION PARA INHALACION",
+        "pactivo": "TIOTROPIO BROMURO",
+        "reaccion": "Sequedad de boca",
+        "frecuencia": "FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+      },
+      "text": "En el tratamiento inhalado con tiotropio bromuro (tiotropio), la sequedad de boca se ha notificado como reacción adversa de carácter anticolinérgico, generalmente leve y relacionada con el efecto farmacológico local. En la clasificación por órganos y sistemas, se incluye en Trastornos del sistema digestivo y se considera dentro de las reacciones frecuentes.\n\nTabla de reacciones adversas:\n- Trastornos del sistema digestivo: Sequedad de boca (frecuentes).\n\nSe recomienda informar al paciente de que mantenga una adecuada higiene oral y comunique la persistencia o molestia relevante durante el seguimiento clínico.",
+      "declared": [
+        {
+          "type": "ACTIVE",
+          "canonical": "TIOTROPIO BROMURO",
+          "surface": "tiotropio bromuro"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "TIOTROPIO BROMURO",
+          "surface": "tiotropio"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Sequedad de boca",
+          "surface": "sequedad de boca"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "Trastornos del sistema digestivo"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "Trastornos del sistema digestivo"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Sequedad de boca",
+          "surface": "Sequedad de boca"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        }
+      ],
+      "validated": [
+        {
+          "type": "ACTIVE",
+          "canonical": "TIOTROPIO BROMURO",
+          "surface": "tiotropio bromuro",
+          "start": 31,
+          "end": 48
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "TIOTROPIO BROMURO",
+          "surface": "tiotropio",
+          "start": 31,
+          "end": 40
+        },
+        {
+          "type": "REACT",
+          "canonical": "Sequedad de boca",
+          "surface": "sequedad de boca",
+          "start": 65,
+          "end": 81
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "Trastornos del sistema digestivo",
+          "start": 275,
+          "end": 307
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes",
+          "start": 348,
+          "end": 358
+        },
+        {
+          "type": "REACT",
+          "canonical": "Sequedad de boca",
+          "surface": "Sequedad de boca",
+          "start": 65,
+          "end": 81
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "SPIRIVA RESPIMAT 2,5 microgramos SOLUCION PARA INHALACION",
+        "pactivo": "TIOTROPIO BROMURO",
+        "reaccion": "Edema angioneurótico",
+        "frecuencia": "POCO FRECUENTE",
+        "sistema": "TRASTORNOS DE PIEL Y TEJIDOS"
+      },
+      "text": "Dentro del sistema de clasificación de órganos Trastornos de piel y tejidos, se ha notificado:\n- Edema angioneurótico: poco frecuentes.\n\nEn pacientes tratados con TIOTROPIO BROMURO (Spiriva), este hallazgo es compatible con una reacción de hipersensibilidad y debe valorarse en relación temporal con la administración inhalada. Se recomienda vigilar la evolución clínica y considerar la interrupción del tratamiento si el cuadro progresa, especialmente cuando afecte a zonas anatómicas de riesgo, de acuerdo con la práctica clínica.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "surface": "Trastornos de piel y tejidos"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Edema angioneurótico",
+          "surface": "Edema angioneurótico"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "TIOTROPIO BROMURO",
+          "surface": "TIOTROPIO BROMURO"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "TIOTROPIO BROMURO",
+          "surface": "Spiriva"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "surface": "Trastornos de piel y tejidos",
+          "start": 47,
+          "end": 75
+        },
+        {
+          "type": "REACT",
+          "canonical": "Edema angioneurótico",
+          "surface": "Edema angioneurótico",
+          "start": 97,
+          "end": 117
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes",
+          "start": 119,
+          "end": 134
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "TIOTROPIO BROMURO",
+          "surface": "TIOTROPIO BROMURO",
+          "start": 163,
+          "end": 180
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "TIOTROPIO BROMURO",
+          "surface": "Spiriva",
+          "start": 182,
+          "end": 189
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

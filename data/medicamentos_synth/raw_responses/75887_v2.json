@@ -1,0 +1,643 @@
+{
+  "codigo": "75887",
+  "variante": 2,
+  "codigo_variant": "75887_v2",
+  "medicamento": "LAMIVUDINA NORMON 100 mg COMPRIMIDOS RECUBIERTOS CON PELICULA EFG",
+  "model": "gpt-5.5",
+  "style_variant_idx": 1,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\n\nEl perfil de seguridad descrito para lamivudina procede de la evaluación clínica y de la experiencia acumulada tras la comercialización. En conjunto, los acontecimientos comunicados fueron de intensidad variable y, en la mayoría de los casos, no impidieron continuar la pauta prescrita cuando se aplicó una supervisión clínica adecuada. Este principio activo, conocido también como 3TC en la práctica clínica, se utiliza en pacientes que pueden presentar enfermedades concomitantes o recibir otros tratamientos, por lo que la valoración de causalidad debe realizarse de forma individual. Se recomienda interpretar cualquier hallazgo analítico junto con la situación basal del paciente y con la evolución temporal tras el inicio del tratamiento. La información siguiente resume las reacciones observadas, agrupadas conforme a la clasificación habitual por órganos y sistemas.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\nno frecuente: Angioedema.\n\nTRASTORNOS DEL SISTEMA HEPATOBILIAR\nmuy frecuentes: Aumento de la alanina aminotransferasa.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\nfrecuentes: Calambres, Incremento de la creatinafosfocinasa, Mialgias.\nfrecuencia no conocida: Rabdomiólisis.\n\nTRASTORNOS DE PIEL Y TEJIDOS\nfrecuentes: Erupción, Prurito.\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS\nfrecuencia no conocida: Trombocitopenia.\n\nDescripción de reacciones adversas seleccionadas\n\nEl Aumento de la alanina aminotransferasa se ha notificado principalmente como alteración de laboratorio y puede requerir controles seriados cuando exista antecedente de enfermedad hepática o exposición concomitante a medicamentos con potencial efecto sobre el hígado. La interpretación debe considerar el valor basal y la presencia de otros factores clínicos, ya que una elevación aislada no siempre implica la suspensión inmediata del tratamiento. En los estudios y en la práctica asistencial, la conducta adoptada dependió de la magnitud del cambio, de su persistencia y de los datos clínicos asociados.\n\nLas manifestaciones cutáneas como Erupción y Prurito suelen valorarse según extensión, intensidad y relación temporal con la administración. Cuando aparece Angioedema, la situación debe considerarse relevante desde el punto de vista clínico y requiere evaluación médica sin demora. En caso de sospecha de hipersensibilidad, debe revisarse la exposición reciente y establecerse el manejo apropiado según la gravedad del cuadro.\n\nEn el ámbito muscular se han comunicado Calambres (tirones musculares), Mialgias e Incremento de la creatinafosfocinasa. Estos hallazgos pueden presentarse de forma aislada o acompañarse de molestias funcionales, por lo que resulta útil documentar la evolución y descartar causas alternativas. La Rabdomiólisis se ha descrito sin que pueda estimarse su incidencia con los datos disponibles; ante síntomas musculares intensos o resultados analíticos sugestivos, se aconseja una evaluación clínica completa. La Trombocitopenia también procede de comunicaciones en las que no siempre fue posible establecer una relación temporal clara, por lo que deben considerarse otros diagnósticos y tratamientos concomitantes antes de atribuirla al medicamento.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nEn los datos de seguridad disponibles para lamivudina (3TC), el angioedema se clasifica dentro de Trastornos del sistema inmunológico. Esta reacción se ha notificado como no frecuente y debe considerarse en la evaluación clínica de episodios compatibles, especialmente si aparecen tras el inicio del tratamiento.\n\nReacciones adversas:\n- Angioedema (hinchazón localizada): no frecuente.\n\nEl manejo debe basarse en la valoración médica individual y en la evolución temporal del cuadro, considerando la interrupción del tratamiento cuando exista sospecha razonable de relación con el medicamento. Se recomienda registrar el episodio y realizar seguimiento hasta su resolución o estabilización.\n\n-- Caso 2 --\nEn la clasificación por órganos y sistemas, dentro de Trastornos del sistema hepatobiliar, se ha identificado con lamivudina (3TC) la siguiente reacción adversa:\n- Aumento de la alanina aminotransferasa (subida de ALT): muy frecuentes.\nEste hallazgo analítico suele interpretarse en el contexto de la monitorización hepática del paciente y de la evolución clínica de la enfermedad de base. Durante el tratamiento con lamivudina, se recomienda valorar las determinaciones de laboratorio de forma periódica, especialmente en pacientes con antecedentes hepáticos o con otros factores que puedan modificar la función hepática.\n\n-- Caso 3 --\nEn pacientes tratados con lamivudina (3TC), se ha notificado la siguiente reacción adversa dentro del sistema de clasificación de órganos Trastornos de piel y tejidos:\n\n- Prurito (picor): frecuentes.\n\nEl Prurito puede aparecer durante el tratamiento y debe valorarse en el contexto clínico del paciente, especialmente si persiste o resulta molesto. Se recomienda realizar seguimiento clínico y considerar la relación temporal con la administración del antiviral antes de adoptar medidas adicionales.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "LAMIVUDINA",
+      "surface": "lamivudina",
+      "start": 95,
+      "end": 105
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "LAMIVUDINA",
+      "surface": "3TC",
+      "start": 440,
+      "end": 443
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 973,
+      "end": 1008
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 1009,
+      "end": 1021
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angioedema",
+      "surface": "Angioedema",
+      "start": 1023,
+      "end": 1033
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "surface": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "start": 1036,
+      "end": 1071
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes",
+      "start": 1072,
+      "end": 1086
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la alanina aminotransferasa",
+      "surface": "Aumento de la alanina aminotransferasa",
+      "start": 1088,
+      "end": 1126
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 1129,
+      "end": 1171
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 1076,
+      "end": 1086
+    },
+    {
+      "type": "REACT",
+      "canonical": "Calambres",
+      "surface": "Calambres",
+      "start": 1184,
+      "end": 1193
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de la creatinafosfocinasa",
+      "surface": "Incremento de la creatinafosfocinasa",
+      "start": 1195,
+      "end": 1231
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mialgias",
+      "surface": "Mialgias",
+      "start": 1233,
+      "end": 1241
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 1243,
+      "end": 1265
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rabdomiólisis",
+      "surface": "Rabdomiólisis",
+      "start": 1267,
+      "end": 1280
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 1283,
+      "end": 1311
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción",
+      "surface": "Erupción",
+      "start": 1324,
+      "end": 1332
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito",
+      "start": 1334,
+      "end": 1341
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 1344,
+      "end": 1393
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombocitopenia",
+      "surface": "Trombocitopenia",
+      "start": 1418,
+      "end": 1433
+    },
+    {
+      "type": "REACT",
+      "canonical": "Calambres",
+      "surface": "tirones musculares",
+      "start": 2573,
+      "end": 2591
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angioedema",
+      "surface": "angioedema",
+      "start": 1023,
+      "end": 1033
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "Trastornos del sistema inmunológico",
+      "start": 973,
+      "end": 1008
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "surface": "Trastornos del sistema hepatobiliar",
+      "start": 1036,
+      "end": 1071
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la alanina aminotransferasa",
+      "surface": "subida de ALT",
+      "start": 4255,
+      "end": 4268
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "Trastornos de piel y tejidos",
+      "start": 1283,
+      "end": 1311
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "picor",
+      "start": 4868,
+      "end": 4873
+    }
+  ],
+  "raw_long_doc_text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\n\nEl perfil de seguridad descrito para lamivudina procede de la evaluación clínica y de la experiencia acumulada tras la comercialización. En conjunto, los acontecimientos comunicados fueron de intensidad variable y, en la mayoría de los casos, no impidieron continuar la pauta prescrita cuando se aplicó una supervisión clínica adecuada. Este principio activo, conocido también como 3TC en la práctica clínica, se utiliza en pacientes que pueden presentar enfermedades concomitantes o recibir otros tratamientos, por lo que la valoración de causalidad debe realizarse de forma individual. Se recomienda interpretar cualquier hallazgo analítico junto con la situación basal del paciente y con la evolución temporal tras el inicio del tratamiento. La información siguiente resume las reacciones observadas, agrupadas conforme a la clasificación habitual por órganos y sistemas.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\nno frecuente: Angioedema.\n\nTRASTORNOS DEL SISTEMA HEPATOBILIAR\nmuy frecuentes: Aumento de la alanina aminotransferasa.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\nfrecuentes: Calambres, Incremento de la creatinafosfocinasa, Mialgias.\nfrecuencia no conocida: Rabdomiólisis.\n\nTRASTORNOS DE PIEL Y TEJIDOS\nfrecuentes: Erupción, Prurito.\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS\nfrecuencia no conocida: Trombocitopenia.\n\nDescripción de reacciones adversas seleccionadas\n\nEl Aumento de la alanina aminotransferasa se ha notificado principalmente como alteración de laboratorio y puede requerir controles seriados cuando exista antecedente de enfermedad hepática o exposición concomitante a medicamentos con potencial efecto sobre el hígado. La interpretación debe considerar el valor basal y la presencia de otros factores clínicos, ya que una elevación aislada no siempre implica la suspensión inmediata del tratamiento. En los estudios y en la práctica asistencial, la conducta adoptada dependió de la magnitud del cambio, de su persistencia y de los datos clínicos asociados.\n\nLas manifestaciones cutáneas como Erupción y Prurito suelen valorarse según extensión, intensidad y relación temporal con la administración. Cuando aparece Angioedema, la situación debe considerarse relevante desde el punto de vista clínico y requiere evaluación médica sin demora. En caso de sospecha de hipersensibilidad, debe revisarse la exposición reciente y establecerse el manejo apropiado según la gravedad del cuadro.\n\nEn el ámbito muscular se han comunicado Calambres (tirones musculares), Mialgias e Incremento de la creatinafosfocinasa. Estos hallazgos pueden presentarse de forma aislada o acompañarse de molestias funcionales, por lo que resulta útil documentar la evolución y descartar causas alternativas. La Rabdomiólisis se ha descrito sin que pueda estimarse su incidencia con los datos disponibles; ante síntomas musculares intensos o resultados analíticos sugestivos, se aconseja una evaluación clínica completa. La Trombocitopenia también procede de comunicaciones en las que no siempre fue posible establecer una relación temporal clara, por lo que deben considerarse otros diagnósticos y tratamientos concomitantes antes de atribuirla al medicamento.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "LAMIVUDINA",
+      "surface": "lamivudina"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "LAMIVUDINA",
+      "surface": "3TC"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angioedema",
+      "surface": "Angioedema"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "surface": "TRASTORNOS DEL SISTEMA HEPATOBILIAR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la alanina aminotransferasa",
+      "surface": "Aumento de la alanina aminotransferasa"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Calambres",
+      "surface": "Calambres"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de la creatinafosfocinasa",
+      "surface": "Incremento de la creatinafosfocinasa"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mialgias",
+      "surface": "Mialgias"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rabdomiólisis",
+      "surface": "Rabdomiólisis"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción",
+      "surface": "Erupción"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombocitopenia",
+      "surface": "Trombocitopenia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la alanina aminotransferasa",
+      "surface": "Aumento de la alanina aminotransferasa"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción",
+      "surface": "Erupción"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angioedema",
+      "surface": "Angioedema"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Calambres",
+      "surface": "Calambres"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Calambres",
+      "surface": "tirones musculares"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mialgias",
+      "surface": "Mialgias"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de la creatinafosfocinasa",
+      "surface": "Incremento de la creatinafosfocinasa"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rabdomiólisis",
+      "surface": "Rabdomiólisis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombocitopenia",
+      "surface": "Trombocitopenia"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "LAMIVUDINA NORMON 100 mg COMPRIMIDOS RECUBIERTOS CON PELICULA EFG",
+        "pactivo": "LAMIVUDINA",
+        "reaccion": "Angioedema",
+        "frecuencia": "NO FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+      },
+      "text": "En los datos de seguridad disponibles para lamivudina (3TC), el angioedema se clasifica dentro de Trastornos del sistema inmunológico. Esta reacción se ha notificado como no frecuente y debe considerarse en la evaluación clínica de episodios compatibles, especialmente si aparecen tras el inicio del tratamiento.\n\nReacciones adversas:\n- Angioedema (hinchazón localizada): no frecuente.\n\nEl manejo debe basarse en la valoración médica individual y en la evolución temporal del cuadro, considerando la interrupción del tratamiento cuando exista sospecha razonable de relación con el medicamento. Se recomienda registrar el episodio y realizar seguimiento hasta su resolución o estabilización.",
+      "declared": [
+        {
+          "type": "ACTIVE",
+          "canonical": "LAMIVUDINA",
+          "surface": "lamivudina"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LAMIVUDINA",
+          "surface": "3TC"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Angioedema",
+          "surface": "angioedema"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+          "surface": "Trastornos del sistema inmunológico"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Angioedema",
+          "surface": "Angioedema"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente"
+        }
+      ],
+      "validated": [
+        {
+          "type": "ACTIVE",
+          "canonical": "LAMIVUDINA",
+          "surface": "lamivudina",
+          "start": 43,
+          "end": 53
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LAMIVUDINA",
+          "surface": "3TC",
+          "start": 55,
+          "end": 58
+        },
+        {
+          "type": "REACT",
+          "canonical": "Angioedema",
+          "surface": "angioedema",
+          "start": 64,
+          "end": 74
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+          "surface": "Trastornos del sistema inmunológico",
+          "start": 98,
+          "end": 133
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente",
+          "start": 171,
+          "end": 183
+        },
+        {
+          "type": "REACT",
+          "canonical": "Angioedema",
+          "surface": "Angioedema",
+          "start": 64,
+          "end": 74
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "LAMIVUDINA NORMON 100 mg COMPRIMIDOS RECUBIERTOS CON PELICULA EFG",
+        "pactivo": "LAMIVUDINA",
+        "reaccion": "Aumento de la alanina aminotransferasa",
+        "frecuencia": "MUY FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA HEPATOBILIAR"
+      },
+      "text": "En la clasificación por órganos y sistemas, dentro de Trastornos del sistema hepatobiliar, se ha identificado con lamivudina (3TC) la siguiente reacción adversa:\n- Aumento de la alanina aminotransferasa (subida de ALT): muy frecuentes.\nEste hallazgo analítico suele interpretarse en el contexto de la monitorización hepática del paciente y de la evolución clínica de la enfermedad de base. Durante el tratamiento con lamivudina, se recomienda valorar las determinaciones de laboratorio de forma periódica, especialmente en pacientes con antecedentes hepáticos o con otros factores que puedan modificar la función hepática.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+          "surface": "Trastornos del sistema hepatobiliar"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LAMIVUDINA",
+          "surface": "lamivudina"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LAMIVUDINA",
+          "surface": "3TC"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Aumento de la alanina aminotransferasa",
+          "surface": "Aumento de la alanina aminotransferasa"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Aumento de la alanina aminotransferasa",
+          "surface": "subida de ALT"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "MUY FRECUENTE",
+          "surface": "muy frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LAMIVUDINA",
+          "surface": "lamivudina"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+          "surface": "Trastornos del sistema hepatobiliar",
+          "start": 54,
+          "end": 89
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LAMIVUDINA",
+          "surface": "lamivudina",
+          "start": 114,
+          "end": 124
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LAMIVUDINA",
+          "surface": "3TC",
+          "start": 126,
+          "end": 129
+        },
+        {
+          "type": "REACT",
+          "canonical": "Aumento de la alanina aminotransferasa",
+          "surface": "Aumento de la alanina aminotransferasa",
+          "start": 164,
+          "end": 202
+        },
+        {
+          "type": "REACT",
+          "canonical": "Aumento de la alanina aminotransferasa",
+          "surface": "subida de ALT",
+          "start": 204,
+          "end": 217
+        },
+        {
+          "type": "FREQ",
+          "canonical": "MUY FRECUENTE",
+          "surface": "muy frecuentes",
+          "start": 220,
+          "end": 234
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "LAMIVUDINA NORMON 100 mg COMPRIMIDOS RECUBIERTOS CON PELICULA EFG",
+        "pactivo": "LAMIVUDINA",
+        "reaccion": "Prurito",
+        "frecuencia": "FRECUENTE",
+        "sistema": "TRASTORNOS DE PIEL Y TEJIDOS"
+      },
+      "text": "En pacientes tratados con lamivudina (3TC), se ha notificado la siguiente reacción adversa dentro del sistema de clasificación de órganos Trastornos de piel y tejidos:\n\n- Prurito (picor): frecuentes.\n\nEl Prurito puede aparecer durante el tratamiento y debe valorarse en el contexto clínico del paciente, especialmente si persiste o resulta molesto. Se recomienda realizar seguimiento clínico y considerar la relación temporal con la administración del antiviral antes de adoptar medidas adicionales.",
+      "declared": [
+        {
+          "type": "ACTIVE",
+          "canonical": "LAMIVUDINA",
+          "surface": "lamivudina"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LAMIVUDINA",
+          "surface": "3TC"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "surface": "Trastornos de piel y tejidos"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Prurito",
+          "surface": "Prurito"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Prurito",
+          "surface": "picor"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Prurito",
+          "surface": "Prurito"
+        }
+      ],
+      "validated": [
+        {
+          "type": "ACTIVE",
+          "canonical": "LAMIVUDINA",
+          "surface": "lamivudina",
+          "start": 26,
+          "end": 36
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LAMIVUDINA",
+          "surface": "3TC",
+          "start": 38,
+          "end": 41
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "surface": "Trastornos de piel y tejidos",
+          "start": 138,
+          "end": 166
+        },
+        {
+          "type": "REACT",
+          "canonical": "Prurito",
+          "surface": "Prurito",
+          "start": 171,
+          "end": 178
+        },
+        {
+          "type": "REACT",
+          "canonical": "Prurito",
+          "surface": "picor",
+          "start": 180,
+          "end": 185
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes",
+          "start": 188,
+          "end": 198
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

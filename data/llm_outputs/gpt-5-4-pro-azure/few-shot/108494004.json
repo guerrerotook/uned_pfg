@@ -1,0 +1,278 @@
+[
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Infección de las vías respiratorias altas",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Nasofaringitis",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Sinusitis",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Celulitis",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Infecciones dentales",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Herpes zóster",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Infección de las vías respiratorias bajas",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Infección vírica de vías respiratorias altas",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Infección micótica vulvovaginal",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Reacciones de hipersensibilidad",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Exantema",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Urticaria",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Reacciones de hipersensibilidad graves",
+    "frecuencia": "RARA",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Anafilaxia",
+    "frecuencia": "RARA",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Angioedema",
+    "frecuencia": "RARA",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Depresión",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Mareo",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Cefalea",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Parálisis facial",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Dolor orofaríngeo",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Congestión nasal",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Alveolitis alérgica",
+    "frecuencia": "RARA",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Neumonía eosinofílica",
+    "frecuencia": "RARA",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Neumonía organizativa",
+    "frecuencia": "MUY RARA",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Diarrea",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Náuseas",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Vómitos",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Prurito",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Psoriasis pustular",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Exfoliación de la piel",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Acné",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Dermatitis exfoliativa",
+    "frecuencia": "RARA",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Vasculitis por hipersensibilidad",
+    "frecuencia": "RARA",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Dolor de espalda",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Mialgias",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Artralgia",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Cansancio",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Eritema en el lugar de inyección",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Dolor en el lugar de inyección",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Reacciones en el lugar de inyección",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Hemorragia en el lugar de inyección",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Hematoma en el lugar de inyección",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Induración en el lugar de inyección",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Tumefacción en el lugar de inyección",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Prurito en el lugar de inyección",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "USTEKINUMAB",
+    "reacción adversa": "Astenia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  }
+]

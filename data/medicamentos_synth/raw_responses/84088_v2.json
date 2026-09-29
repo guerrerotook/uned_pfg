@@ -1,0 +1,842 @@
+{
+  "codigo": "84088",
+  "variante": 2,
+  "codigo_variant": "84088_v2",
+  "medicamento": "SUXAMETONIO ETHYPHARM 50 MG/ML SOLUCION INYECTABLE Y PARA PERFUSIÓN EFG",
+  "model": "gpt-5.5",
+  "style_variant_idx": 1,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl suxametonio (succinilcolina) es un agente de acción rápida utilizado en un entorno donde la vigilancia clínica continua forma parte del procedimiento habitual. Con SUXAMETONIO CLORURO, las manifestaciones observadas suelen aparecer próximas a la administración y, en general, deben interpretarse junto con la situación anestésica, la técnica empleada y las condiciones basales del paciente. La evaluación de la tolerabilidad requiere tener disponible soporte inmediato y personal entrenado, ya que algunos acontecimientos pueden requerir actuación rápida. La información siguiente se presenta según la terminología clínica habitual y no pretende sustituir la valoración individual del riesgo antes de cada administración.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\nfrecuentes: Bradicardia, Rubefacción cutánea, taquicardia.\npoco frecuentes: Arritmias (incluidas arritmias ventriculares), paro cardiaco.\nfrecuencia no conocida: Hipertensión, Hipotensión.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\npoco frecuentes: Broncoespasmo, apnea, depresión respiratoria prolongada.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nmuy frecuentes: Aumento de la presión intragástrica.\nfrecuencia no conocida: Salivación excesiva.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\nfrecuentes: Aumento de la presión intraocular.\n\nTRASTORNOS DEL SISTEMA GENERAL\nfrecuentes: Aumento transitorio del potasio en sangre.\npoco frecuentes: Hipertermia maligna.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\nmuy frecuentes: Fasciculación muscular, dolor muscular posoperatorio (dolor muscular tras la intervención).\nfrecuentes: Mioglobinemia, mioglobinuria.\npoco frecuentes: Trismo.\n\nTRASTORNOS DE PIEL Y TEJIDOS\nfrecuentes: Erupción.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\npoco frecuentes: Reacciones anafilácticas.\n\nDescripción de reacciones adversas seleccionadas\nLa aparición de acontecimientos durante la inducción o durante procedimientos breves debe evaluarse teniendo en cuenta la medicación concomitante, el estado de oxigenación, la profundidad anestésica y las maniobras realizadas. Cuando se utilice este medicamento, se recomienda mantener monitorización continua y disponibilidad de medidas de soporte, especialmente en pacientes con factores predisponentes o con antecedentes relevantes.\n\nLa interpretación de los hallazgos clínicos y de laboratorio debe hacerse de forma integrada. Si se observa una evolución inesperada tras la administración, el tratamiento debe individualizarse y documentarse adecuadamente en la historia clínica. La notificación de sospechas contribuye a caracterizar mejor el perfil de seguridad en la práctica clínica habitual.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nEn TRASTORNOS DEL SISTEMA CARDIOVASCULAR se ha descrito la siguiente reacción adversa asociada al uso de suxametonio, también denominado succinilcolina:\n- Hipotensión: frecuencia no conocida.\nLa Hipotensión (bajada de tensión) puede relacionarse con la respuesta hemodinámica al bloqueo neuromuscular y con el contexto clínico de administración. Se recomienda vigilar la presión arterial durante y después de la administración, especialmente en pacientes con reserva cardiovascular limitada o sometidos a anestesia general. La aparición de este episodio debe valorarse junto con la situación basal del paciente y las medidas de soporte disponibles.\n\n-- Caso 2 --\nEn la clasificación por órganos, dentro de Trastornos del sistema digestivo, se ha descrito Aumento de la presión intragástrica con suxametonio cloruro; esta reacción figura entre las reacciones muy frecuentes. La aparición se relaciona con el efecto farmacológico periférico del suxametonio sobre la musculatura, por lo que debe interpretarse en el contexto clínico del procedimiento anestésico y del estado basal del paciente.\n\nLista tabulada:\n- Trastornos del sistema digestivo: Aumento de la presión intragástrica (aumento de presión en el estómago) - muy frecuentes.\n\nSe recomienda vigilancia clínica durante la administración y en el periodo inmediato posterior, especialmente cuando los cambios de presión puedan ser relevantes para el manejo anestésico.\n\n-- Caso 3 --\nDentro del sistema Trastornos del sistema inmunológico, el uso de suxametonio (cloruro de suxametonio) se ha asociado a la siguiente reacción adversa:\n\n- Reacciones anafilácticas: no frecuente.\n\nEstas reacciones pueden producirse de forma imprevisible tras la administración y se consideran relevantes por su posible relación con una respuesta inmunológica inmediata. Se recomienda mantener vigilancia clínica adecuada durante y después de la administración, especialmente en pacientes con antecedentes compatibles con hipersensibilidad a bloqueantes neuromusculares. La notificación de cualquier sospecha contribuye a una mejor caracterización del perfil de seguridad.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "SUXAMETONIO CLORURO",
+      "surface": "suxametonio",
+      "start": 60,
+      "end": 71
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "SUXAMETONIO CLORURO",
+      "surface": "succinilcolina",
+      "start": 73,
+      "end": 87
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "SUXAMETONIO CLORURO",
+      "surface": "SUXAMETONIO CLORURO",
+      "start": 224,
+      "end": 243
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 822,
+      "end": 859
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 860,
+      "end": 870
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bradicardia",
+      "surface": "Bradicardia",
+      "start": 872,
+      "end": 883
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rubefacción cutánea",
+      "surface": "Rubefacción cutánea",
+      "start": 885,
+      "end": 904
+    },
+    {
+      "type": "REACT",
+      "canonical": "taquicardia",
+      "surface": "taquicardia",
+      "start": 906,
+      "end": 917
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 919,
+      "end": 934
+    },
+    {
+      "type": "REACT",
+      "canonical": "Arritmias (incluidas arritmias ventriculares)",
+      "surface": "Arritmias (incluidas arritmias ventriculares)",
+      "start": 936,
+      "end": 981
+    },
+    {
+      "type": "REACT",
+      "canonical": "paro cardiaco",
+      "surface": "paro cardiaco",
+      "start": 983,
+      "end": 996
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 998,
+      "end": 1020
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertensión",
+      "surface": "Hipertensión",
+      "start": 1022,
+      "end": 1034
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión",
+      "start": 1036,
+      "end": 1047
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 1050,
+      "end": 1085
+    },
+    {
+      "type": "REACT",
+      "canonical": "Broncoespasmo",
+      "surface": "Broncoespasmo",
+      "start": 1103,
+      "end": 1116
+    },
+    {
+      "type": "REACT",
+      "canonical": "apnea",
+      "surface": "apnea",
+      "start": 1118,
+      "end": 1123
+    },
+    {
+      "type": "REACT",
+      "canonical": "depresión respiratoria prolongada",
+      "surface": "depresión respiratoria prolongada",
+      "start": 1125,
+      "end": 1158
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1161,
+      "end": 1193
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes",
+      "start": 1194,
+      "end": 1208
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la presión intragástrica",
+      "surface": "Aumento de la presión intragástrica",
+      "start": 1210,
+      "end": 1245
+    },
+    {
+      "type": "REACT",
+      "canonical": "Salivación excesiva",
+      "surface": "Salivación excesiva",
+      "start": 1271,
+      "end": 1290
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 1293,
+      "end": 1330
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la presión intraocular",
+      "surface": "Aumento de la presión intraocular",
+      "start": 1343,
+      "end": 1376
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 1379,
+      "end": 1409
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento transitorio del potasio en sangre",
+      "surface": "Aumento transitorio del potasio en sangre",
+      "start": 1422,
+      "end": 1463
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertermia maligna",
+      "surface": "Hipertermia maligna",
+      "start": 1482,
+      "end": 1501
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 1504,
+      "end": 1546
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fasciculación muscular",
+      "surface": "Fasciculación muscular",
+      "start": 1563,
+      "end": 1585
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor muscular posoperatorio",
+      "surface": "dolor muscular posoperatorio",
+      "start": 1587,
+      "end": 1615
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor muscular posoperatorio",
+      "surface": "dolor muscular tras la intervención",
+      "start": 1617,
+      "end": 1652
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mioglobinemia",
+      "surface": "Mioglobinemia",
+      "start": 1667,
+      "end": 1680
+    },
+    {
+      "type": "REACT",
+      "canonical": "mioglobinuria",
+      "surface": "mioglobinuria",
+      "start": 1682,
+      "end": 1695
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trismo",
+      "surface": "Trismo",
+      "start": 1714,
+      "end": 1720
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 1723,
+      "end": 1751
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción",
+      "surface": "Erupción",
+      "start": 1764,
+      "end": 1772
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 1775,
+      "end": 1810
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacciones anafilácticas",
+      "surface": "Reacciones anafilácticas",
+      "start": 1828,
+      "end": 1852
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "bajada de tensión",
+      "start": 2990,
+      "end": 3007
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "Trastornos del sistema digestivo",
+      "start": 1161,
+      "end": 1193
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "SUXAMETONIO CLORURO",
+      "surface": "suxametonio cloruro",
+      "start": 224,
+      "end": 243
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la presión intragástrica",
+      "surface": "aumento de presión en el estómago",
+      "start": 3964,
+      "end": 3997
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "Trastornos del sistema inmunológico",
+      "start": 1775,
+      "end": 1810
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "SUXAMETONIO CLORURO",
+      "surface": "cloruro de suxametonio",
+      "start": 4300,
+      "end": 4322
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 4401,
+      "end": 4413
+    }
+  ],
+  "raw_long_doc_text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl suxametonio (succinilcolina) es un agente de acción rápida utilizado en un entorno donde la vigilancia clínica continua forma parte del procedimiento habitual. Con SUXAMETONIO CLORURO, las manifestaciones observadas suelen aparecer próximas a la administración y, en general, deben interpretarse junto con la situación anestésica, la técnica empleada y las condiciones basales del paciente. La evaluación de la tolerabilidad requiere tener disponible soporte inmediato y personal entrenado, ya que algunos acontecimientos pueden requerir actuación rápida. La información siguiente se presenta según la terminología clínica habitual y no pretende sustituir la valoración individual del riesgo antes de cada administración.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\nfrecuentes: Bradicardia, Rubefacción cutánea, taquicardia.\npoco frecuentes: Arritmias (incluidas arritmias ventriculares), paro cardiaco.\nfrecuencia no conocida: Hipertensión, Hipotensión.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\npoco frecuentes: Broncoespasmo, apnea, depresión respiratoria prolongada.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nmuy frecuentes: Aumento de la presión intragástrica.\nfrecuencia no conocida: Salivación excesiva.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\nfrecuentes: Aumento de la presión intraocular.\n\nTRASTORNOS DEL SISTEMA GENERAL\nfrecuentes: Aumento transitorio del potasio en sangre.\npoco frecuentes: Hipertermia maligna.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\nmuy frecuentes: Fasciculación muscular, dolor muscular posoperatorio (dolor muscular tras la intervención).\nfrecuentes: Mioglobinemia, mioglobinuria.\npoco frecuentes: Trismo.\n\nTRASTORNOS DE PIEL Y TEJIDOS\nfrecuentes: Erupción.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\npoco frecuentes: Reacciones anafilácticas.\n\nDescripción de reacciones adversas seleccionadas\nLa aparición de acontecimientos durante la inducción o durante procedimientos breves debe evaluarse teniendo en cuenta la medicación concomitante, el estado de oxigenación, la profundidad anestésica y las maniobras realizadas. Cuando se utilice este medicamento, se recomienda mantener monitorización continua y disponibilidad de medidas de soporte, especialmente en pacientes con factores predisponentes o con antecedentes relevantes.\n\nLa interpretación de los hallazgos clínicos y de laboratorio debe hacerse de forma integrada. Si se observa una evolución inesperada tras la administración, el tratamiento debe individualizarse y documentarse adecuadamente en la historia clínica. La notificación de sospechas contribuye a caracterizar mejor el perfil de seguridad en la práctica clínica habitual.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "SUXAMETONIO CLORURO",
+      "surface": "suxametonio"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "SUXAMETONIO CLORURO",
+      "surface": "succinilcolina"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "SUXAMETONIO CLORURO",
+      "surface": "SUXAMETONIO CLORURO"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bradicardia",
+      "surface": "Bradicardia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rubefacción cutánea",
+      "surface": "Rubefacción cutánea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "taquicardia",
+      "surface": "taquicardia"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Arritmias (incluidas arritmias ventriculares)",
+      "surface": "Arritmias (incluidas arritmias ventriculares)"
+    },
+    {
+      "type": "REACT",
+      "canonical": "paro cardiaco",
+      "surface": "paro cardiaco"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertensión",
+      "surface": "Hipertensión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Broncoespasmo",
+      "surface": "Broncoespasmo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "apnea",
+      "surface": "apnea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "depresión respiratoria prolongada",
+      "surface": "depresión respiratoria prolongada"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la presión intragástrica",
+      "surface": "Aumento de la presión intragástrica"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Salivación excesiva",
+      "surface": "Salivación excesiva"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la presión intraocular",
+      "surface": "Aumento de la presión intraocular"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento transitorio del potasio en sangre",
+      "surface": "Aumento transitorio del potasio en sangre"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertermia maligna",
+      "surface": "Hipertermia maligna"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fasciculación muscular",
+      "surface": "Fasciculación muscular"
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor muscular posoperatorio",
+      "surface": "dolor muscular posoperatorio"
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor muscular posoperatorio",
+      "surface": "dolor muscular tras la intervención"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mioglobinemia",
+      "surface": "Mioglobinemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "mioglobinuria",
+      "surface": "mioglobinuria"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trismo",
+      "surface": "Trismo"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción",
+      "surface": "Erupción"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacciones anafilácticas",
+      "surface": "Reacciones anafilácticas"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "SUXAMETONIO ETHYPHARM 50 MG/ML SOLUCION INYECTABLE Y PARA PERFUSIÓN EFG",
+        "pactivo": "SUXAMETONIO CLORURO",
+        "reaccion": "Hipotensión",
+        "frecuencia": "SIN FRECUENCIA",
+        "sistema": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+      },
+      "text": "En TRASTORNOS DEL SISTEMA CARDIOVASCULAR se ha descrito la siguiente reacción adversa asociada al uso de suxametonio, también denominado succinilcolina:\n- Hipotensión: frecuencia no conocida.\nLa Hipotensión (bajada de tensión) puede relacionarse con la respuesta hemodinámica al bloqueo neuromuscular y con el contexto clínico de administración. Se recomienda vigilar la presión arterial durante y después de la administración, especialmente en pacientes con reserva cardiovascular limitada o sometidos a anestesia general. La aparición de este episodio debe valorarse junto con la situación basal del paciente y las medidas de soporte disponibles.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SUXAMETONIO CLORURO",
+          "surface": "suxametonio"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SUXAMETONIO CLORURO",
+          "surface": "succinilcolina"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Hipotensión",
+          "surface": "Hipotensión"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Hipotensión",
+          "surface": "Hipotensión"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Hipotensión",
+          "surface": "bajada de tensión"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "start": 3,
+          "end": 40
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SUXAMETONIO CLORURO",
+          "surface": "suxametonio",
+          "start": 105,
+          "end": 116
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SUXAMETONIO CLORURO",
+          "surface": "succinilcolina",
+          "start": 137,
+          "end": 151
+        },
+        {
+          "type": "REACT",
+          "canonical": "Hipotensión",
+          "surface": "Hipotensión",
+          "start": 155,
+          "end": 166
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida",
+          "start": 168,
+          "end": 190
+        },
+        {
+          "type": "REACT",
+          "canonical": "Hipotensión",
+          "surface": "bajada de tensión",
+          "start": 208,
+          "end": 225
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "SUXAMETONIO ETHYPHARM 50 MG/ML SOLUCION INYECTABLE Y PARA PERFUSIÓN EFG",
+        "pactivo": "SUXAMETONIO CLORURO",
+        "reaccion": "Aumento de la presión intragástrica",
+        "frecuencia": "MUY FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+      },
+      "text": "En la clasificación por órganos, dentro de Trastornos del sistema digestivo, se ha descrito Aumento de la presión intragástrica con suxametonio cloruro; esta reacción figura entre las reacciones muy frecuentes. La aparición se relaciona con el efecto farmacológico periférico del suxametonio sobre la musculatura, por lo que debe interpretarse en el contexto clínico del procedimiento anestésico y del estado basal del paciente.\n\nLista tabulada:\n- Trastornos del sistema digestivo: Aumento de la presión intragástrica (aumento de presión en el estómago) - muy frecuentes.\n\nSe recomienda vigilancia clínica durante la administración y en el periodo inmediato posterior, especialmente cuando los cambios de presión puedan ser relevantes para el manejo anestésico.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "Trastornos del sistema digestivo"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Aumento de la presión intragástrica",
+          "surface": "Aumento de la presión intragástrica"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SUXAMETONIO CLORURO",
+          "surface": "suxametonio cloruro"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "MUY FRECUENTE",
+          "surface": "muy frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SUXAMETONIO CLORURO",
+          "surface": "suxametonio"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "Trastornos del sistema digestivo"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Aumento de la presión intragástrica",
+          "surface": "Aumento de la presión intragástrica"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Aumento de la presión intragástrica",
+          "surface": "aumento de presión en el estómago"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "MUY FRECUENTE",
+          "surface": "muy frecuentes"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "Trastornos del sistema digestivo",
+          "start": 43,
+          "end": 75
+        },
+        {
+          "type": "REACT",
+          "canonical": "Aumento de la presión intragástrica",
+          "surface": "Aumento de la presión intragástrica",
+          "start": 92,
+          "end": 127
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SUXAMETONIO CLORURO",
+          "surface": "suxametonio cloruro",
+          "start": 132,
+          "end": 151
+        },
+        {
+          "type": "FREQ",
+          "canonical": "MUY FRECUENTE",
+          "surface": "muy frecuentes",
+          "start": 195,
+          "end": 209
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SUXAMETONIO CLORURO",
+          "surface": "suxametonio",
+          "start": 132,
+          "end": 143
+        },
+        {
+          "type": "REACT",
+          "canonical": "Aumento de la presión intragástrica",
+          "surface": "aumento de presión en el estómago",
+          "start": 519,
+          "end": 552
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "SUXAMETONIO ETHYPHARM 50 MG/ML SOLUCION INYECTABLE Y PARA PERFUSIÓN EFG",
+        "pactivo": "SUXAMETONIO CLORURO",
+        "reaccion": "Reacciones anafilácticas",
+        "frecuencia": "NO FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+      },
+      "text": "Dentro del sistema Trastornos del sistema inmunológico, el uso de suxametonio (cloruro de suxametonio) se ha asociado a la siguiente reacción adversa:\n\n- Reacciones anafilácticas: no frecuente.\n\nEstas reacciones pueden producirse de forma imprevisible tras la administración y se consideran relevantes por su posible relación con una respuesta inmunológica inmediata. Se recomienda mantener vigilancia clínica adecuada durante y después de la administración, especialmente en pacientes con antecedentes compatibles con hipersensibilidad a bloqueantes neuromusculares. La notificación de cualquier sospecha contribuye a una mejor caracterización del perfil de seguridad.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+          "surface": "Trastornos del sistema inmunológico"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SUXAMETONIO CLORURO",
+          "surface": "suxametonio"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SUXAMETONIO CLORURO",
+          "surface": "cloruro de suxametonio"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Reacciones anafilácticas",
+          "surface": "Reacciones anafilácticas"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+          "surface": "Trastornos del sistema inmunológico",
+          "start": 19,
+          "end": 54
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SUXAMETONIO CLORURO",
+          "surface": "suxametonio",
+          "start": 66,
+          "end": 77
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SUXAMETONIO CLORURO",
+          "surface": "cloruro de suxametonio",
+          "start": 79,
+          "end": 101
+        },
+        {
+          "type": "REACT",
+          "canonical": "Reacciones anafilácticas",
+          "surface": "Reacciones anafilácticas",
+          "start": 154,
+          "end": 178
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente",
+          "start": 180,
+          "end": 192
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

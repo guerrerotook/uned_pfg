@@ -1,0 +1,632 @@
+{
+  "codigo": "39681",
+  "variante": 1,
+  "codigo_variant": "39681_v1",
+  "medicamento": "SALAZOPYRINA 500 MG COMPRIMIDOS",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "SULFASALAZINA",
+      "surface": "SULFASALAZINA",
+      "start": 101,
+      "end": 114
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 1213,
+      "end": 1243
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 1244,
+      "end": 1254
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fiebre",
+      "surface": "Fiebre",
+      "start": 1256,
+      "end": 1262
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareo",
+      "surface": "Mareo",
+      "start": 1264,
+      "end": 1269
+    },
+    {
+      "type": "REACT",
+      "canonical": "Picor",
+      "surface": "Picor",
+      "start": 1271,
+      "end": 1276
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor de cabeza",
+      "surface": "dolor de cabeza",
+      "start": 1278,
+      "end": 1293
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 1295,
+      "end": 1317
+    },
+    {
+      "type": "REACT",
+      "canonical": "debilidad",
+      "surface": "debilidad",
+      "start": 1327,
+      "end": 1336
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor garganta",
+      "surface": "dolor garganta",
+      "start": 1338,
+      "end": 1352
+    },
+    {
+      "type": "REACT",
+      "canonical": "entumecimiento de las extremidades",
+      "surface": "entumecimiento de las extremidades",
+      "start": 1354,
+      "end": 1388
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 1391,
+      "end": 1426
+    },
+    {
+      "type": "REACT",
+      "canonical": "Formación de anticuerpos dirigidos contra el propio organismo",
+      "surface": "Formación de anticuerpos dirigidos contra el propio organismo",
+      "start": 1451,
+      "end": 1512
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacción alérgica grave en todo el cuerpo",
+      "surface": "Reacción alérgica grave en todo el cuerpo",
+      "start": 1514,
+      "end": 1555
+    },
+    {
+      "type": "REACT",
+      "canonical": "angioedema",
+      "surface": "angioedema",
+      "start": 1557,
+      "end": 1567
+    },
+    {
+      "type": "REACT",
+      "canonical": "enfermedad del suero",
+      "surface": "enfermedad del suero",
+      "start": 1569,
+      "end": 1589
+    },
+    {
+      "type": "REACT",
+      "canonical": "inflamación vasoss angíneos",
+      "surface": "inflamación vasoss angíneos",
+      "start": 1591,
+      "end": 1618
+    },
+    {
+      "type": "REACT",
+      "canonical": "lupus eritematoso sistémico",
+      "surface": "lupus eritematoso sistémico",
+      "start": 1620,
+      "end": 1647
+    },
+    {
+      "type": "REACT",
+      "canonical": "meningitis aséptica",
+      "surface": "meningitis aséptica",
+      "start": 1649,
+      "end": 1668
+    },
+    {
+      "type": "REACT",
+      "canonical": "síndrome de erupción medicamentosa con eosinofíllia y síntomas sistémicos.",
+      "surface": "síndrome de erupción medicamentosa con eosinofíllia y síntomas sistémicos.",
+      "start": 1670,
+      "end": 1744
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 1746,
+      "end": 1783
+    },
+    {
+      "type": "REACT",
+      "canonical": "acúfenos",
+      "surface": "acúfenos",
+      "start": 1796,
+      "end": 1804
+    },
+    {
+      "type": "REACT",
+      "canonical": "alteración del gusto",
+      "surface": "alteración del gusto",
+      "start": 1806,
+      "end": 1826
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hinchazón alrededor de los ojos",
+      "surface": "Hinchazón alrededor de los ojos",
+      "start": 1852,
+      "end": 1883
+    },
+    {
+      "type": "REACT",
+      "canonical": "Lesiones en la parte blanca del ojo y en la membrana transparente que recubre la superficie externa del ojo.",
+      "surface": "Lesiones en la parte blanca del ojo y en la membrana transparente que recubre la superficie externa del ojo.",
+      "start": 1885,
+      "end": 1993
+    },
+    {
+      "type": "REACT",
+      "canonical": "alteración del olfato",
+      "surface": "alteración del olfato",
+      "start": 1995,
+      "end": 2016
+    },
+    {
+      "type": "REACT",
+      "canonical": "pérdida de la coordinación de los movimientos",
+      "surface": "pérdida de la coordinación de los movimientos",
+      "start": 2018,
+      "end": 2063
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 2066,
+      "end": 2115
+    },
+    {
+      "type": "REACT",
+      "canonical": "leucopenia",
+      "surface": "leucopenia",
+      "start": 2128,
+      "end": 2138
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 2140,
+      "end": 2155
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombocitopenia",
+      "surface": "Trombocitopenia",
+      "start": 2157,
+      "end": 2172
+    },
+    {
+      "type": "REACT",
+      "canonical": "agranulocitosis",
+      "surface": "agranulocitosis",
+      "start": 2198,
+      "end": 2213
+    },
+    {
+      "type": "REACT",
+      "canonical": "anemia",
+      "surface": "anemia",
+      "start": 2215,
+      "end": 2221
+    },
+    {
+      "type": "REACT",
+      "canonical": "macrocitosis",
+      "surface": "macrocitosis",
+      "start": 2223,
+      "end": 2235
+    },
+    {
+      "type": "REACT",
+      "canonical": "metahemoglobinemia",
+      "surface": "metahemoglobinemia",
+      "start": 2237,
+      "end": 2255
+    },
+    {
+      "type": "REACT",
+      "canonical": "pancitopenia",
+      "surface": "pancitopenia",
+      "start": 2257,
+      "end": 2269
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "start": 2272,
+      "end": 2303
+    },
+    {
+      "type": "REACT",
+      "canonical": "Presencia de proteínas en orina",
+      "surface": "Presencia de proteínas en orina",
+      "start": 2316,
+      "end": 2347
+    },
+    {
+      "type": "REACT",
+      "canonical": "Resultados anormales de las pruebas de la función del hígado",
+      "surface": "Resultados anormales de las pruebas de la función del hígado",
+      "start": 2366,
+      "end": 2426
+    },
+    {
+      "type": "REACT",
+      "canonical": "ictericia",
+      "surface": "ictericia",
+      "start": 2428,
+      "end": 2437
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aparición de cristales y de sangre en la orina",
+      "surface": "Aparición de cristales y de sangre en la orina",
+      "start": 2463,
+      "end": 2509
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de la cantidad de proteínas en la sangre",
+      "surface": "Disminución de la cantidad de proteínas en la sangre",
+      "start": 2511,
+      "end": 2563
+    },
+    {
+      "type": "REACT",
+      "canonical": "álculos en los riñones",
+      "surface": "álculos en los riñones",
+      "start": 2565,
+      "end": 2587
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 2590,
+      "end": 2621
+    },
+    {
+      "type": "REACT",
+      "canonical": "alteración de los nervios periféricos",
+      "surface": "alteración de los nervios periféricos",
+      "start": 2646,
+      "end": 2683
+    },
+    {
+      "type": "REACT",
+      "canonical": "convulsiones",
+      "surface": "convulsiones",
+      "start": 2685,
+      "end": 2697
+    },
+    {
+      "type": "REACT",
+      "canonical": "encefalopatía",
+      "surface": "encefalopatía",
+      "start": 2699,
+      "end": 2712
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 2715,
+      "end": 2739
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión",
+      "surface": "Depresión",
+      "start": 2757,
+      "end": 2766
+    },
+    {
+      "type": "REACT",
+      "canonical": "alucinaciones",
+      "surface": "alucinaciones",
+      "start": 2792,
+      "end": 2805
+    },
+    {
+      "type": "REACT",
+      "canonical": "insomnio",
+      "surface": "insomnio",
+      "start": 2807,
+      "end": 2815
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 2818,
+      "end": 2850
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes",
+      "start": 2851,
+      "end": 2865
+    },
+    {
+      "type": "REACT",
+      "canonical": "molestias estómago",
+      "surface": "molestias estómago",
+      "start": 2867,
+      "end": 2885
+    },
+    {
+      "type": "REACT",
+      "canonical": "náuseas",
+      "surface": "náuseas",
+      "start": 2887,
+      "end": 2894
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea",
+      "start": 2908,
+      "end": 2915
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pérdidade apetito",
+      "surface": "Pérdidade apetito",
+      "start": 2917,
+      "end": 2934
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor de abdomen",
+      "surface": "dolor de abdomen",
+      "start": 2936,
+      "end": 2952
+    },
+    {
+      "type": "REACT",
+      "canonical": "vómitos",
+      "surface": "vómitos",
+      "start": 2954,
+      "end": 2961
+    },
+    {
+      "type": "REACT",
+      "canonical": "colitis pseudomembranosa",
+      "surface": "colitis pseudomembranosa",
+      "start": 2987,
+      "end": 3011
+    },
+    {
+      "type": "REACT",
+      "canonical": "colitis ulcerosa",
+      "surface": "colitis ulcerosa",
+      "start": 3013,
+      "end": 3029
+    },
+    {
+      "type": "REACT",
+      "canonical": "estomatitis",
+      "surface": "estomatitis",
+      "start": 3031,
+      "end": 3042
+    },
+    {
+      "type": "REACT",
+      "canonical": "fallo hepático",
+      "surface": "fallo hepático",
+      "start": 3044,
+      "end": 3058
+    },
+    {
+      "type": "REACT",
+      "canonical": "hepatitis",
+      "surface": "hepatitis",
+      "start": 3060,
+      "end": 3069
+    },
+    {
+      "type": "REACT",
+      "canonical": "hepatitis fulminante",
+      "surface": "hepatitis fulminante",
+      "start": 3071,
+      "end": 3091
+    },
+    {
+      "type": "REACT",
+      "canonical": "pancreatitis",
+      "surface": "pancreatitis",
+      "start": 3093,
+      "end": 3105
+    },
+    {
+      "type": "REACT",
+      "canonical": "parotiditis",
+      "surface": "parotiditis",
+      "start": 3107,
+      "end": 3118
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 3121,
+      "end": 3149
+    },
+    {
+      "type": "REACT",
+      "canonical": "Manchas rojas o azuladas en la piel",
+      "surface": "Manchas rojas o azuladas en la piel",
+      "start": 3162,
+      "end": 3197
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pérdida de pelo",
+      "surface": "Pérdida de pelo",
+      "start": 3216,
+      "end": 3231
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria",
+      "start": 3233,
+      "end": 3242
+    },
+    {
+      "type": "REACT",
+      "canonical": "edema facial",
+      "surface": "edema facial",
+      "start": 3244,
+      "end": 3256
+    },
+    {
+      "type": "REACT",
+      "canonical": "Coloración azulada de la piel y de las mucosas",
+      "surface": "Coloración azulada de la piel y de las mucosas",
+      "start": 3282,
+      "end": 3328
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de folato",
+      "surface": "Disminución de folato",
+      "start": 3330,
+      "end": 3351
+    },
+    {
+      "type": "REACT",
+      "canonical": "dermatitis exfoliativa",
+      "surface": "dermatitis exfoliativa",
+      "start": 3353,
+      "end": 3375
+    },
+    {
+      "type": "REACT",
+      "canonical": "necrolisis epidérmica tóxica",
+      "surface": "necrolisis epidérmica tóxica",
+      "start": 3377,
+      "end": 3405
+    },
+    {
+      "type": "REACT",
+      "canonical": "palidez",
+      "surface": "palidez",
+      "start": 3407,
+      "end": 3414
+    },
+    {
+      "type": "REACT",
+      "canonical": "síndrome de Stevens-Johnson",
+      "surface": "síndrome de Stevens-Johnson",
+      "start": 3416,
+      "end": 3443
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 3446,
+      "end": 3481
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tos",
+      "surface": "Tos",
+      "start": 3494,
+      "end": 3497
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dificultad para respirar",
+      "surface": "Dificultad para respirar",
+      "start": 3516,
+      "end": 3540
+    },
+    {
+      "type": "REACT",
+      "canonical": "lesiones en pulmones",
+      "surface": "lesiones en pulmones",
+      "start": 3566,
+      "end": 3586
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 3589,
+      "end": 3631
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor de las articulaciones",
+      "surface": "Dolor de las articulaciones",
+      "start": 3644,
+      "end": 3671
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "start": 3674,
+      "end": 3708
+    },
+    {
+      "type": "REACT",
+      "canonical": "infertilidad en el hombre",
+      "surface": "infertilidad en el hombre",
+      "start": 3733,
+      "end": 3758
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 3761,
+      "end": 3798
+    },
+    {
+      "type": "REACT",
+      "canonical": "miocarditis",
+      "surface": "miocarditis",
+      "start": 3823,
+      "end": 3834
+    },
+    {
+      "type": "REACT",
+      "canonical": "pericarditis",
+      "surface": "pericarditis",
+      "start": 3836,
+      "end": 3848
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+INACID contiene INDOMETACINA, también denominada indometacina en la práctica clínica. El perfil observado es coherente con un antiinflamatorio de uso sistémico y debe interpretarse junto con la situación basal del paciente. La intensidad puede variar durante el tratamiento y conviene revisar la pauta si los síntomas son persistentes o clínicamente relevantes. En personas con antecedentes clínicos significativos se recomienda una valoración individual del balance beneficio-riesgo y una vigilancia más estrecha. La información siguiente agrupa los acontecimientos notificados según la clasificación por órganos y la frecuencia comunicada.
+
+Lista tabulada de reacciones adversas
+
+Trastornos de órganos de los sentidos
+poco frecuentes: Acúfenos.
+no frecuente: Diplopia; Dolor orbitario y periorbitario; Epistaxis; Hipoacusia; Trastornos auditivos; Visión borrosa (vista nublada).
+
+Trastornos de piel y tejidos
+poco frecuentes: Alopecia.
+
+Trastornos del sistema inmunológico
+no frecuente: Anafilaxia aguda; Angioedema; Angitis; Asma; Caída rápida de la presión arterial parecida a un estado de shock; Disnea súbita; Distrés respiratorio agudo; Edema pulmonar; Eritema nudoso; Erupción cutánea; Prurito; Urticaria.
+
+Trastornos del sistema digestivo
+frecuentes: Anorexia; Diarrea; Dolor abdominal; Dolor epigástrico; Estreñimiento; Náuseas; Vómitos.
+poco frecuentes: Empeoramiento del dolor abdominal principalmente en pacientes con colitis ulcerosa; Estomatitis; Flatulencia; Gastritis; Hemorragia en el cólon sigmoide; Perforación de lesiones pre-existentes en el colon sigmoide; Sangrado gastrointestinal.
+no frecuente: Estomatitis ulcerosa; Úlcera gastrointestinal con estenosis y obstrucción; Úlceras únicas o múltiples en el esófago, estómago, duodeno e intestino delgado o grueso (incluida perforación y hemorrágia).
+frecuencia no conocida: Pancreatitis.
+
+Trastornos del sistema nervioso
+muy frecuentes: Aturdimiento; Cefalea; Mareos; Vértigo.
+frecuentes: Cansancio, malestar, languidez.
+no frecuente: Ansiedad; Coma; Convulsiones; Debilidad muscular; Disartria; Empeoramiento de la epilepsia o de la enfermedad de Parkinson; Insomnio; Movimientos involuntarios; Neuropatía periférica; Parestesia; Somnolencia; Síncopes.
+
+Trastornos del sistema cardiovascular
+no frecuente: Arritmia; Dolor torácico; Hipertensión; Hipotensión; Insuficiencia cardíaca congestiva; Palpitaciones; Taquicardia.
+
+Trastornos del sistema reproductor
+no frecuente: Aumento de las mamas; Ginecomastia; Hemorragia vaginal; Sensibilidad.
+
+Trastornos del sistema hepatobiliar
+poco frecuentes: Aumento de las transaminasas séricas (3 veces por encima del límite normal).
+no frecuente: Hepatitis con o sin ictericia; Lesión hepática.
+
+Trastornos psiquiátricos
+frecuentes: Depresión.
+no frecuente: Confusión mental; Estados psicóticos; Trastornos psicológicos (despersonalización).
+
+Trastornos del metabolismo y la nutrición
+no frecuente: Elevación de la urea; Glucosuria; Hiperglucemia; Hiperpotasemia.
+
+Trastornos del sistema general
+no frecuente: Rubefacción; Sudoración.
+
+Descripción de reacciones adversas seleccionadas
+Durante el seguimiento, la evaluación clínica debe tener en cuenta la duración de la exposición, la dosis utilizada y la presencia de factores predisponentes. La aparición de manifestaciones intensas o de evolución rápida puede requerir la suspensión del tratamiento y medidas de soporte adecuadas. Debe prestarse especial atención a los pacientes de edad avanzada o con enfermedades concomitantes, ya que pueden presentar menor tolerancia a los efectos indeseables.
+
+Las manifestaciones incluidas en el bloque digestivo pueden aparecer al inicio o tras varios días de administración. Cuando existan antecedentes locales o síntomas persistentes, se aconseja realizar una valoración médica sin demora. Asimismo, los cambios analíticos o clínicos que sugieran afectación sistémica deben interpretarse de forma integrada con la historia clínica y otros tratamientos concomitantes.
+
+La notificación de sospechas permite actualizar de forma continua el conocimiento de seguridad del medicamento. Los profesionales sanitarios deben comunicar los casos relevantes por los canales establecidos, especialmente cuando sean graves, inesperados o requieran intervención clínica.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+Clasificación por órganos y sistemas: Trastornos del sistema digestivo. Se ha notificado pancreatitis en pacientes tratados con indometacina, principio activo de INACID. La frecuencia atribuida es frecuencia no conocida, dado que no puede estimarse a partir de los datos disponibles. En caso de manifestaciones clínicas compatibles, se recomienda reevaluar la continuidad del tratamiento y realizar seguimiento clínico adecuado, teniendo en cuenta la relación temporal con la administración. Esta comunicación debe registrarse y valorarse conforme a la práctica clínica habitual.
+
+Lista tabulada:
+- Pancreatitis: frecuencia no conocida.
+
+-- Caso 2 --
+Dentro de Trastornos del sistema inmunológico, se ha notificado Erupción cutánea con indometacina, incluida la presentación comercial INACID, con una frecuencia no frecuente. Esta manifestación puede aparecer durante el tratamiento y debe valorarse en función de su intensidad y evolución clínica.
+
+- Erupción cutánea (sarpullido): no frecuente.
+
+Se recomienda informar al paciente de que comunique cualquier cambio cutáneo persistente o progresivo, para que el profesional sanitario valore la continuidad del tratamiento conforme al balance beneficio-riesgo individual.
+
+-- Caso 3 --
+En la evaluación de seguridad de INACID, que contiene indometacina, se ha identificado la siguiente reacción adversa dentro de Trastornos del sistema digestivo:
+- Dolor abdominal (dolor de tripa): frecuentes.
+
+Este acontecimiento puede relacionarse con la acción local y sistémica sobre la mucosa gastrointestinal. Se recomienda valorar la evolución clínica y la necesidad de medidas de seguimiento si el síntoma persiste o resulta clínicamente relevante, especialmente durante tratamientos continuados.

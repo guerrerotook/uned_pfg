@@ -1,0 +1,66 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil de seguridad descrito para METRONIDAZOL es coherente con el observado para medicamentos de su clase y se basa en la notificación clínica disponible tras su administración. Las reacciones notificadas suelen ser reversibles al suspender el tratamiento o al instaurar las medidas de soporte apropiadas. La valoración de la causalidad debe realizarse considerando la indicación tratada, la duración de la exposición y la situación clínica basal del paciente. Se recomienda informar al paciente de que comunique cualquier manifestación persistente, intensa o inesperada durante el tratamiento. En los casos en que aparezcan signos clínicamente relevantes, debe reconsiderarse la continuación del medicamento y aplicarse seguimiento médico adecuado.
+
+Lista tabulada de reacciones adversas
+Las reacciones adversas se presentan según la clasificación por sistema y frecuencia. Dentro de cada grupo, las reacciones se enumeran sin implicar necesariamente un orden de gravedad.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+frecuencia no conocida: Leucopenia.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+frecuencia no conocida: Crisis oculógira, Neuropatía óptica/neuritis.
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN
+frecuencia no conocida: Anorexia.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+No se han identificado reacciones específicas para este grupo en la información considerada.
+
+TRASTORNOS DEL SISTEMA HEPATOBILIAR
+No se han identificado reacciones específicas para este grupo en la información considerada.
+
+INFECCIONES E INFESTACIONES
+no frecuente: Colitis pseudomembranosa.
+frecuentes: Superinfecciones con cándida.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+frecuencia no conocida: Convulsiones epileptiformes transitorias, Insomnio, Meningitis aséptica, Mioclono, Neuropatía sensorial periférica, Somnolencia.
+
+TRASTORNOS PSIQUIÁTRICOS
+frecuencia no conocida: Depresión.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+frecuencia no conocida: DIarrea, Disfagia, Disgeusia, Dolor abdominal, Estomatitis, Glositis, Lengua peluda, Náuseas, Vómitos.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+frecuencia no conocida: Eritema multiforme, Necrólisis epidérmic tóxica.
+
+TRASTORNOS DEL SISTEMA EXCRETOR
+No se han identificado reacciones específicas para este grupo en la información considerada.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+frecuencia no conocida: Reacciones de hipersensibilidad leves a moderadas.
+no frecuente: Reacciones graves de hipersensibilidad sistémica aguda.
+
+Descripción de reacciones adversas seleccionadas
+Durante el tratamiento debe prestarse atención a la aparición de síntomas neurológicos, visuales o cutáneos de nueva instauración, especialmente cuando el tratamiento sea prolongado o existan factores predisponentes. La identificación precoz de manifestaciones compatibles con afectación sistémica permite adoptar medidas clínicas y valorar la interrupción del medicamento.
+
+Las alteraciones gastrointestinales pueden afectar a la adherencia al tratamiento. Se aconseja revisar la tolerabilidad en pacientes con antecedentes de mala tolerancia a tratamientos antiinfecciosos y mantener una hidratación adecuada cuando la situación clínica lo requiera. La aparición de manifestaciones compatibles con hipersensibilidad requiere evaluación médica inmediata y manejo conforme a la gravedad del cuadro.
+
+Notificación de sospechas de reacciones adversas
+Es importante notificar las sospechas de reacciones adversas tras la autorización del medicamento. Ello permite una supervisión continuada de la relación beneficio-riesgo. Se invita a los profesionales sanitarios a notificar cualquier sospecha a través del sistema nacional de notificación correspondiente.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En el sistema de clasificación de órganos INFECCIONES E INFESTACIONES, se han descrito Superinfecciones con cándida como reacciones adversas frecuentes durante el tratamiento con METRONIDAZOL. Este efecto puede relacionarse con la modificación de la flora microbiana susceptible durante la exposición al antibacteriano. En pacientes que presenten signos compatibles, se recomienda la valoración clínica y el seguimiento adecuados, considerando la continuidad del tratamiento según la situación individual y la evolución del cuadro. La comunicación de sospechas tras la autorización permite mantener actualizada la información de seguridad del medicamento.
+
+-- Caso 2 --
+Dentro del sistema de clasificación de órganos Trastornos del sistema digestivo, se han notificado Náuseas asociadas al uso de METRONIDAZOL con frecuencia no conocida. Este término debe registrarse conforme a la terminología MedDRA y valorarse en el contexto clínico del paciente, especialmente al inicio del tratamiento o cuando se modifique la pauta posológica. La aparición de este acontecimiento no permite estimar una incidencia a partir de los datos disponibles; se recomienda seguimiento clínico y considerar las medidas habituales de manejo según la intensidad y la evolución.
+
+-- Caso 3 --
+Dentro del sistema de clasificación de órganos Infecciones e infestaciones, se ha descrito Colitis pseudomembranosa con una frecuencia no frecuente durante el tratamiento con METRONIDAZOL. Esta reacción puede relacionarse con la modificación de la flora intestinal asociada al uso de antibacterianos y debe considerarse en la evaluación clínica del paciente.
+
+Se recomienda vigilancia clínica si aparece un cuadro compatible durante el tratamiento o tras su finalización. En caso de sospecha, debe valorarse la interrupción del tratamiento y la instauración de las medidas terapéuticas apropiadas, de acuerdo con la práctica clínica habitual.

@@ -1,0 +1,76 @@
+Resumen del perfil de seguridad
+El perfil de seguridad de BUDESONIDA y FORMOTEROL FUMARATO DIHIDRATO administrados por vía inhalatoria es concordante con el esperado para una combinación de mantenimiento. En el uso clínico, budesonida aporta el componente antiinflamatorio y formoterol el componente broncodilatador, por lo que la interpretación de los acontecimientos debe considerar la enfermedad respiratoria de base y la técnica de administración. La mayoría de las notificaciones descritas son manejables con seguimiento clínico habitual, revisión del dispositivo y valoración individual del tratamiento. Debe informarse al paciente de que comunique cualquier síntoma persistente, intenso o de aparición brusca tras la inhalación. La evaluación debe realizarse de forma global, teniendo en cuenta tratamientos concomitantes, antecedentes y factores de riesgo.
+
+Lista tabulada de reacciones adversas
+TRASTORNOS PSIQUIÁTRICOS
+no frecuente: Depresión; alteraciones del comportamiento (principalmente en niños).
+poco frecuentes: Agresividad; alteraciones del sueño; ansiedad; hiperactividad psicomotora.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+frecuentes: Cefalea; temblor.
+no frecuente: Alteraciones del gusto.
+poco frecuentes: Mareo.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+frecuentes: Palpitaciones.
+no frecuente: Angina de pecho; Arritmias cardíacas, como fibrilación auricular, taquicardia supraventricular, extrasístoles; Variaciones en la presión arterial; prolongación del intervalo QTc.
+poco frecuentes: Taquicardia.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+frecuentes: Irritación leve de garganta; Tos; disfonía incluida ronquera.
+no frecuente: broncoespasmo.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+poco frecuentes: Calambres musculares.
+
+INFECCIONES E INFESTACIONES
+frecuentes: Candidiasis orofaríngea; Neumonía (en pacientes con EPOC).
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+no frecuente: Cataratas y glaucoma.
+poco frecuentes: Visión borrosa.
+
+TRASTORNOS DEL SISTEMA ENDOCRINO
+no frecuente: Síndrome de Cushing; disminución de la densidad mineral ósea; retraso del crecimiento; supresión adrenal.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+poco frecuentes: Hematomas.
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN
+no frecuente: Hiperglucemia; Hipocalemia.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+poco frecuentes: Náuseas.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+no frecuente: Reacciones de hipersensibilidad inmediata y retardada, como exantema, urticaria, prurito, dermatitis, angioedema y reacción anafiláctica.
+
+Descripción de reacciones adversas seleccionadas
+Algunos acontecimientos locales pueden relacionarse con el depósito del medicamento en la orofaringe. La instrucción correcta sobre la inhalación, así como el enjuague posterior de la boca cuando proceda, puede contribuir a limitar molestias y mejorar la adherencia. Si aparece broncoespasmo inmediatamente después de la administración, se recomienda interrumpir la administración y realizar una valoración clínica.
+
+Palpitaciones, temblor (temblores) o Taquicardia pueden observarse en relación con la sensibilidad individual al componente broncodilatador. En general, se debe revisar la dosis, la pauta y el uso de otros medicamentos con efectos similares antes de adoptar medidas adicionales. La información al paciente debe ser clara y orientada a reconocer cambios relevantes sin generar alarma innecesaria.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En la evaluación de seguridad de BUDESONIDA, FORMOTEROL FUMARATO DIHIDRATO, se ha notificado ansiedad como reacción adversa incluida en TRASTORNOS PSIQUIÁTRICOS, con frecuencia poco frecuentes.
+
+Lista tabulada:
+- TRASTORNOS PSIQUIÁTRICOS: ansiedad (poco frecuentes).
+
+La aparición de inquietud subjetiva (nerviosismo) debe interpretarse en el contexto clínico del paciente y de la respuesta individual al tratamiento inhalado. Se recomienda seguimiento clínico si el síntoma persiste o interfiere con la actividad diaria, valorando la continuidad del tratamiento según el balance beneficio-riesgo.
+
+-- Caso 2 --
+En Trastornos del sistema cardiovascular, la Angina de pecho se ha comunicado como no frecuente durante el tratamiento con la combinación inhalada budesonida-formoterol.
+
+Listado tabulado:
+- Angina de pecho: no frecuente.
+
+Este acontecimiento puede ser clínicamente relevante en pacientes con antecedentes cardiovasculares o factores predisponentes, por lo que se recomienda valorar la situación basal antes y durante el tratamiento. Si aparecen síntomas compatibles (dolor opresivo en el pecho), debe considerarse la evaluación clínica y la continuidad del tratamiento de acuerdo con el balance beneficio/riesgo individual.
+
+-- Caso 3 --
+Dentro de TRASTORNOS DEL SISTEMA CARDIOVASCULAR se han descrito Palpitaciones con una frecuencia de notificación frecuentes durante el tratamiento con budesonida/formoterol.
+
+- Palpitaciones: frecuentes.
+
+Este efecto puede relacionarse con la actividad beta2-adrenérgica del componente formoterol, especialmente al inicio del tratamiento o tras ajustes de dosis. En la mayoría de los casos, la percepción de latidos (notadas por el paciente) debe valorarse en el contexto clínico individual. Si persiste o resulta molesta, se recomienda revisar la técnica de inhalación, la dosis utilizada y la necesidad de seguimiento médico.

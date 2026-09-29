@@ -1,0 +1,499 @@
+{
+  "codigo": "54723",
+  "variante": 1,
+  "codigo_variant": "54723_v1",
+  "medicamento": "TRANGOREX 150 MG / 3 ML SOLUCIÓN INYECTABLE",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "AMIODARONA HIDROCLORURO",
+      "surface": "AMIODARONA HIDROCLORURO",
+      "start": 87,
+      "end": 110
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 861,
+      "end": 910
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 911,
+      "end": 933
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agranulocitosis",
+      "surface": "Agranulocitosis",
+      "start": 935,
+      "end": 950
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neutropenia",
+      "surface": "Neutropenia",
+      "start": 952,
+      "end": 963
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 966,
+      "end": 990
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alucinaciones",
+      "surface": "Alucinaciones",
+      "start": 1015,
+      "end": 1028
+    },
+    {
+      "type": "REACT",
+      "canonical": "Delirium",
+      "surface": "Delirium",
+      "start": 1030,
+      "end": 1038
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 1040,
+      "end": 1050
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de la libido",
+      "surface": "Disminución de la libido",
+      "start": 1052,
+      "end": 1076
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 1079,
+      "end": 1114
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 1115,
+      "end": 1127
+    },
+    {
+      "type": "REACT",
+      "canonical": "Apnea",
+      "surface": "Apnea",
+      "start": 1129,
+      "end": 1134
+    },
+    {
+      "type": "REACT",
+      "canonical": "Broncoespasmo",
+      "surface": "Broncoespasmo",
+      "start": 1136,
+      "end": 1149
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pneumonitis intersticial o fibrosis",
+      "surface": "Pneumonitis intersticial o fibrosis",
+      "start": 1151,
+      "end": 1186
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de distrés respiratorio agudo (SDRA)",
+      "surface": "Síndrome de distrés respiratorio agudo (SDRA)",
+      "start": 1188,
+      "end": 1233
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1236,
+      "end": 1273
+    },
+    {
+      "type": "REACT",
+      "canonical": "Arritmias",
+      "surface": "Arritmias",
+      "start": 1288,
+      "end": 1297
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bradicardia acusada",
+      "surface": "Bradicardia acusada",
+      "start": 1299,
+      "end": 1318
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parada cardiaca",
+      "surface": "Parada cardiaca",
+      "start": 1320,
+      "end": 1335
+    },
+    {
+      "type": "REACT",
+      "canonical": "Paro sinusal",
+      "surface": "Paro sinusal",
+      "start": 1337,
+      "end": 1349
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sofocos",
+      "surface": "Sofocos",
+      "start": 1351,
+      "end": 1358
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bradicardia moderada",
+      "surface": "Bradicardia moderada",
+      "start": 1372,
+      "end": 1392
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de la presión sanguínea",
+      "surface": "Disminución de la presión sanguínea",
+      "start": 1394,
+      "end": 1429
+    },
+    {
+      "type": "REACT",
+      "canonical": "Torsade de pointes",
+      "surface": "Torsade de pointes",
+      "start": 1455,
+      "end": 1473
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 1476,
+      "end": 1506
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cambios de la pigmentación",
+      "surface": "Cambios de la pigmentación",
+      "start": 1519,
+      "end": 1545
+    },
+    {
+      "type": "REACT",
+      "canonical": "Celulitis",
+      "surface": "Celulitis",
+      "start": 1547,
+      "end": 1556
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor",
+      "surface": "Dolor",
+      "start": 1558,
+      "end": 1563
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema",
+      "surface": "Edema",
+      "start": 1565,
+      "end": 1570
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eritema",
+      "surface": "Eritema",
+      "start": 1572,
+      "end": 1579
+    },
+    {
+      "type": "REACT",
+      "canonical": "Extravasación",
+      "surface": "Extravasación",
+      "start": 1581,
+      "end": 1594
+    },
+    {
+      "type": "REACT",
+      "canonical": "Flebitis",
+      "surface": "Flebitis",
+      "start": 1596,
+      "end": 1604
+    },
+    {
+      "type": "REACT",
+      "canonical": "Induración",
+      "surface": "Induración",
+      "start": 1606,
+      "end": 1616
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infección",
+      "surface": "Infección",
+      "start": 1618,
+      "end": 1627
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infiltración",
+      "surface": "Infiltración",
+      "start": 1629,
+      "end": 1641
+    },
+    {
+      "type": "REACT",
+      "canonical": "Inflamación",
+      "surface": "Inflamación",
+      "start": 1643,
+      "end": 1654
+    },
+    {
+      "type": "REACT",
+      "canonical": "Necrosis",
+      "surface": "Necrosis",
+      "start": 1656,
+      "end": 1664
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tromboflebitis",
+      "surface": "Tromboflebitis",
+      "start": 1666,
+      "end": 1680
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1683,
+      "end": 1714
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea",
+      "start": 1729,
+      "end": 1736
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertensión intracraneal benigna (pseudotumor cerebri)",
+      "surface": "Hipertensión intracraneal benigna (pseudotumor cerebri)",
+      "start": 1738,
+      "end": 1793
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 1796,
+      "end": 1824
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dermatitis bullosa",
+      "surface": "Dermatitis bullosa",
+      "start": 1849,
+      "end": 1867
+    },
+    {
+      "type": "REACT",
+      "canonical": "Necrolisis epidérmica tóxica (NET)",
+      "surface": "Necrolisis epidérmica tóxica (NET)",
+      "start": 1869,
+      "end": 1903
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacción medicamentosa con eosinofilia y síntomas sistémicos (DRESS)",
+      "surface": "Reacción medicamentosa con eosinofilia y síntomas sistémicos (DRESS)",
+      "start": 1905,
+      "end": 1973
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de Stevens - Johnson (SSJ)",
+      "surface": "Síndrome de Stevens - Johnson (SSJ)",
+      "start": 1975,
+      "end": 2010
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria",
+      "start": 2012,
+      "end": 2021
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eczema",
+      "surface": "Eczema",
+      "start": 2035,
+      "end": 2041
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sudoración",
+      "surface": "Sudoración",
+      "start": 2057,
+      "end": 2067
+    },
+    {
+      "type": "SYS",
+      "canonical": "LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS",
+      "surface": "LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS",
+      "start": 2070,
+      "end": 2153
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disfunción primaria del injerto (DPI) post trasplante cardiaco",
+      "surface": "Disfunción primaria del injerto (DPI) post trasplante cardiaco",
+      "start": 2178,
+      "end": 2240
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 2243,
+      "end": 2285
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor de espalda",
+      "surface": "Dolor de espalda",
+      "start": 2310,
+      "end": 2326
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 2329,
+      "end": 2364
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema angioneurótico (edema de Quincke)",
+      "surface": "Edema angioneurótico (edema de Quincke)",
+      "start": 2389,
+      "end": 2428
+    },
+    {
+      "type": "REACT",
+      "canonical": "Shock anafiláctico",
+      "surface": "Shock anafiláctico",
+      "start": 2444,
+      "end": 2462
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "surface": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "start": 2465,
+      "end": 2497
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertiroidismo",
+      "surface": "Hipertiroidismo",
+      "start": 2522,
+      "end": 2537
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de secreción inadecuada de hormona antidiurética (SIADH)",
+      "surface": "Síndrome de secreción inadecuada de hormona antidiurética (SIADH)",
+      "start": 2553,
+      "end": 2618
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 2621,
+      "end": 2653
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ictericia",
+      "surface": "Ictericia",
+      "start": 2668,
+      "end": 2677
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de transaminasas",
+      "surface": "Incremento de transaminasas",
+      "start": 2679,
+      "end": 2706
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia hepática",
+      "surface": "Insuficiencia hepática",
+      "start": 2708,
+      "end": 2730
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 2732,
+      "end": 2739
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pancreatitis aguda",
+      "surface": "Pancreatitis aguda",
+      "start": 2765,
+      "end": 2783
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 2786,
+      "end": 2823
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neuritis óptica",
+      "surface": "Neuritis óptica",
+      "start": 2848,
+      "end": 2863
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neuropatía",
+      "surface": "Neuropatía",
+      "start": 2865,
+      "end": 2875
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "surface": "Trastornos del sistema endocrino",
+      "start": 2465,
+      "end": 2497
+    }
+  ]
+}

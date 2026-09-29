@@ -1,0 +1,338 @@
+{
+  "codigo": "8451004",
+  "variante": 1,
+  "codigo_variant": "8451004_v1",
+  "medicamento": "VOLIBRIS 10 MG COMPRIMIDOS RECUBIERTOS CON PELÍCULA",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "AMBRISENTAN",
+      "surface": "AMBRISENTAN",
+      "start": 70,
+      "end": 81
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 1305,
+      "end": 1342
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 1343,
+      "end": 1353
+    },
+    {
+      "type": "REACT",
+      "canonical": "Acúfenos",
+      "surface": "Acúfenos",
+      "start": 1355,
+      "end": 1363
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteración visual",
+      "surface": "Alteración visual",
+      "start": 1365,
+      "end": 1382
+    },
+    {
+      "type": "REACT",
+      "canonical": "Visión borrosa",
+      "surface": "Visión borrosa",
+      "start": 1384,
+      "end": 1398
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 1400,
+      "end": 1415
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pérdida auditiva súbita",
+      "surface": "Pérdida auditiva súbita",
+      "start": 1417,
+      "end": 1440
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 1443,
+      "end": 1492
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes",
+      "start": 1493,
+      "end": 1507
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia (disminución de la hemoglobina y hematocrito)",
+      "surface": "Anemia (disminución de la hemoglobina y hematocrito)",
+      "start": 1509,
+      "end": 1561
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 1564,
+      "end": 1594
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor torácico",
+      "surface": "Dolor torácico",
+      "start": 1611,
+      "end": 1625
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema periférico",
+      "surface": "Edema periférico",
+      "start": 1627,
+      "end": 1643
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "Fatiga",
+      "start": 1645,
+      "end": 1651
+    },
+    {
+      "type": "REACT",
+      "canonical": "Retención de fluidos",
+      "surface": "Retención de fluidos",
+      "start": 1653,
+      "end": 1673
+    },
+    {
+      "type": "REACT",
+      "canonical": "Astenia",
+      "surface": "Astenia",
+      "start": 1687,
+      "end": 1694
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1697,
+      "end": 1728
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea (incluyendo cefalea sinusal, migraña)",
+      "surface": "Cefalea (incluyendo cefalea sinusal, migraña)",
+      "start": 1745,
+      "end": 1790
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareos",
+      "surface": "Mareos",
+      "start": 1792,
+      "end": 1798
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 1801,
+      "end": 1836
+    },
+    {
+      "type": "REACT",
+      "canonical": "Congestión del tracto respiratorio superior",
+      "surface": "Congestión del tracto respiratorio superior",
+      "start": 1853,
+      "end": 1896
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disnea",
+      "surface": "Disnea",
+      "start": 1898,
+      "end": 1904
+    },
+    {
+      "type": "REACT",
+      "canonical": "Nasofaringitis",
+      "surface": "Nasofaringitis",
+      "start": 1906,
+      "end": 1920
+    },
+    {
+      "type": "REACT",
+      "canonical": "Epixtasis",
+      "surface": "Epixtasis",
+      "start": 1934,
+      "end": 1943
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rinitis",
+      "surface": "Rinitis",
+      "start": 1945,
+      "end": 1952
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sinusitis",
+      "surface": "Sinusitis",
+      "start": 1954,
+      "end": 1963
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1966,
+      "end": 1998
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea",
+      "start": 2015,
+      "end": 2022
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 2024,
+      "end": 2031
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos",
+      "start": 2033,
+      "end": 2040
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor abdominal",
+      "surface": "Dolor abdominal",
+      "start": 2054,
+      "end": 2069
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento",
+      "start": 2071,
+      "end": 2084
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de transaminasas",
+      "surface": "Incremento de transaminasas",
+      "start": 2086,
+      "end": 2113
+    },
+    {
+      "type": "REACT",
+      "canonical": "Daño hepático",
+      "surface": "Daño hepático",
+      "start": 2132,
+      "end": 2145
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hepatitis autoinmune",
+      "surface": "Hepatitis autoinmune",
+      "start": 2147,
+      "end": 2167
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 2170,
+      "end": 2198
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción",
+      "surface": "Erupción",
+      "start": 2211,
+      "end": 2219
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 2222,
+      "end": 2259
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones",
+      "start": 2276,
+      "end": 2289
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rubefacción",
+      "surface": "Rubefacción",
+      "start": 2291,
+      "end": 2302
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fallo cardiaco",
+      "surface": "Fallo cardiaco",
+      "start": 2316,
+      "end": 2330
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión",
+      "start": 2332,
+      "end": 2343
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síncope",
+      "surface": "Síncope",
+      "start": 2345,
+      "end": 2352
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 2355,
+      "end": 2390
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacciones de hipersensibilidad (angioedema, erupción cutánea, prurito)",
+      "surface": "Reacciones de hipersensibilidad (angioedema, erupción cutánea, prurito)",
+      "start": 2403,
+      "end": 2474
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "Trastornos del sistema digestivo",
+      "start": 1966,
+      "end": 1998
+    }
+  ]
+}

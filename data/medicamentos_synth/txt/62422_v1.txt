@@ -1,0 +1,52 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil de seguridad de METADONA HIDROCLORURO es el esperado para un agonista opioide administrado por vía oral. La aparición de acontecimientos puede depender de la dosis, del estado clínico previo y de la exposición acumulada. En la práctica clínica se recomienda valorar de forma periódica la tolerabilidad y la necesidad de ajustar la pauta. La información siguiente se presenta según la clasificación por órganos y sistemas y por categoría de frecuencia utilizada en la evaluación clínica y poscomercialización.
+
+Lista tabulada de reacciones adversas
+TRASTORNOS PSIQUIÁTRICOS: frecuentes: Alucinaciones, Euforia; poco frecuentes: Agitación, Confusión, Desorientación, Disforia, Disminución de la líbido, Farmacodependencia, Insomnio.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS: frecuentes: Miosis, Visión borrosa, Vértigo; frecuencia no conocida: Agudeza visual reducida, Estrabismo, Nistagmo, Ojos secos.
+
+TRASTORNOS DEL SISTEMA REPRODUCTOR: poco frecuentes: Ammenorrea, Dismenorrea, Galactorrea.
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN: frecuentes: Retención de líquidos; frecuencia no conocida: Anorexia, Hipocalemia, Hipoglucemia, Hipomagnesemia.
+
+TRASTORNOS DEL SISTEMA GENERAL: frecuentes: Fatiga, Somnolencia; poco frecuentes: Astenia, Edema, Edema de las extremidades inferiores, Hipotermia.
+
+TRASTORNOS DEL SISTEMA NERVIOSO: frecuentes: Mareos, Sedación; poco frecuentes: Dolor de cabeza, Síncope; frecuencia no conocida: Aumenro de la presión intracraneal.
+
+EXPLORACIONES COMPLEMENTARIAS: frecuentes: Aumento de peso.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO: muy frecuentes: Náuseas, Vómitos; frecuentes: Estreñimiento; poco frecuentes: Boca seca, Glositis.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR: poco frecuentes: Hipotensión, Rubor facial; no frecuente: Bradicardia, Palpitaciones, Parada cardíaca, Prolongación del intérvalo QT, Shock, Torsade de pointes.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO: poco frecuentes: Depresión respiratoria, Disminución de la potencia sexual, Edema pulmonar, Exacerbación del asma, Sequedad nasal; no frecuente: Parada respiratoria; frecuencia no conocida: Síndrome de apnea central del sueño.
+
+TRASTORNOS DEL SISTEMA HEPATOBILIAR: poco frecuentes: Discinesia del conducto biliar.
+
+TRASTORNOS DEL SISTEMA EXCRETOR: poco frecuentes: Efecto antidiurético, Retención urinaria.
+
+TRASTORNOS DE PIEL Y TEJIDOS: frecuentes: Erupción cutánea transitoria, Hiperhidrosis; poco frecuentes: Otras erupciones, Prurito, Urticaria.
+
+TRASTORNOS DEL SISTEMA ENDOCRINO: frecuencia no conocida: Hipoadrenalismo, Hipogonadismo, Niveles elevados de prolactina con administración a largo plazo.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS: frecuencia no conocida: Trombocitopenia reversible en pacientes dependientes de opioides con hepatitis crónica.
+
+Descripción de reacciones adversas seleccionadas
+La evaluación clínica debe considerar la situación basal del paciente y la administración concomitante de otros medicamentos con acción depresora central. En tratamientos mantenidos, la revisión de la respuesta clínica ayuda a identificar cambios de tolerabilidad y a prevenir complicaciones evitables. La interrupción o modificación de la dosis debe realizarse de forma individualizada, con seguimiento médico adecuado.
+
+Algunas manifestaciones pueden requerir vigilancia estrecha, especialmente en pacientes vulnerables o con comorbilidad relevante. Cuando se observe un cambio clínico significativo, debe valorarse la relación temporal con el tratamiento y la posible contribución de factores intercurrentes. La notificación de sospechas permite mantener actualizada la información de seguridad del medicamento.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+Dentro de los TRASTORNOS DEL SISTEMA GENERAL, se ha notificado Fatiga como reacción adversa clasificada entre las frecuentes. En pacientes tratados con METADONA HIDROCLORURO, este efecto puede relacionarse con la acción farmacológica central del opioide y con variaciones individuales de tolerabilidad. Se recomienda valorar su intensidad y evolución durante el seguimiento clínico, especialmente al inicio del tratamiento o tras ajustes de dosis. Si interfiere de forma relevante con la actividad habitual, debe considerarse la reevaluación del tratamiento conforme al criterio clínico.
+
+-- Caso 2 --
+En la clasificación por órganos y sistemas, dentro de TRASTORNOS DEL SISTEMA RESPIRATORIO, se ha notificado Parada respiratoria con una frecuencia no frecuente durante el tratamiento con METADONA HIDROCLORURO. Este acontecimiento es coherente con el efecto farmacológico opioide sobre el control ventilatorio y requiere valoración clínica inmediata. Se recomienda vigilar estrechamente a los pacientes, en particular al inicio del tratamiento o tras ajustes de dosis, y adoptar las medidas de soporte adecuadas según la situación clínica.
+
+-- Caso 3 --
+En la evaluación del perfil de seguridad, dentro del sistema de clasificación de órganos TRASTORNOS DEL SISTEMA DIGESTIVO, se han notificado Vómitos, clasificados como muy frecuentes, asociados al tratamiento con METADONA HIDROCLORURO. Esta manifestación puede relacionarse con la actividad farmacológica sobre receptores opioides centrales y con variabilidad individual en la tolerancia durante el tratamiento.
+Se recomienda informar al paciente de la posible aparición de este evento y valorar su intensidad y persistencia en el seguimiento clínico, especialmente al inicio o tras ajustes de dosis. La actuación clínica debe individualizarse según la situación del paciente y la relación temporal con la administración.

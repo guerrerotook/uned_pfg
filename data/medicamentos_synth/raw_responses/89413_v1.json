@@ -1,0 +1,1088 @@
+{
+  "codigo": "89413",
+  "variante": 1,
+  "codigo_variant": "89413_v1",
+  "medicamento": "SOTALOL 80 mg comp",
+  "model": "gpt-5.5",
+  "style_variant_idx": 0,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "Resumen del perfil de seguridad\n\nEl perfil de seguridad de SOTALOL HIDROCLORURO es concordante con su actividad farmacológica y con la experiencia clínica acumulada en el uso terapéutico. Las reacciones notificadas fueron generalmente identificables durante el seguimiento clínico habitual y, en la mayoría de los casos, permitieron una valoración individual de la continuidad del tratamiento. La evaluación debe considerar la situación clínica basal, la dosis administrada y la presencia de factores predisponentes. En caso de aparición de manifestaciones clínicamente relevantes, se recomienda valorar la relación temporal con el tratamiento y aplicar las medidas habituales de monitorización. La información siguiente se presenta según el sistema de clasificación de órganos y la categoría de frecuencia comunicada.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS DE PIEL Y TEJIDOS\nFrecuentes: Alopecia, Erupción, Hiperhidrosis, Prurito, pirexia.\nFrecuencia no conocida: Trastornos psoriásicos.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\nFrecuentes: Alteración visual, Discapacidad auditiva.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\nMuy frecuentes: Bradicardia, Disnea, Dolor torácico, Edema, Electrocardiografía anormal, Palpitaciones.\nFrecuentes: Arritmia, Hipotensión, Insuficiencia cardíaca, Presíncope, Síncope, Torsade de pointes.\nFrecuencia no conocida: Angina de pecho, Bloqueo auriculoventricular, Enfermedad vascular periférica (síndrome de Raynaud, claudicación intermitente).\n\nTRASTORNOS PSIQUIÁTRICOS\nMuy frecuentes: Trastornos del sueño.\nFrecuentes: Ansiedad, Cambios del estado de ánimo, Depresión.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\nFrecuentes: Artralgia, Espasmos musculares, Mialgia.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\nFrecuentes: Asma.\nFrecuencia no conocida: Broncoespasmo.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nMuy frecuentes: Astenia, Cefaleas, Mareo, Vahído.\nFrecuentes: Disgeusia, Fatiga, Parestesia, Presíncope, Síncope.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nMuy frecuentes: Diarrea, Vómitos.\nFrecuentes: Dispepsia, Dolor abdominal, Flatulencia, Náuseas.\n\nTRASTORNOS DEL SISTEMA REPRODUCTOR\nFrecuentes: Disfunción sexual.\n\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN\nFrecuencia no conocida: Hipoglucemia.\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS\nFrecuencia no conocida: Trombocitopenia.\n\nDescripción de reacciones adversas seleccionadas\n\nAlgunas manifestaciones requieren especial atención por su posible repercusión sobre la tolerabilidad del tratamiento. La interpretación clínica debe realizarse de forma integrada, teniendo en cuenta los antecedentes del paciente, la indicación terapéutica y los tratamientos concomitantes. Cuando se observen cambios relevantes, debe considerarse una evaluación médica completa antes de modificar la pauta.\n\nLa comunicación de sospechas después de la autorización permite mantener actualizada la información de seguridad. Los profesionales sanitarios deben notificar cualquier acontecimiento sospechoso mediante los procedimientos establecidos. La decisión de continuar, ajustar o interrumpir el tratamiento debe basarse en la gravedad del cuadro, la evolución clínica y el balance individual entre beneficio y riesgo.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nDentro de Trastornos del sistema cardiovascular, se ha notificado Bradicardia con SOTALOL HIDROCLORURO; de acuerdo con la clasificación de frecuencia, estas reacciones son muy frecuentes. Este hallazgo es coherente con el efecto farmacológico del principio activo sobre la conducción y la respuesta cronotrópica cardiaca. Se recomienda valorar la frecuencia cardiaca y la situación clínica durante el tratamiento, especialmente al inicio y tras ajustes de dosis; si el cuadro es clínicamente relevante, debe considerarse la modificación del tratamiento conforme al criterio médico.\n\n-- Caso 2 --\nEn la clasificación por órganos y sistemas, Disgeusia se incluye dentro de Trastornos del sistema nervioso y se ha notificado como una de las reacciones adversas frecuentes durante el tratamiento con SOTALOL HIDROCLORURO. Su aparición puede relacionarse con cambios funcionales en la percepción gustativa durante la exposición al tratamiento, sin que implique necesariamente la suspensión inmediata. Se recomienda valorar la intensidad, la duración y la posible relación temporal con la administración, así como realizar seguimiento clínico si el síntoma persiste o interfiere con la adherencia terapéutica.\n\n-- Caso 3 --\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN: Hipoglucemia (frecuencia no conocida).\nDurante el tratamiento con SOTALOL HIDROCLORURO se ha descrito Hipoglucemia, especialmente en situaciones en las que la respuesta adrenérgica puede estar atenuada. Se recomienda valorar los factores de riesgo metabólico y realizar un seguimiento clínico adecuado, en particular en pacientes con control glucémico estrecho. La notificación de este acontecimiento debe considerarse conforme a los procedimientos habituales de farmacovigilancia.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "SOTALOL HIDROCLORURO",
+      "surface": "SOTALOL HIDROCLORURO",
+      "start": 59,
+      "end": 79
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 859,
+      "end": 887
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "Frecuentes",
+      "start": 888,
+      "end": 898
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alopecia",
+      "surface": "Alopecia",
+      "start": 900,
+      "end": 908
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción",
+      "surface": "Erupción",
+      "start": 910,
+      "end": 918
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperhidrosis",
+      "surface": "Hiperhidrosis",
+      "start": 920,
+      "end": 933
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito",
+      "start": 935,
+      "end": 942
+    },
+    {
+      "type": "REACT",
+      "canonical": "pirexia",
+      "surface": "pirexia",
+      "start": 944,
+      "end": 951
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "Frecuencia no conocida",
+      "start": 953,
+      "end": 975
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastornos psoriásicos",
+      "surface": "Trastornos psoriásicos",
+      "start": 977,
+      "end": 999
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 1002,
+      "end": 1039
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteración visual",
+      "surface": "Alteración visual",
+      "start": 1052,
+      "end": 1069
+    },
+    {
+      "type": "REACT",
+      "canonical": "Discapacidad auditiva",
+      "surface": "Discapacidad auditiva",
+      "start": 1071,
+      "end": 1092
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1095,
+      "end": 1132
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "Muy frecuentes",
+      "start": 1133,
+      "end": 1147
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bradicardia",
+      "surface": "Bradicardia",
+      "start": 1149,
+      "end": 1160
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disnea",
+      "surface": "Disnea",
+      "start": 1162,
+      "end": 1168
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor torácico",
+      "surface": "Dolor torácico",
+      "start": 1170,
+      "end": 1184
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema",
+      "surface": "Edema",
+      "start": 1186,
+      "end": 1191
+    },
+    {
+      "type": "REACT",
+      "canonical": "Electrocardiografía anormal",
+      "surface": "Electrocardiografía anormal",
+      "start": 1193,
+      "end": 1220
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones",
+      "start": 1222,
+      "end": 1235
+    },
+    {
+      "type": "REACT",
+      "canonical": "Arritmia",
+      "surface": "Arritmia",
+      "start": 1249,
+      "end": 1257
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión",
+      "start": 1259,
+      "end": 1270
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia cardíaca",
+      "surface": "Insuficiencia cardíaca",
+      "start": 1272,
+      "end": 1294
+    },
+    {
+      "type": "REACT",
+      "canonical": "Presíncope",
+      "surface": "Presíncope",
+      "start": 1296,
+      "end": 1306
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síncope",
+      "surface": "Síncope",
+      "start": 1308,
+      "end": 1315
+    },
+    {
+      "type": "REACT",
+      "canonical": "Torsade de pointes",
+      "surface": "Torsade de pointes",
+      "start": 1317,
+      "end": 1335
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angina de pecho",
+      "surface": "Angina de pecho",
+      "start": 1361,
+      "end": 1376
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bloqueo auriculoventricular",
+      "surface": "Bloqueo auriculoventricular",
+      "start": 1378,
+      "end": 1405
+    },
+    {
+      "type": "REACT",
+      "canonical": "Enfermedad vascular periférica (síndrome de Raynaud, claudicación intermitente)",
+      "surface": "Enfermedad vascular periférica (síndrome de Raynaud, claudicación intermitente)",
+      "start": 1407,
+      "end": 1486
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 1489,
+      "end": 1513
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastornos del sueño",
+      "surface": "Trastornos del sueño",
+      "start": 1530,
+      "end": 1550
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ansiedad",
+      "surface": "Ansiedad",
+      "start": 1564,
+      "end": 1572
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cambios del estado de ánimo",
+      "surface": "Cambios del estado de ánimo",
+      "start": 1574,
+      "end": 1601
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión",
+      "surface": "Depresión",
+      "start": 1603,
+      "end": 1612
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 1615,
+      "end": 1657
+    },
+    {
+      "type": "REACT",
+      "canonical": "Artralgia",
+      "surface": "Artralgia",
+      "start": 1670,
+      "end": 1679
+    },
+    {
+      "type": "REACT",
+      "canonical": "Espasmos musculares",
+      "surface": "Espasmos musculares",
+      "start": 1681,
+      "end": 1700
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mialgia",
+      "surface": "Mialgia",
+      "start": 1702,
+      "end": 1709
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 1712,
+      "end": 1747
+    },
+    {
+      "type": "REACT",
+      "canonical": "Asma",
+      "surface": "Asma",
+      "start": 1760,
+      "end": 1764
+    },
+    {
+      "type": "REACT",
+      "canonical": "Broncoespasmo",
+      "surface": "Broncoespasmo",
+      "start": 1790,
+      "end": 1803
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1806,
+      "end": 1837
+    },
+    {
+      "type": "REACT",
+      "canonical": "Astenia",
+      "surface": "Astenia",
+      "start": 1854,
+      "end": 1861
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefaleas",
+      "surface": "Cefaleas",
+      "start": 1863,
+      "end": 1871
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareo",
+      "surface": "Mareo",
+      "start": 1873,
+      "end": 1878
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vahído",
+      "surface": "Vahído",
+      "start": 1880,
+      "end": 1886
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disgeusia",
+      "surface": "Disgeusia",
+      "start": 1900,
+      "end": 1909
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "Fatiga",
+      "start": 1911,
+      "end": 1917
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parestesia",
+      "surface": "Parestesia",
+      "start": 1919,
+      "end": 1929
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1953,
+      "end": 1985
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea",
+      "start": 2002,
+      "end": 2009
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos",
+      "start": 2011,
+      "end": 2018
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dispepsia",
+      "surface": "Dispepsia",
+      "start": 2032,
+      "end": 2041
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor abdominal",
+      "surface": "Dolor abdominal",
+      "start": 2043,
+      "end": 2058
+    },
+    {
+      "type": "REACT",
+      "canonical": "Flatulencia",
+      "surface": "Flatulencia",
+      "start": 2060,
+      "end": 2071
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 2073,
+      "end": 2080
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "start": 2083,
+      "end": 2117
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disfunción sexual",
+      "surface": "Disfunción sexual",
+      "start": 2130,
+      "end": 2147
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "start": 2150,
+      "end": 2191
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipoglucemia",
+      "surface": "Hipoglucemia",
+      "start": 2216,
+      "end": 2228
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 2231,
+      "end": 2280
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombocitopenia",
+      "surface": "Trombocitopenia",
+      "start": 2305,
+      "end": 2320
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "Trastornos del sistema cardiovascular",
+      "start": 1095,
+      "end": 1132
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes",
+      "start": 1133,
+      "end": 1147
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "Trastornos del sistema nervioso",
+      "start": 1806,
+      "end": 1837
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 888,
+      "end": 898
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 953,
+      "end": 975
+    }
+  ],
+  "raw_long_doc_text": "Resumen del perfil de seguridad\n\nEl perfil de seguridad de SOTALOL HIDROCLORURO es concordante con su actividad farmacológica y con la experiencia clínica acumulada en el uso terapéutico. Las reacciones notificadas fueron generalmente identificables durante el seguimiento clínico habitual y, en la mayoría de los casos, permitieron una valoración individual de la continuidad del tratamiento. La evaluación debe considerar la situación clínica basal, la dosis administrada y la presencia de factores predisponentes. En caso de aparición de manifestaciones clínicamente relevantes, se recomienda valorar la relación temporal con el tratamiento y aplicar las medidas habituales de monitorización. La información siguiente se presenta según el sistema de clasificación de órganos y la categoría de frecuencia comunicada.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS DE PIEL Y TEJIDOS\nFrecuentes: Alopecia, Erupción, Hiperhidrosis, Prurito, pirexia.\nFrecuencia no conocida: Trastornos psoriásicos.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\nFrecuentes: Alteración visual, Discapacidad auditiva.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\nMuy frecuentes: Bradicardia, Disnea, Dolor torácico, Edema, Electrocardiografía anormal, Palpitaciones.\nFrecuentes: Arritmia, Hipotensión, Insuficiencia cardíaca, Presíncope, Síncope, Torsade de pointes.\nFrecuencia no conocida: Angina de pecho, Bloqueo auriculoventricular, Enfermedad vascular periférica (síndrome de Raynaud, claudicación intermitente).\n\nTRASTORNOS PSIQUIÁTRICOS\nMuy frecuentes: Trastornos del sueño.\nFrecuentes: Ansiedad, Cambios del estado de ánimo, Depresión.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\nFrecuentes: Artralgia, Espasmos musculares, Mialgia.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\nFrecuentes: Asma.\nFrecuencia no conocida: Broncoespasmo.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nMuy frecuentes: Astenia, Cefaleas, Mareo, Vahído.\nFrecuentes: Disgeusia, Fatiga, Parestesia, Presíncope, Síncope.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nMuy frecuentes: Diarrea, Vómitos.\nFrecuentes: Dispepsia, Dolor abdominal, Flatulencia, Náuseas.\n\nTRASTORNOS DEL SISTEMA REPRODUCTOR\nFrecuentes: Disfunción sexual.\n\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN\nFrecuencia no conocida: Hipoglucemia.\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS\nFrecuencia no conocida: Trombocitopenia.\n\nDescripción de reacciones adversas seleccionadas\n\nAlgunas manifestaciones requieren especial atención por su posible repercusión sobre la tolerabilidad del tratamiento. La interpretación clínica debe realizarse de forma integrada, teniendo en cuenta los antecedentes del paciente, la indicación terapéutica y los tratamientos concomitantes. Cuando se observen cambios relevantes, debe considerarse una evaluación médica completa antes de modificar la pauta.\n\nLa comunicación de sospechas después de la autorización permite mantener actualizada la información de seguridad. Los profesionales sanitarios deben notificar cualquier acontecimiento sospechoso mediante los procedimientos establecidos. La decisión de continuar, ajustar o interrumpir el tratamiento debe basarse en la gravedad del cuadro, la evolución clínica y el balance individual entre beneficio y riesgo.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "SOTALOL HIDROCLORURO",
+      "surface": "SOTALOL HIDROCLORURO"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "Frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alopecia",
+      "surface": "Alopecia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción",
+      "surface": "Erupción"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperhidrosis",
+      "surface": "Hiperhidrosis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito"
+    },
+    {
+      "type": "REACT",
+      "canonical": "pirexia",
+      "surface": "pirexia"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "Frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastornos psoriásicos",
+      "surface": "Trastornos psoriásicos"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "Frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteración visual",
+      "surface": "Alteración visual"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Discapacidad auditiva",
+      "surface": "Discapacidad auditiva"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "Muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bradicardia",
+      "surface": "Bradicardia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disnea",
+      "surface": "Disnea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor torácico",
+      "surface": "Dolor torácico"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema",
+      "surface": "Edema"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Electrocardiografía anormal",
+      "surface": "Electrocardiografía anormal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "Frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Arritmia",
+      "surface": "Arritmia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia cardíaca",
+      "surface": "Insuficiencia cardíaca"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Presíncope",
+      "surface": "Presíncope"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síncope",
+      "surface": "Síncope"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Torsade de pointes",
+      "surface": "Torsade de pointes"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "Frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angina de pecho",
+      "surface": "Angina de pecho"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bloqueo auriculoventricular",
+      "surface": "Bloqueo auriculoventricular"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Enfermedad vascular periférica (síndrome de Raynaud, claudicación intermitente)",
+      "surface": "Enfermedad vascular periférica (síndrome de Raynaud, claudicación intermitente)"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "Muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastornos del sueño",
+      "surface": "Trastornos del sueño"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "Frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ansiedad",
+      "surface": "Ansiedad"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cambios del estado de ánimo",
+      "surface": "Cambios del estado de ánimo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión",
+      "surface": "Depresión"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "Frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Artralgia",
+      "surface": "Artralgia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Espasmos musculares",
+      "surface": "Espasmos musculares"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mialgia",
+      "surface": "Mialgia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "Frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Asma",
+      "surface": "Asma"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "Frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Broncoespasmo",
+      "surface": "Broncoespasmo"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "Muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Astenia",
+      "surface": "Astenia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefaleas",
+      "surface": "Cefaleas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareo",
+      "surface": "Mareo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vahído",
+      "surface": "Vahído"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "Frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disgeusia",
+      "surface": "Disgeusia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "Fatiga"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parestesia",
+      "surface": "Parestesia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Presíncope",
+      "surface": "Presíncope"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síncope",
+      "surface": "Síncope"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "Muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "Frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dispepsia",
+      "surface": "Dispepsia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor abdominal",
+      "surface": "Dolor abdominal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Flatulencia",
+      "surface": "Flatulencia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "Frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disfunción sexual",
+      "surface": "Disfunción sexual"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "Frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipoglucemia",
+      "surface": "Hipoglucemia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "Frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombocitopenia",
+      "surface": "Trombocitopenia"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "SOTALOL 80 mg comp",
+        "pactivo": "SOTALOL HIDROCLORURO",
+        "reaccion": "Bradicardia",
+        "frecuencia": "MUY FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+      },
+      "text": "Dentro de Trastornos del sistema cardiovascular, se ha notificado Bradicardia con SOTALOL HIDROCLORURO; de acuerdo con la clasificación de frecuencia, estas reacciones son muy frecuentes. Este hallazgo es coherente con el efecto farmacológico del principio activo sobre la conducción y la respuesta cronotrópica cardiaca. Se recomienda valorar la frecuencia cardiaca y la situación clínica durante el tratamiento, especialmente al inicio y tras ajustes de dosis; si el cuadro es clínicamente relevante, debe considerarse la modificación del tratamiento conforme al criterio médico.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "surface": "Trastornos del sistema cardiovascular"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Bradicardia",
+          "surface": "Bradicardia"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SOTALOL HIDROCLORURO",
+          "surface": "SOTALOL HIDROCLORURO"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "MUY FRECUENTE",
+          "surface": "muy frecuentes"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "surface": "Trastornos del sistema cardiovascular",
+          "start": 10,
+          "end": 47
+        },
+        {
+          "type": "REACT",
+          "canonical": "Bradicardia",
+          "surface": "Bradicardia",
+          "start": 66,
+          "end": 77
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SOTALOL HIDROCLORURO",
+          "surface": "SOTALOL HIDROCLORURO",
+          "start": 82,
+          "end": 102
+        },
+        {
+          "type": "FREQ",
+          "canonical": "MUY FRECUENTE",
+          "surface": "muy frecuentes",
+          "start": 172,
+          "end": 186
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "SOTALOL 80 mg comp",
+        "pactivo": "SOTALOL HIDROCLORURO",
+        "reaccion": "Disgeusia",
+        "frecuencia": "FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA NERVIOSO"
+      },
+      "text": "En la clasificación por órganos y sistemas, Disgeusia se incluye dentro de Trastornos del sistema nervioso y se ha notificado como una de las reacciones adversas frecuentes durante el tratamiento con SOTALOL HIDROCLORURO. Su aparición puede relacionarse con cambios funcionales en la percepción gustativa durante la exposición al tratamiento, sin que implique necesariamente la suspensión inmediata. Se recomienda valorar la intensidad, la duración y la posible relación temporal con la administración, así como realizar seguimiento clínico si el síntoma persiste o interfiere con la adherencia terapéutica.",
+      "declared": [
+        {
+          "type": "REACT",
+          "canonical": "Disgeusia",
+          "surface": "Disgeusia"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "surface": "Trastornos del sistema nervioso"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SOTALOL HIDROCLORURO",
+          "surface": "SOTALOL HIDROCLORURO"
+        }
+      ],
+      "validated": [
+        {
+          "type": "REACT",
+          "canonical": "Disgeusia",
+          "surface": "Disgeusia",
+          "start": 44,
+          "end": 53
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "surface": "Trastornos del sistema nervioso",
+          "start": 75,
+          "end": 106
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes",
+          "start": 162,
+          "end": 172
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SOTALOL HIDROCLORURO",
+          "surface": "SOTALOL HIDROCLORURO",
+          "start": 200,
+          "end": 220
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "SOTALOL 80 mg comp",
+        "pactivo": "SOTALOL HIDROCLORURO",
+        "reaccion": "Hipoglucemia",
+        "frecuencia": "SIN FRECUENCIA",
+        "sistema": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN"
+      },
+      "text": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN: Hipoglucemia (frecuencia no conocida).\nDurante el tratamiento con SOTALOL HIDROCLORURO se ha descrito Hipoglucemia, especialmente en situaciones en las que la respuesta adrenérgica puede estar atenuada. Se recomienda valorar los factores de riesgo metabólico y realizar un seguimiento clínico adecuado, en particular en pacientes con control glucémico estrecho. La notificación de este acontecimiento debe considerarse conforme a los procedimientos habituales de farmacovigilancia.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+          "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Hipoglucemia",
+          "surface": "Hipoglucemia"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SOTALOL HIDROCLORURO",
+          "surface": "SOTALOL HIDROCLORURO"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Hipoglucemia",
+          "surface": "Hipoglucemia"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+          "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+          "start": 0,
+          "end": 41
+        },
+        {
+          "type": "REACT",
+          "canonical": "Hipoglucemia",
+          "surface": "Hipoglucemia",
+          "start": 43,
+          "end": 55
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida",
+          "start": 57,
+          "end": 79
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SOTALOL HIDROCLORURO",
+          "surface": "SOTALOL HIDROCLORURO",
+          "start": 109,
+          "end": 129
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

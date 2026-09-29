@@ -1,0 +1,42 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+
+El perfil de seguridad descrito para NOVALE se basa en la evaluación conjunta de los acontecimientos comunicados durante el uso clínico y el seguimiento posterior. En este documento, Kaftrio se utiliza como denominación breve del mismo tratamiento cuando se describe la experiencia de uso. En general, los acontecimientos observados fueron coherentes con la situación clínica de los pacientes y no obligaron, por sí solos, a modificar las recomendaciones generales de vigilancia. La mayor parte de las notificaciones se resolvieron con tratamiento sintomático o con observación clínica, según el criterio del profesional sanitario. La interpretación de cualquier episodio debe tener en cuenta el estado basal, la edad, los tratamientos concomitantes y la evolución temporal respecto al inicio o continuación del medicamento.
+
+La información se presenta siguiendo una agrupación por clasificación de órganos y una ordenación por categorías de frecuencia. Dentro de cada grupo, los términos se mantienen con una terminología médica estandarizada para facilitar la codificación y la comparación entre informes. La inclusión de un acontecimiento en la tabla no implica necesariamente causalidad individual en todos los casos, sino que refleja que se ha considerado relevante para la evaluación de seguridad. Se recomienda que los profesionales sanitarios documenten la fecha de inicio, la duración, la gravedad, la evolución y las medidas adoptadas, especialmente cuando el episodio se repita o interfiera con la continuidad del tratamiento.
+
+Lista tabulada de reacciones adversas
+
+INFECCIONES E INFESTACIONES
+muy frecuentes: Infección de las vías respiratorias altas; nasofaringitis.
+frecuentes: Gripe (gripe común); Rinitis.
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN
+frecuentes: Hipoglucemia.
+
+Descripción de reacciones adversas seleccionadas
+
+Los acontecimientos incluidos en el primer epígrafe pueden aparecer en periodos de mayor exposición comunitaria o coincidir con cambios estacionales. Por este motivo, la valoración clínica debe diferenciar el curso esperado de un cuadro intercurrente de una posible relación temporal con el tratamiento. Cuando se comunique un episodio, resulta útil registrar si existieron contactos cercanos, antecedentes recientes o necesidad de medicación de apoyo. La variante coloquial entre paréntesis se incorpora únicamente como ayuda para reconocer cómo puede describirlo el paciente, sin modificar la denominación médica utilizada en la lista tabulada.
+
+El acontecimiento incluido en el segundo epígrafe requiere una valoración individualizada, sobre todo en pacientes con antecedentes relevantes o con cambios recientes en la ingesta. Debe considerarse la situación clínica global y la posible contribución de otros tratamientos. Si se confirma una relación temporal clara, el seguimiento debe orientarse a prevenir recurrencias y a asegurar una comunicación adecuada con el paciente o sus cuidadores.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En la evaluación de seguridad, dentro del sistema de clasificación de órganos INFECCIONES E INFESTACIONES, se ha identificado la siguiente reacción adversa:
+- Rinitis: frecuentes.
+Durante el tratamiento con NOVALE, este hallazgo debe interpretarse en el contexto clínico del paciente y de su situación respiratoria basal. Se recomienda seguimiento clínico habitual y valoración de la continuidad del tratamiento si el episodio persiste o interfiere con la tolerabilidad, sin que ello implique necesariamente la suspensión automática. La notificación de sospechas contribuye a una caracterización más precisa del perfil de seguridad en uso poscomercialización.
+
+-- Caso 2 --
+En el sistema de clasificación de órganos Infecciones e infestaciones, se ha identificado la Infección de las vías respiratorias altas como una reacción adversa muy frecuente durante el tratamiento con NOVALE (Kaftrio). Este acontecimiento puede manifestarse como un cuadro catarral de vías altas, generalmente reconocido en la práctica clínica por síntomas respiratorios leves.
+
+Tabla de reacciones adversas:
+- Infección de las vías respiratorias altas: muy frecuentes.
+
+Se recomienda valorar la evolución clínica y aplicar las medidas de seguimiento habituales, especialmente si los síntomas persisten o se intensifican. La interpretación debe realizarse en el contexto del estado basal del paciente y del perfil de seguridad conocido del medicamento.
+
+-- Caso 3 --
+Dentro del sistema Trastornos del metabolismo y la nutrición, se ha notificado Hipoglucemia con una frecuencia de aparición frecuentes durante el tratamiento con NOVALE (Kaftrio). En la presentación tabulada de reacciones adversas debe recogerse como:
+- Trastornos del metabolismo y la nutrición: Hipoglucemia (glucemia baja), frecuentes.
+La Hipoglucemia puede requerir seguimiento clínico en pacientes con factores predisponentes, especialmente si existen cambios en la ingesta o en el tratamiento concomitante. Se recomienda valorar la monitorización de la glucemia según la situación clínica del paciente y adoptar las medidas habituales de manejo si aparece glucemia baja.

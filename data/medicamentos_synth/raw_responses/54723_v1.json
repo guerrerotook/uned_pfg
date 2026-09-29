@@ -1,0 +1,1132 @@
+{
+  "codigo": "54723",
+  "variante": 1,
+  "codigo_variant": "54723_v1",
+  "medicamento": "TRANGOREX 150 MG / 3 ML SOLUCIÓN INYECTABLE",
+  "model": "gpt-5.5",
+  "style_variant_idx": 0,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil de tolerabilidad de AMIODARONA HIDROCLORURO por vía intravenosa requiere vigilancia clínica durante y después de la perfusión. Las notificaciones recogidas proceden de la experiencia clínica y de la comunicación espontánea tras la comercialización. La aparición de acontecimientos relevantes puede estar influida por la situación basal del paciente, la velocidad de administración, la exposición acumulada y los tratamientos concomitantes. En algunos casos no es posible estimar la incidencia a partir de los datos disponibles. La evaluación individual debe considerar la gravedad del cuadro y la necesidad de medidas de soporte o de interrupción del tratamiento.\n\nLista tabulada de reacciones adversas\nLas reacciones se presentan por clasificación de órganos y por categoría de notificación.\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS\nfrecuencia no conocida: Agranulocitosis, Neutropenia.\n\nTRASTORNOS PSIQUIÁTRICOS\nfrecuencia no conocida: Alucinaciones, Delirium.\nfrecuentes: Disminución de la libido.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\nno frecuente: Apnea, Broncoespasmo, Pneumonitis intersticial o fibrosis, Síndrome de distrés respiratorio agudo (SDRA).\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\nno frecuente: Arritmias, Bradicardia acusada, Parada cardiaca, Paro sinusal, Sofocos.\nfrecuentes: Bradicardia moderada, Disminución de la presión sanguínea.\nfrecuencia no conocida: Torsade de pointes.\n\nTRASTORNOS DEL SISTEMA GENERAL\nfrecuentes: Cambios de la pigmentación, Celulitis, Dolor, Edema, Eritema, Extravasación, Flebitis, Induración, Infección, Infiltración, Inflamación, Necrosis, Tromboflebitis.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nno frecuente: Cefalea, Hipertensión intracraneal benigna (pseudotumor cerebri).\n\nTRASTORNOS DE PIEL Y TEJIDOS\nfrecuencia no conocida: Dermatitis bullosa, Necrolisis epidérmica tóxica (NET), Reacción medicamentosa con eosinofilia y síntomas sistémicos (DRESS), Síndrome de Stevens - Johnson (SSJ), Urticaria.\nfrecuentes: Eczema.\nno frecuente: Sudoración.\n\nLESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS\nfrecuencia no conocida: Disfunción primaria del injerto (DPI) post trasplante cardiaco.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\nfrecuencia no conocida: Dolor de espalda.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\nfrecuencia no conocida: Edema angioneurótico (edema de Quincke).\nno frecuente: Shock anafiláctico.\n\nTRASTORNOS DEL SISTEMA ENDOCRINO\nfrecuencia no conocida: Hipertiroidismo.\nno frecuente: Síndrome de secreción inadecuada de hormona antidiurética (SIADH).\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nno frecuente: Ictericia, Incremento de transaminasas, Insuficiencia hepática, Náuseas.\nfrecuencia no conocida: Pancreatitis aguda.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\nfrecuencia no conocida: Neuritis óptica, Neuropatía.\n\nDescripción de reacciones adversas seleccionadas\nDurante la administración parenteral debe disponerse de monitorización adecuada y de medios para el manejo inmediato de acontecimientos clínicamente significativos. La perfusión debe realizarse conforme a las recomendaciones de uso, evitando concentraciones o velocidades que puedan favorecer manifestaciones locales o sistémicas. Si aparecen signos de mala tolerancia, se recomienda valorar la situación hemodinámica, la función respiratoria y los parámetros analíticos pertinentes.\n\nLa notificación de sospechas de reacciones adversas después de la autorización del medicamento es importante. Permite una supervisión continuada de la relación beneficio-riesgo. Se invita a los profesionales sanitarios a comunicar cualquier sospecha mediante el sistema nacional de notificación, incluyendo la información disponible sobre dosis, duración, condiciones de administración, evolución clínica y tratamientos asociados.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nDentro de TRASTORNOS DEL SISTEMA CARDIOVASCULAR, Bradicardia moderada se clasifica entre las reacciones adversas frecuentes asociadas a AMIODARONA HIDROCLORURO. Este efecto es coherente con la acción farmacológica sobre la conducción y el automatismo cardiacos, por lo que se recomienda valorar la situación clínica del paciente y realizar seguimiento de la frecuencia cardiaca, especialmente durante la administración inicial o en pacientes con factores predisponentes. En caso de aparición, la continuación del tratamiento debe evaluarse según la intensidad del hallazgo y la respuesta clínica, siguiendo las medidas habituales de monitorización.\n\n-- Caso 2 --\nEn el sistema de clasificación de órganos TRASTORNOS PSIQUIÁTRICOS, se ha notificado Delirium asociado al uso de AMIODARONA HIDROCLORURO, con frecuencia no conocida. La identificación debe realizarse mediante evaluación clínica individual, teniendo en cuenta la situación basal del paciente, la exposición reciente al tratamiento y la posible contribución de factores intercurrentes. Se recomienda vigilancia clínica durante la administración y en el periodo posterior, así como valorar medidas de soporte y la reevaluación del tratamiento si la sintomatología persiste o resulta clínicamente significativa.\n\n-- Caso 3 --\nEn la clasificación por órganos y sistemas, dentro de Trastornos del sistema endocrino, se ha descrito Síndrome de secreción inadecuada de hormona antidiurética (SIADH) asociado al tratamiento con AMIODARONA HIDROCLORURO, con una frecuencia no frecuente. Este acontecimiento puede relacionarse con una alteración de la regulación de la hormona antidiurética durante la exposición al principio activo. En pacientes con datos clínicos o analíticos compatibles, se recomienda valorar la situación clínica, revisar el tratamiento concomitante y considerar medidas de seguimiento apropiadas según criterio médico.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "AMIODARONA HIDROCLORURO",
+      "surface": "AMIODARONA HIDROCLORURO",
+      "start": 87,
+      "end": 110
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 861,
+      "end": 910
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 911,
+      "end": 933
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agranulocitosis",
+      "surface": "Agranulocitosis",
+      "start": 935,
+      "end": 950
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neutropenia",
+      "surface": "Neutropenia",
+      "start": 952,
+      "end": 963
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 966,
+      "end": 990
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alucinaciones",
+      "surface": "Alucinaciones",
+      "start": 1015,
+      "end": 1028
+    },
+    {
+      "type": "REACT",
+      "canonical": "Delirium",
+      "surface": "Delirium",
+      "start": 1030,
+      "end": 1038
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 1040,
+      "end": 1050
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de la libido",
+      "surface": "Disminución de la libido",
+      "start": 1052,
+      "end": 1076
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 1079,
+      "end": 1114
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 1115,
+      "end": 1127
+    },
+    {
+      "type": "REACT",
+      "canonical": "Apnea",
+      "surface": "Apnea",
+      "start": 1129,
+      "end": 1134
+    },
+    {
+      "type": "REACT",
+      "canonical": "Broncoespasmo",
+      "surface": "Broncoespasmo",
+      "start": 1136,
+      "end": 1149
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pneumonitis intersticial o fibrosis",
+      "surface": "Pneumonitis intersticial o fibrosis",
+      "start": 1151,
+      "end": 1186
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de distrés respiratorio agudo (SDRA)",
+      "surface": "Síndrome de distrés respiratorio agudo (SDRA)",
+      "start": 1188,
+      "end": 1233
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1236,
+      "end": 1273
+    },
+    {
+      "type": "REACT",
+      "canonical": "Arritmias",
+      "surface": "Arritmias",
+      "start": 1288,
+      "end": 1297
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bradicardia acusada",
+      "surface": "Bradicardia acusada",
+      "start": 1299,
+      "end": 1318
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parada cardiaca",
+      "surface": "Parada cardiaca",
+      "start": 1320,
+      "end": 1335
+    },
+    {
+      "type": "REACT",
+      "canonical": "Paro sinusal",
+      "surface": "Paro sinusal",
+      "start": 1337,
+      "end": 1349
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sofocos",
+      "surface": "Sofocos",
+      "start": 1351,
+      "end": 1358
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bradicardia moderada",
+      "surface": "Bradicardia moderada",
+      "start": 1372,
+      "end": 1392
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de la presión sanguínea",
+      "surface": "Disminución de la presión sanguínea",
+      "start": 1394,
+      "end": 1429
+    },
+    {
+      "type": "REACT",
+      "canonical": "Torsade de pointes",
+      "surface": "Torsade de pointes",
+      "start": 1455,
+      "end": 1473
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 1476,
+      "end": 1506
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cambios de la pigmentación",
+      "surface": "Cambios de la pigmentación",
+      "start": 1519,
+      "end": 1545
+    },
+    {
+      "type": "REACT",
+      "canonical": "Celulitis",
+      "surface": "Celulitis",
+      "start": 1547,
+      "end": 1556
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor",
+      "surface": "Dolor",
+      "start": 1558,
+      "end": 1563
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema",
+      "surface": "Edema",
+      "start": 1565,
+      "end": 1570
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eritema",
+      "surface": "Eritema",
+      "start": 1572,
+      "end": 1579
+    },
+    {
+      "type": "REACT",
+      "canonical": "Extravasación",
+      "surface": "Extravasación",
+      "start": 1581,
+      "end": 1594
+    },
+    {
+      "type": "REACT",
+      "canonical": "Flebitis",
+      "surface": "Flebitis",
+      "start": 1596,
+      "end": 1604
+    },
+    {
+      "type": "REACT",
+      "canonical": "Induración",
+      "surface": "Induración",
+      "start": 1606,
+      "end": 1616
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infección",
+      "surface": "Infección",
+      "start": 1618,
+      "end": 1627
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infiltración",
+      "surface": "Infiltración",
+      "start": 1629,
+      "end": 1641
+    },
+    {
+      "type": "REACT",
+      "canonical": "Inflamación",
+      "surface": "Inflamación",
+      "start": 1643,
+      "end": 1654
+    },
+    {
+      "type": "REACT",
+      "canonical": "Necrosis",
+      "surface": "Necrosis",
+      "start": 1656,
+      "end": 1664
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tromboflebitis",
+      "surface": "Tromboflebitis",
+      "start": 1666,
+      "end": 1680
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1683,
+      "end": 1714
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea",
+      "start": 1729,
+      "end": 1736
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertensión intracraneal benigna (pseudotumor cerebri)",
+      "surface": "Hipertensión intracraneal benigna (pseudotumor cerebri)",
+      "start": 1738,
+      "end": 1793
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 1796,
+      "end": 1824
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dermatitis bullosa",
+      "surface": "Dermatitis bullosa",
+      "start": 1849,
+      "end": 1867
+    },
+    {
+      "type": "REACT",
+      "canonical": "Necrolisis epidérmica tóxica (NET)",
+      "surface": "Necrolisis epidérmica tóxica (NET)",
+      "start": 1869,
+      "end": 1903
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacción medicamentosa con eosinofilia y síntomas sistémicos (DRESS)",
+      "surface": "Reacción medicamentosa con eosinofilia y síntomas sistémicos (DRESS)",
+      "start": 1905,
+      "end": 1973
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de Stevens - Johnson (SSJ)",
+      "surface": "Síndrome de Stevens - Johnson (SSJ)",
+      "start": 1975,
+      "end": 2010
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria",
+      "start": 2012,
+      "end": 2021
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eczema",
+      "surface": "Eczema",
+      "start": 2035,
+      "end": 2041
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sudoración",
+      "surface": "Sudoración",
+      "start": 2057,
+      "end": 2067
+    },
+    {
+      "type": "SYS",
+      "canonical": "LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS",
+      "surface": "LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS",
+      "start": 2070,
+      "end": 2153
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disfunción primaria del injerto (DPI) post trasplante cardiaco",
+      "surface": "Disfunción primaria del injerto (DPI) post trasplante cardiaco",
+      "start": 2178,
+      "end": 2240
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 2243,
+      "end": 2285
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor de espalda",
+      "surface": "Dolor de espalda",
+      "start": 2310,
+      "end": 2326
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 2329,
+      "end": 2364
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema angioneurótico (edema de Quincke)",
+      "surface": "Edema angioneurótico (edema de Quincke)",
+      "start": 2389,
+      "end": 2428
+    },
+    {
+      "type": "REACT",
+      "canonical": "Shock anafiláctico",
+      "surface": "Shock anafiláctico",
+      "start": 2444,
+      "end": 2462
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "surface": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "start": 2465,
+      "end": 2497
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertiroidismo",
+      "surface": "Hipertiroidismo",
+      "start": 2522,
+      "end": 2537
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de secreción inadecuada de hormona antidiurética (SIADH)",
+      "surface": "Síndrome de secreción inadecuada de hormona antidiurética (SIADH)",
+      "start": 2553,
+      "end": 2618
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 2621,
+      "end": 2653
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ictericia",
+      "surface": "Ictericia",
+      "start": 2668,
+      "end": 2677
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de transaminasas",
+      "surface": "Incremento de transaminasas",
+      "start": 2679,
+      "end": 2706
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia hepática",
+      "surface": "Insuficiencia hepática",
+      "start": 2708,
+      "end": 2730
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 2732,
+      "end": 2739
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pancreatitis aguda",
+      "surface": "Pancreatitis aguda",
+      "start": 2765,
+      "end": 2783
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 2786,
+      "end": 2823
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neuritis óptica",
+      "surface": "Neuritis óptica",
+      "start": 2848,
+      "end": 2863
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neuropatía",
+      "surface": "Neuropatía",
+      "start": 2865,
+      "end": 2875
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "surface": "Trastornos del sistema endocrino",
+      "start": 2465,
+      "end": 2497
+    }
+  ],
+  "raw_long_doc_text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil de tolerabilidad de AMIODARONA HIDROCLORURO por vía intravenosa requiere vigilancia clínica durante y después de la perfusión. Las notificaciones recogidas proceden de la experiencia clínica y de la comunicación espontánea tras la comercialización. La aparición de acontecimientos relevantes puede estar influida por la situación basal del paciente, la velocidad de administración, la exposición acumulada y los tratamientos concomitantes. En algunos casos no es posible estimar la incidencia a partir de los datos disponibles. La evaluación individual debe considerar la gravedad del cuadro y la necesidad de medidas de soporte o de interrupción del tratamiento.\n\nLista tabulada de reacciones adversas\nLas reacciones se presentan por clasificación de órganos y por categoría de notificación.\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS\nfrecuencia no conocida: Agranulocitosis, Neutropenia.\n\nTRASTORNOS PSIQUIÁTRICOS\nfrecuencia no conocida: Alucinaciones, Delirium.\nfrecuentes: Disminución de la libido.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\nno frecuente: Apnea, Broncoespasmo, Pneumonitis intersticial o fibrosis, Síndrome de distrés respiratorio agudo (SDRA).\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\nno frecuente: Arritmias, Bradicardia acusada, Parada cardiaca, Paro sinusal, Sofocos.\nfrecuentes: Bradicardia moderada, Disminución de la presión sanguínea.\nfrecuencia no conocida: Torsade de pointes.\n\nTRASTORNOS DEL SISTEMA GENERAL\nfrecuentes: Cambios de la pigmentación, Celulitis, Dolor, Edema, Eritema, Extravasación, Flebitis, Induración, Infección, Infiltración, Inflamación, Necrosis, Tromboflebitis.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nno frecuente: Cefalea, Hipertensión intracraneal benigna (pseudotumor cerebri).\n\nTRASTORNOS DE PIEL Y TEJIDOS\nfrecuencia no conocida: Dermatitis bullosa, Necrolisis epidérmica tóxica (NET), Reacción medicamentosa con eosinofilia y síntomas sistémicos (DRESS), Síndrome de Stevens - Johnson (SSJ), Urticaria.\nfrecuentes: Eczema.\nno frecuente: Sudoración.\n\nLESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS\nfrecuencia no conocida: Disfunción primaria del injerto (DPI) post trasplante cardiaco.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\nfrecuencia no conocida: Dolor de espalda.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\nfrecuencia no conocida: Edema angioneurótico (edema de Quincke).\nno frecuente: Shock anafiláctico.\n\nTRASTORNOS DEL SISTEMA ENDOCRINO\nfrecuencia no conocida: Hipertiroidismo.\nno frecuente: Síndrome de secreción inadecuada de hormona antidiurética (SIADH).\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nno frecuente: Ictericia, Incremento de transaminasas, Insuficiencia hepática, Náuseas.\nfrecuencia no conocida: Pancreatitis aguda.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\nfrecuencia no conocida: Neuritis óptica, Neuropatía.\n\nDescripción de reacciones adversas seleccionadas\nDurante la administración parenteral debe disponerse de monitorización adecuada y de medios para el manejo inmediato de acontecimientos clínicamente significativos. La perfusión debe realizarse conforme a las recomendaciones de uso, evitando concentraciones o velocidades que puedan favorecer manifestaciones locales o sistémicas. Si aparecen signos de mala tolerancia, se recomienda valorar la situación hemodinámica, la función respiratoria y los parámetros analíticos pertinentes.\n\nLa notificación de sospechas de reacciones adversas después de la autorización del medicamento es importante. Permite una supervisión continuada de la relación beneficio-riesgo. Se invita a los profesionales sanitarios a comunicar cualquier sospecha mediante el sistema nacional de notificación, incluyendo la información disponible sobre dosis, duración, condiciones de administración, evolución clínica y tratamientos asociados.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "AMIODARONA HIDROCLORURO",
+      "surface": "AMIODARONA HIDROCLORURO"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agranulocitosis",
+      "surface": "Agranulocitosis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neutropenia",
+      "surface": "Neutropenia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alucinaciones",
+      "surface": "Alucinaciones"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Delirium",
+      "surface": "Delirium"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de la libido",
+      "surface": "Disminución de la libido"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Apnea",
+      "surface": "Apnea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Broncoespasmo",
+      "surface": "Broncoespasmo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pneumonitis intersticial o fibrosis",
+      "surface": "Pneumonitis intersticial o fibrosis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de distrés respiratorio agudo (SDRA)",
+      "surface": "Síndrome de distrés respiratorio agudo (SDRA)"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Arritmias",
+      "surface": "Arritmias"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bradicardia acusada",
+      "surface": "Bradicardia acusada"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parada cardiaca",
+      "surface": "Parada cardiaca"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Paro sinusal",
+      "surface": "Paro sinusal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sofocos",
+      "surface": "Sofocos"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bradicardia moderada",
+      "surface": "Bradicardia moderada"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de la presión sanguínea",
+      "surface": "Disminución de la presión sanguínea"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Torsade de pointes",
+      "surface": "Torsade de pointes"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cambios de la pigmentación",
+      "surface": "Cambios de la pigmentación"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Celulitis",
+      "surface": "Celulitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor",
+      "surface": "Dolor"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema",
+      "surface": "Edema"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eritema",
+      "surface": "Eritema"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Extravasación",
+      "surface": "Extravasación"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Flebitis",
+      "surface": "Flebitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Induración",
+      "surface": "Induración"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infección",
+      "surface": "Infección"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infiltración",
+      "surface": "Infiltración"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Inflamación",
+      "surface": "Inflamación"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Necrosis",
+      "surface": "Necrosis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tromboflebitis",
+      "surface": "Tromboflebitis"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertensión intracraneal benigna (pseudotumor cerebri)",
+      "surface": "Hipertensión intracraneal benigna (pseudotumor cerebri)"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dermatitis bullosa",
+      "surface": "Dermatitis bullosa"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Necrolisis epidérmica tóxica (NET)",
+      "surface": "Necrolisis epidérmica tóxica (NET)"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacción medicamentosa con eosinofilia y síntomas sistémicos (DRESS)",
+      "surface": "Reacción medicamentosa con eosinofilia y síntomas sistémicos (DRESS)"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de Stevens - Johnson (SSJ)",
+      "surface": "Síndrome de Stevens - Johnson (SSJ)"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eczema",
+      "surface": "Eczema"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sudoración",
+      "surface": "Sudoración"
+    },
+    {
+      "type": "SYS",
+      "canonical": "LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS",
+      "surface": "LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disfunción primaria del injerto (DPI) post trasplante cardiaco",
+      "surface": "Disfunción primaria del injerto (DPI) post trasplante cardiaco"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor de espalda",
+      "surface": "Dolor de espalda"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema angioneurótico (edema de Quincke)",
+      "surface": "Edema angioneurótico (edema de Quincke)"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Shock anafiláctico",
+      "surface": "Shock anafiláctico"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "surface": "TRASTORNOS DEL SISTEMA ENDOCRINO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertiroidismo",
+      "surface": "Hipertiroidismo"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de secreción inadecuada de hormona antidiurética (SIADH)",
+      "surface": "Síndrome de secreción inadecuada de hormona antidiurética (SIADH)"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ictericia",
+      "surface": "Ictericia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de transaminasas",
+      "surface": "Incremento de transaminasas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia hepática",
+      "surface": "Insuficiencia hepática"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pancreatitis aguda",
+      "surface": "Pancreatitis aguda"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neuritis óptica",
+      "surface": "Neuritis óptica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neuropatía",
+      "surface": "Neuropatía"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "TRANGOREX 150 MG / 3 ML SOLUCIÓN INYECTABLE",
+        "pactivo": "AMIODARONA HIDROCLORURO",
+        "reaccion": "Bradicardia moderada",
+        "frecuencia": "FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+      },
+      "text": "Dentro de TRASTORNOS DEL SISTEMA CARDIOVASCULAR, Bradicardia moderada se clasifica entre las reacciones adversas frecuentes asociadas a AMIODARONA HIDROCLORURO. Este efecto es coherente con la acción farmacológica sobre la conducción y el automatismo cardiacos, por lo que se recomienda valorar la situación clínica del paciente y realizar seguimiento de la frecuencia cardiaca, especialmente durante la administración inicial o en pacientes con factores predisponentes. En caso de aparición, la continuación del tratamiento debe evaluarse según la intensidad del hallazgo y la respuesta clínica, siguiendo las medidas habituales de monitorización.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Bradicardia moderada",
+          "surface": "Bradicardia moderada"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "AMIODARONA HIDROCLORURO",
+          "surface": "AMIODARONA HIDROCLORURO"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "start": 10,
+          "end": 47
+        },
+        {
+          "type": "REACT",
+          "canonical": "Bradicardia moderada",
+          "surface": "Bradicardia moderada",
+          "start": 49,
+          "end": 69
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes",
+          "start": 113,
+          "end": 123
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "AMIODARONA HIDROCLORURO",
+          "surface": "AMIODARONA HIDROCLORURO",
+          "start": 136,
+          "end": 159
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "TRANGOREX 150 MG / 3 ML SOLUCIÓN INYECTABLE",
+        "pactivo": "AMIODARONA HIDROCLORURO",
+        "reaccion": "Delirium",
+        "frecuencia": "SIN FRECUENCIA",
+        "sistema": "TRASTORNOS PSIQUIÁTRICOS"
+      },
+      "text": "En el sistema de clasificación de órganos TRASTORNOS PSIQUIÁTRICOS, se ha notificado Delirium asociado al uso de AMIODARONA HIDROCLORURO, con frecuencia no conocida. La identificación debe realizarse mediante evaluación clínica individual, teniendo en cuenta la situación basal del paciente, la exposición reciente al tratamiento y la posible contribución de factores intercurrentes. Se recomienda vigilancia clínica durante la administración y en el periodo posterior, así como valorar medidas de soporte y la reevaluación del tratamiento si la sintomatología persiste o resulta clínicamente significativa.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+          "surface": "TRASTORNOS PSIQUIÁTRICOS"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Delirium",
+          "surface": "Delirium"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "AMIODARONA HIDROCLORURO",
+          "surface": "AMIODARONA HIDROCLORURO"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+          "surface": "TRASTORNOS PSIQUIÁTRICOS",
+          "start": 42,
+          "end": 66
+        },
+        {
+          "type": "REACT",
+          "canonical": "Delirium",
+          "surface": "Delirium",
+          "start": 85,
+          "end": 93
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "AMIODARONA HIDROCLORURO",
+          "surface": "AMIODARONA HIDROCLORURO",
+          "start": 113,
+          "end": 136
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida",
+          "start": 142,
+          "end": 164
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "TRANGOREX 150 MG / 3 ML SOLUCIÓN INYECTABLE",
+        "pactivo": "AMIODARONA HIDROCLORURO",
+        "reaccion": "Síndrome de secreción inadecuada de hormona antidiurética (SIADH)",
+        "frecuencia": "NO FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA ENDOCRINO"
+      },
+      "text": "En la clasificación por órganos y sistemas, dentro de Trastornos del sistema endocrino, se ha descrito Síndrome de secreción inadecuada de hormona antidiurética (SIADH) asociado al tratamiento con AMIODARONA HIDROCLORURO, con una frecuencia no frecuente. Este acontecimiento puede relacionarse con una alteración de la regulación de la hormona antidiurética durante la exposición al principio activo. En pacientes con datos clínicos o analíticos compatibles, se recomienda valorar la situación clínica, revisar el tratamiento concomitante y considerar medidas de seguimiento apropiadas según criterio médico.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+          "surface": "Trastornos del sistema endocrino"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Síndrome de secreción inadecuada de hormona antidiurética (SIADH)",
+          "surface": "Síndrome de secreción inadecuada de hormona antidiurética (SIADH)"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "AMIODARONA HIDROCLORURO",
+          "surface": "AMIODARONA HIDROCLORURO"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+          "surface": "Trastornos del sistema endocrino",
+          "start": 54,
+          "end": 86
+        },
+        {
+          "type": "REACT",
+          "canonical": "Síndrome de secreción inadecuada de hormona antidiurética (SIADH)",
+          "surface": "Síndrome de secreción inadecuada de hormona antidiurética (SIADH)",
+          "start": 103,
+          "end": 168
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "AMIODARONA HIDROCLORURO",
+          "surface": "AMIODARONA HIDROCLORURO",
+          "start": 197,
+          "end": 220
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente",
+          "start": 241,
+          "end": 253
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

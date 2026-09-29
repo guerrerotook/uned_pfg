@@ -1,0 +1,56 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+
+El perfil de seguridad de SUXAMETONIO CLORURO se corresponde con el esperado para un bloqueante neuromuscular despolarizante utilizado en anestesia y procedimientos que requieren relajación muscular de inicio rápido. La aparición de efectos no deseados puede estar influida por el estado clínico del paciente, la medicación concomitante, la técnica anestésica y la duración de la intervención. La vigilancia clínica debe mantenerse desde la administración hasta la recuperación adecuada de la función neuromuscular y ventilatoria. En pacientes con factores predisponentes, el seguimiento de los parámetros hemodinámicos, respiratorios y metabólicos resulta especialmente relevante. La información siguiente agrupa las observaciones comunicadas según la clasificación por órganos y sistemas y la categoría de frecuencia utilizada en fichas técnicas.
+
+Lista tabulada de reacciones adversas
+
+Trastornos del sistema cardiovascular
+frecuentes: Bradicardia, Rubefacción cutánea, taquicardia.
+poco frecuentes: Arritmias (incluidas arritmias ventriculares), paro cardiaco.
+frecuencia no conocida: Hipertensión, Hipotensión.
+
+Trastornos del sistema respiratorio
+poco frecuentes: Broncoespasmo, apnea, depresión respiratoria prolongada.
+
+Trastornos del sistema digestivo
+muy frecuentes: Aumento de la presión intragástrica.
+frecuencia no conocida: Salivación excesiva.
+
+Trastornos de órganos de los sentidos
+frecuentes: Aumento de la presión intraocular.
+
+Trastornos del sistema general
+frecuentes: Aumento transitorio del potasio en sangre.
+poco frecuentes: Hipertermia maligna.
+
+Trastornos del sistema músculo-esquelético
+muy frecuentes: Fasciculación muscular, dolor muscular posoperatorio.
+frecuentes: Mioglobinemia, mioglobinuria.
+poco frecuentes: Trismo.
+
+Trastornos de piel y tejidos
+frecuentes: Erupción.
+
+Trastornos del sistema inmunológico
+poco frecuentes: Reacciones anafilácticas.
+
+Descripción de reacciones adversas seleccionadas
+
+Algunas manifestaciones pueden aparecer de forma inmediata tras la administración y suelen identificarse durante la inducción o en los primeros minutos posteriores. La evaluación debe realizarse en el contexto del procedimiento, ya que la propia anestesia, la intubación, la ventilación asistida y la situación basal del paciente pueden modificar la expresión clínica de los acontecimientos observados. Cuando se detecten signos de relevancia clínica, se recomienda aplicar las medidas habituales de soporte y mantener una monitorización estrecha hasta la estabilización.
+
+Las alteraciones musculares y los cambios transitorios de parámetros fisiológicos se han descrito de forma característica en relación temporal con el uso del fármaco. En la práctica clínica, la intensidad puede variar ampliamente entre pacientes y no siempre requiere intervención específica. No obstante, la persistencia de los hallazgos o su asociación con deterioro clínico debe considerarse motivo de valoración inmediata.
+
+Las manifestaciones respiratorias, cardiovasculares o inmunológicas requieren especial atención por su posible impacto en el manejo anestésico. La disponibilidad de medios de ventilación, monitorización y tratamiento de urgencia forma parte de las precauciones habituales cuando se administra este tipo de medicamento. La notificación de sospechas de reacciones adversas permite continuar evaluando la relación beneficio-riesgo del tratamiento.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+Dentro de los Trastornos del sistema músculo-esquelético, la Fasciculación muscular se considera una reacción adversa muy frecuente asociada a la administración de SUXAMETONIO CLORURO. Este hallazgo es coherente con el inicio rápido del bloqueo despolarizante en la placa motora y suele observarse en relación temporal estrecha con la administración. En la práctica clínica debe registrarse su aparición y valorarse en el contexto del procedimiento anestésico y de la situación neuromuscular del paciente. La información de seguridad debe interpretarse junto con la dosis administrada y las condiciones de uso, manteniendo la vigilancia clínica habitual durante y después de la administración.
+
+-- Caso 2 --
+En el sistema TRASTORNOS DEL SISTEMA DIGESTIVO se ha identificado Salivación excesiva asociada a la administración de SUXAMETONIO CLORURO, con frecuencia no conocida. Este efecto puede relacionarse con la estimulación colinérgica periférica propia del bloqueo neuromuscular despolarizante y debe valorarse en el contexto clínico del paciente. Se recomienda vigilancia clínica durante la administración y en el periodo inmediato posterior, especialmente cuando el aumento de secreciones pueda interferir con el manejo de la vía aérea o requerir medidas de soporte habituales.
+
+-- Caso 3 --
+Dentro de la clasificación por órganos y sistemas, en Trastornos del sistema respiratorio, se ha descrito depresión respiratoria prolongada con frecuencia no frecuente durante el uso de SUXAMETONIO CLORURO. Este acontecimiento puede estar relacionado con la persistencia del efecto farmacológico tras la administración, especialmente en pacientes susceptibles o cuando la recuperación de la función neuromuscular es más lenta de lo esperado. Se recomienda mantener una vigilancia clínica adecuada y disponer de medidas de soporte ventilatorio hasta la recuperación completa de la respiración espontánea.

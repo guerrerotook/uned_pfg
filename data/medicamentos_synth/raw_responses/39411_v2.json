@@ -1,0 +1,767 @@
+{
+  "codigo": "39411",
+  "variante": 2,
+  "codigo_variant": "39411_v2",
+  "medicamento": "SYNALAR GAMMA 0,01% crema 60 g",
+  "model": "gpt-5.5",
+  "style_variant_idx": 1,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nLas reacciones comunicadas con esta crema son, en general, de carácter local y aparecen en el área de aplicación. La probabilidad de aparición puede aumentar cuando el medicamento se utiliza durante periodos prolongados, en superficies extensas o en condiciones que incrementan la absorción cutánea. En esta formulación, PARAHIDROXIBENZOATO DE METILO (E-218) (metilparabeno), PARAHIDROXIBENZOATO DE PROPILO (propilparabeno) y SORBITAN MONOESTEARATO forman parte de la composición y deben considerarse al valorar la tolerabilidad individual. La evaluación clínica debe tener en cuenta la duración del tratamiento, la cantidad aplicada y el estado previo de la zona tratada. Si aparece una manifestación persistente o inesperada, se recomienda revisar la necesidad de continuar el tratamiento y adoptar las medidas clínicas habituales.\n\nLista tabulada de reacciones adversas\nLas reacciones se presentan según el sistema de clasificación de órganos y la categoría de frecuencia correspondiente.\n\nTRASTORNOS DE PIEL Y TEJIDOS\nPoco frecuentes:\nAtrofia cutánea, a menudo irreversible, con adelgazamiento de la epidermis; Dermatitis perioral; Dermatitis y eczema, incluyendo dermatitis de contacto; Despigmentación de la piel; Efecto rebote; Erupciones acneiformes; Estrías en la piel; Púrpura; Sensación de quemazón (ardor); Telangiectasia.\n\nFrecuencia no conocida:\nFoliculitis; Hipertricosis; Infección secundaria; Maceración dérmica; Miliaria; Prurito; Sequedad de la piel.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\nFrecuencia no conocida:\nHipersensibilidad.\n\nTRASTORNOS DEL SISTEMA ENDOCRINO\nPoco frecuentes:\nSupresión adrenal.\n\nDescripción de reacciones adversas seleccionadas\nEl control periódico de la zona de aplicación puede facilitar la detección temprana de cambios locales. En tratamientos repetidos, conviene emplear la menor cantidad necesaria y evitar aplicaciones innecesarias, especialmente si la piel presenta fragilidad o ha estado expuesta previamente a tratamientos tópicos intensivos. La interrupción del uso debe realizarse conforme al criterio clínico, teniendo en cuenta la evolución de la lesión tratada y la respuesta observada.\n\nLa aparición de signos persistentes tras la aplicación debe diferenciarse de la evolución natural del proceso tratado. Cuando el cuadro no mejore o se observe un empeoramiento, debe reconsiderarse el diagnóstico y la pauta de uso. En pacientes con mayor susceptibilidad individual, la valoración debe ser prudente y puede requerir la suspensión del preparado. La notificación de sospechas de reacciones adversas permite continuar evaluando la relación beneficio-riesgo del medicamento.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nEn la experiencia poscomercialización de SYNALAR GAMMA 0,01% crema 60 g, se ha notificado maceración dérmica (piel reblandecida), especialmente cuando se favorece la oclusión o la humedad local. Este efecto se clasifica dentro de Trastornos de piel y tejidos y su frecuencia no conocida no permite estimar la incidencia a partir de los datos disponibles. Entre los excipientes con potencial irritante se incluyen parahidroxibenzoato de metilo (E-218) y parahidroxibenzoato de propilo, conocidos como metil/propilparabeno; se recomienda valorar la evolución local y revisar las condiciones de aplicación.\n\n- Maceración dérmica: frecuencia no conocida.\n\n-- Caso 2 --\nEn el apartado de Trastornos de piel y tejidos, se incluye la siguiente reacción adversa observada durante el uso cutáneo de SYNALAR GAMMA 0,01% crema 60 g, que contiene PARAHIDROXIBENZOATO DE METILO (E-218), PARAHIDROXIBENZOATO DE PROPILO, SORBITAN MONOESTEARATO, como componente declarado.\n\n- Telangiectasia: no frecuente.\n\nLa Telangiectasia puede relacionarse con cambios vasculares locales favorecidos por la exposición mantenida en zonas sensibles; en términos habituales puede describirse como pequeños vasos visibles (arañitas vasculares). Se recomienda revisar la técnica de aplicación y valorar la continuidad del tratamiento si persiste o progresa.\n\n-- Caso 3 --\nEn la evaluación de seguridad de SYNALAR GAMMA 0,01% crema 60 g se ha identificado, dentro de Trastornos de piel y tejidos, la siguiente reacción adversa atribuible al contexto de uso cutáneo del preparado que contiene parahidroxibenzoato de metilo (E-218), también conocido como metilparabeno, junto con parahidroxibenzoato de propilo y sorbitan monoestearato.\n\n- Miliaria (sudamina): frecuencia no conocida.\n\nLa aparición de esta manifestación puede relacionarse con oclusión local o ambiente caluroso en áreas tratadas. Se recomienda vigilar la evolución clínica y reconsiderar la continuidad del tratamiento si persiste o resulta clínicamente relevante.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "PARAHIDROXIBENZOATO DE METILO (E-218)",
+      "surface": "PARAHIDROXIBENZOATO DE METILO (E-218)",
+      "start": 378,
+      "end": 415
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "PARAHIDROXIBENZOATO DE METILO (E-218)",
+      "surface": "metilparabeno",
+      "start": 417,
+      "end": 430
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "PARAHIDROXIBENZOATO DE PROPILO",
+      "surface": "PARAHIDROXIBENZOATO DE PROPILO",
+      "start": 433,
+      "end": 463
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "PARAHIDROXIBENZOATO DE PROPILO",
+      "surface": "propilparabeno",
+      "start": 465,
+      "end": 479
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "SORBITAN MONOESTEARATO",
+      "surface": "SORBITAN MONOESTEARATO",
+      "start": 483,
+      "end": 505
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 1050,
+      "end": 1078
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "Poco frecuentes",
+      "start": 1079,
+      "end": 1094
+    },
+    {
+      "type": "REACT",
+      "canonical": "Atrofia cutánea, a menudo irreversible, con adelgazamiento de la epidermis",
+      "surface": "Atrofia cutánea, a menudo irreversible, con adelgazamiento de la epidermis",
+      "start": 1096,
+      "end": 1170
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dermatitis perioral",
+      "surface": "Dermatitis perioral",
+      "start": 1172,
+      "end": 1191
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dermatitis y eczema, incluyendo dermatitis de contacto",
+      "surface": "Dermatitis y eczema, incluyendo dermatitis de contacto",
+      "start": 1193,
+      "end": 1247
+    },
+    {
+      "type": "REACT",
+      "canonical": "Despigmentación de la piel",
+      "surface": "Despigmentación de la piel",
+      "start": 1249,
+      "end": 1275
+    },
+    {
+      "type": "REACT",
+      "canonical": "Efecto rebote",
+      "surface": "Efecto rebote",
+      "start": 1277,
+      "end": 1290
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupciones acneiformes",
+      "surface": "Erupciones acneiformes",
+      "start": 1292,
+      "end": 1314
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estrías en la piel",
+      "surface": "Estrías en la piel",
+      "start": 1316,
+      "end": 1334
+    },
+    {
+      "type": "REACT",
+      "canonical": "Púrpura",
+      "surface": "Púrpura",
+      "start": 1336,
+      "end": 1343
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sensación de quemazón",
+      "surface": "Sensación de quemazón",
+      "start": 1345,
+      "end": 1366
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sensación de quemazón",
+      "surface": "ardor",
+      "start": 1368,
+      "end": 1373
+    },
+    {
+      "type": "REACT",
+      "canonical": "Telangiectasia",
+      "surface": "Telangiectasia",
+      "start": 1376,
+      "end": 1390
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "Frecuencia no conocida",
+      "start": 1393,
+      "end": 1415
+    },
+    {
+      "type": "REACT",
+      "canonical": "Foliculitis",
+      "surface": "Foliculitis",
+      "start": 1417,
+      "end": 1428
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertricosis",
+      "surface": "Hipertricosis",
+      "start": 1430,
+      "end": 1443
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infección secundaria",
+      "surface": "Infección secundaria",
+      "start": 1445,
+      "end": 1465
+    },
+    {
+      "type": "REACT",
+      "canonical": "Maceración dérmica",
+      "surface": "Maceración dérmica",
+      "start": 1467,
+      "end": 1485
+    },
+    {
+      "type": "REACT",
+      "canonical": "Miliaria",
+      "surface": "Miliaria",
+      "start": 1487,
+      "end": 1495
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito",
+      "start": 1497,
+      "end": 1504
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad de la piel",
+      "surface": "Sequedad de la piel",
+      "start": 1506,
+      "end": 1525
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 1528,
+      "end": 1563
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipersensibilidad",
+      "surface": "Hipersensibilidad",
+      "start": 1588,
+      "end": 1605
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "surface": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "start": 1608,
+      "end": 1640
+    },
+    {
+      "type": "REACT",
+      "canonical": "Supresión adrenal",
+      "surface": "Supresión adrenal",
+      "start": 1658,
+      "end": 1675
+    },
+    {
+      "type": "REACT",
+      "canonical": "Maceración dérmica",
+      "surface": "maceración dérmica",
+      "start": 1467,
+      "end": 1485
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "Trastornos de piel y tejidos",
+      "start": 1050,
+      "end": 1078
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 1393,
+      "end": 1415
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "PARAHIDROXIBENZOATO DE METILO (E-218), PARAHIDROXIBENZOATO DE PROPILO, SORBITAN MONOESTEARATO,",
+      "surface": "parahidroxibenzoato de metilo (E-218)",
+      "start": 378,
+      "end": 415
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "PARAHIDROXIBENZOATO DE METILO (E-218), PARAHIDROXIBENZOATO DE PROPILO, SORBITAN MONOESTEARATO,",
+      "surface": "parahidroxibenzoato de propilo",
+      "start": 433,
+      "end": 463
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "PARAHIDROXIBENZOATO DE METILO (E-218), PARAHIDROXIBENZOATO DE PROPILO, SORBITAN MONOESTEARATO,",
+      "surface": "metil/propilparabeno",
+      "start": 3265,
+      "end": 3285
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "PARAHIDROXIBENZOATO DE METILO (E-218), PARAHIDROXIBENZOATO DE PROPILO, SORBITAN MONOESTEARATO,",
+      "surface": "PARAHIDROXIBENZOATO DE METILO (E-218), PARAHIDROXIBENZOATO DE PROPILO, SORBITAN MONOESTEARATO,",
+      "start": 3600,
+      "end": 3694
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 3741,
+      "end": 3753
+    },
+    {
+      "type": "REACT",
+      "canonical": "Telangiectasia",
+      "surface": "arañitas vasculares",
+      "start": 3955,
+      "end": 3974
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "PARAHIDROXIBENZOATO DE METILO (E-218), PARAHIDROXIBENZOATO DE PROPILO, SORBITAN MONOESTEARATO,",
+      "surface": "metilparabeno",
+      "start": 417,
+      "end": 430
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "PARAHIDROXIBENZOATO DE METILO (E-218), PARAHIDROXIBENZOATO DE PROPILO, SORBITAN MONOESTEARATO,",
+      "surface": "sorbitan monoestearato",
+      "start": 483,
+      "end": 505
+    },
+    {
+      "type": "REACT",
+      "canonical": "Miliaria",
+      "surface": "sudamina",
+      "start": 4478,
+      "end": 4486
+    }
+  ],
+  "raw_long_doc_text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nLas reacciones comunicadas con esta crema son, en general, de carácter local y aparecen en el área de aplicación. La probabilidad de aparición puede aumentar cuando el medicamento se utiliza durante periodos prolongados, en superficies extensas o en condiciones que incrementan la absorción cutánea. En esta formulación, PARAHIDROXIBENZOATO DE METILO (E-218) (metilparabeno), PARAHIDROXIBENZOATO DE PROPILO (propilparabeno) y SORBITAN MONOESTEARATO forman parte de la composición y deben considerarse al valorar la tolerabilidad individual. La evaluación clínica debe tener en cuenta la duración del tratamiento, la cantidad aplicada y el estado previo de la zona tratada. Si aparece una manifestación persistente o inesperada, se recomienda revisar la necesidad de continuar el tratamiento y adoptar las medidas clínicas habituales.\n\nLista tabulada de reacciones adversas\nLas reacciones se presentan según el sistema de clasificación de órganos y la categoría de frecuencia correspondiente.\n\nTRASTORNOS DE PIEL Y TEJIDOS\nPoco frecuentes:\nAtrofia cutánea, a menudo irreversible, con adelgazamiento de la epidermis; Dermatitis perioral; Dermatitis y eczema, incluyendo dermatitis de contacto; Despigmentación de la piel; Efecto rebote; Erupciones acneiformes; Estrías en la piel; Púrpura; Sensación de quemazón (ardor); Telangiectasia.\n\nFrecuencia no conocida:\nFoliculitis; Hipertricosis; Infección secundaria; Maceración dérmica; Miliaria; Prurito; Sequedad de la piel.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\nFrecuencia no conocida:\nHipersensibilidad.\n\nTRASTORNOS DEL SISTEMA ENDOCRINO\nPoco frecuentes:\nSupresión adrenal.\n\nDescripción de reacciones adversas seleccionadas\nEl control periódico de la zona de aplicación puede facilitar la detección temprana de cambios locales. En tratamientos repetidos, conviene emplear la menor cantidad necesaria y evitar aplicaciones innecesarias, especialmente si la piel presenta fragilidad o ha estado expuesta previamente a tratamientos tópicos intensivos. La interrupción del uso debe realizarse conforme al criterio clínico, teniendo en cuenta la evolución de la lesión tratada y la respuesta observada.\n\nLa aparición de signos persistentes tras la aplicación debe diferenciarse de la evolución natural del proceso tratado. Cuando el cuadro no mejore o se observe un empeoramiento, debe reconsiderarse el diagnóstico y la pauta de uso. En pacientes con mayor susceptibilidad individual, la valoración debe ser prudente y puede requerir la suspensión del preparado. La notificación de sospechas de reacciones adversas permite continuar evaluando la relación beneficio-riesgo del medicamento.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "PARAHIDROXIBENZOATO DE METILO (E-218)",
+      "surface": "PARAHIDROXIBENZOATO DE METILO (E-218)"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "PARAHIDROXIBENZOATO DE METILO (E-218)",
+      "surface": "metilparabeno"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "PARAHIDROXIBENZOATO DE PROPILO",
+      "surface": "PARAHIDROXIBENZOATO DE PROPILO"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "PARAHIDROXIBENZOATO DE PROPILO",
+      "surface": "propilparabeno"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "SORBITAN MONOESTEARATO",
+      "surface": "SORBITAN MONOESTEARATO"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "Poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Atrofia cutánea, a menudo irreversible, con adelgazamiento de la epidermis",
+      "surface": "Atrofia cutánea, a menudo irreversible, con adelgazamiento de la epidermis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dermatitis perioral",
+      "surface": "Dermatitis perioral"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dermatitis y eczema, incluyendo dermatitis de contacto",
+      "surface": "Dermatitis y eczema, incluyendo dermatitis de contacto"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Despigmentación de la piel",
+      "surface": "Despigmentación de la piel"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Efecto rebote",
+      "surface": "Efecto rebote"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupciones acneiformes",
+      "surface": "Erupciones acneiformes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estrías en la piel",
+      "surface": "Estrías en la piel"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Púrpura",
+      "surface": "Púrpura"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sensación de quemazón",
+      "surface": "Sensación de quemazón"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sensación de quemazón",
+      "surface": "ardor"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Telangiectasia",
+      "surface": "Telangiectasia"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "Frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Foliculitis",
+      "surface": "Foliculitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertricosis",
+      "surface": "Hipertricosis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infección secundaria",
+      "surface": "Infección secundaria"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Maceración dérmica",
+      "surface": "Maceración dérmica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Miliaria",
+      "surface": "Miliaria"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad de la piel",
+      "surface": "Sequedad de la piel"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "Frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipersensibilidad",
+      "surface": "Hipersensibilidad"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "surface": "TRASTORNOS DEL SISTEMA ENDOCRINO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "Poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Supresión adrenal",
+      "surface": "Supresión adrenal"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "SYNALAR GAMMA 0,01% crema 60 g",
+        "pactivo": "PARAHIDROXIBENZOATO DE METILO (E-218), PARAHIDROXIBENZOATO DE PROPILO, SORBITAN MONOESTEARATO,",
+        "reaccion": "Maceración dérmica",
+        "frecuencia": "SIN FRECUENCIA",
+        "sistema": "TRASTORNOS DE PIEL Y TEJIDOS"
+      },
+      "text": "En la experiencia poscomercialización de SYNALAR GAMMA 0,01% crema 60 g, se ha notificado maceración dérmica (piel reblandecida), especialmente cuando se favorece la oclusión o la humedad local. Este efecto se clasifica dentro de Trastornos de piel y tejidos y su frecuencia no conocida no permite estimar la incidencia a partir de los datos disponibles. Entre los excipientes con potencial irritante se incluyen parahidroxibenzoato de metilo (E-218) y parahidroxibenzoato de propilo, conocidos como metil/propilparabeno; se recomienda valorar la evolución local y revisar las condiciones de aplicación.\n\n- Maceración dérmica: frecuencia no conocida.",
+      "declared": [
+        {
+          "type": "REACT",
+          "canonical": "Maceración dérmica",
+          "surface": "maceración dérmica"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "surface": "Trastornos de piel y tejidos"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "PARAHIDROXIBENZOATO DE METILO (E-218), PARAHIDROXIBENZOATO DE PROPILO, SORBITAN MONOESTEARATO,",
+          "surface": "parahidroxibenzoato de metilo (E-218)"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "PARAHIDROXIBENZOATO DE METILO (E-218), PARAHIDROXIBENZOATO DE PROPILO, SORBITAN MONOESTEARATO,",
+          "surface": "parahidroxibenzoato de propilo"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "PARAHIDROXIBENZOATO DE METILO (E-218), PARAHIDROXIBENZOATO DE PROPILO, SORBITAN MONOESTEARATO,",
+          "surface": "metil/propilparabeno"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Maceración dérmica",
+          "surface": "Maceración dérmica"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida"
+        }
+      ],
+      "validated": [
+        {
+          "type": "REACT",
+          "canonical": "Maceración dérmica",
+          "surface": "maceración dérmica",
+          "start": 90,
+          "end": 108
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "surface": "Trastornos de piel y tejidos",
+          "start": 230,
+          "end": 258
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida",
+          "start": 264,
+          "end": 286
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "PARAHIDROXIBENZOATO DE METILO (E-218), PARAHIDROXIBENZOATO DE PROPILO, SORBITAN MONOESTEARATO,",
+          "surface": "parahidroxibenzoato de metilo (E-218)",
+          "start": 413,
+          "end": 450
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "PARAHIDROXIBENZOATO DE METILO (E-218), PARAHIDROXIBENZOATO DE PROPILO, SORBITAN MONOESTEARATO,",
+          "surface": "parahidroxibenzoato de propilo",
+          "start": 453,
+          "end": 483
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "PARAHIDROXIBENZOATO DE METILO (E-218), PARAHIDROXIBENZOATO DE PROPILO, SORBITAN MONOESTEARATO,",
+          "surface": "metil/propilparabeno",
+          "start": 500,
+          "end": 520
+        },
+        {
+          "type": "REACT",
+          "canonical": "Maceración dérmica",
+          "surface": "Maceración dérmica",
+          "start": 90,
+          "end": 108
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "SYNALAR GAMMA 0,01% crema 60 g",
+        "pactivo": "PARAHIDROXIBENZOATO DE METILO (E-218), PARAHIDROXIBENZOATO DE PROPILO, SORBITAN MONOESTEARATO,",
+        "reaccion": "Telangiectasia",
+        "frecuencia": "NO FRECUENTE",
+        "sistema": "TRASTORNOS DE PIEL Y TEJIDOS"
+      },
+      "text": "En el apartado de Trastornos de piel y tejidos, se incluye la siguiente reacción adversa observada durante el uso cutáneo de SYNALAR GAMMA 0,01% crema 60 g, que contiene PARAHIDROXIBENZOATO DE METILO (E-218), PARAHIDROXIBENZOATO DE PROPILO, SORBITAN MONOESTEARATO, como componente declarado.\n\n- Telangiectasia: no frecuente.\n\nLa Telangiectasia puede relacionarse con cambios vasculares locales favorecidos por la exposición mantenida en zonas sensibles; en términos habituales puede describirse como pequeños vasos visibles (arañitas vasculares). Se recomienda revisar la técnica de aplicación y valorar la continuidad del tratamiento si persiste o progresa.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "surface": "Trastornos de piel y tejidos"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "PARAHIDROXIBENZOATO DE METILO (E-218), PARAHIDROXIBENZOATO DE PROPILO, SORBITAN MONOESTEARATO,",
+          "surface": "PARAHIDROXIBENZOATO DE METILO (E-218), PARAHIDROXIBENZOATO DE PROPILO, SORBITAN MONOESTEARATO,"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Telangiectasia",
+          "surface": "Telangiectasia"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Telangiectasia",
+          "surface": "Telangiectasia"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Telangiectasia",
+          "surface": "arañitas vasculares"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "surface": "Trastornos de piel y tejidos",
+          "start": 18,
+          "end": 46
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "PARAHIDROXIBENZOATO DE METILO (E-218), PARAHIDROXIBENZOATO DE PROPILO, SORBITAN MONOESTEARATO,",
+          "surface": "PARAHIDROXIBENZOATO DE METILO (E-218), PARAHIDROXIBENZOATO DE PROPILO, SORBITAN MONOESTEARATO,",
+          "start": 170,
+          "end": 264
+        },
+        {
+          "type": "REACT",
+          "canonical": "Telangiectasia",
+          "surface": "Telangiectasia",
+          "start": 295,
+          "end": 309
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente",
+          "start": 311,
+          "end": 323
+        },
+        {
+          "type": "REACT",
+          "canonical": "Telangiectasia",
+          "surface": "arañitas vasculares",
+          "start": 525,
+          "end": 544
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "SYNALAR GAMMA 0,01% crema 60 g",
+        "pactivo": "PARAHIDROXIBENZOATO DE METILO (E-218), PARAHIDROXIBENZOATO DE PROPILO, SORBITAN MONOESTEARATO,",
+        "reaccion": "Miliaria",
+        "frecuencia": "SIN FRECUENCIA",
+        "sistema": "TRASTORNOS DE PIEL Y TEJIDOS"
+      },
+      "text": "En la evaluación de seguridad de SYNALAR GAMMA 0,01% crema 60 g se ha identificado, dentro de Trastornos de piel y tejidos, la siguiente reacción adversa atribuible al contexto de uso cutáneo del preparado que contiene parahidroxibenzoato de metilo (E-218), también conocido como metilparabeno, junto con parahidroxibenzoato de propilo y sorbitan monoestearato.\n\n- Miliaria (sudamina): frecuencia no conocida.\n\nLa aparición de esta manifestación puede relacionarse con oclusión local o ambiente caluroso en áreas tratadas. Se recomienda vigilar la evolución clínica y reconsiderar la continuidad del tratamiento si persiste o resulta clínicamente relevante.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "surface": "Trastornos de piel y tejidos"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "PARAHIDROXIBENZOATO DE METILO (E-218), PARAHIDROXIBENZOATO DE PROPILO, SORBITAN MONOESTEARATO,",
+          "surface": "parahidroxibenzoato de metilo (E-218)"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "PARAHIDROXIBENZOATO DE METILO (E-218), PARAHIDROXIBENZOATO DE PROPILO, SORBITAN MONOESTEARATO,",
+          "surface": "metilparabeno"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "PARAHIDROXIBENZOATO DE METILO (E-218), PARAHIDROXIBENZOATO DE PROPILO, SORBITAN MONOESTEARATO,",
+          "surface": "parahidroxibenzoato de propilo"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "PARAHIDROXIBENZOATO DE METILO (E-218), PARAHIDROXIBENZOATO DE PROPILO, SORBITAN MONOESTEARATO,",
+          "surface": "sorbitan monoestearato"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Miliaria",
+          "surface": "Miliaria"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Miliaria",
+          "surface": "sudamina"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "surface": "Trastornos de piel y tejidos",
+          "start": 94,
+          "end": 122
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "PARAHIDROXIBENZOATO DE METILO (E-218), PARAHIDROXIBENZOATO DE PROPILO, SORBITAN MONOESTEARATO,",
+          "surface": "parahidroxibenzoato de metilo (E-218)",
+          "start": 219,
+          "end": 256
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "PARAHIDROXIBENZOATO DE METILO (E-218), PARAHIDROXIBENZOATO DE PROPILO, SORBITAN MONOESTEARATO,",
+          "surface": "metilparabeno",
+          "start": 280,
+          "end": 293
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "PARAHIDROXIBENZOATO DE METILO (E-218), PARAHIDROXIBENZOATO DE PROPILO, SORBITAN MONOESTEARATO,",
+          "surface": "parahidroxibenzoato de propilo",
+          "start": 305,
+          "end": 335
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "PARAHIDROXIBENZOATO DE METILO (E-218), PARAHIDROXIBENZOATO DE PROPILO, SORBITAN MONOESTEARATO,",
+          "surface": "sorbitan monoestearato",
+          "start": 338,
+          "end": 360
+        },
+        {
+          "type": "REACT",
+          "canonical": "Miliaria",
+          "surface": "Miliaria",
+          "start": 365,
+          "end": 373
+        },
+        {
+          "type": "REACT",
+          "canonical": "Miliaria",
+          "surface": "sudamina",
+          "start": 375,
+          "end": 383
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida",
+          "start": 386,
+          "end": 408
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

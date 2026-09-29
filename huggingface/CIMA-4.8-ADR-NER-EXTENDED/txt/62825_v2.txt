@@ -1,0 +1,80 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil de seguridad de ACETILSALICILICO ACIDO, conocido en la práctica clínica como ácido acetilsalicílico o AAS, es concordante con su actividad farmacológica y con el uso continuado en prevención cardiovascular. La tolerabilidad debe interpretarse considerando la edad, la dosis administrada, los antecedentes personales y la medicación concomitante. Algunos acontecimientos pueden aparecer al inicio del tratamiento y otros tras exposición prolongada, por lo que la evaluación clínica debe individualizarse. Se recomienda informar al paciente sobre la conveniencia de consultar si aparecen signos persistentes, inesperados o clínicamente relevantes. La siguiente relación se presenta por clasificación de órganos y por categoría de frecuencia, utilizando terminología médica normalizada.
+
+Lista tabulada de reacciones adversas
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+- frecuentes: Hipotrombinemia (con dosis altas).
+- poco frecuentes: Anemia ferropénica.
+- no frecuente: Anemia hemorrágica.
+- frecuencia no conocida: Anemia hemolítica, Hemólisis.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+- frecuentes: Rinitis, Epixtasis.
+- poco frecuentes: Congestión nasal.
+- frecuencia no conocida: Enfermedad respiratoria exacerbada por ácido acetilsalicílico (EREA).
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+- frecuentes: Dispepsia, Dolor gastrointestinal y abdominal, Hemorragia del tracto gastrointestinal, Inflamación gastrointestinal.
+- poco frecuentes: Erosión gastrointestinal y úlcera, Hepatitis (particularmente en pacientes con artritis juvenil), Insuficiencia hepática, Sangrado gingival.
+- no frecuente: Incremento de transaminasas, Perforación de úlcera gastrointestinal.
+- frecuencia no conocida: Enfermedad diafragmática intestinal.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+- poco frecuentes: Hematoma.
+- no frecuente: Hemorragia, Hemorragia muscular.
+- frecuencia no conocida: Distrés cardiorrespiratorio, Hemorragia procedimental.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+- poco frecuentes: Edema alérgico y angioedema, Hipersensibilidad, Hipersensibilidad inducida por fármacos.
+- no frecuente: Reacción anafiláctica.
+- frecuencia no conocida: Shock anafiláctico.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+- frecuentes: Erupción cutánea, Prurito.
+- poco frecuentes: Urticaria.
+
+TRASTORNOS DEL SISTEMA EXCRETOR
+- frecuentes: Hemorragia del tracto urogenital.
+- no frecuente: Fallo renal agudo, Insuficiencia renal.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+- frecuentes: Mareo.
+- poco frecuentes: Hemorragia cerebral e intracraneal.
+
+TRASTORNOS DEL SISTEMA GENERAL
+- poco frecuentes: Síndrome de Reye (en menores de 16 años con procesos febriles, gripe o varicela).
+
+LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS
+- frecuentes: Sobredosis.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+- frecuentes: Tinnitus (zumbidos).
+
+Descripción de reacciones adversas seleccionadas
+La valoración de los episodios compatibles con sangrado debe realizarse teniendo en cuenta la situación basal del paciente y el balance beneficio-riesgo del tratamiento. Cuando los síntomas sean relevantes o progresivos, puede ser necesario revisar la pauta terapéutica y considerar medidas de seguimiento clínico. En pacientes con antecedentes alérgicos o respiratorios, la aparición de signos sugestivos requiere especial atención y una actuación prudente. La notificación de sospechas tras la autorización permite completar la información disponible y mejorar la caracterización del perfil de seguridad.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+Dentro del sistema de clasificación de órganos Trastornos del sistema cardiovascular, se ha identificado la siguiente reacción adversa asociada al ácido acetilsalicílico (aspirina):
+
+- Hemorragia procedimental: frecuencia no conocida.
+
+El efecto antiagregante plaquetario puede favorecer la aparición de este evento en el contexto de intervenciones diagnósticas o terapéuticas, especialmente si concurren factores predisponentes. Se recomienda valorar el balance beneficio-riesgo antes del procedimiento y mantener una vigilancia clínica adecuada durante el periodo periintervencionista. La decisión de continuar o interrumpir el tratamiento debe individualizarse según la situación clínica.
+
+-- Caso 2 --
+Dentro del sistema de clasificación de órganos Trastornos de piel y tejidos, la Urticaria se considera una reacción adversa poco frecuentes asociada al uso de ácido acetilsalicílico. Puede reflejar una respuesta de hipersensibilidad en pacientes susceptibles tratados con AAS, por lo que se recomienda valorar la continuidad del tratamiento según la evolución clínica y los antecedentes del paciente.
+
+Lista tabulada:
+- Urticaria: poco frecuentes.
+
+-- Caso 3 --
+En el sistema de clasificación de órganos Trastornos del sistema digestivo, se ha notificado Hemorragia del tracto gastrointestinal con una frecuencia de frecuentes durante el tratamiento con ácido acetilsalicílico (AAS).
+
+Reacciones adversas:
+- Hemorragia del tracto gastrointestinal: frecuentes.
+
+Este efecto se relaciona con la acción antiagregante y la irritación local de la mucosa digestiva propias de ácido acetilsalicílico. Se recomienda vigilar la aparición de signos compatibles con sangrado digestivo (sangrado del estómago o intestino) y valorar la continuidad del tratamiento según la situación clínica.

@@ -1,0 +1,53 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+
+El perfil de seguridad descrito para lamivudina procede de la evaluación clínica y de la experiencia acumulada tras la comercialización. En conjunto, los acontecimientos comunicados fueron de intensidad variable y, en la mayoría de los casos, no impidieron continuar la pauta prescrita cuando se aplicó una supervisión clínica adecuada. Este principio activo, conocido también como 3TC en la práctica clínica, se utiliza en pacientes que pueden presentar enfermedades concomitantes o recibir otros tratamientos, por lo que la valoración de causalidad debe realizarse de forma individual. Se recomienda interpretar cualquier hallazgo analítico junto con la situación basal del paciente y con la evolución temporal tras el inicio del tratamiento. La información siguiente resume las reacciones observadas, agrupadas conforme a la clasificación habitual por órganos y sistemas.
+
+Lista tabulada de reacciones adversas
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+no frecuente: Angioedema.
+
+TRASTORNOS DEL SISTEMA HEPATOBILIAR
+muy frecuentes: Aumento de la alanina aminotransferasa.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+frecuentes: Calambres, Incremento de la creatinafosfocinasa, Mialgias.
+frecuencia no conocida: Rabdomiólisis.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+frecuentes: Erupción, Prurito.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+frecuencia no conocida: Trombocitopenia.
+
+Descripción de reacciones adversas seleccionadas
+
+El Aumento de la alanina aminotransferasa se ha notificado principalmente como alteración de laboratorio y puede requerir controles seriados cuando exista antecedente de enfermedad hepática o exposición concomitante a medicamentos con potencial efecto sobre el hígado. La interpretación debe considerar el valor basal y la presencia de otros factores clínicos, ya que una elevación aislada no siempre implica la suspensión inmediata del tratamiento. En los estudios y en la práctica asistencial, la conducta adoptada dependió de la magnitud del cambio, de su persistencia y de los datos clínicos asociados.
+
+Las manifestaciones cutáneas como Erupción y Prurito suelen valorarse según extensión, intensidad y relación temporal con la administración. Cuando aparece Angioedema, la situación debe considerarse relevante desde el punto de vista clínico y requiere evaluación médica sin demora. En caso de sospecha de hipersensibilidad, debe revisarse la exposición reciente y establecerse el manejo apropiado según la gravedad del cuadro.
+
+En el ámbito muscular se han comunicado Calambres (tirones musculares), Mialgias e Incremento de la creatinafosfocinasa. Estos hallazgos pueden presentarse de forma aislada o acompañarse de molestias funcionales, por lo que resulta útil documentar la evolución y descartar causas alternativas. La Rabdomiólisis se ha descrito sin que pueda estimarse su incidencia con los datos disponibles; ante síntomas musculares intensos o resultados analíticos sugestivos, se aconseja una evaluación clínica completa. La Trombocitopenia también procede de comunicaciones en las que no siempre fue posible establecer una relación temporal clara, por lo que deben considerarse otros diagnósticos y tratamientos concomitantes antes de atribuirla al medicamento.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En los datos de seguridad disponibles para lamivudina (3TC), el angioedema se clasifica dentro de Trastornos del sistema inmunológico. Esta reacción se ha notificado como no frecuente y debe considerarse en la evaluación clínica de episodios compatibles, especialmente si aparecen tras el inicio del tratamiento.
+
+Reacciones adversas:
+- Angioedema (hinchazón localizada): no frecuente.
+
+El manejo debe basarse en la valoración médica individual y en la evolución temporal del cuadro, considerando la interrupción del tratamiento cuando exista sospecha razonable de relación con el medicamento. Se recomienda registrar el episodio y realizar seguimiento hasta su resolución o estabilización.
+
+-- Caso 2 --
+En la clasificación por órganos y sistemas, dentro de Trastornos del sistema hepatobiliar, se ha identificado con lamivudina (3TC) la siguiente reacción adversa:
+- Aumento de la alanina aminotransferasa (subida de ALT): muy frecuentes.
+Este hallazgo analítico suele interpretarse en el contexto de la monitorización hepática del paciente y de la evolución clínica de la enfermedad de base. Durante el tratamiento con lamivudina, se recomienda valorar las determinaciones de laboratorio de forma periódica, especialmente en pacientes con antecedentes hepáticos o con otros factores que puedan modificar la función hepática.
+
+-- Caso 3 --
+En pacientes tratados con lamivudina (3TC), se ha notificado la siguiente reacción adversa dentro del sistema de clasificación de órganos Trastornos de piel y tejidos:
+
+- Prurito (picor): frecuentes.
+
+El Prurito puede aparecer durante el tratamiento y debe valorarse en el contexto clínico del paciente, especialmente si persiste o resulta molesto. Se recomienda realizar seguimiento clínico y considerar la relación temporal con la administración del antiviral antes de adoptar medidas adicionales.

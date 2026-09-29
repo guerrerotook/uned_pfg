@@ -1,0 +1,41 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil observado en adultos tratados con PALIPERIDONA fue concordante con el conocido para este grupo terapéutico. La mayoría de los acontecimientos se notificaron al inicio del tratamiento o durante los ajustes de dosis y fueron de intensidad leve o moderada. La valoración clínica debe tener en cuenta la enfermedad de base, la medicación concomitante y los factores individuales de riesgo. La información se presenta con terminología normalizada y agrupada para facilitar su interpretación. La vigilancia continuada permite revisar el perfil cuando se dispone de nuevos datos.
+
+Lista tabulada de reacciones adversas
+INFECCIONES E INFESTACIONES: frecuentes: Bronquitis, Gripe, Sinusitis; poco frecuentes: Cistitis, Neumonía; no frecuente: Celulitis, Onicomicosis.
+TRASTORNOS DEL SISTEMA NERVIOSO: muy frecuentes: Acatisia, Cefalea, Parkinsonismo, Sedación/somnolencia; frecuentes: Discinesia, Distonía, Mareos, Temblor; poco frecuentes: Convulsiones, Parestesia, Síncopes; no frecuente: Pérdida de la consciencia, Síndrome neuroléptico maligno.
+TRASTORNOS DE PIEL Y TEJIDOS: frecuentes: Exantema, Prurito; poco frecuentes: Acné, Urticaria; no frecuente: Angioedema, Eritema.
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS: frecuentes: Visión borrosa; poco frecuentes: Acúfenos, Vértigo; no frecuente: Glaucoma, Hiperemia ocular.
+TRASTORNOS PSIQUIÁTRICOS: muy frecuentes: Insomnio; frecuentes: Agitación, Ansiedad; poco frecuentes: Estado de confusión, Pesadillas; no frecuente: Sonambulismo.
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS: poco frecuentes: Anemia, Trombocitopenia; no frecuente: Neutropenia.
+TRASTORNOS DEL SISTEMA GENERAL: frecuentes: Astenia, Cansancio, Pirexia; poco frecuentes: Dolor torácico, Escalofríos; no frecuente: Hipotermia.
+TRASTORNOS DEL SISTEMA REPRODUCTOR: frecuentes: Amenorrea; poco frecuentes: Disfunción eréctil, Glactorrea; no frecuente: Ginecomastia, Priapismo.
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO: frecuentes: Artralgia, Dolor de espalda; poco frecuentes: Debilidad muscular, Espasmos musculares; no frecuente: Rabdomiólisis.
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR: frecuentes: Bradicardia, Taquicardia, Bloqueo auriculoventricular; poco frecuentes: Palpitaciones, Arritmia sinusal; no frecuente: Embolismo pulmonar, Fibrilación auricular.
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN: frecuentes: Aumento de peso, Aumento del apetito; poco frecuentes: Diabetes mellitus, Hiperglucemia; no frecuente: Hipoglucemia, Polidipsia; frecuencia no conocida: Hiperinsulinemia.
+TRASTORNOS DEL SISTEMA HEPATOBILIAR: frecuentes: Aumentto de las transaminasas; poco frecuentes: Aumento de las enzimas hepáticas; no frecuente: Ictericia.
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO: no frecuente: Hipersensibilidad, Reacción anafiláctica.
+LESIONES TRAUMÁTICAS, INTOXICACIONES Y COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS: poco frecuentes: Caídas.
+TRASTORNOS DEL SISTEMA RESPIRATORIO: frecuentes: Congestión nasal, Dolor faringolaríngeo, Tos; poco frecuentes: Disnea, Epistaxis; no frecuente: Neumonía por aspiración, Síndrome de apnea del sueño; frecuencia no conocida: Congestión pulmonar.
+TRASTORNOS DEL SISTEMA DIGESTIVO: frecuentes: Diarrea, Náuseas, Vómitos, Sequedad de boca; poco frecuentes: Disfagia, Flatulencia; no frecuente: Íleo, Pancreatitis.
+TRASTORNOS DEL SISTEMA EXCRETOR: poco frecuentes: Disuria, Retención urinaria.
+TRASTORNOS DEL SISTEMA ENDOCRINO: poco frecuentes: Hiperprolactinemia; no frecuente: Presencia de glucosa en la orina, Secreción inapropiada de la hormona antidiurética.
+EMBARAZO, PUERPERIO Y ENFERMEDADES PERINATALES: no frecuente: Síndrome de abstinencia neonatal.
+
+Descripción de reacciones adversas seleccionadas
+Debe prestarse atención a los acontecimientos de aparición brusca, a los cambios clínicos relevantes y a cualquier deterioro que requiera intervención médica. En pacientes con factores predisponentes se recomienda una evaluación periódica y una revisión del tratamiento si la evolución clínica lo justifica.
+
+Las alteraciones motoras, metabólicas, cardiovasculares y endocrinas pueden requerir seguimiento específico según la situación del paciente. La comunicación de sospechas por parte de los profesionales sanitarios contribuye a caracterizar mejor la seguridad del medicamento en condiciones habituales de uso.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En la clasificación por sistemas y órganos, dentro de TRASTORNOS DEL SISTEMA NERVIOSO, Sedación/somnolencia se incluye entre las reacciones adversas muy frecuentes durante el tratamiento con paliperidona. Este efecto es coherente con la actividad farmacológica central del principio activo y debe tenerse en cuenta al inicio del tratamiento y durante los ajustes de dosis. Se recomienda valorar la evolución clínica y advertir al paciente sobre la posible influencia en actividades que requieran atención sostenida, especialmente hasta conocer la respuesta individual al medicamento.
+
+-- Caso 2 --
+Dentro del sistema Trastornos de la sangre y órganos hematopoyéticos, la Anemia se clasifica entre las reacciones adversas poco frecuentes notificadas durante el tratamiento con PALIPERIDONA. La aparición de esta alteración puede requerir valoración clínica individual, especialmente en pacientes con antecedentes hematológicos o con otros factores predisponentes. Se recomienda considerar el seguimiento analítico cuando esté clínicamente indicado y evaluar la continuidad del tratamiento en función de la evolución y de la relación temporal con la administración del medicamento.
+
+-- Caso 3 --
+Dentro de la clasificación TRASTORNOS DEL SISTEMA RESPIRATORIO, se ha notificado Congestión pulmonar durante el tratamiento con PALIPERIDONA, con frecuencia no conocida. La información disponible no permite estimar su incidencia a partir de los datos disponibles. Ante la aparición de signos clínicos compatibles, se recomienda realizar una valoración médica y considerar el estado basal del paciente, los factores de riesgo concomitantes y la evolución temporal respecto al tratamiento. La continuación del tratamiento debe evaluarse de forma individual, teniendo en cuenta la gravedad del cuadro y la respuesta a las medidas clínicas adoptadas.

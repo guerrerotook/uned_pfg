@@ -1,0 +1,777 @@
+{
+  "codigo": "108494005",
+  "variante": 1,
+  "codigo_variant": "108494005_v1",
+  "medicamento": "STELARA 130 MG CONCENTRADO PARA SOLUCION PARA PERFUSION",
+  "model": "gpt-5.5",
+  "style_variant_idx": 0,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil de seguridad de USTEKINUMAB se ha caracterizado a partir de la experiencia acumulada en pacientes tratados en programas clínicos y en la práctica posterior. En general, las notificaciones fueron de intensidad leve o moderada y se controlaron con medidas clínicas habituales. La evaluación debe considerar la situación basal del paciente, el uso de tratamientos concomitantes y la evolución temporal tras la administración. Cuando aparezcan manifestaciones sugestivas de hipersensibilidad o de afectación sistémica, se recomienda una valoración médica inmediata. La continuidad del tratamiento debe decidirse de forma individual, atendiendo a la gravedad, la recurrencia y la relación temporal observada.\n\nLista tabulada de reacciones adversas\nLas reacciones se presentan a continuación por sistema de clasificación de órganos y por categoría de aparición. Dentro de cada grupo, los términos se muestran sin establecer un orden de gravedad.\n\nTRASTORNOS DE PIEL Y TEJIDOS\nfrecuentes: Enrojecimiento y dolor en el lugar de inyección, Picor.\npoco frecuentes: Acné, Anafilaxia, Descamación de la piel, Endurecimiento, hinchazón y picor en el lugar de la inyección, Erupción cutánea, cardenales.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\npoco frecuentes: Depresión, Parálisis facial (normalmente temporal), Párpado caído.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nfrecuentes: Diarrea, Dolor de garganta, Náuseas, Vómitos.\npoco frecuentes: Dificultad para respirar y tragar.\n\nTRASTORNOS DEL SISTEMA GENERAL\nfrecuentes: Dolor de cabeza, Sensación de cansancio, Sensación de mareo.\npoco frecuentes: Sentirse débil.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\nfrecuentes: Dolor de espalda, muscular o articular.\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS\npoco frecuentes: Hemorragia.\n\nINFECCIONES E INFESTACIONES\nfrecuentes: Infecciones nariz o garganta, Resfriado común, Sinusitis.\npoco frecuentes: Infecciones dentales, Infecciones vaginales por levaduras, Taponamiento o congestión nasal.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\npoco frecuentes: Tensión arterial baja.\n\nDescripción de reacciones adversas seleccionadas\nLas manifestaciones en la zona de administración se observaron habitualmente en las primeras fases tras la aplicación y tendieron a resolverse sin secuelas. Enrojecimiento y dolor en el lugar de inyección se describieron como cuadros locales autolimitados. Endurecimiento, hinchazón y picor en el lugar de la inyección requirieron en algunos casos observación clínica, especialmente si se asociaron a aumento progresivo de la extensión o persistencia de las molestias.\n\nAnafilaxia y Dificultad para respirar y tragar deben considerarse señales de alarma por su posible inicio rápido. Ante su aparición, el paciente debe ser evaluado de forma urgente y se debe instaurar el manejo apropiado de acuerdo con la práctica clínica. Tensión arterial baja puede acompañar a cuadros sistémicos y debe interpretarse junto con el estado general, los signos vitales y otros hallazgos relevantes.\n\nParálisis facial (normalmente temporal) se notificó de manera aislada y debe diferenciarse de otros procesos neurológicos mediante una evaluación adecuada. La comunicación de sospechas de reacciones permite mantener actualizada la relación beneficio-riesgo y facilita la detección de patrones no evidentes en series pequeñas.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nEn la evaluación del perfil de seguridad, dentro de TRASTORNOS DEL SISTEMA GENERAL, Sentirse débil se recoge entre las reacciones poco frecuentes notificadas en pacientes tratados con USTEKINUMAB. La aparición de este cuadro debe valorarse en el contexto clínico del paciente y de la evolución temporal respecto a la administración del medicamento. Se recomienda seguimiento clínico habitual y considerar medidas de soporte o reevaluación del tratamiento si la intensidad o persistencia lo justifican, conforme a la práctica médica. La información disponible no modifica las recomendaciones generales de vigilancia durante el tratamiento.\n\n-- Caso 2 --\nEn la clasificación por órganos y sistemas, dentro de TRASTORNOS DEL SISTEMA GENERAL, se ha notificado Sensación de mareo con USTEKINUMAB; su frecuencia se clasifica como frecuentes. Este acontecimiento se considera coherente con el perfil de seguridad observado durante el tratamiento y debe valorarse en el contexto clínico del paciente, especialmente tras la administración o durante el periodo de observación posterior. Si aparece Sensación de mareo, se recomienda seguimiento clínico y evaluación de factores concomitantes; la continuidad del tratamiento con USTEKINUMAB deberá basarse en la intensidad del episodio y en el criterio médico.\n\n-- Caso 3 --\nEn el sistema de clasificación de órganos TRASTORNOS DE PIEL Y TEJIDOS, se ha notificado Acné con USTEKINUMAB, incluido entre las reacciones poco frecuentes. La aparición de esta reacción debe evaluarse en el contexto del estado clínico basal del paciente y de otros factores predisponentes, manteniendo el tratamiento según criterio clínico cuando el cuadro sea leve y no se asocie a complicaciones. Se recomienda registrar la evolución durante el seguimiento y considerar medidas dermatológicas habituales si los síntomas persisten o resultan clínicamente relevantes, sin que esta información implique por sí sola la necesidad de interrumpir la administración.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "USTEKINUMAB",
+      "surface": "USTEKINUMAB",
+      "start": 83,
+      "end": 94
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 1008,
+      "end": 1036
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 1037,
+      "end": 1047
+    },
+    {
+      "type": "REACT",
+      "canonical": "Enrojecimiento y dolor en el lugar de inyección",
+      "surface": "Enrojecimiento y dolor en el lugar de inyección",
+      "start": 1049,
+      "end": 1096
+    },
+    {
+      "type": "REACT",
+      "canonical": "Picor (“prurito”)",
+      "surface": "Picor",
+      "start": 1098,
+      "end": 1103
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 1105,
+      "end": 1120
+    },
+    {
+      "type": "REACT",
+      "canonical": "Acné",
+      "surface": "Acné",
+      "start": 1122,
+      "end": 1126
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anafilaxia",
+      "surface": "Anafilaxia",
+      "start": 1128,
+      "end": 1138
+    },
+    {
+      "type": "REACT",
+      "canonical": "Descamación de la piel",
+      "surface": "Descamación de la piel",
+      "start": 1140,
+      "end": 1162
+    },
+    {
+      "type": "REACT",
+      "canonical": "Endurecimiento, hinchazón y picor en el lugar de la inyección",
+      "surface": "Endurecimiento, hinchazón y picor en el lugar de la inyección",
+      "start": 1164,
+      "end": 1225
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción cutánea",
+      "surface": "Erupción cutánea",
+      "start": 1227,
+      "end": 1243
+    },
+    {
+      "type": "REACT",
+      "canonical": "cardenales",
+      "surface": "cardenales",
+      "start": 1245,
+      "end": 1255
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1258,
+      "end": 1289
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión",
+      "surface": "Depresión",
+      "start": 1307,
+      "end": 1316
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parálisis facial (normalmente temporal)",
+      "surface": "Parálisis facial (normalmente temporal)",
+      "start": 1318,
+      "end": 1357
+    },
+    {
+      "type": "REACT",
+      "canonical": "Párpado caído",
+      "surface": "Párpado caído",
+      "start": 1359,
+      "end": 1372
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1375,
+      "end": 1407
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea",
+      "start": 1420,
+      "end": 1427
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor de garganta",
+      "surface": "Dolor de garganta",
+      "start": 1429,
+      "end": 1446
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 1448,
+      "end": 1455
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos",
+      "start": 1457,
+      "end": 1464
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dificultad para respirar y tragar",
+      "surface": "Dificultad para respirar y tragar",
+      "start": 1483,
+      "end": 1516
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 1519,
+      "end": 1549
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor de cabeza",
+      "surface": "Dolor de cabeza",
+      "start": 1562,
+      "end": 1577
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sensación de cansancio",
+      "surface": "Sensación de cansancio",
+      "start": 1579,
+      "end": 1601
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sensación de mareo",
+      "surface": "Sensación de mareo",
+      "start": 1603,
+      "end": 1621
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sentirse débil",
+      "surface": "Sentirse débil",
+      "start": 1640,
+      "end": 1654
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 1657,
+      "end": 1699
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor de espalda, muscular o articular",
+      "surface": "Dolor de espalda, muscular o articular",
+      "start": 1712,
+      "end": 1750
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 1753,
+      "end": 1802
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia",
+      "surface": "Hemorragia",
+      "start": 1820,
+      "end": 1830
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "INFECCIONES E INFESTACIONES",
+      "start": 1833,
+      "end": 1860
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infecciones nariz o garganta",
+      "surface": "Infecciones nariz o garganta",
+      "start": 1873,
+      "end": 1901
+    },
+    {
+      "type": "REACT",
+      "canonical": "Resfriado común",
+      "surface": "Resfriado común",
+      "start": 1903,
+      "end": 1918
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sinusitis",
+      "surface": "Sinusitis",
+      "start": 1920,
+      "end": 1929
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infecciones dentales",
+      "surface": "Infecciones dentales",
+      "start": 1948,
+      "end": 1968
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infecciones vaginales por levaduras",
+      "surface": "Infecciones vaginales por levaduras",
+      "start": 1970,
+      "end": 2005
+    },
+    {
+      "type": "REACT",
+      "canonical": "Taponamiento o congestión nasal",
+      "surface": "Taponamiento o congestión nasal",
+      "start": 2007,
+      "end": 2038
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 2041,
+      "end": 2078
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tensión arterial baja",
+      "surface": "Tensión arterial baja",
+      "start": 2096,
+      "end": 2117
+    }
+  ],
+  "raw_long_doc_text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil de seguridad de USTEKINUMAB se ha caracterizado a partir de la experiencia acumulada en pacientes tratados en programas clínicos y en la práctica posterior. En general, las notificaciones fueron de intensidad leve o moderada y se controlaron con medidas clínicas habituales. La evaluación debe considerar la situación basal del paciente, el uso de tratamientos concomitantes y la evolución temporal tras la administración. Cuando aparezcan manifestaciones sugestivas de hipersensibilidad o de afectación sistémica, se recomienda una valoración médica inmediata. La continuidad del tratamiento debe decidirse de forma individual, atendiendo a la gravedad, la recurrencia y la relación temporal observada.\n\nLista tabulada de reacciones adversas\nLas reacciones se presentan a continuación por sistema de clasificación de órganos y por categoría de aparición. Dentro de cada grupo, los términos se muestran sin establecer un orden de gravedad.\n\nTRASTORNOS DE PIEL Y TEJIDOS\nfrecuentes: Enrojecimiento y dolor en el lugar de inyección, Picor.\npoco frecuentes: Acné, Anafilaxia, Descamación de la piel, Endurecimiento, hinchazón y picor en el lugar de la inyección, Erupción cutánea, cardenales.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\npoco frecuentes: Depresión, Parálisis facial (normalmente temporal), Párpado caído.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nfrecuentes: Diarrea, Dolor de garganta, Náuseas, Vómitos.\npoco frecuentes: Dificultad para respirar y tragar.\n\nTRASTORNOS DEL SISTEMA GENERAL\nfrecuentes: Dolor de cabeza, Sensación de cansancio, Sensación de mareo.\npoco frecuentes: Sentirse débil.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\nfrecuentes: Dolor de espalda, muscular o articular.\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS\npoco frecuentes: Hemorragia.\n\nINFECCIONES E INFESTACIONES\nfrecuentes: Infecciones nariz o garganta, Resfriado común, Sinusitis.\npoco frecuentes: Infecciones dentales, Infecciones vaginales por levaduras, Taponamiento o congestión nasal.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\npoco frecuentes: Tensión arterial baja.\n\nDescripción de reacciones adversas seleccionadas\nLas manifestaciones en la zona de administración se observaron habitualmente en las primeras fases tras la aplicación y tendieron a resolverse sin secuelas. Enrojecimiento y dolor en el lugar de inyección se describieron como cuadros locales autolimitados. Endurecimiento, hinchazón y picor en el lugar de la inyección requirieron en algunos casos observación clínica, especialmente si se asociaron a aumento progresivo de la extensión o persistencia de las molestias.\n\nAnafilaxia y Dificultad para respirar y tragar deben considerarse señales de alarma por su posible inicio rápido. Ante su aparición, el paciente debe ser evaluado de forma urgente y se debe instaurar el manejo apropiado de acuerdo con la práctica clínica. Tensión arterial baja puede acompañar a cuadros sistémicos y debe interpretarse junto con el estado general, los signos vitales y otros hallazgos relevantes.\n\nParálisis facial (normalmente temporal) se notificó de manera aislada y debe diferenciarse de otros procesos neurológicos mediante una evaluación adecuada. La comunicación de sospechas de reacciones permite mantener actualizada la relación beneficio-riesgo y facilita la detección de patrones no evidentes en series pequeñas.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "USTEKINUMAB",
+      "surface": "USTEKINUMAB"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Enrojecimiento y dolor en el lugar de inyección",
+      "surface": "Enrojecimiento y dolor en el lugar de inyección"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Picor (“prurito”)",
+      "surface": "Picor"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Acné",
+      "surface": "Acné"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anafilaxia",
+      "surface": "Anafilaxia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Descamación de la piel",
+      "surface": "Descamación de la piel"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Endurecimiento, hinchazón y picor en el lugar de la inyección",
+      "surface": "Endurecimiento, hinchazón y picor en el lugar de la inyección"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción cutánea",
+      "surface": "Erupción cutánea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "cardenales",
+      "surface": "cardenales"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión",
+      "surface": "Depresión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parálisis facial (normalmente temporal)",
+      "surface": "Parálisis facial (normalmente temporal)"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Párpado caído",
+      "surface": "Párpado caído"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor de garganta",
+      "surface": "Dolor de garganta"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dificultad para respirar y tragar",
+      "surface": "Dificultad para respirar y tragar"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor de cabeza",
+      "surface": "Dolor de cabeza"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sensación de cansancio",
+      "surface": "Sensación de cansancio"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sensación de mareo",
+      "surface": "Sensación de mareo"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sentirse débil",
+      "surface": "Sentirse débil"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor de espalda, muscular o articular",
+      "surface": "Dolor de espalda, muscular o articular"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia",
+      "surface": "Hemorragia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "INFECCIONES E INFESTACIONES"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infecciones nariz o garganta",
+      "surface": "Infecciones nariz o garganta"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Resfriado común",
+      "surface": "Resfriado común"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sinusitis",
+      "surface": "Sinusitis"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infecciones dentales",
+      "surface": "Infecciones dentales"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infecciones vaginales por levaduras",
+      "surface": "Infecciones vaginales por levaduras"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Taponamiento o congestión nasal",
+      "surface": "Taponamiento o congestión nasal"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tensión arterial baja",
+      "surface": "Tensión arterial baja"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Enrojecimiento y dolor en el lugar de inyección",
+      "surface": "Enrojecimiento y dolor en el lugar de inyección"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Endurecimiento, hinchazón y picor en el lugar de la inyección",
+      "surface": "Endurecimiento, hinchazón y picor en el lugar de la inyección"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anafilaxia",
+      "surface": "Anafilaxia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dificultad para respirar y tragar",
+      "surface": "Dificultad para respirar y tragar"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tensión arterial baja",
+      "surface": "Tensión arterial baja"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parálisis facial (normalmente temporal)",
+      "surface": "Parálisis facial (normalmente temporal)"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "STELARA 130 MG CONCENTRADO PARA SOLUCION PARA PERFUSION",
+        "pactivo": "USTEKINUMAB",
+        "reaccion": "Sentirse débil",
+        "frecuencia": "POCO FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA GENERAL"
+      },
+      "text": "En la evaluación del perfil de seguridad, dentro de TRASTORNOS DEL SISTEMA GENERAL, Sentirse débil se recoge entre las reacciones poco frecuentes notificadas en pacientes tratados con USTEKINUMAB. La aparición de este cuadro debe valorarse en el contexto clínico del paciente y de la evolución temporal respecto a la administración del medicamento. Se recomienda seguimiento clínico habitual y considerar medidas de soporte o reevaluación del tratamiento si la intensidad o persistencia lo justifican, conforme a la práctica médica. La información disponible no modifica las recomendaciones generales de vigilancia durante el tratamiento.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+          "surface": "TRASTORNOS DEL SISTEMA GENERAL"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Sentirse débil",
+          "surface": "Sentirse débil"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "USTEKINUMAB",
+          "surface": "USTEKINUMAB"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+          "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+          "start": 52,
+          "end": 82
+        },
+        {
+          "type": "REACT",
+          "canonical": "Sentirse débil",
+          "surface": "Sentirse débil",
+          "start": 84,
+          "end": 98
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes",
+          "start": 130,
+          "end": 145
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "USTEKINUMAB",
+          "surface": "USTEKINUMAB",
+          "start": 184,
+          "end": 195
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "STELARA 130 MG CONCENTRADO PARA SOLUCION PARA PERFUSION",
+        "pactivo": "USTEKINUMAB",
+        "reaccion": "Sensación de mareo",
+        "frecuencia": "FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA GENERAL"
+      },
+      "text": "En la clasificación por órganos y sistemas, dentro de TRASTORNOS DEL SISTEMA GENERAL, se ha notificado Sensación de mareo con USTEKINUMAB; su frecuencia se clasifica como frecuentes. Este acontecimiento se considera coherente con el perfil de seguridad observado durante el tratamiento y debe valorarse en el contexto clínico del paciente, especialmente tras la administración o durante el periodo de observación posterior. Si aparece Sensación de mareo, se recomienda seguimiento clínico y evaluación de factores concomitantes; la continuidad del tratamiento con USTEKINUMAB deberá basarse en la intensidad del episodio y en el criterio médico.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+          "surface": "TRASTORNOS DEL SISTEMA GENERAL"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Sensación de mareo",
+          "surface": "Sensación de mareo"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "USTEKINUMAB",
+          "surface": "USTEKINUMAB"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Sensación de mareo",
+          "surface": "Sensación de mareo"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "USTEKINUMAB",
+          "surface": "USTEKINUMAB"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+          "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+          "start": 54,
+          "end": 84
+        },
+        {
+          "type": "REACT",
+          "canonical": "Sensación de mareo",
+          "surface": "Sensación de mareo",
+          "start": 103,
+          "end": 121
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "USTEKINUMAB",
+          "surface": "USTEKINUMAB",
+          "start": 126,
+          "end": 137
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes",
+          "start": 171,
+          "end": 181
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "STELARA 130 MG CONCENTRADO PARA SOLUCION PARA PERFUSION",
+        "pactivo": "USTEKINUMAB",
+        "reaccion": "Acné",
+        "frecuencia": "POCO FRECUENTE",
+        "sistema": "TRASTORNOS DE PIEL Y TEJIDOS"
+      },
+      "text": "En el sistema de clasificación de órganos TRASTORNOS DE PIEL Y TEJIDOS, se ha notificado Acné con USTEKINUMAB, incluido entre las reacciones poco frecuentes. La aparición de esta reacción debe evaluarse en el contexto del estado clínico basal del paciente y de otros factores predisponentes, manteniendo el tratamiento según criterio clínico cuando el cuadro sea leve y no se asocie a complicaciones. Se recomienda registrar la evolución durante el seguimiento y considerar medidas dermatológicas habituales si los síntomas persisten o resultan clínicamente relevantes, sin que esta información implique por sí sola la necesidad de interrumpir la administración.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Acné",
+          "surface": "Acné"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "USTEKINUMAB",
+          "surface": "USTEKINUMAB"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "start": 42,
+          "end": 70
+        },
+        {
+          "type": "REACT",
+          "canonical": "Acné",
+          "surface": "Acné",
+          "start": 89,
+          "end": 93
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "USTEKINUMAB",
+          "surface": "USTEKINUMAB",
+          "start": 98,
+          "end": 109
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes",
+          "start": 141,
+          "end": 156
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

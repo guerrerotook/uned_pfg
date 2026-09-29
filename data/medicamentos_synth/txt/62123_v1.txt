@@ -1,0 +1,36 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El tratamiento con CARBOPLATINO presenta un perfil de seguridad acorde con su actividad citotóxica y requiere vigilancia clínica y analítica durante el ciclo terapéutico. La tolerabilidad depende de la dosis administrada, del estado basal del paciente y de la exposición previa a otros tratamientos. La mayoría de los acontecimientos se identifican mediante controles periódicos y evaluación de los síntomas comunicados por el paciente. La recuperación suele ser gradual cuando se aplican las medidas habituales de manejo y ajuste. La información siguiente se organiza por sistema de clasificación de órganos y por categoría de presentación.
+
+Lista tabulada de reacciones adversas
+TRASTORNOS DEL SISTEMA NERVIOSO: frecuencia no conocida: Accidente cerebrovascular, Síndrome de leucoencefalopatía posterior reversible (SLPR); frecuentes: Alteraciones sensoriales, Disgeusia, Disminución de reflejos osteotendinosos, Neuropatía periférica, Parestesias.
+TRASTORNOS DE PIEL Y TEJIDOS: frecuentes: Alopecia, Alteraciones de la piel; frecuencia no conocida: Eritema, Prurito, Rash, Urticaria.
+TRASTORNOS DEL SISTEMA DIGESTIVO: frecuentes: Alteración de las membranas mucosas, Diarrea, Estreñimiento; muy frecuentes: Dolor abdominal, Náuseas, Vómitos; frecuencia no conocida: Estomatitis, Pancreatitis.
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR: frecuentes: Alteraciones cardiacas; frecuencia no conocida: Embolismo, Fallo cardiaco, Hipertensión, Hipotensión, Síndrome de Kounis.
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO: frecuentes: Alteraciones musculoesqueléticas.
+TRASTORNOS DEL SISTEMA RESPIRATORIO: frecuentes: Alteraciones respiratorias, Broncoespasmo, Enfermedad pulmonar intersticial.
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS: frecuentes: Alteraciones visuales, Ceguera, Ototoxicidad.
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS: muy frecuentes: Anemia, Leucopenia, Neutropenia, Trombocitopenia; frecuencia no conocida: Anemia hemolítica, Fallo de médula ósea, Neutropenia febril, Síndrome hemolítico urémico; frecuentes: Hemorragia.
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN: frecuencia no conocida: Anorexia, Deshidratación, Hiponatremia, Síndrome de lisis tumoral.
+TRASTORNOS DEL SISTEMA GENERAL: frecuentes: Astenia; muy frecuentes: Disminución del aclaramiento de creatinina; frecuencia no conocida: Eritema en el lugar de inyección, Extravasación del lugar de inyección, Malestar general, Necrosis en el lugar de inyección, Neoplasia, Reacción en el lugar de inyección.
+PRUEBAS COMPLEMENTARIAS: muy frecuentes: Aumento de la AST en sangre, Aumento de la fosfatasa alcalina en sangre, Aumento de la urea en sangre, Disminución de los niveles de calcio en sangre, Disminución de los niveles de magnesio en sangre, Disminución de los niveles de potasio en sangre, Disminución de los niveles de sodio en sangre; frecuentes: Aumento de la bilirrubina en sangre, Aumento de la creatinina en sangre, Aumento del ácido úrico en sangre.
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO: frecuentes: Hipersensibilidad, Reacciones de tipo anafiláctico.
+INFECCIONES E INFESTACIONES: frecuentes: Infecciones; frecuencia no conocida: Neumonía.
+TRASTORNOS DEL SISTEMA EXCRETOR: frecuentes: Trastornos urogenitales.
+
+Descripción de reacciones adversas seleccionadas
+La valoración debe incluir antecedentes relevantes, exploración física y resultados de laboratorio obtenidos antes de cada administración. Cuando se detecten cambios clínicamente significativos, se recomienda considerar la interrupción temporal, el retraso del siguiente ciclo o una reducción de dosis de acuerdo con la situación del paciente.
+
+El seguimiento debe mantenerse tras la perfusión, ya que algunos acontecimientos pueden manifestarse de forma diferida. La educación del paciente para comunicar síntomas nuevos o persistentes facilita una intervención precoz y contribuye a reducir complicaciones. Las medidas de soporte se individualizarán según la gravedad, la evolución temporal y la presencia de factores de riesgo concomitantes.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+Durante el tratamiento con CARBOPLATINO se ha notificado Síndrome de lisis tumoral, con frecuencia no conocida, incluido dentro de TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN. Este acontecimiento puede relacionarse con la destrucción rápida de células tumorales y la consiguiente liberación de componentes intracelulares. Se recomienda valorar los factores de riesgo antes de iniciar el tratamiento y realizar seguimiento clínico y analítico adecuado durante la administración, especialmente en pacientes con elevada carga tumoral o respuesta rápida al tratamiento.
+
+-- Caso 2 --
+En la clasificación TRASTORNOS DEL SISTEMA DIGESTIVO, se ha notificado Diarrea como reacción adversa asociada al tratamiento con CARBOPLATINO, con una frecuencia de aparición descrita como frecuentes. Este efecto puede estar relacionado con la acción citotóxica sobre la mucosa intestinal y suele valorarse en el contexto del estado clínico del paciente y de los tratamientos concomitantes. Se recomienda realizar seguimiento clínico durante la administración y en los días posteriores, prestando atención a la duración e intensidad de los síntomas y a la necesidad de medidas de soporte según la práctica clínica habitual.
+
+-- Caso 3 --
+En el sistema de clasificación de órganos TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS, la Trombocitopenia se incluye entre las reacciones adversas muy frecuentes durante el tratamiento con CARBOPLATINO. Este efecto es coherente con la acción citotóxica sobre células de proliferación rápida y con la supresión medular dependiente de la exposición. Se recomienda realizar controles periódicos del hemograma y valorar la situación clínica antes de cada ciclo, especialmente en pacientes con factores que puedan aumentar la susceptibilidad a alteraciones del recuento plaquetario. El manejo debe basarse en la gravedad observada, la evolución de los parámetros analíticos y el balance beneficio-riesgo individual.

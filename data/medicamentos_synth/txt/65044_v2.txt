@@ -1,0 +1,75 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+La combinación de budesonida y formoterol fumarato dihidrato presenta un perfil de seguridad coherente con el observado para los medicamentos administrados por vía inhalatoria. En la evaluación clínica debe considerarse la dosis utilizada, la duración del tratamiento y la situación basal del paciente. La mayoría de los acontecimientos descritos son manejables con medidas habituales de seguimiento y con una revisión periódica de la técnica de administración. Se recomienda valorar de forma individual cualquier síntoma persistente o clínicamente relevante, especialmente cuando aparezca tras cambios de pauta o en pacientes con factores predisponentes. La notificación espontánea contribuye a caracterizar mejor la tolerabilidad en la práctica clínica.
+
+Lista tabulada de reacciones adversas
+
+TRASTORNOS PSIQUIÁTRICOS
+no frecuente: Depresión; alteraciones del comportamiento (principalmente en niños).
+poco frecuentes: Agresividad; alteraciones del sueño; ansiedad; hiperactividad psicomotora.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+no frecuente: Alteraciones del gusto.
+frecuentes: Cefalea; temblor.
+poco frecuentes: Mareo.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+no frecuente: Angina de pecho; Arritmias cardíacas, como fibrilación auricular, taquicardia supraventricular, extrasístoles; Variaciones en la presión arterial; prolongación del intervalo QTc.
+frecuentes: Palpitaciones.
+poco frecuentes: Taquicardia.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+no frecuente: broncoespasmo.
+frecuentes: Irritación leve de garganta; Tos; disfonía incluida ronquera (ronquera).
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+poco frecuentes: Calambres musculares.
+
+INFECCIONES E INFESTACIONES
+frecuentes: Candidiasis orofaríngea; Neumonía (en pacientes con EPOC).
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+no frecuente: Cataratas y glaucoma.
+poco frecuentes: Visión borrosa.
+
+TRASTORNOS DEL SISTEMA ENDOCRINO
+no frecuente: Síndrome de Cushing; disminución de la densidad mineral ósea; retraso del crecimiento; supresión adrenal.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+poco frecuentes: Hematomas.
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN
+no frecuente: Hiperglucemia; Hipocalemia.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+poco frecuentes: Náuseas.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+no frecuente: Reacciones de hipersensibilidad inmediata y retardada, como exantema, urticaria, prurito, dermatitis, angioedema y reacción anafiláctica.
+
+Descripción de aspectos clínicos seleccionados
+En pacientes que reciben tratamiento inhalado, la educación sobre el uso correcto del dispositivo forma parte del seguimiento habitual. La revisión de la técnica, la adherencia y la exposición acumulada puede ayudar a interpretar los acontecimientos comunicados durante el tratamiento. Cuando exista una respuesta inesperada inmediatamente después de la administración, debe evaluarse la relación temporal y la necesidad de medidas clínicas apropiadas.
+
+En tratamientos de mayor duración, el control periódico debe adaptarse a las características del paciente y a la respuesta obtenida. La información al paciente debe incluir la conveniencia de comunicar cualquier cambio relevante en su estado general. La decisión de continuar, ajustar o interrumpir el tratamiento debe basarse en la valoración clínica global y en el balance entre beneficio y riesgo.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En la clasificación por órganos y sistemas, dentro de TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO, se han notificado Calambres musculares durante el tratamiento con budesonida/formoterol, combinación también identificada en la práctica como Symbicort. En la tabla de reacciones adversas, esta reacción se clasifica como poco frecuentes:
+- Calambres musculares: poco frecuentes.
+
+Los Calambres musculares (tirones musculares) pueden ser compatibles con la actividad beta2-adrenérgica del componente formoterol y deben valorarse en relación con la dosis inhalada y el estado clínico del paciente. Se recomienda seguimiento si persisten, se intensifican o interfieren con las actividades habituales.
+
+-- Caso 2 --
+En la clasificación de Trastornos del metabolismo y la nutrición, se ha descrito Hipocalemia con frecuencia no frecuente durante el tratamiento con BUDESONIDA, FORMOTEROL FUMARATO DIHIDRATO. Este efecto puede relacionarse con la actividad beta2-adrenérgica del componente formoterol, especialmente en pacientes con factores predisponentes.
+
+Listado tabulado:
+- Trastornos del metabolismo y la nutrición: Hipocalemia (no frecuente).
+
+Cuando se utilice budesonida/formoterol, puede considerarse la monitorización clínica o analítica en pacientes de riesgo, de acuerdo con la situación clínica individual.
+
+-- Caso 3 --
+En pacientes con EPOC tratados con la combinación budesonida/formoterol, se ha notificado Neumonía (en pacientes con EPOC) dentro del sistema Infecciones e infestaciones, con una frecuencia clasificada como frecuentes.
+
+Esta reacción debe considerarse durante el seguimiento clínico, especialmente si aparecen signos compatibles con pulmonía. La enfermedad respiratoria de base puede dificultar la valoración clínica, por lo que se recomienda evaluar de forma individual la evolución del paciente y la necesidad de medidas diagnósticas o terapéuticas, manteniendo el tratamiento inhalado conforme al criterio clínico cuando el balance beneficio/riesgo sea favorable.

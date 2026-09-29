@@ -1,0 +1,1436 @@
+{
+  "codigo": "40537",
+  "variante": 1,
+  "codigo_variant": "40537_v1",
+  "medicamento": "INACID 25 mg CAPSULAS DURAS",
+  "model": "gpt-5.5",
+  "style_variant_idx": 0,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nLa información disponible para INDOMETACINA muestra un perfil de tolerabilidad compatible con su uso clínico en tratamientos de corta duración y con vigilancia individualizada. La valoración de los acontecimientos debe realizarse considerando la dosis administrada, la duración de la exposición, los antecedentes del paciente y el uso concomitante de otros medicamentos. En pacientes con factores de riesgo, la aparición de síntomas persistentes o de intensidad relevante requiere reevaluación del tratamiento. La comunicación de cualquier sospecha permite actualizar de forma continua la relación beneficio-riesgo. Las categorías indicadas a continuación se presentan según la clasificación habitual utilizada en ficha técnica.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nmuy frecuentes: Aturdimiento, Cefalea, Mareos, Vértigo.\nfrecuentes: Cansancio, malestar, languidez.\nno frecuente: Ansiedad, Coma, Convulsiones, Debilidad muscular, Disartria, Empeoramiento de la epilepsia o de la enfermedad de Parkinson, Insomnio, Movimientos involuntarios, Neuropatía periférica, Parestesia, Somnolencia, Síncopes.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nfrecuentes: Anorexia, Diarrea, Dolor abdominal, Dolor epigástrico, Estreñimiento, Náuseas, Vómitos.\npoco frecuentes: Empeoramiento del dolor abdominal principalmente en pacientes con colitis ulcerosa, Estomatitis, Flatulencia, Gastritis, Hemorragia en el cólon sigmoide, Perforación de lesiones pre-existentes en el colon sigmoide, Sangrado gastrointestinal.\nno frecuente: Estomatitis ulcerosa, Úlcera gastrointestinal con estenosis y obstrucción, Úlceras únicas o múltiples en el esófago, estómago, duodeno e intestino delgado o grueso (incluida perforación y hemorrágia).\nfrecuencia no conocida: Pancreatitis.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\npoco frecuentes: Acúfenos.\nno frecuente: Diplopia, Dolor orbitario y periorbitario, Epistaxis, Hipoacusia, Trastornos auditivos, Visión borrosa.\n\nTRASTORNOS DE PIEL Y TEJIDOS\npoco frecuentes: Alopecia.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\nno frecuente: Anafilaxia aguda, Angioedema, Angitis, Asma, Caída rápida de la presión arterial parecida a un estado de shock, Disnea súbita, Distrés respiratorio agudo, Edema pulmonar, Eritema nudoso, Erupción cutánea, Prurito, Urticaria.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\nno frecuente: Arritmia, Dolor torácico, Hipertensión, Hipotensión, Insuficiencia cardíaca congestiva, Palpitaciones, Taquicardia.\n\nTRASTORNOS DEL SISTEMA REPRODUCTOR\nno frecuente: Aumento de las mamas, Ginecomastia, Hemorragia vaginal, Sensibilidad.\n\nTRASTORNOS DEL SISTEMA HEPATOBILIAR\npoco frecuentes: Aumento de las transaminasas séricas (3 veces por encima del límite normal).\nno frecuente: Hepatitis con o sin ictericia, Lesión hepática.\n\nTRASTORNOS PSIQUIÁTRICOS\nfrecuentes: Depresión.\nno frecuente: Confusión mental, Estados psicóticos, Trastornos psicológicos (despersonalización).\n\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN\nno frecuente: Elevación de la urea, Glucosuria, Hiperglucemia, Hiperpotasemia.\n\nTRASTORNOS DEL SISTEMA GENERAL\nno frecuente: Rubefacción, Sudoración.\n\nDescripción de reacciones adversas seleccionadas\nLa intensidad y el curso temporal de los acontecimientos pueden variar entre pacientes. En general, cuando se identifican manifestaciones clínicamente significativas, se recomienda valorar la continuidad del tratamiento y aplicar las medidas de soporte apropiadas. La revisión de antecedentes personales, la edad, la situación funcional y la presencia de enfermedades concomitantes facilitan una interpretación adecuada de los hallazgos comunicados.\n\nEl seguimiento debe centrarse en la detección temprana de signos de alarma y en la educación del paciente para comunicar cambios relevantes durante el tratamiento. La notificación de sospechas contribuye a caracterizar mejor la seguridad del medicamento en condiciones reales de uso.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nEn el sistema de clasificación de órganos TRASTORNOS DEL SISTEMA NERVIOSO, Cefalea se incluye entre las reacciones adversas muy frecuentes descritas durante el tratamiento con INDOMETACINA. Este acontecimiento puede relacionarse con la actividad farmacológica del medicamento y debe valorarse en el contexto clínico del paciente, especialmente si aparece al inicio del tratamiento o interfiere con las actividades habituales. Se recomienda realizar seguimiento clínico y considerar las medidas habituales de manejo si los síntomas persisten o resultan clínicamente relevantes, de acuerdo con la evaluación beneficio-riesgo individual.\n\n-- Caso 2 --\nEn la clase de órganos Trastornos del sistema hepatobiliar, se ha descrito Aumento de las transaminasas séricas (3 veces por encima del límite normal), incluida entre las reacciones adversas poco frecuentes asociadas al tratamiento con INDOMETACINA. Esta alteración puede detectarse durante el seguimiento analítico y debe interpretarse en el contexto clínico del paciente y de la exposición al medicamento. Se recomienda valorar la continuidad del tratamiento si los valores permanecen elevados o se incrementan, de acuerdo con la práctica clínica y las precauciones de uso establecidas.\n\n-- Caso 3 --\nEn la clasificación por órganos y sistemas, dentro de TRASTORNOS DEL SISTEMA DIGESTIVO, se ha notificado Dolor epigástrico como una reacción adversa incluida entre las frecuentes durante el tratamiento con INDOMETACINA. Este hallazgo es coherente con el perfil farmacológico del principio activo y con su posible efecto local o sistémico sobre la mucosa digestiva. En caso de persistencia o empeoramiento, debe valorarse la situación clínica del paciente y la conveniencia de continuar el tratamiento, de acuerdo con la evaluación beneficio-riesgo individual.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "INDOMETACINA",
+      "surface": "INDOMETACINA",
+      "start": 88,
+      "end": 100
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 826,
+      "end": 857
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes",
+      "start": 858,
+      "end": 872
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aturdimiento",
+      "surface": "Aturdimiento",
+      "start": 874,
+      "end": 886
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea",
+      "start": 888,
+      "end": 895
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareos",
+      "surface": "Mareos",
+      "start": 897,
+      "end": 903
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vértigo",
+      "surface": "Vértigo",
+      "start": 905,
+      "end": 912
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 862,
+      "end": 872
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cansancio, malestar, languidez",
+      "surface": "Cansancio, malestar, languidez",
+      "start": 926,
+      "end": 956
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 958,
+      "end": 970
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ansiedad",
+      "surface": "Ansiedad",
+      "start": 972,
+      "end": 980
+    },
+    {
+      "type": "REACT",
+      "canonical": "Coma",
+      "surface": "Coma",
+      "start": 982,
+      "end": 986
+    },
+    {
+      "type": "REACT",
+      "canonical": "Convulsiones",
+      "surface": "Convulsiones",
+      "start": 988,
+      "end": 1000
+    },
+    {
+      "type": "REACT",
+      "canonical": "Debilidad muscular",
+      "surface": "Debilidad muscular",
+      "start": 1002,
+      "end": 1020
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disartria",
+      "surface": "Disartria",
+      "start": 1022,
+      "end": 1031
+    },
+    {
+      "type": "REACT",
+      "canonical": "Empeoramiento de la epilepsia o de la enfermedad de Parkinson",
+      "surface": "Empeoramiento de la epilepsia o de la enfermedad de Parkinson",
+      "start": 1033,
+      "end": 1094
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insomnio",
+      "surface": "Insomnio",
+      "start": 1096,
+      "end": 1104
+    },
+    {
+      "type": "REACT",
+      "canonical": "Movimientos involuntarios",
+      "surface": "Movimientos involuntarios",
+      "start": 1106,
+      "end": 1131
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neuropatía periférica",
+      "surface": "Neuropatía periférica",
+      "start": 1133,
+      "end": 1154
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parestesia",
+      "surface": "Parestesia",
+      "start": 1156,
+      "end": 1166
+    },
+    {
+      "type": "REACT",
+      "canonical": "Somnolencia",
+      "surface": "Somnolencia",
+      "start": 1168,
+      "end": 1179
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síncopes",
+      "surface": "Síncopes",
+      "start": 1181,
+      "end": 1189
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1192,
+      "end": 1224
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anorexia",
+      "surface": "Anorexia",
+      "start": 1237,
+      "end": 1245
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea",
+      "start": 1247,
+      "end": 1254
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor abdominal",
+      "surface": "Dolor abdominal",
+      "start": 1256,
+      "end": 1271
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor epigástrico",
+      "surface": "Dolor epigástrico",
+      "start": 1273,
+      "end": 1290
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento",
+      "start": 1292,
+      "end": 1305
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 1307,
+      "end": 1314
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos",
+      "start": 1316,
+      "end": 1323
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 1325,
+      "end": 1340
+    },
+    {
+      "type": "REACT",
+      "canonical": "Empeoramiento del dolor abdominal principalmente en pacientes con colitis ulcerosa",
+      "surface": "Empeoramiento del dolor abdominal principalmente en pacientes con colitis ulcerosa",
+      "start": 1342,
+      "end": 1424
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estomatitis",
+      "surface": "Estomatitis",
+      "start": 1426,
+      "end": 1437
+    },
+    {
+      "type": "REACT",
+      "canonical": "Flatulencia",
+      "surface": "Flatulencia",
+      "start": 1439,
+      "end": 1450
+    },
+    {
+      "type": "REACT",
+      "canonical": "Gastritis",
+      "surface": "Gastritis",
+      "start": 1452,
+      "end": 1461
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia en el cólon sigmoide",
+      "surface": "Hemorragia en el cólon sigmoide",
+      "start": 1463,
+      "end": 1494
+    },
+    {
+      "type": "REACT",
+      "canonical": "Perforación de lesiones pre-existentes en el colon sigmoide",
+      "surface": "Perforación de lesiones pre-existentes en el colon sigmoide",
+      "start": 1496,
+      "end": 1555
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sangrado gastrointestinal",
+      "surface": "Sangrado gastrointestinal",
+      "start": 1557,
+      "end": 1582
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estomatitis ulcerosa",
+      "surface": "Estomatitis ulcerosa",
+      "start": 1598,
+      "end": 1618
+    },
+    {
+      "type": "REACT",
+      "canonical": "Úlcera gastrointestinal con estenosis y obstrucción",
+      "surface": "Úlcera gastrointestinal con estenosis y obstrucción",
+      "start": 1620,
+      "end": 1671
+    },
+    {
+      "type": "REACT",
+      "canonical": "Úlceras únicas o múltiples en el esófago, estómago, duodeno e intestino delgado o grueso (incluida perforación y hemorrágia)",
+      "surface": "Úlceras únicas o múltiples en el esófago, estómago, duodeno e intestino delgado o grueso (incluida perforación y hemorrágia)",
+      "start": 1673,
+      "end": 1797
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 1799,
+      "end": 1821
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pancreatitis",
+      "surface": "Pancreatitis",
+      "start": 1823,
+      "end": 1835
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 1838,
+      "end": 1875
+    },
+    {
+      "type": "REACT",
+      "canonical": "Acúfenos",
+      "surface": "Acúfenos",
+      "start": 1893,
+      "end": 1901
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diplopia",
+      "surface": "Diplopia",
+      "start": 1917,
+      "end": 1925
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor orbitario y periorbitario",
+      "surface": "Dolor orbitario y periorbitario",
+      "start": 1927,
+      "end": 1958
+    },
+    {
+      "type": "REACT",
+      "canonical": "Epistaxis",
+      "surface": "Epistaxis",
+      "start": 1960,
+      "end": 1969
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipoacusia",
+      "surface": "Hipoacusia",
+      "start": 1971,
+      "end": 1981
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastornos auditivos",
+      "surface": "Trastornos auditivos",
+      "start": 1983,
+      "end": 2003
+    },
+    {
+      "type": "REACT",
+      "canonical": "Visión borrosa",
+      "surface": "Visión borrosa",
+      "start": 2005,
+      "end": 2019
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 2022,
+      "end": 2050
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alopecia",
+      "surface": "Alopecia",
+      "start": 2068,
+      "end": 2076
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 2079,
+      "end": 2114
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anafilaxia aguda",
+      "surface": "Anafilaxia aguda",
+      "start": 2129,
+      "end": 2145
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angioedema",
+      "surface": "Angioedema",
+      "start": 2147,
+      "end": 2157
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angitis",
+      "surface": "Angitis",
+      "start": 2159,
+      "end": 2166
+    },
+    {
+      "type": "REACT",
+      "canonical": "Asma",
+      "surface": "Asma",
+      "start": 2168,
+      "end": 2172
+    },
+    {
+      "type": "REACT",
+      "canonical": "Caída rápida de la presión arterial parecida a un estado de shock",
+      "surface": "Caída rápida de la presión arterial parecida a un estado de shock",
+      "start": 2174,
+      "end": 2239
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disnea súbita",
+      "surface": "Disnea súbita",
+      "start": 2241,
+      "end": 2254
+    },
+    {
+      "type": "REACT",
+      "canonical": "Distrés respiratorio agudo",
+      "surface": "Distrés respiratorio agudo",
+      "start": 2256,
+      "end": 2282
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema pulmonar",
+      "surface": "Edema pulmonar",
+      "start": 2284,
+      "end": 2298
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eritema nudoso",
+      "surface": "Eritema nudoso",
+      "start": 2300,
+      "end": 2314
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción cutánea",
+      "surface": "Erupción cutánea",
+      "start": 2316,
+      "end": 2332
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito",
+      "start": 2334,
+      "end": 2341
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria",
+      "start": 2343,
+      "end": 2352
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 2355,
+      "end": 2392
+    },
+    {
+      "type": "REACT",
+      "canonical": "Arritmia",
+      "surface": "Arritmia",
+      "start": 2407,
+      "end": 2415
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor torácico",
+      "surface": "Dolor torácico",
+      "start": 2417,
+      "end": 2431
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertensión",
+      "surface": "Hipertensión",
+      "start": 2433,
+      "end": 2445
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión",
+      "start": 2447,
+      "end": 2458
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia cardíaca congestiva",
+      "surface": "Insuficiencia cardíaca congestiva",
+      "start": 2460,
+      "end": 2493
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones",
+      "start": 2495,
+      "end": 2508
+    },
+    {
+      "type": "REACT",
+      "canonical": "Taquicardia",
+      "surface": "Taquicardia",
+      "start": 2510,
+      "end": 2521
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "start": 2524,
+      "end": 2558
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de las mamas",
+      "surface": "Aumento de las mamas",
+      "start": 2573,
+      "end": 2593
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ginecomastia",
+      "surface": "Ginecomastia",
+      "start": 2595,
+      "end": 2607
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia vaginal",
+      "surface": "Hemorragia vaginal",
+      "start": 2609,
+      "end": 2627
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sensibilidad",
+      "surface": "Sensibilidad",
+      "start": 2629,
+      "end": 2641
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "surface": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "start": 2644,
+      "end": 2679
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de las transaminasas séricas (3 veces por encima del límite normal)",
+      "surface": "Aumento de las transaminasas séricas (3 veces por encima del límite normal)",
+      "start": 2697,
+      "end": 2772
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hepatitis con o sin ictericia",
+      "surface": "Hepatitis con o sin ictericia",
+      "start": 2788,
+      "end": 2817
+    },
+    {
+      "type": "REACT",
+      "canonical": "Lesión hepática",
+      "surface": "Lesión hepática",
+      "start": 2819,
+      "end": 2834
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 2837,
+      "end": 2861
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión",
+      "surface": "Depresión",
+      "start": 2874,
+      "end": 2883
+    },
+    {
+      "type": "REACT",
+      "canonical": "Confusión mental",
+      "surface": "Confusión mental",
+      "start": 2899,
+      "end": 2915
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estados psicóticos",
+      "surface": "Estados psicóticos",
+      "start": 2917,
+      "end": 2935
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastornos psicológicos (despersonalización)",
+      "surface": "Trastornos psicológicos (despersonalización)",
+      "start": 2937,
+      "end": 2981
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "start": 2984,
+      "end": 3025
+    },
+    {
+      "type": "REACT",
+      "canonical": "Elevación de la urea",
+      "surface": "Elevación de la urea",
+      "start": 3040,
+      "end": 3060
+    },
+    {
+      "type": "REACT",
+      "canonical": "Glucosuria",
+      "surface": "Glucosuria",
+      "start": 3062,
+      "end": 3072
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperglucemia",
+      "surface": "Hiperglucemia",
+      "start": 3074,
+      "end": 3087
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperpotasemia",
+      "surface": "Hiperpotasemia",
+      "start": 3089,
+      "end": 3103
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 3106,
+      "end": 3136
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rubefacción",
+      "surface": "Rubefacción",
+      "start": 3151,
+      "end": 3162
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sudoración",
+      "surface": "Sudoración",
+      "start": 3164,
+      "end": 3174
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "surface": "Trastornos del sistema hepatobiliar",
+      "start": 2644,
+      "end": 2679
+    }
+  ],
+  "raw_long_doc_text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nLa información disponible para INDOMETACINA muestra un perfil de tolerabilidad compatible con su uso clínico en tratamientos de corta duración y con vigilancia individualizada. La valoración de los acontecimientos debe realizarse considerando la dosis administrada, la duración de la exposición, los antecedentes del paciente y el uso concomitante de otros medicamentos. En pacientes con factores de riesgo, la aparición de síntomas persistentes o de intensidad relevante requiere reevaluación del tratamiento. La comunicación de cualquier sospecha permite actualizar de forma continua la relación beneficio-riesgo. Las categorías indicadas a continuación se presentan según la clasificación habitual utilizada en ficha técnica.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nmuy frecuentes: Aturdimiento, Cefalea, Mareos, Vértigo.\nfrecuentes: Cansancio, malestar, languidez.\nno frecuente: Ansiedad, Coma, Convulsiones, Debilidad muscular, Disartria, Empeoramiento de la epilepsia o de la enfermedad de Parkinson, Insomnio, Movimientos involuntarios, Neuropatía periférica, Parestesia, Somnolencia, Síncopes.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nfrecuentes: Anorexia, Diarrea, Dolor abdominal, Dolor epigástrico, Estreñimiento, Náuseas, Vómitos.\npoco frecuentes: Empeoramiento del dolor abdominal principalmente en pacientes con colitis ulcerosa, Estomatitis, Flatulencia, Gastritis, Hemorragia en el cólon sigmoide, Perforación de lesiones pre-existentes en el colon sigmoide, Sangrado gastrointestinal.\nno frecuente: Estomatitis ulcerosa, Úlcera gastrointestinal con estenosis y obstrucción, Úlceras únicas o múltiples en el esófago, estómago, duodeno e intestino delgado o grueso (incluida perforación y hemorrágia).\nfrecuencia no conocida: Pancreatitis.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\npoco frecuentes: Acúfenos.\nno frecuente: Diplopia, Dolor orbitario y periorbitario, Epistaxis, Hipoacusia, Trastornos auditivos, Visión borrosa.\n\nTRASTORNOS DE PIEL Y TEJIDOS\npoco frecuentes: Alopecia.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\nno frecuente: Anafilaxia aguda, Angioedema, Angitis, Asma, Caída rápida de la presión arterial parecida a un estado de shock, Disnea súbita, Distrés respiratorio agudo, Edema pulmonar, Eritema nudoso, Erupción cutánea, Prurito, Urticaria.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\nno frecuente: Arritmia, Dolor torácico, Hipertensión, Hipotensión, Insuficiencia cardíaca congestiva, Palpitaciones, Taquicardia.\n\nTRASTORNOS DEL SISTEMA REPRODUCTOR\nno frecuente: Aumento de las mamas, Ginecomastia, Hemorragia vaginal, Sensibilidad.\n\nTRASTORNOS DEL SISTEMA HEPATOBILIAR\npoco frecuentes: Aumento de las transaminasas séricas (3 veces por encima del límite normal).\nno frecuente: Hepatitis con o sin ictericia, Lesión hepática.\n\nTRASTORNOS PSIQUIÁTRICOS\nfrecuentes: Depresión.\nno frecuente: Confusión mental, Estados psicóticos, Trastornos psicológicos (despersonalización).\n\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN\nno frecuente: Elevación de la urea, Glucosuria, Hiperglucemia, Hiperpotasemia.\n\nTRASTORNOS DEL SISTEMA GENERAL\nno frecuente: Rubefacción, Sudoración.\n\nDescripción de reacciones adversas seleccionadas\nLa intensidad y el curso temporal de los acontecimientos pueden variar entre pacientes. En general, cuando se identifican manifestaciones clínicamente significativas, se recomienda valorar la continuidad del tratamiento y aplicar las medidas de soporte apropiadas. La revisión de antecedentes personales, la edad, la situación funcional y la presencia de enfermedades concomitantes facilitan una interpretación adecuada de los hallazgos comunicados.\n\nEl seguimiento debe centrarse en la detección temprana de signos de alarma y en la educación del paciente para comunicar cambios relevantes durante el tratamiento. La notificación de sospechas contribuye a caracterizar mejor la seguridad del medicamento en condiciones reales de uso.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "INDOMETACINA",
+      "surface": "INDOMETACINA"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aturdimiento",
+      "surface": "Aturdimiento"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareos",
+      "surface": "Mareos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vértigo",
+      "surface": "Vértigo"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cansancio, malestar, languidez",
+      "surface": "Cansancio, malestar, languidez"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ansiedad",
+      "surface": "Ansiedad"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Coma",
+      "surface": "Coma"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Convulsiones",
+      "surface": "Convulsiones"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Debilidad muscular",
+      "surface": "Debilidad muscular"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disartria",
+      "surface": "Disartria"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Empeoramiento de la epilepsia o de la enfermedad de Parkinson",
+      "surface": "Empeoramiento de la epilepsia o de la enfermedad de Parkinson"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insomnio",
+      "surface": "Insomnio"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Movimientos involuntarios",
+      "surface": "Movimientos involuntarios"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neuropatía periférica",
+      "surface": "Neuropatía periférica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parestesia",
+      "surface": "Parestesia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Somnolencia",
+      "surface": "Somnolencia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síncopes",
+      "surface": "Síncopes"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anorexia",
+      "surface": "Anorexia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor abdominal",
+      "surface": "Dolor abdominal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor epigástrico",
+      "surface": "Dolor epigástrico"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Empeoramiento del dolor abdominal principalmente en pacientes con colitis ulcerosa",
+      "surface": "Empeoramiento del dolor abdominal principalmente en pacientes con colitis ulcerosa"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estomatitis",
+      "surface": "Estomatitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Flatulencia",
+      "surface": "Flatulencia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Gastritis",
+      "surface": "Gastritis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia en el cólon sigmoide",
+      "surface": "Hemorragia en el cólon sigmoide"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Perforación de lesiones pre-existentes en el colon sigmoide",
+      "surface": "Perforación de lesiones pre-existentes en el colon sigmoide"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sangrado gastrointestinal",
+      "surface": "Sangrado gastrointestinal"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estomatitis ulcerosa",
+      "surface": "Estomatitis ulcerosa"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Úlcera gastrointestinal con estenosis y obstrucción",
+      "surface": "Úlcera gastrointestinal con estenosis y obstrucción"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Úlceras únicas o múltiples en el esófago, estómago, duodeno e intestino delgado o grueso (incluida perforación y hemorrágia)",
+      "surface": "Úlceras únicas o múltiples en el esófago, estómago, duodeno e intestino delgado o grueso (incluida perforación y hemorrágia)"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pancreatitis",
+      "surface": "Pancreatitis"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Acúfenos",
+      "surface": "Acúfenos"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diplopia",
+      "surface": "Diplopia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor orbitario y periorbitario",
+      "surface": "Dolor orbitario y periorbitario"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Epistaxis",
+      "surface": "Epistaxis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipoacusia",
+      "surface": "Hipoacusia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastornos auditivos",
+      "surface": "Trastornos auditivos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Visión borrosa",
+      "surface": "Visión borrosa"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alopecia",
+      "surface": "Alopecia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anafilaxia aguda",
+      "surface": "Anafilaxia aguda"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angioedema",
+      "surface": "Angioedema"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angitis",
+      "surface": "Angitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Asma",
+      "surface": "Asma"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Caída rápida de la presión arterial parecida a un estado de shock",
+      "surface": "Caída rápida de la presión arterial parecida a un estado de shock"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disnea súbita",
+      "surface": "Disnea súbita"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Distrés respiratorio agudo",
+      "surface": "Distrés respiratorio agudo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema pulmonar",
+      "surface": "Edema pulmonar"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eritema nudoso",
+      "surface": "Eritema nudoso"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción cutánea",
+      "surface": "Erupción cutánea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Arritmia",
+      "surface": "Arritmia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor torácico",
+      "surface": "Dolor torácico"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertensión",
+      "surface": "Hipertensión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia cardíaca congestiva",
+      "surface": "Insuficiencia cardíaca congestiva"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Taquicardia",
+      "surface": "Taquicardia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de las mamas",
+      "surface": "Aumento de las mamas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ginecomastia",
+      "surface": "Ginecomastia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia vaginal",
+      "surface": "Hemorragia vaginal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sensibilidad",
+      "surface": "Sensibilidad"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "surface": "TRASTORNOS DEL SISTEMA HEPATOBILIAR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de las transaminasas séricas (3 veces por encima del límite normal)",
+      "surface": "Aumento de las transaminasas séricas (3 veces por encima del límite normal)"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hepatitis con o sin ictericia",
+      "surface": "Hepatitis con o sin ictericia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Lesión hepática",
+      "surface": "Lesión hepática"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión",
+      "surface": "Depresión"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Confusión mental",
+      "surface": "Confusión mental"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estados psicóticos",
+      "surface": "Estados psicóticos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastornos psicológicos (despersonalización)",
+      "surface": "Trastornos psicológicos (despersonalización)"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Elevación de la urea",
+      "surface": "Elevación de la urea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Glucosuria",
+      "surface": "Glucosuria"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperglucemia",
+      "surface": "Hiperglucemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperpotasemia",
+      "surface": "Hiperpotasemia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rubefacción",
+      "surface": "Rubefacción"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sudoración",
+      "surface": "Sudoración"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "INACID 25 mg CAPSULAS DURAS",
+        "pactivo": "INDOMETACINA",
+        "reaccion": "Cefalea",
+        "frecuencia": "MUY FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA NERVIOSO"
+      },
+      "text": "En el sistema de clasificación de órganos TRASTORNOS DEL SISTEMA NERVIOSO, Cefalea se incluye entre las reacciones adversas muy frecuentes descritas durante el tratamiento con INDOMETACINA. Este acontecimiento puede relacionarse con la actividad farmacológica del medicamento y debe valorarse en el contexto clínico del paciente, especialmente si aparece al inicio del tratamiento o interfiere con las actividades habituales. Se recomienda realizar seguimiento clínico y considerar las medidas habituales de manejo si los síntomas persisten o resultan clínicamente relevantes, de acuerdo con la evaluación beneficio-riesgo individual.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Cefalea",
+          "surface": "Cefalea"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "MUY FRECUENTE",
+          "surface": "muy frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "INDOMETACINA",
+          "surface": "INDOMETACINA"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "start": 42,
+          "end": 73
+        },
+        {
+          "type": "REACT",
+          "canonical": "Cefalea",
+          "surface": "Cefalea",
+          "start": 75,
+          "end": 82
+        },
+        {
+          "type": "FREQ",
+          "canonical": "MUY FRECUENTE",
+          "surface": "muy frecuentes",
+          "start": 124,
+          "end": 138
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "INDOMETACINA",
+          "surface": "INDOMETACINA",
+          "start": 176,
+          "end": 188
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "INACID 25 mg CAPSULAS DURAS",
+        "pactivo": "INDOMETACINA",
+        "reaccion": "Aumento de las transaminasas séricas (3 veces por encima del límite normal)",
+        "frecuencia": "POCO FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA HEPATOBILIAR"
+      },
+      "text": "En la clase de órganos Trastornos del sistema hepatobiliar, se ha descrito Aumento de las transaminasas séricas (3 veces por encima del límite normal), incluida entre las reacciones adversas poco frecuentes asociadas al tratamiento con INDOMETACINA. Esta alteración puede detectarse durante el seguimiento analítico y debe interpretarse en el contexto clínico del paciente y de la exposición al medicamento. Se recomienda valorar la continuidad del tratamiento si los valores permanecen elevados o se incrementan, de acuerdo con la práctica clínica y las precauciones de uso establecidas.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+          "surface": "Trastornos del sistema hepatobiliar"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Aumento de las transaminasas séricas (3 veces por encima del límite normal)",
+          "surface": "Aumento de las transaminasas séricas (3 veces por encima del límite normal)"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "INDOMETACINA",
+          "surface": "INDOMETACINA"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+          "surface": "Trastornos del sistema hepatobiliar",
+          "start": 23,
+          "end": 58
+        },
+        {
+          "type": "REACT",
+          "canonical": "Aumento de las transaminasas séricas (3 veces por encima del límite normal)",
+          "surface": "Aumento de las transaminasas séricas (3 veces por encima del límite normal)",
+          "start": 75,
+          "end": 150
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes",
+          "start": 191,
+          "end": 206
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "INDOMETACINA",
+          "surface": "INDOMETACINA",
+          "start": 236,
+          "end": 248
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "INACID 25 mg CAPSULAS DURAS",
+        "pactivo": "INDOMETACINA",
+        "reaccion": "Dolor epigástrico",
+        "frecuencia": "FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+      },
+      "text": "En la clasificación por órganos y sistemas, dentro de TRASTORNOS DEL SISTEMA DIGESTIVO, se ha notificado Dolor epigástrico como una reacción adversa incluida entre las frecuentes durante el tratamiento con INDOMETACINA. Este hallazgo es coherente con el perfil farmacológico del principio activo y con su posible efecto local o sistémico sobre la mucosa digestiva. En caso de persistencia o empeoramiento, debe valorarse la situación clínica del paciente y la conveniencia de continuar el tratamiento, de acuerdo con la evaluación beneficio-riesgo individual.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Dolor epigástrico",
+          "surface": "Dolor epigástrico"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "INDOMETACINA",
+          "surface": "INDOMETACINA"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "start": 54,
+          "end": 86
+        },
+        {
+          "type": "REACT",
+          "canonical": "Dolor epigástrico",
+          "surface": "Dolor epigástrico",
+          "start": 105,
+          "end": 122
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes",
+          "start": 168,
+          "end": 178
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "INDOMETACINA",
+          "surface": "INDOMETACINA",
+          "start": 206,
+          "end": 218
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

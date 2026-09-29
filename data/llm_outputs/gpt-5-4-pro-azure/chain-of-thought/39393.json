@@ -1,0 +1,152 @@
+[
+  {
+    "principio activo": "OXITOCINA",
+    "reacción adversa": "coagulación intravascular diseminada",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "OXITOCINA",
+    "reacción adversa": "reacción anafiláctica/anafilactoide asociada a disnea e hipotensión",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "OXITOCINA",
+    "reacción adversa": "shock anafiláctico/anafilactoide",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "OXITOCINA",
+    "reacción adversa": "intoxicación hídrica",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "OXITOCINA",
+    "reacción adversa": "hiponatremia",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "OXITOCINA",
+    "reacción adversa": "dolor de cabeza",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "OXITOCINA",
+    "reacción adversa": "taquicardia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "OXITOCINA",
+    "reacción adversa": "bradicardia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "OXITOCINA",
+    "reacción adversa": "arritmia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "OXITOCINA",
+    "reacción adversa": "isquemia miocárdica",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "OXITOCINA",
+    "reacción adversa": "prolongación del intervalo QT del electrocardiograma",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "OXITOCINA",
+    "reacción adversa": "hipotensión",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "OXITOCINA",
+    "reacción adversa": "edema pulmonar agudo",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "OXITOCINA",
+    "reacción adversa": "náuseas",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "OXITOCINA",
+    "reacción adversa": "vómitos",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "OXITOCINA",
+    "reacción adversa": "erupción",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "OXITOCINA",
+    "reacción adversa": "angioedema",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "OXITOCINA",
+    "reacción adversa": "hipertonía uterina",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Embarazo, puerperio y enfermedades perinatales"
+  },
+  {
+    "principio activo": "OXITOCINA",
+    "reacción adversa": "contracciones tetánicas del útero",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Embarazo, puerperio y enfermedades perinatales"
+  },
+  {
+    "principio activo": "OXITOCINA",
+    "reacción adversa": "ruptura del útero",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Embarazo, puerperio y enfermedades perinatales"
+  },
+  {
+    "principio activo": "OXITOCINA",
+    "reacción adversa": "rubor",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "OXITOCINA",
+    "reacción adversa": "hiponatremia neonatal",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "OXITOCINA",
+    "reacción adversa": "síndrome de sufrimiento fetal",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Embarazo, puerperio y enfermedades perinatales"
+  },
+  {
+    "principio activo": "OXITOCINA",
+    "reacción adversa": "asfixia",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Embarazo, puerperio y enfermedades perinatales"
+  },
+  {
+    "principio activo": "OXITOCINA",
+    "reacción adversa": "muerte",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Embarazo, puerperio y enfermedades perinatales"
+  }
+]

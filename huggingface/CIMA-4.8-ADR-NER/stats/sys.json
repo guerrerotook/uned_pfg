@@ -1,0 +1,39 @@
+{
+  "config": "sys",
+  "entity_types": [
+    "SYS"
+  ],
+  "labels": [
+    "O",
+    "B-SYS",
+    "I-SYS"
+  ],
+  "train": {
+    "documents": 18,
+    "sentences": 1134,
+    "tokens": 18440,
+    "label_counts": {
+      "O": 18234,
+      "B-SYS": 59,
+      "I-SYS": 147
+    },
+    "missing_txt_files": [],
+    "docs_with_no_tags": [
+      "39411"
+    ]
+  },
+  "test": {
+    "documents": 8,
+    "sentences": 552,
+    "tokens": 9090,
+    "label_counts": {
+      "O": 9015,
+      "B-SYS": 22,
+      "I-SYS": 53
+    },
+    "missing_txt_files": [],
+    "docs_with_no_tags": [
+      "84067"
+    ]
+  }
+}

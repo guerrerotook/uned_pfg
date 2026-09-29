@@ -1,0 +1,1176 @@
+{
+  "codigo": "58001",
+  "variante": 2,
+  "codigo_variant": "58001_v2",
+  "medicamento": "STESOLID 5 mg solución rectal",
+  "model": "gpt-5.5",
+  "style_variant_idx": 1,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil observado con DIAZEPAM, también denominado diazepam, es coherente con el de los medicamentos de acción central administrados por vía rectal. En la práctica clínica, Stesolid debe valorarse atendiendo a la situación basal del paciente, la dosis administrada y la posible exposición concomitante a otros tratamientos. La mayoría de los acontecimientos descritos son transitorios y tienden a relacionarse con la intensidad de la respuesta farmacológica. En la información al paciente puede explicarse somnolencia (sueño) como una tendencia marcada a quedarse dormido.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nno frecuente: disminuir la temperatura corporal\npoco frecuentes: alteraciones del habla, convulsiones de rebote, hiperactividad, temblor\nfrecuentes: confusión, dolor de cabeza, falta de coordinación muscular, mareos\nmuy frecuentes: somnolencia\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\nno frecuente: alergias\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\npoco frecuentes: alteración del ritmo del corazón e inflamación de venas con formación de trombos, bajada de tensión severa, colapso circulatorio, disminución de la frecuencia cardíaca\nno frecuente: vasculitis bullosa\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\npoco frecuentes: alteraciones de la salivación, estreñimiento, náuseas, trastornos gastrointestinales\nno frecuente: coloración amarilla de la piel, elevación de enzimas hepáticos\n\nTRASTORNOS PSIQUIÁTRICOS\npoco frecuentes: Alteraciones mentales leves: pérdida de memoria, enlentecimiento del tiempo de reacción.\ndepresión, disminución del deseo sexual, excitación paradójica que puede conllevar: hostilidad, agresión y desinhibición, ansiedad, alucinaciones, insomnio, alteraciones del sueño.\nno frecuente: dificultad para recordar algunas cosas\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS\nno frecuente: anemia, disminución de las plaquetas, pacientes con baja concentración de sodio en sangre se puede producir dolor y debilidad muscular, pancitopenia\npoco frecuentes: inflamación de las venas, irritación local, neutropenia\n\nTRASTORNOS DEL SISTEMA ENDOCRINO\nno frecuente: aumento del volumen de las mamas en hombres, secreción de leche por el pezón\n\nTRASTORNOS DEL SISTEMA GENERAL\nno frecuente: cuadro clínico que cursa con fiebre, erupciones y alteraciones de la sangre (síndrome de Sweet)\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\nfrecuentes: depresión respiratoria\n\nTRASTORNOS DE PIEL Y TEJIDOS\npoco frecuentes: erupción y urticaria, hinchazón, irritación local tras administración rectal, sudoración\n\nTRASTORNOS DEL SISTEMA EXCRETOR\npoco frecuentes: incontinencia, retención urinaria\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\npoco frecuentes: movimientos involuntarios de los ojos, visión borrosa, visión doble, vértigo\n\nDescripción de reacciones adversas seleccionadas\nLa valoración de los acontecimientos debe realizarse de forma individual, especialmente cuando existen factores que puedan modificar la respuesta al tratamiento. La aparición de manifestaciones de intensidad relevante puede requerir observación clínica y medidas de soporte, de acuerdo con el juicio médico. Cuando el cuadro se presenta tras la administración, se recomienda documentar el momento de inicio, la duración y la evolución, así como cualquier circunstancia que pudiera haber contribuido.\n\nEn pacientes vulnerables, la repercusión funcional puede ser más evidente y conviene extremar la vigilancia tras la administración. La información recogida durante el seguimiento debe notificarse por los canales habituales para mejorar el conocimiento del perfil de seguridad. Si se considera necesaria la continuación del tratamiento, la decisión debe basarse en la relación beneficio-riesgo individual y en la respuesta observada.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nEn el sistema de clasificación de órganos Trastornos del sistema endocrino, se ha descrito con diazepam, incluido Stesolid, aumento del volumen de las mamas en hombres, con frecuencia no frecuente. Esta reacción debe valorarse en el contexto clínico del paciente y de la exposición al tratamiento, especialmente si persiste o resulta molesta.\n\nTrastornos del sistema endocrino:\n- no frecuente: aumento del volumen de las mamas en hombres.\n\n-- Caso 2 --\nEn la clasificación TRASTORNOS DEL SISTEMA NERVIOSO, la somnolencia se incluye entre las reacciones adversas muy frecuentes notificadas con diazepam. Este efecto es coherente con la actividad farmacológica del principio activo sobre el sistema nervioso central y puede ser más evidente al inicio del tratamiento o tras ajustes de la dosis.\n\nLista tabulada:\n- TRASTORNOS DEL SISTEMA NERVIOSO: somnolencia (sueño).\n\nDurante el tratamiento con Stesolid, se recomienda valorar la intensidad de la somnolencia y su repercusión funcional, especialmente cuando pueda interferir con actividades que requieran atención mantenida.\n\n-- Caso 3 --\nDentro de Trastornos del sistema digestivo, se ha notificado la siguiente reacción adversa asociada a diazepam:\n- estreñimiento: poco frecuentes.\nEste efecto debe valorarse en el contexto del tratamiento y de las características del paciente, especialmente si existen factores predisponentes. Se recomienda seguimiento clínico y medidas generales de manejo si el cuadro persiste o resulta clínicamente relevante, sin que ello implique modificar la frecuencia establecida.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "DIAZEPAM",
+      "surface": "DIAZEPAM",
+      "start": 81,
+      "end": 89
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "DIAZEPAM",
+      "surface": "diazepam",
+      "start": 81,
+      "end": 89
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "DIAZEPAM",
+      "surface": "Stesolid",
+      "start": 232,
+      "end": 240
+    },
+    {
+      "type": "REACT",
+      "canonical": "somnolencia",
+      "surface": "somnolencia",
+      "start": 565,
+      "end": 576
+    },
+    {
+      "type": "REACT",
+      "canonical": "somnolencia",
+      "surface": "sueño",
+      "start": 578,
+      "end": 583
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 672,
+      "end": 703
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 704,
+      "end": 716
+    },
+    {
+      "type": "REACT",
+      "canonical": "disminuir la temperatura corporal",
+      "surface": "disminuir la temperatura corporal",
+      "start": 718,
+      "end": 751
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 752,
+      "end": 767
+    },
+    {
+      "type": "REACT",
+      "canonical": "alteraciones del habla",
+      "surface": "alteraciones del habla",
+      "start": 769,
+      "end": 791
+    },
+    {
+      "type": "REACT",
+      "canonical": "convulsiones de rebote",
+      "surface": "convulsiones de rebote",
+      "start": 793,
+      "end": 815
+    },
+    {
+      "type": "REACT",
+      "canonical": "hiperactividad",
+      "surface": "hiperactividad",
+      "start": 817,
+      "end": 831
+    },
+    {
+      "type": "REACT",
+      "canonical": "temblor",
+      "surface": "temblor",
+      "start": 833,
+      "end": 840
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 757,
+      "end": 767
+    },
+    {
+      "type": "REACT",
+      "canonical": "confusión",
+      "surface": "confusión",
+      "start": 853,
+      "end": 862
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor de cabeza",
+      "surface": "dolor de cabeza",
+      "start": 864,
+      "end": 879
+    },
+    {
+      "type": "REACT",
+      "canonical": "falta de coordinación muscular",
+      "surface": "falta de coordinación muscular",
+      "start": 881,
+      "end": 911
+    },
+    {
+      "type": "REACT",
+      "canonical": "mareos",
+      "surface": "mareos",
+      "start": 913,
+      "end": 919
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes",
+      "start": 920,
+      "end": 934
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 949,
+      "end": 984
+    },
+    {
+      "type": "REACT",
+      "canonical": "alergias",
+      "surface": "alergias",
+      "start": 999,
+      "end": 1007
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1009,
+      "end": 1046
+    },
+    {
+      "type": "REACT",
+      "canonical": "alteración del ritmo del corazón e inflamación de venas con formación de trombos",
+      "surface": "alteración del ritmo del corazón e inflamación de venas con formación de trombos",
+      "start": 1064,
+      "end": 1144
+    },
+    {
+      "type": "REACT",
+      "canonical": "bajada de tensión severa",
+      "surface": "bajada de tensión severa",
+      "start": 1146,
+      "end": 1170
+    },
+    {
+      "type": "REACT",
+      "canonical": "colapso circulatorio",
+      "surface": "colapso circulatorio",
+      "start": 1172,
+      "end": 1192
+    },
+    {
+      "type": "REACT",
+      "canonical": "disminución de la frecuencia cardíaca",
+      "surface": "disminución de la frecuencia cardíaca",
+      "start": 1194,
+      "end": 1231
+    },
+    {
+      "type": "REACT",
+      "canonical": "vasculitis bullosa",
+      "surface": "vasculitis bullosa",
+      "start": 1246,
+      "end": 1264
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1266,
+      "end": 1298
+    },
+    {
+      "type": "REACT",
+      "canonical": "alteraciones de la salivación",
+      "surface": "alteraciones de la salivación",
+      "start": 1316,
+      "end": 1345
+    },
+    {
+      "type": "REACT",
+      "canonical": "estreñimiento",
+      "surface": "estreñimiento",
+      "start": 1347,
+      "end": 1360
+    },
+    {
+      "type": "REACT",
+      "canonical": "náuseas",
+      "surface": "náuseas",
+      "start": 1362,
+      "end": 1369
+    },
+    {
+      "type": "REACT",
+      "canonical": "trastornos gastrointestinales",
+      "surface": "trastornos gastrointestinales",
+      "start": 1371,
+      "end": 1400
+    },
+    {
+      "type": "REACT",
+      "canonical": "coloración amarilla de la piel",
+      "surface": "coloración amarilla de la piel",
+      "start": 1415,
+      "end": 1445
+    },
+    {
+      "type": "REACT",
+      "canonical": "elevación de enzimas hepáticos",
+      "surface": "elevación de enzimas hepáticos",
+      "start": 1447,
+      "end": 1477
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 1479,
+      "end": 1503
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones mentales leves: pérdida de memoria, enlentecimiento del tiempo de reacción.",
+      "surface": "Alteraciones mentales leves: pérdida de memoria, enlentecimiento del tiempo de reacción.",
+      "start": 1521,
+      "end": 1609
+    },
+    {
+      "type": "REACT",
+      "canonical": "depresión",
+      "surface": "depresión",
+      "start": 1610,
+      "end": 1619
+    },
+    {
+      "type": "REACT",
+      "canonical": "disminución del deseo sexual",
+      "surface": "disminución del deseo sexual",
+      "start": 1621,
+      "end": 1649
+    },
+    {
+      "type": "REACT",
+      "canonical": "excitación paradójica que puede conllevar: hostilidad, agresión y desinhibición, ansiedad, alucinaciones, insomnio, alteraciones del sueño.",
+      "surface": "excitación paradójica que puede conllevar: hostilidad, agresión y desinhibición, ansiedad, alucinaciones, insomnio, alteraciones del sueño.",
+      "start": 1651,
+      "end": 1790
+    },
+    {
+      "type": "REACT",
+      "canonical": "dificultad para recordar algunas cosas",
+      "surface": "dificultad para recordar algunas cosas",
+      "start": 1805,
+      "end": 1843
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 1845,
+      "end": 1894
+    },
+    {
+      "type": "REACT",
+      "canonical": "anemia",
+      "surface": "anemia",
+      "start": 1909,
+      "end": 1915
+    },
+    {
+      "type": "REACT",
+      "canonical": "disminución de las plaquetas",
+      "surface": "disminución de las plaquetas",
+      "start": 1917,
+      "end": 1945
+    },
+    {
+      "type": "REACT",
+      "canonical": "pacientes con baja concentración de sodio en sangre se puede producir dolor y debilidad muscular",
+      "surface": "pacientes con baja concentración de sodio en sangre se puede producir dolor y debilidad muscular",
+      "start": 1947,
+      "end": 2043
+    },
+    {
+      "type": "REACT",
+      "canonical": "pancitopenia",
+      "surface": "pancitopenia",
+      "start": 2045,
+      "end": 2057
+    },
+    {
+      "type": "REACT",
+      "canonical": "inflamación de las venas",
+      "surface": "inflamación de las venas",
+      "start": 2075,
+      "end": 2099
+    },
+    {
+      "type": "REACT",
+      "canonical": "irritación local",
+      "surface": "irritación local",
+      "start": 2101,
+      "end": 2117
+    },
+    {
+      "type": "REACT",
+      "canonical": "neutropenia",
+      "surface": "neutropenia",
+      "start": 2119,
+      "end": 2130
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "surface": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "start": 2132,
+      "end": 2164
+    },
+    {
+      "type": "REACT",
+      "canonical": "aumento del volumen de las mamas en hombres",
+      "surface": "aumento del volumen de las mamas en hombres",
+      "start": 2179,
+      "end": 2222
+    },
+    {
+      "type": "REACT",
+      "canonical": "secreción de leche por el pezón",
+      "surface": "secreción de leche por el pezón",
+      "start": 2224,
+      "end": 2255
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 2257,
+      "end": 2287
+    },
+    {
+      "type": "REACT",
+      "canonical": "cuadro clínico que cursa con fiebre, erupciones y alteraciones de la sangre (síndrome de Sweet)",
+      "surface": "cuadro clínico que cursa con fiebre, erupciones y alteraciones de la sangre (síndrome de Sweet)",
+      "start": 2302,
+      "end": 2397
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 2399,
+      "end": 2434
+    },
+    {
+      "type": "REACT",
+      "canonical": "depresión respiratoria",
+      "surface": "depresión respiratoria",
+      "start": 2447,
+      "end": 2469
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 2471,
+      "end": 2499
+    },
+    {
+      "type": "REACT",
+      "canonical": "erupción y urticaria",
+      "surface": "erupción y urticaria",
+      "start": 2517,
+      "end": 2537
+    },
+    {
+      "type": "REACT",
+      "canonical": "hinchazón",
+      "surface": "hinchazón",
+      "start": 2539,
+      "end": 2548
+    },
+    {
+      "type": "REACT",
+      "canonical": "irritación local tras administración rectal",
+      "surface": "irritación local tras administración rectal",
+      "start": 2550,
+      "end": 2593
+    },
+    {
+      "type": "REACT",
+      "canonical": "sudoración",
+      "surface": "sudoración",
+      "start": 2595,
+      "end": 2605
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "start": 2607,
+      "end": 2638
+    },
+    {
+      "type": "REACT",
+      "canonical": "incontinencia",
+      "surface": "incontinencia",
+      "start": 2656,
+      "end": 2669
+    },
+    {
+      "type": "REACT",
+      "canonical": "retención urinaria",
+      "surface": "retención urinaria",
+      "start": 2671,
+      "end": 2689
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 2691,
+      "end": 2728
+    },
+    {
+      "type": "REACT",
+      "canonical": "movimientos involuntarios de los ojos",
+      "surface": "movimientos involuntarios de los ojos",
+      "start": 2746,
+      "end": 2783
+    },
+    {
+      "type": "REACT",
+      "canonical": "visión borrosa",
+      "surface": "visión borrosa",
+      "start": 2785,
+      "end": 2799
+    },
+    {
+      "type": "REACT",
+      "canonical": "visión doble",
+      "surface": "visión doble",
+      "start": 2801,
+      "end": 2813
+    },
+    {
+      "type": "REACT",
+      "canonical": "vértigo",
+      "surface": "vértigo",
+      "start": 2815,
+      "end": 2822
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "surface": "Trastornos del sistema endocrino",
+      "start": 2132,
+      "end": 2164
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "Trastornos del sistema digestivo",
+      "start": 1266,
+      "end": 1298
+    }
+  ],
+  "raw_long_doc_text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil observado con DIAZEPAM, también denominado diazepam, es coherente con el de los medicamentos de acción central administrados por vía rectal. En la práctica clínica, Stesolid debe valorarse atendiendo a la situación basal del paciente, la dosis administrada y la posible exposición concomitante a otros tratamientos. La mayoría de los acontecimientos descritos son transitorios y tienden a relacionarse con la intensidad de la respuesta farmacológica. En la información al paciente puede explicarse somnolencia (sueño) como una tendencia marcada a quedarse dormido.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nno frecuente: disminuir la temperatura corporal\npoco frecuentes: alteraciones del habla, convulsiones de rebote, hiperactividad, temblor\nfrecuentes: confusión, dolor de cabeza, falta de coordinación muscular, mareos\nmuy frecuentes: somnolencia\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\nno frecuente: alergias\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\npoco frecuentes: alteración del ritmo del corazón e inflamación de venas con formación de trombos, bajada de tensión severa, colapso circulatorio, disminución de la frecuencia cardíaca\nno frecuente: vasculitis bullosa\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\npoco frecuentes: alteraciones de la salivación, estreñimiento, náuseas, trastornos gastrointestinales\nno frecuente: coloración amarilla de la piel, elevación de enzimas hepáticos\n\nTRASTORNOS PSIQUIÁTRICOS\npoco frecuentes: Alteraciones mentales leves: pérdida de memoria, enlentecimiento del tiempo de reacción.\ndepresión, disminución del deseo sexual, excitación paradójica que puede conllevar: hostilidad, agresión y desinhibición, ansiedad, alucinaciones, insomnio, alteraciones del sueño.\nno frecuente: dificultad para recordar algunas cosas\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS\nno frecuente: anemia, disminución de las plaquetas, pacientes con baja concentración de sodio en sangre se puede producir dolor y debilidad muscular, pancitopenia\npoco frecuentes: inflamación de las venas, irritación local, neutropenia\n\nTRASTORNOS DEL SISTEMA ENDOCRINO\nno frecuente: aumento del volumen de las mamas en hombres, secreción de leche por el pezón\n\nTRASTORNOS DEL SISTEMA GENERAL\nno frecuente: cuadro clínico que cursa con fiebre, erupciones y alteraciones de la sangre (síndrome de Sweet)\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\nfrecuentes: depresión respiratoria\n\nTRASTORNOS DE PIEL Y TEJIDOS\npoco frecuentes: erupción y urticaria, hinchazón, irritación local tras administración rectal, sudoración\n\nTRASTORNOS DEL SISTEMA EXCRETOR\npoco frecuentes: incontinencia, retención urinaria\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\npoco frecuentes: movimientos involuntarios de los ojos, visión borrosa, visión doble, vértigo\n\nDescripción de reacciones adversas seleccionadas\nLa valoración de los acontecimientos debe realizarse de forma individual, especialmente cuando existen factores que puedan modificar la respuesta al tratamiento. La aparición de manifestaciones de intensidad relevante puede requerir observación clínica y medidas de soporte, de acuerdo con el juicio médico. Cuando el cuadro se presenta tras la administración, se recomienda documentar el momento de inicio, la duración y la evolución, así como cualquier circunstancia que pudiera haber contribuido.\n\nEn pacientes vulnerables, la repercusión funcional puede ser más evidente y conviene extremar la vigilancia tras la administración. La información recogida durante el seguimiento debe notificarse por los canales habituales para mejorar el conocimiento del perfil de seguridad. Si se considera necesaria la continuación del tratamiento, la decisión debe basarse en la relación beneficio-riesgo individual y en la respuesta observada.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "DIAZEPAM",
+      "surface": "DIAZEPAM"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "DIAZEPAM",
+      "surface": "diazepam"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "DIAZEPAM",
+      "surface": "Stesolid"
+    },
+    {
+      "type": "REACT",
+      "canonical": "somnolencia",
+      "surface": "somnolencia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "somnolencia",
+      "surface": "sueño"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "disminuir la temperatura corporal",
+      "surface": "disminuir la temperatura corporal"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "alteraciones del habla",
+      "surface": "alteraciones del habla"
+    },
+    {
+      "type": "REACT",
+      "canonical": "convulsiones de rebote",
+      "surface": "convulsiones de rebote"
+    },
+    {
+      "type": "REACT",
+      "canonical": "hiperactividad",
+      "surface": "hiperactividad"
+    },
+    {
+      "type": "REACT",
+      "canonical": "temblor",
+      "surface": "temblor"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "confusión",
+      "surface": "confusión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor de cabeza",
+      "surface": "dolor de cabeza"
+    },
+    {
+      "type": "REACT",
+      "canonical": "falta de coordinación muscular",
+      "surface": "falta de coordinación muscular"
+    },
+    {
+      "type": "REACT",
+      "canonical": "mareos",
+      "surface": "mareos"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "somnolencia",
+      "surface": "somnolencia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "alergias",
+      "surface": "alergias"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "alteración del ritmo del corazón e inflamación de venas con formación de trombos",
+      "surface": "alteración del ritmo del corazón e inflamación de venas con formación de trombos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "bajada de tensión severa",
+      "surface": "bajada de tensión severa"
+    },
+    {
+      "type": "REACT",
+      "canonical": "colapso circulatorio",
+      "surface": "colapso circulatorio"
+    },
+    {
+      "type": "REACT",
+      "canonical": "disminución de la frecuencia cardíaca",
+      "surface": "disminución de la frecuencia cardíaca"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "vasculitis bullosa",
+      "surface": "vasculitis bullosa"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "alteraciones de la salivación",
+      "surface": "alteraciones de la salivación"
+    },
+    {
+      "type": "REACT",
+      "canonical": "estreñimiento",
+      "surface": "estreñimiento"
+    },
+    {
+      "type": "REACT",
+      "canonical": "náuseas",
+      "surface": "náuseas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "trastornos gastrointestinales",
+      "surface": "trastornos gastrointestinales"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "coloración amarilla de la piel",
+      "surface": "coloración amarilla de la piel"
+    },
+    {
+      "type": "REACT",
+      "canonical": "elevación de enzimas hepáticos",
+      "surface": "elevación de enzimas hepáticos"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones mentales leves: pérdida de memoria, enlentecimiento del tiempo de reacción.",
+      "surface": "Alteraciones mentales leves: pérdida de memoria, enlentecimiento del tiempo de reacción."
+    },
+    {
+      "type": "REACT",
+      "canonical": "depresión",
+      "surface": "depresión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "disminución del deseo sexual",
+      "surface": "disminución del deseo sexual"
+    },
+    {
+      "type": "REACT",
+      "canonical": "excitación paradójica que puede conllevar: hostilidad, agresión y desinhibición, ansiedad, alucinaciones, insomnio, alteraciones del sueño.",
+      "surface": "excitación paradójica que puede conllevar: hostilidad, agresión y desinhibición, ansiedad, alucinaciones, insomnio, alteraciones del sueño."
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "dificultad para recordar algunas cosas",
+      "surface": "dificultad para recordar algunas cosas"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "anemia",
+      "surface": "anemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "disminución de las plaquetas",
+      "surface": "disminución de las plaquetas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "pacientes con baja concentración de sodio en sangre se puede producir dolor y debilidad muscular",
+      "surface": "pacientes con baja concentración de sodio en sangre se puede producir dolor y debilidad muscular"
+    },
+    {
+      "type": "REACT",
+      "canonical": "pancitopenia",
+      "surface": "pancitopenia"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "inflamación de las venas",
+      "surface": "inflamación de las venas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "irritación local",
+      "surface": "irritación local"
+    },
+    {
+      "type": "REACT",
+      "canonical": "neutropenia",
+      "surface": "neutropenia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "surface": "TRASTORNOS DEL SISTEMA ENDOCRINO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "aumento del volumen de las mamas en hombres",
+      "surface": "aumento del volumen de las mamas en hombres"
+    },
+    {
+      "type": "REACT",
+      "canonical": "secreción de leche por el pezón",
+      "surface": "secreción de leche por el pezón"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "cuadro clínico que cursa con fiebre, erupciones y alteraciones de la sangre (síndrome de Sweet)",
+      "surface": "cuadro clínico que cursa con fiebre, erupciones y alteraciones de la sangre (síndrome de Sweet)"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "depresión respiratoria",
+      "surface": "depresión respiratoria"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "erupción y urticaria",
+      "surface": "erupción y urticaria"
+    },
+    {
+      "type": "REACT",
+      "canonical": "hinchazón",
+      "surface": "hinchazón"
+    },
+    {
+      "type": "REACT",
+      "canonical": "irritación local tras administración rectal",
+      "surface": "irritación local tras administración rectal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "irritación local",
+      "surface": "irritación local"
+    },
+    {
+      "type": "REACT",
+      "canonical": "sudoración",
+      "surface": "sudoración"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "incontinencia",
+      "surface": "incontinencia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "retención urinaria",
+      "surface": "retención urinaria"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "movimientos involuntarios de los ojos",
+      "surface": "movimientos involuntarios de los ojos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "visión borrosa",
+      "surface": "visión borrosa"
+    },
+    {
+      "type": "REACT",
+      "canonical": "visión doble",
+      "surface": "visión doble"
+    },
+    {
+      "type": "REACT",
+      "canonical": "vértigo",
+      "surface": "vértigo"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "STESOLID 5 mg solución rectal",
+        "pactivo": "DIAZEPAM",
+        "reaccion": "aumento del volumen de las mamas en hombres",
+        "frecuencia": "NO FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA ENDOCRINO"
+      },
+      "text": "En el sistema de clasificación de órganos Trastornos del sistema endocrino, se ha descrito con diazepam, incluido Stesolid, aumento del volumen de las mamas en hombres, con frecuencia no frecuente. Esta reacción debe valorarse en el contexto clínico del paciente y de la exposición al tratamiento, especialmente si persiste o resulta molesta.\n\nTrastornos del sistema endocrino:\n- no frecuente: aumento del volumen de las mamas en hombres.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+          "surface": "Trastornos del sistema endocrino"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "DIAZEPAM",
+          "surface": "diazepam"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "DIAZEPAM",
+          "surface": "Stesolid"
+        },
+        {
+          "type": "REACT",
+          "canonical": "aumento del volumen de las mamas en hombres",
+          "surface": "aumento del volumen de las mamas en hombres"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+          "surface": "Trastornos del sistema endocrino"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente"
+        },
+        {
+          "type": "REACT",
+          "canonical": "aumento del volumen de las mamas en hombres",
+          "surface": "aumento del volumen de las mamas en hombres"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+          "surface": "Trastornos del sistema endocrino",
+          "start": 42,
+          "end": 74
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "DIAZEPAM",
+          "surface": "diazepam",
+          "start": 95,
+          "end": 103
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "DIAZEPAM",
+          "surface": "Stesolid",
+          "start": 114,
+          "end": 122
+        },
+        {
+          "type": "REACT",
+          "canonical": "aumento del volumen de las mamas en hombres",
+          "surface": "aumento del volumen de las mamas en hombres",
+          "start": 124,
+          "end": 167
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente",
+          "start": 184,
+          "end": 196
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "STESOLID 5 mg solución rectal",
+        "pactivo": "DIAZEPAM",
+        "reaccion": "somnolencia",
+        "frecuencia": "MUY FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA NERVIOSO"
+      },
+      "text": "En la clasificación TRASTORNOS DEL SISTEMA NERVIOSO, la somnolencia se incluye entre las reacciones adversas muy frecuentes notificadas con diazepam. Este efecto es coherente con la actividad farmacológica del principio activo sobre el sistema nervioso central y puede ser más evidente al inicio del tratamiento o tras ajustes de la dosis.\n\nLista tabulada:\n- TRASTORNOS DEL SISTEMA NERVIOSO: somnolencia (sueño).\n\nDurante el tratamiento con Stesolid, se recomienda valorar la intensidad de la somnolencia y su repercusión funcional, especialmente cuando pueda interferir con actividades que requieran atención mantenida.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+        },
+        {
+          "type": "REACT",
+          "canonical": "somnolencia",
+          "surface": "somnolencia"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "MUY FRECUENTE",
+          "surface": "muy frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "DIAZEPAM",
+          "surface": "diazepam"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+        },
+        {
+          "type": "REACT",
+          "canonical": "somnolencia",
+          "surface": "somnolencia"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "DIAZEPAM",
+          "surface": "Stesolid"
+        },
+        {
+          "type": "REACT",
+          "canonical": "somnolencia",
+          "surface": "somnolencia"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "start": 20,
+          "end": 51
+        },
+        {
+          "type": "REACT",
+          "canonical": "somnolencia",
+          "surface": "somnolencia",
+          "start": 56,
+          "end": 67
+        },
+        {
+          "type": "FREQ",
+          "canonical": "MUY FRECUENTE",
+          "surface": "muy frecuentes",
+          "start": 109,
+          "end": 123
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "DIAZEPAM",
+          "surface": "diazepam",
+          "start": 140,
+          "end": 148
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "DIAZEPAM",
+          "surface": "Stesolid",
+          "start": 441,
+          "end": 449
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "STESOLID 5 mg solución rectal",
+        "pactivo": "DIAZEPAM",
+        "reaccion": "estreñimiento",
+        "frecuencia": "POCO FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+      },
+      "text": "Dentro de Trastornos del sistema digestivo, se ha notificado la siguiente reacción adversa asociada a diazepam:\n- estreñimiento: poco frecuentes.\nEste efecto debe valorarse en el contexto del tratamiento y de las características del paciente, especialmente si existen factores predisponentes. Se recomienda seguimiento clínico y medidas generales de manejo si el cuadro persiste o resulta clínicamente relevante, sin que ello implique modificar la frecuencia establecida.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "Trastornos del sistema digestivo"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "DIAZEPAM",
+          "surface": "diazepam"
+        },
+        {
+          "type": "REACT",
+          "canonical": "estreñimiento",
+          "surface": "estreñimiento"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "Trastornos del sistema digestivo",
+          "start": 10,
+          "end": 42
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "DIAZEPAM",
+          "surface": "diazepam",
+          "start": 102,
+          "end": 110
+        },
+        {
+          "type": "REACT",
+          "canonical": "estreñimiento",
+          "surface": "estreñimiento",
+          "start": 114,
+          "end": 127
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes",
+          "start": 129,
+          "end": 144
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

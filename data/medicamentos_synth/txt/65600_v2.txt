@@ -1,0 +1,48 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil observado con AZITROMICINA DIHIDRATO es coherente con el uso clínico de azitromicina en pautas cortas. En general, los acontecimientos fueron de intensidad leve o moderada y tendieron a resolverse sin medidas específicas. Como con otros medicamentos de esta clase, debe valorarse la situación clínica del paciente y la posible presencia de factores de riesgo antes y durante el tratamiento con Azitromicina Cinfa. La información siguiente se presenta agrupada por sistema de clasificación de órganos y por frecuencia.
+
+Lista tabulada de reacciones adversas
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS: poco frecuentes: Alteración visual, Sordera, Trastorno del oido, Vértigo (sensación de giro). frecuencia no conocida: Acúfenos, Sordera.
+TRASTORNOS DEL SISTEMA NERVIOSO: frecuentes: Cefalea. poco frecuentes: Disgeusia, Mareos, Parestesias, Somnolencia. frecuencia no conocida: Ageusia, Anosmia, Convulsión, Hiperactividad psicomotora, Hipoestesia, Miastenia gravis, Parosmia, Síncope.
+TRASTORNOS PSIQUIÁTRICOS: no frecuente: Agitación. poco frecuentes: Insomnio, Nerviosismo. frecuencia no conocida: Agresividad, Alucinación, Ansiedad, Delirio.
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS: poco frecuentes: Eosinofilia, Leucopenia, Neutropenia. frecuencia no conocida: Anemia hemolítica, Trombocitopenia.
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO: poco frecuentes: Angioedema, Hipersensibilidad. frecuencia no conocida: Reacción anafiláctica.
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN: poco frecuentes: Anorexia.
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR: poco frecuentes: Palpitaciones, Sofocos. frecuencia no conocida: Arritmia incluyendo taquicardia ventricular, Hipotensión, Prolongación del QT, Torsade de pointes.
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO: poco frecuentes: Dolor de cuello, Dolor de espalda, Mialgia, Osteoartritis. frecuencia no conocida: Artralgia.
+TRASTORNOS DEL SISTEMA GENERAL: frecuentes: Recuento disminuido de linfocitos. poco frecuentes: Astenia, Dolor, Dolor torácico, Edema, Edema facial, Fatiga, Malestar general, Pirexia.
+PRUEBAS COMPLEMENTARIAS: frecuentes: Basófilos elevados, Bicarbonato disminuido en sangre, Monocitos elevados, Neutrófilos elevados, Recuento elevado de eosinófilos. poco frecuentes: Bicarbonato elevado, Glucosa elevada, Hematocrito disminuido, Hiperbilirrubinemia, Incremento cloruro, Incremento de creatitina en sangre, Incremento de transaminasas (AST, ALT), Incremento de urea en sangre, Plaquetas aumentadas, Potasio anormal en sangre, Sodio anormal.
+TRASTORNOS DEL SISTEMA DIGESTIVO: muy frecuentes: Diarrea (deposiciones líquidas). frecuentes: Dolor abdominal, Náuseas, Vómitos. poco frecuentes: Disfagia, Dispepsia, Distensión abdominal, Eructos, Estreñimiento, Flatulencia, Gastritis, Hipersecreción salivar, Sequedad de boca, Ulceración de la boca. no frecuente: Función hepática anormal, Ictericia colestásica. frecuencia no conocida: Cambio del color de la lengua, Hepatitis fulminante, Insuficiencia hepática (raramente mortal), Necrosis hepática, Pancreatitis.
+INFECCIONES E INFESTACIONES: poco frecuentes: Candidiasis, Candidiasis oral, Faringitis, Gastroenteritis, Infección bacteriana, Infección fúngica, Infección vaginal, Neumonía, Rinitis, Trastorno respiratorio. frecuencia no conocida: Colitis pseudomembranosa.
+LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS: poco frecuentes: Complicaciones post-intervención.
+TRASTORNOS DE PIEL Y TEJIDOS: poco frecuentes: Dermatitis, Erupción, Hiperhidrosis, Prurito, Sequedad de piel, Urticaria. no frecuente: Fotosensibilidad, Pustulosis exantemática aguda generalizada (PEAG), Reacción medicamentosa con eosinofilia y síntomas sistémicos (DRESS). frecuencia no conocida: Eritema multiforme, Necrolisis epidérmica tóxica (NET), Síndrome de Stevens - Johnson (SSJ).
+TRASTORNOS DEL SISTEMA RESPIRATORIO: poco frecuentes: Disnea, Epixtasis.
+TRASTORNOS DEL SISTEMA EXCRETOR: poco frecuentes: Disuria, Dolor renal. frecuencia no conocida: Insuficiencia renal aguda, Nefritis intersticial.
+TRASTORNOS DEL SISTEMA REPRODUCTOR: poco frecuentes: Metrorragia, Trastorno testicular.
+
+Descripción de reacciones adversas seleccionadas
+La evaluación debe tener en cuenta la duración limitada de la exposición y la posibilidad de que algunas manifestaciones aparezcan después de finalizar la pauta. Cuando se identifiquen signos clínicamente relevantes, se recomienda considerar la evolución temporal, los antecedentes del paciente y los tratamientos concomitantes. La notificación de sospechas permite mantener actualizada la información de seguridad y contribuye a una caracterización más precisa del balance beneficio-riesgo.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En el tratamiento con AZITROMICINA DIHIDRATO (azitromicina), se ha notificado la siguiente reacción adversa dentro del sistema Pruebas complementarias, con frecuencia clasificada como frecuentes:
+- Bicarbonato disminuido en sangre.
+
+Este hallazgo analítico debe interpretarse en el contexto clínico del paciente y de los resultados previos o concomitantes. Cuando se considere relevante, puede ser aconsejable realizar seguimiento de los parámetros bioquímicos, especialmente en pacientes con factores que puedan modificar el equilibrio ácido-base, sin que ello implique necesariamente la interrupción del tratamiento.
+
+-- Caso 2 --
+En la tabla de reacciones adversas, la Diarrea se clasifica dentro de TRASTORNOS DEL SISTEMA DIGESTIVO y se notificó como muy frecuentes durante el tratamiento con AZITROMICINA DIHIDRATO (azitromicina).
+
+- Diarrea: muy frecuentes.
+
+Este efecto puede relacionarse con la acción antibacteriana sobre la flora intestinal y suele requerir valoración clínica si es persistente o intensa. Se recomienda mantener una adecuada hidratación y considerar la evolución temporal del episodio, especialmente cuando aparece al inicio del tratamiento o tras finalizarlo, sin modificar por sí sola la pauta prescrita.
+
+-- Caso 3 --
+En el sistema de clasificación de órganos Trastornos psiquiátricos, el insomnio se ha descrito durante el tratamiento con azitromicina.
+
+- Insomnio: poco frecuentes.
+
+Este efecto consiste en una alteración del inicio o mantenimiento del sueño (dificultad para dormir) y debe valorarse junto con la situación clínica del paciente y la relación temporal con la administración del antibacteriano. Si el síntoma persiste o resulta clínicamente relevante, se recomienda revisar el tratamiento y considerar medidas de seguimiento habituales.

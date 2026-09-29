@@ -1,0 +1,632 @@
+{
+  "codigo": "84067",
+  "variante": 1,
+  "codigo_variant": "84067_v1",
+  "medicamento": "ATAZANAVIR STADA 200 MG CAPSULAS DURAS EFG",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "ATAZANAVIR SULFATO",
+      "surface": "ATAZANAVIR SULFATO",
+      "start": 83,
+      "end": 101
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 1269,
+      "end": 1297
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 1298,
+      "end": 1308
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rash",
+      "surface": "Rash",
+      "start": 1310,
+      "end": 1314
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 1316,
+      "end": 1331
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alopecia",
+      "surface": "Alopecia",
+      "start": 1333,
+      "end": 1341
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angioedema",
+      "surface": "Angioedema",
+      "start": 1343,
+      "end": 1353
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eritema multiforme",
+      "surface": "Eritema multiforme",
+      "start": 1355,
+      "end": 1373
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupciones cutáneas tóxicas",
+      "surface": "Erupciones cutáneas tóxicas",
+      "start": 1375,
+      "end": 1402
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito",
+      "start": 1404,
+      "end": 1411
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacción medicamentosa con eosinofilia y síntomas sistémicos (DRESS)",
+      "surface": "Reacción medicamentosa con eosinofilia y síntomas sistémicos (DRESS)",
+      "start": 1413,
+      "end": 1481
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria",
+      "start": 1483,
+      "end": 1492
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 1494,
+      "end": 1506
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eczema",
+      "surface": "Eczema",
+      "start": 1508,
+      "end": 1514
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rash vesiculobulloso",
+      "surface": "Rash vesiculobulloso",
+      "start": 1516,
+      "end": 1536
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de Stevens - Johnson (SSJ)",
+      "surface": "Síndrome de Stevens - Johnson (SSJ)",
+      "start": 1538,
+      "end": 1573
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vasodilatación",
+      "surface": "Vasodilatación",
+      "start": 1575,
+      "end": 1589
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1592,
+      "end": 1623
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea",
+      "start": 1636,
+      "end": 1643
+    },
+    {
+      "type": "REACT",
+      "canonical": "Amnesia",
+      "surface": "Amnesia",
+      "start": 1662,
+      "end": 1669
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disgeusia",
+      "surface": "Disgeusia",
+      "start": 1671,
+      "end": 1680
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareos",
+      "surface": "Mareos",
+      "start": 1682,
+      "end": 1688
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neuropatía periférica",
+      "surface": "Neuropatía periférica",
+      "start": 1690,
+      "end": 1711
+    },
+    {
+      "type": "REACT",
+      "canonical": "Somnolencia",
+      "surface": "Somnolencia",
+      "start": 1713,
+      "end": 1724
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síncope",
+      "surface": "Síncope",
+      "start": 1726,
+      "end": 1733
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "start": 1736,
+      "end": 1777
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anorexia",
+      "surface": "Anorexia",
+      "start": 1795,
+      "end": 1803
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de apetito",
+      "surface": "Aumento de apetito",
+      "start": 1805,
+      "end": 1823
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de peso",
+      "surface": "Aumento de peso",
+      "start": 1825,
+      "end": 1840
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de peso",
+      "surface": "Disminución de peso",
+      "start": 1842,
+      "end": 1861
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 1864,
+      "end": 1888
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ansiedad",
+      "surface": "Ansiedad",
+      "start": 1906,
+      "end": 1914
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión",
+      "surface": "Depresión",
+      "start": 1916,
+      "end": 1925
+    },
+    {
+      "type": "REACT",
+      "canonical": "Desorientación",
+      "surface": "Desorientación",
+      "start": 1927,
+      "end": 1941
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insomnio",
+      "surface": "Insomnio",
+      "start": 1943,
+      "end": 1951
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sueños anormales",
+      "surface": "Sueños anormales",
+      "start": 1953,
+      "end": 1969
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastorno del sueño",
+      "surface": "Trastorno del sueño",
+      "start": 1971,
+      "end": 1990
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 1993,
+      "end": 2035
+    },
+    {
+      "type": "REACT",
+      "canonical": "Artralgia",
+      "surface": "Artralgia",
+      "start": 2053,
+      "end": 2062
+    },
+    {
+      "type": "REACT",
+      "canonical": "Atrofia muscular",
+      "surface": "Atrofia muscular",
+      "start": 2064,
+      "end": 2080
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mialgia",
+      "surface": "Mialgia",
+      "start": 2082,
+      "end": 2089
+    },
+    {
+      "type": "REACT",
+      "canonical": "Miopatía",
+      "surface": "Miopatía",
+      "start": 2105,
+      "end": 2113
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 2116,
+      "end": 2146
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "Fatiga",
+      "start": 2159,
+      "end": 2165
+    },
+    {
+      "type": "REACT",
+      "canonical": "Astenia",
+      "surface": "Astenia",
+      "start": 2184,
+      "end": 2191
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor torácico",
+      "surface": "Dolor torácico",
+      "start": 2193,
+      "end": 2207
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fiebre",
+      "surface": "Fiebre",
+      "start": 2209,
+      "end": 2215
+    },
+    {
+      "type": "REACT",
+      "canonical": "Malestar general",
+      "surface": "Malestar general",
+      "start": 2217,
+      "end": 2233
+    },
+    {
+      "type": "REACT",
+      "canonical": "Marcha anormal",
+      "surface": "Marcha anormal",
+      "start": 2249,
+      "end": 2263
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 2266,
+      "end": 2298
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea",
+      "start": 2311,
+      "end": 2318
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dispepsia",
+      "surface": "Dispepsia",
+      "start": 2320,
+      "end": 2329
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor abdominal",
+      "surface": "Dolor abdominal",
+      "start": 2331,
+      "end": 2346
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ictericia",
+      "surface": "Ictericia",
+      "start": 2348,
+      "end": 2357
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 2359,
+      "end": 2366
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos",
+      "start": 2368,
+      "end": 2375
+    },
+    {
+      "type": "REACT",
+      "canonical": "Colelitiasis",
+      "surface": "Colelitiasis",
+      "start": 2394,
+      "end": 2406
+    },
+    {
+      "type": "REACT",
+      "canonical": "Colestasis",
+      "surface": "Colestasis",
+      "start": 2408,
+      "end": 2418
+    },
+    {
+      "type": "REACT",
+      "canonical": "Distensión abdominal",
+      "surface": "Distensión abdominal",
+      "start": 2420,
+      "end": 2440
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estomatitis aftosa",
+      "surface": "Estomatitis aftosa",
+      "start": 2442,
+      "end": 2460
+    },
+    {
+      "type": "REACT",
+      "canonical": "Flatulencia",
+      "surface": "Flatulencia",
+      "start": 2462,
+      "end": 2473
+    },
+    {
+      "type": "REACT",
+      "canonical": "Gastritis",
+      "surface": "Gastritis",
+      "start": 2475,
+      "end": 2484
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hepatitis",
+      "surface": "Hepatitis",
+      "start": 2486,
+      "end": 2495
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pancreatitis",
+      "surface": "Pancreatitis",
+      "start": 2497,
+      "end": 2509
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad de boca",
+      "surface": "Sequedad de boca",
+      "start": 2511,
+      "end": 2527
+    },
+    {
+      "type": "REACT",
+      "canonical": "Colecistitis",
+      "surface": "Colecistitis",
+      "start": 2543,
+      "end": 2555
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hepatoesplenomegalia",
+      "surface": "Hepatoesplenomegalia",
+      "start": 2557,
+      "end": 2577
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 2580,
+      "end": 2615
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disnea",
+      "surface": "Disnea",
+      "start": 2633,
+      "end": 2639
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "start": 2642,
+      "end": 2673
+    },
+    {
+      "type": "REACT",
+      "canonical": "Enfermedad renal crónica",
+      "surface": "Enfermedad renal crónica",
+      "start": 2691,
+      "end": 2715
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hematuria",
+      "surface": "Hematuria",
+      "start": 2717,
+      "end": 2726
+    },
+    {
+      "type": "REACT",
+      "canonical": "Nefritis intersticial",
+      "surface": "Nefritis intersticial",
+      "start": 2728,
+      "end": 2749
+    },
+    {
+      "type": "REACT",
+      "canonical": "Nefrolitiasis",
+      "surface": "Nefrolitiasis",
+      "start": 2751,
+      "end": 2764
+    },
+    {
+      "type": "REACT",
+      "canonical": "Polaquiuria",
+      "surface": "Polaquiuria",
+      "start": 2766,
+      "end": 2777
+    },
+    {
+      "type": "REACT",
+      "canonical": "Proteinuria",
+      "surface": "Proteinuria",
+      "start": 2779,
+      "end": 2790
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor renal",
+      "surface": "Dolor renal",
+      "start": 2806,
+      "end": 2817
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 2820,
+      "end": 2857
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertensión",
+      "surface": "Hipertensión",
+      "start": 2875,
+      "end": 2887
+    },
+    {
+      "type": "REACT",
+      "canonical": "Torsade de pointes",
+      "surface": "Torsade de pointes",
+      "start": 2889,
+      "end": 2907
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema",
+      "surface": "Edema",
+      "start": 2923,
+      "end": 2928
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones",
+      "start": 2930,
+      "end": 2943
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prolongación del QT",
+      "surface": "Prolongación del QT",
+      "start": 2945,
+      "end": 2964
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "start": 2967,
+      "end": 3001
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ginecomastia",
+      "surface": "Ginecomastia",
+      "start": 3019,
+      "end": 3031
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 3034,
+      "end": 3069
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipersensibilidad",
+      "surface": "Hipersensibilidad",
+      "start": 3087,
+      "end": 3104
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 3107,
+      "end": 3144
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ictericia ocular",
+      "surface": "Ictericia ocular",
+      "start": 3157,
+      "end": 3173
+    }
+  ]
+}

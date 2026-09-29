@@ -1,0 +1,200 @@
+[
+  {
+    "principio activo": "AMBRISENTAN",
+    "reacción adversa": "anemia (disminución de la hemoglobina, disminución del hematocrito)",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "AMBRISENTAN",
+    "reacción adversa": "reacciones de hipersensibilidad (angioedema, erupción cutánea, prurito)",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "AMBRISENTAN",
+    "reacción adversa": "cefalea (incluyendo cefalea sinusal, migraña)",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "AMBRISENTAN",
+    "reacción adversa": "mareo",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "AMBRISENTAN",
+    "reacción adversa": "visión borrosa",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "AMBRISENTAN",
+    "reacción adversa": "alteración visual",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "AMBRISENTAN",
+    "reacción adversa": "acúfenos",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del oído y del laberinto"
+  },
+  {
+    "principio activo": "AMBRISENTAN",
+    "reacción adversa": "pérdida auditiva súbita",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del oído y del laberinto"
+  },
+  {
+    "principio activo": "AMBRISENTAN",
+    "reacción adversa": "palpitaciones",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos cardíacos"
+  },
+  {
+    "principio activo": "AMBRISENTAN",
+    "reacción adversa": "fallo cardíaco",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos cardíacos"
+  },
+  {
+    "principio activo": "AMBRISENTAN",
+    "reacción adversa": "rubefacción",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "AMBRISENTAN",
+    "reacción adversa": "hipotensión",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "AMBRISENTAN",
+    "reacción adversa": "síncope",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "AMBRISENTAN",
+    "reacción adversa": "disnea",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "AMBRISENTAN",
+    "reacción adversa": "congestión del tracto respiratorio superior (nasal, sinusal)",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "AMBRISENTAN",
+    "reacción adversa": "nasofaringitis",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "AMBRISENTAN",
+    "reacción adversa": "epistaxis",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "AMBRISENTAN",
+    "reacción adversa": "rinitis",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "AMBRISENTAN",
+    "reacción adversa": "sinusitis",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "AMBRISENTAN",
+    "reacción adversa": "náuseas",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "AMBRISENTAN",
+    "reacción adversa": "diarrea",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "AMBRISENTAN",
+    "reacción adversa": "vómitos",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "AMBRISENTAN",
+    "reacción adversa": "dolor abdominal",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "AMBRISENTAN",
+    "reacción adversa": "estreñimiento",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "AMBRISENTAN",
+    "reacción adversa": "incremento de las transaminasas hepáticas",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "AMBRISENTAN",
+    "reacción adversa": "daño hepático",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "AMBRISENTAN",
+    "reacción adversa": "hepatitis autoinmune",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "AMBRISENTAN",
+    "reacción adversa": "erupción (erupción eritematosa, erupción generalizada, erupción papular, erupción prurítica)",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "AMBRISENTAN",
+    "reacción adversa": "edema periférico",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "AMBRISENTAN",
+    "reacción adversa": "retención de fluidos",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "AMBRISENTAN",
+    "reacción adversa": "dolor/malestar torácico",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "AMBRISENTAN",
+    "reacción adversa": "fatiga",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "AMBRISENTAN",
+    "reacción adversa": "astenia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  }
+]

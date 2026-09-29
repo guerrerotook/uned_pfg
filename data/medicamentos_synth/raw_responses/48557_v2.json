@@ -1,0 +1,1305 @@
+{
+  "codigo": "48557",
+  "variante": 2,
+  "codigo_variant": "48557_v2",
+  "medicamento": "DOGMATIL 50 mg/ml SOLUCION INYECTABLE",
+  "model": "gpt-5.5",
+  "style_variant_idx": 1,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil de seguridad de SULPIRIDA se corresponde con el observado en otros tratamientos de uso clínico similar. En la experiencia acumulada con Dogmatil, la mayor parte de los acontecimientos se identifican durante el seguimiento inicial o tras ajustes de dosis, y suelen requerir valoración individual. La interpretación debe considerar la situación basal del paciente, los tratamientos concomitantes y la vía de administración. La información siguiente se presenta según clasificación por órganos y por categoría de frecuencia, utilizando terminología de uso regulatorio.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nfrecuentes: Parkinsonismo, acatisia, sedación, somnolencia, temblor, trastorno extrapiramidal.\npoco frecuentes: discinesia, distonía, hipertonía.\nno frecuente: crisis oculógiras.\nfrecuencia no conocida: convulsiones, discinesia tardía, hipoquinesia, síndrome neuroléptico maligno.\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS\npoco frecuentes: Leucopenia.\nfrecuencia no conocida: agranulocitosis, neutropenia.\n\nTRASTORNOS DEL SISTEMA REPRODUCTOR\nfrecuentes: dolor de pecho, galactorrea.\npoco frecuentes: amenorrea, aumento del pecho, disfunción eréctil, orgasmo anormal.\nfrecuencia no conocida: ginecomastia.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\npoco frecuentes: arritmia ventricular, fibrilación ventricular, hipotensión ortostática, taquicardia ventricular.\nfrecuencia no conocida: aumento de la presión sanguínea, embolismo pulmonar, muerte súbita, neumonía por aspiración, paro cardiaco, prolongación del intervalo QT en electrocardiograma, torsade de pointes, tromboembolismo venoso, trombosis venosa profunda.\n\nTRASTORNOS DEL SISTEMA GENERAL\nfrecuentes: aumento de peso.\nfrecuencia no conocida: hipertermia.\n\nTRASTORNOS PSIQUIÁTRICOS\nfrecuentes: insomnio.\nfrecuencia no conocida: confusion.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nfrecuentes: estreñimiento, incremento de enzimas hepáticas.\npoco frecuentes: hipersecreción salival.\nfrecuencia no conocida: daño hepático hepatocelular, colestásico o mixto.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\nfrecuencia no conocida: disnea, hipotensión, shock anafiláctico, urticaria.\n\nTRASTORNOS DEL SISTEMA ENDOCRINO\nfrecuentes: hiperprolactinemia.\n\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN\nfrecuencia no conocida: SIHAD, hiponatremia.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\nfrecuencia no conocida: rabdomiólisis, tortícolis, trismo.\n\nTRASTORNOS DE PIEL Y TEJIDOS\nfrecuentes: rash maculopapular (rash).\n\nDescripción de reacciones adversas seleccionadas\nLa aparición de manifestaciones motoras debe valorarse de forma clínica, especialmente en personas vulnerables o expuestas a cambios recientes de dosis. Cuando se detecten signos persistentes o intensos, se recomienda revisar el balance beneficio-riesgo y considerar medidas de soporte acordes con la práctica habitual.\n\nAlgunos acontecimientos cardiovasculares y respiratorios requieren atención inmediata por su posible gravedad. La evaluación debe incluir antecedentes, factores predisponentes y medicación concomitante. En caso de sospecha de una reacción clínicamente relevante, debe registrarse el episodio y notificarse conforme a los procedimientos locales de farmacovigilancia.\n\nLas alteraciones endocrinas, reproductivas o digestivas pueden aparecer de forma gradual y ser comunicadas espontáneamente por el paciente durante el seguimiento. La monitorización periódica facilita la detección temprana y permite adaptar la conducta terapéutica sin introducir términos diagnósticos no confirmados.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nDentro de Trastornos del sistema reproductor, la galactorrea se ha notificado como una de las reacciones adversas frecuentes durante el tratamiento con sulpirida, incluida la presentación inyectable de Dogmatil. Este efecto es coherente con la acción dopaminérgica del principio activo y debe valorarse en el contexto clínico de cada paciente.\n\nTabla de reacciones adversas:\n- Trastornos del sistema reproductor: galactorrea (secreción láctea fuera de la lactancia), frecuentes.\n\nAnte la aparición de este síntoma, se recomienda realizar seguimiento clínico y reconsiderar la continuidad del tratamiento según la intensidad del cuadro y la evolución observada.\n\n-- Caso 2 --\nEn la clasificación TRASTORNOS DEL SISTEMA NERVIOSO se ha notificado la siguiente reacción con sulpirida (Dogmatil):\n\n- crisis oculógiras: frecuencia no frecuente.\n\nEste cuadro, descrito de forma común como giro involuntario de los ojos, es compatible con un efecto sobre las vías dopaminérgicas. Se recomienda vigilar la aparición de signos neurológicos durante el tratamiento y valorar la interrupción o ajuste de la administración según la situación clínica, especialmente si el episodio resulta intenso o persistente. La comunicación de sospechas contribuye a caracterizar mejor el perfil de seguridad.\n\n-- Caso 3 --\nEn el sistema TRASTORNOS DEL SISTEMA CARDIOVASCULAR, durante el uso de SULPIRIDA (Dogmatil), se ha descrito la siguiente reacción adversa:\n- trombosis venosa profunda: frecuencia no conocida.\n\nLa notificación procede principalmente de la experiencia poscomercialización, por lo que no es posible estimar su incidencia a partir de los datos disponibles. Se recomienda valorar los factores de riesgo individuales antes y durante el tratamiento, así como instruir al paciente para consultar si aparecen signos compatibles con este evento, con el fin de instaurar las medidas clínicas oportunas.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "SULPIRIDA",
+      "surface": "SULPIRIDA",
+      "start": 83,
+      "end": 92
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "SULPIRIDA",
+      "surface": "Dogmatil",
+      "start": 203,
+      "end": 211
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 673,
+      "end": 704
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 705,
+      "end": 715
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parkinsonismo",
+      "surface": "Parkinsonismo",
+      "start": 717,
+      "end": 730
+    },
+    {
+      "type": "REACT",
+      "canonical": "acatisia",
+      "surface": "acatisia",
+      "start": 732,
+      "end": 740
+    },
+    {
+      "type": "REACT",
+      "canonical": "sedación",
+      "surface": "sedación",
+      "start": 742,
+      "end": 750
+    },
+    {
+      "type": "REACT",
+      "canonical": "somnolencia",
+      "surface": "somnolencia",
+      "start": 752,
+      "end": 763
+    },
+    {
+      "type": "REACT",
+      "canonical": "temblor",
+      "surface": "temblor",
+      "start": 765,
+      "end": 772
+    },
+    {
+      "type": "REACT",
+      "canonical": "trastorno extrapiramidal",
+      "surface": "trastorno extrapiramidal",
+      "start": 774,
+      "end": 798
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 800,
+      "end": 815
+    },
+    {
+      "type": "REACT",
+      "canonical": "discinesia",
+      "surface": "discinesia",
+      "start": 817,
+      "end": 827
+    },
+    {
+      "type": "REACT",
+      "canonical": "distonía",
+      "surface": "distonía",
+      "start": 829,
+      "end": 837
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipertonía",
+      "surface": "hipertonía",
+      "start": 839,
+      "end": 849
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 851,
+      "end": 863
+    },
+    {
+      "type": "REACT",
+      "canonical": "crisis oculógiras",
+      "surface": "crisis oculógiras",
+      "start": 865,
+      "end": 882
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 884,
+      "end": 906
+    },
+    {
+      "type": "REACT",
+      "canonical": "convulsiones",
+      "surface": "convulsiones",
+      "start": 908,
+      "end": 920
+    },
+    {
+      "type": "REACT",
+      "canonical": "discinesia tardía",
+      "surface": "discinesia tardía",
+      "start": 922,
+      "end": 939
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipoquinesia",
+      "surface": "hipoquinesia",
+      "start": 941,
+      "end": 953
+    },
+    {
+      "type": "REACT",
+      "canonical": "síndrome neuroléptico maligno",
+      "surface": "síndrome neuroléptico maligno",
+      "start": 955,
+      "end": 984
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 987,
+      "end": 1036
+    },
+    {
+      "type": "REACT",
+      "canonical": "Leucopenia",
+      "surface": "Leucopenia",
+      "start": 1054,
+      "end": 1064
+    },
+    {
+      "type": "REACT",
+      "canonical": "agranulocitosis",
+      "surface": "agranulocitosis",
+      "start": 1090,
+      "end": 1105
+    },
+    {
+      "type": "REACT",
+      "canonical": "neutropenia",
+      "surface": "neutropenia",
+      "start": 1107,
+      "end": 1118
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "start": 1121,
+      "end": 1155
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor de pecho",
+      "surface": "dolor de pecho",
+      "start": 1168,
+      "end": 1182
+    },
+    {
+      "type": "REACT",
+      "canonical": "galactorrea",
+      "surface": "galactorrea",
+      "start": 1184,
+      "end": 1195
+    },
+    {
+      "type": "REACT",
+      "canonical": "amenorrea",
+      "surface": "amenorrea",
+      "start": 1214,
+      "end": 1223
+    },
+    {
+      "type": "REACT",
+      "canonical": "aumento del pecho",
+      "surface": "aumento del pecho",
+      "start": 1225,
+      "end": 1242
+    },
+    {
+      "type": "REACT",
+      "canonical": "disfunción eréctil",
+      "surface": "disfunción eréctil",
+      "start": 1244,
+      "end": 1262
+    },
+    {
+      "type": "REACT",
+      "canonical": "orgasmo anormal",
+      "surface": "orgasmo anormal",
+      "start": 1264,
+      "end": 1279
+    },
+    {
+      "type": "REACT",
+      "canonical": "ginecomastia",
+      "surface": "ginecomastia",
+      "start": 1305,
+      "end": 1317
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1320,
+      "end": 1357
+    },
+    {
+      "type": "REACT",
+      "canonical": "arritmia ventricular",
+      "surface": "arritmia ventricular",
+      "start": 1375,
+      "end": 1395
+    },
+    {
+      "type": "REACT",
+      "canonical": "fibrilación ventricular",
+      "surface": "fibrilación ventricular",
+      "start": 1397,
+      "end": 1420
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipotensión ortostática",
+      "surface": "hipotensión ortostática",
+      "start": 1422,
+      "end": 1445
+    },
+    {
+      "type": "REACT",
+      "canonical": "taquicardia ventricular",
+      "surface": "taquicardia ventricular",
+      "start": 1447,
+      "end": 1470
+    },
+    {
+      "type": "REACT",
+      "canonical": "aumento de la presión sanguínea",
+      "surface": "aumento de la presión sanguínea",
+      "start": 1496,
+      "end": 1527
+    },
+    {
+      "type": "REACT",
+      "canonical": "embolismo pulmonar",
+      "surface": "embolismo pulmonar",
+      "start": 1529,
+      "end": 1547
+    },
+    {
+      "type": "REACT",
+      "canonical": "muerte súbita",
+      "surface": "muerte súbita",
+      "start": 1549,
+      "end": 1562
+    },
+    {
+      "type": "REACT",
+      "canonical": "neumonía por aspiración",
+      "surface": "neumonía por aspiración",
+      "start": 1564,
+      "end": 1587
+    },
+    {
+      "type": "REACT",
+      "canonical": "paro cardiaco",
+      "surface": "paro cardiaco",
+      "start": 1589,
+      "end": 1602
+    },
+    {
+      "type": "REACT",
+      "canonical": "prolongación del intervalo QT en electrocardiograma",
+      "surface": "prolongación del intervalo QT en electrocardiograma",
+      "start": 1604,
+      "end": 1655
+    },
+    {
+      "type": "REACT",
+      "canonical": "torsade de pointes",
+      "surface": "torsade de pointes",
+      "start": 1657,
+      "end": 1675
+    },
+    {
+      "type": "REACT",
+      "canonical": "tromboembolismo venoso",
+      "surface": "tromboembolismo venoso",
+      "start": 1677,
+      "end": 1699
+    },
+    {
+      "type": "REACT",
+      "canonical": "trombosis venosa profunda",
+      "surface": "trombosis venosa profunda",
+      "start": 1701,
+      "end": 1726
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 1729,
+      "end": 1759
+    },
+    {
+      "type": "REACT",
+      "canonical": "aumento de peso",
+      "surface": "aumento de peso",
+      "start": 1772,
+      "end": 1787
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipertermia",
+      "surface": "hipertermia",
+      "start": 1813,
+      "end": 1824
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 1827,
+      "end": 1851
+    },
+    {
+      "type": "REACT",
+      "canonical": "insomnio",
+      "surface": "insomnio",
+      "start": 1864,
+      "end": 1872
+    },
+    {
+      "type": "REACT",
+      "canonical": "confusion",
+      "surface": "confusion",
+      "start": 1898,
+      "end": 1907
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1910,
+      "end": 1942
+    },
+    {
+      "type": "REACT",
+      "canonical": "estreñimiento",
+      "surface": "estreñimiento",
+      "start": 1955,
+      "end": 1968
+    },
+    {
+      "type": "REACT",
+      "canonical": "incremento de enzimas hepáticas",
+      "surface": "incremento de enzimas hepáticas",
+      "start": 1970,
+      "end": 2001
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipersecreción salival",
+      "surface": "hipersecreción salival",
+      "start": 2020,
+      "end": 2042
+    },
+    {
+      "type": "REACT",
+      "canonical": "daño hepático hepatocelular, colestásico o mixto",
+      "surface": "daño hepático hepatocelular, colestásico o mixto",
+      "start": 2068,
+      "end": 2116
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 2119,
+      "end": 2154
+    },
+    {
+      "type": "REACT",
+      "canonical": "disnea",
+      "surface": "disnea",
+      "start": 2179,
+      "end": 2185
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipotensión",
+      "surface": "hipotensión",
+      "start": 1422,
+      "end": 1433
+    },
+    {
+      "type": "REACT",
+      "canonical": "shock anafiláctico",
+      "surface": "shock anafiláctico",
+      "start": 2200,
+      "end": 2218
+    },
+    {
+      "type": "REACT",
+      "canonical": "urticaria",
+      "surface": "urticaria",
+      "start": 2220,
+      "end": 2229
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "surface": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "start": 2232,
+      "end": 2264
+    },
+    {
+      "type": "REACT",
+      "canonical": "hiperprolactinemia",
+      "surface": "hiperprolactinemia",
+      "start": 2277,
+      "end": 2295
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "start": 2298,
+      "end": 2339
+    },
+    {
+      "type": "REACT",
+      "canonical": "SIHAD",
+      "surface": "SIHAD",
+      "start": 2364,
+      "end": 2369
+    },
+    {
+      "type": "REACT",
+      "canonical": "hiponatremia",
+      "surface": "hiponatremia",
+      "start": 2371,
+      "end": 2383
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 2386,
+      "end": 2428
+    },
+    {
+      "type": "REACT",
+      "canonical": "rabdomiólisis",
+      "surface": "rabdomiólisis",
+      "start": 2453,
+      "end": 2466
+    },
+    {
+      "type": "REACT",
+      "canonical": "tortícolis",
+      "surface": "tortícolis",
+      "start": 2468,
+      "end": 2478
+    },
+    {
+      "type": "REACT",
+      "canonical": "trismo",
+      "surface": "trismo",
+      "start": 2480,
+      "end": 2486
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 2489,
+      "end": 2517
+    },
+    {
+      "type": "REACT",
+      "canonical": "rash maculopapular",
+      "surface": "rash maculopapular",
+      "start": 2530,
+      "end": 2548
+    },
+    {
+      "type": "REACT",
+      "canonical": "rash maculopapular",
+      "surface": "rash",
+      "start": 2530,
+      "end": 2534
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "Trastornos del sistema reproductor",
+      "start": 1121,
+      "end": 1155
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "SULPIRIDA",
+      "surface": "sulpirida",
+      "start": 83,
+      "end": 92
+    },
+    {
+      "type": "REACT",
+      "canonical": "galactorrea",
+      "surface": "secreción láctea fuera de la lactancia",
+      "start": 4115,
+      "end": 4153
+    },
+    {
+      "type": "REACT",
+      "canonical": "crisis oculógiras",
+      "surface": "giro involuntario de los ojos",
+      "start": 4571,
+      "end": 4600
+    }
+  ],
+  "raw_long_doc_text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil de seguridad de SULPIRIDA se corresponde con el observado en otros tratamientos de uso clínico similar. En la experiencia acumulada con Dogmatil, la mayor parte de los acontecimientos se identifican durante el seguimiento inicial o tras ajustes de dosis, y suelen requerir valoración individual. La interpretación debe considerar la situación basal del paciente, los tratamientos concomitantes y la vía de administración. La información siguiente se presenta según clasificación por órganos y por categoría de frecuencia, utilizando terminología de uso regulatorio.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nfrecuentes: Parkinsonismo, acatisia, sedación, somnolencia, temblor, trastorno extrapiramidal.\npoco frecuentes: discinesia, distonía, hipertonía.\nno frecuente: crisis oculógiras.\nfrecuencia no conocida: convulsiones, discinesia tardía, hipoquinesia, síndrome neuroléptico maligno.\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS\npoco frecuentes: Leucopenia.\nfrecuencia no conocida: agranulocitosis, neutropenia.\n\nTRASTORNOS DEL SISTEMA REPRODUCTOR\nfrecuentes: dolor de pecho, galactorrea.\npoco frecuentes: amenorrea, aumento del pecho, disfunción eréctil, orgasmo anormal.\nfrecuencia no conocida: ginecomastia.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\npoco frecuentes: arritmia ventricular, fibrilación ventricular, hipotensión ortostática, taquicardia ventricular.\nfrecuencia no conocida: aumento de la presión sanguínea, embolismo pulmonar, muerte súbita, neumonía por aspiración, paro cardiaco, prolongación del intervalo QT en electrocardiograma, torsade de pointes, tromboembolismo venoso, trombosis venosa profunda.\n\nTRASTORNOS DEL SISTEMA GENERAL\nfrecuentes: aumento de peso.\nfrecuencia no conocida: hipertermia.\n\nTRASTORNOS PSIQUIÁTRICOS\nfrecuentes: insomnio.\nfrecuencia no conocida: confusion.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nfrecuentes: estreñimiento, incremento de enzimas hepáticas.\npoco frecuentes: hipersecreción salival.\nfrecuencia no conocida: daño hepático hepatocelular, colestásico o mixto.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\nfrecuencia no conocida: disnea, hipotensión, shock anafiláctico, urticaria.\n\nTRASTORNOS DEL SISTEMA ENDOCRINO\nfrecuentes: hiperprolactinemia.\n\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN\nfrecuencia no conocida: SIHAD, hiponatremia.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\nfrecuencia no conocida: rabdomiólisis, tortícolis, trismo.\n\nTRASTORNOS DE PIEL Y TEJIDOS\nfrecuentes: rash maculopapular (rash).\n\nDescripción de reacciones adversas seleccionadas\nLa aparición de manifestaciones motoras debe valorarse de forma clínica, especialmente en personas vulnerables o expuestas a cambios recientes de dosis. Cuando se detecten signos persistentes o intensos, se recomienda revisar el balance beneficio-riesgo y considerar medidas de soporte acordes con la práctica habitual.\n\nAlgunos acontecimientos cardiovasculares y respiratorios requieren atención inmediata por su posible gravedad. La evaluación debe incluir antecedentes, factores predisponentes y medicación concomitante. En caso de sospecha de una reacción clínicamente relevante, debe registrarse el episodio y notificarse conforme a los procedimientos locales de farmacovigilancia.\n\nLas alteraciones endocrinas, reproductivas o digestivas pueden aparecer de forma gradual y ser comunicadas espontáneamente por el paciente durante el seguimiento. La monitorización periódica facilita la detección temprana y permite adaptar la conducta terapéutica sin introducir términos diagnósticos no confirmados.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "SULPIRIDA",
+      "surface": "SULPIRIDA"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "SULPIRIDA",
+      "surface": "Dogmatil"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parkinsonismo",
+      "surface": "Parkinsonismo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "acatisia",
+      "surface": "acatisia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "sedación",
+      "surface": "sedación"
+    },
+    {
+      "type": "REACT",
+      "canonical": "somnolencia",
+      "surface": "somnolencia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "temblor",
+      "surface": "temblor"
+    },
+    {
+      "type": "REACT",
+      "canonical": "trastorno extrapiramidal",
+      "surface": "trastorno extrapiramidal"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "discinesia",
+      "surface": "discinesia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "distonía",
+      "surface": "distonía"
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipertonía",
+      "surface": "hipertonía"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "crisis oculógiras",
+      "surface": "crisis oculógiras"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "convulsiones",
+      "surface": "convulsiones"
+    },
+    {
+      "type": "REACT",
+      "canonical": "discinesia tardía",
+      "surface": "discinesia tardía"
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipoquinesia",
+      "surface": "hipoquinesia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "síndrome neuroléptico maligno",
+      "surface": "síndrome neuroléptico maligno"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Leucopenia",
+      "surface": "Leucopenia"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "agranulocitosis",
+      "surface": "agranulocitosis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "neutropenia",
+      "surface": "neutropenia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor de pecho",
+      "surface": "dolor de pecho"
+    },
+    {
+      "type": "REACT",
+      "canonical": "galactorrea",
+      "surface": "galactorrea"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "amenorrea",
+      "surface": "amenorrea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "aumento del pecho",
+      "surface": "aumento del pecho"
+    },
+    {
+      "type": "REACT",
+      "canonical": "disfunción eréctil",
+      "surface": "disfunción eréctil"
+    },
+    {
+      "type": "REACT",
+      "canonical": "orgasmo anormal",
+      "surface": "orgasmo anormal"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "ginecomastia",
+      "surface": "ginecomastia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "arritmia ventricular",
+      "surface": "arritmia ventricular"
+    },
+    {
+      "type": "REACT",
+      "canonical": "fibrilación ventricular",
+      "surface": "fibrilación ventricular"
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipotensión ortostática",
+      "surface": "hipotensión ortostática"
+    },
+    {
+      "type": "REACT",
+      "canonical": "taquicardia ventricular",
+      "surface": "taquicardia ventricular"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "aumento de la presión sanguínea",
+      "surface": "aumento de la presión sanguínea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "embolismo pulmonar",
+      "surface": "embolismo pulmonar"
+    },
+    {
+      "type": "REACT",
+      "canonical": "muerte súbita",
+      "surface": "muerte súbita"
+    },
+    {
+      "type": "REACT",
+      "canonical": "neumonía por aspiración",
+      "surface": "neumonía por aspiración"
+    },
+    {
+      "type": "REACT",
+      "canonical": "paro cardiaco",
+      "surface": "paro cardiaco"
+    },
+    {
+      "type": "REACT",
+      "canonical": "prolongación del intervalo QT en electrocardiograma",
+      "surface": "prolongación del intervalo QT en electrocardiograma"
+    },
+    {
+      "type": "REACT",
+      "canonical": "torsade de pointes",
+      "surface": "torsade de pointes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "tromboembolismo venoso",
+      "surface": "tromboembolismo venoso"
+    },
+    {
+      "type": "REACT",
+      "canonical": "trombosis venosa profunda",
+      "surface": "trombosis venosa profunda"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "aumento de peso",
+      "surface": "aumento de peso"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipertermia",
+      "surface": "hipertermia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "insomnio",
+      "surface": "insomnio"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "confusion",
+      "surface": "confusion"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "estreñimiento",
+      "surface": "estreñimiento"
+    },
+    {
+      "type": "REACT",
+      "canonical": "incremento de enzimas hepáticas",
+      "surface": "incremento de enzimas hepáticas"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipersecreción salival",
+      "surface": "hipersecreción salival"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "daño hepático hepatocelular, colestásico o mixto",
+      "surface": "daño hepático hepatocelular, colestásico o mixto"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "disnea",
+      "surface": "disnea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipotensión",
+      "surface": "hipotensión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "shock anafiláctico",
+      "surface": "shock anafiláctico"
+    },
+    {
+      "type": "REACT",
+      "canonical": "urticaria",
+      "surface": "urticaria"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "surface": "TRASTORNOS DEL SISTEMA ENDOCRINO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "hiperprolactinemia",
+      "surface": "hiperprolactinemia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "SIHAD",
+      "surface": "SIHAD"
+    },
+    {
+      "type": "REACT",
+      "canonical": "hiponatremia",
+      "surface": "hiponatremia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "rabdomiólisis",
+      "surface": "rabdomiólisis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "tortícolis",
+      "surface": "tortícolis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "trismo",
+      "surface": "trismo"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "rash maculopapular",
+      "surface": "rash maculopapular"
+    },
+    {
+      "type": "REACT",
+      "canonical": "rash maculopapular",
+      "surface": "rash"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "DOGMATIL 50 mg/ml SOLUCION INYECTABLE",
+        "pactivo": "SULPIRIDA",
+        "reaccion": "galactorrea",
+        "frecuencia": "FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA REPRODUCTOR"
+      },
+      "text": "Dentro de Trastornos del sistema reproductor, la galactorrea se ha notificado como una de las reacciones adversas frecuentes durante el tratamiento con sulpirida, incluida la presentación inyectable de Dogmatil. Este efecto es coherente con la acción dopaminérgica del principio activo y debe valorarse en el contexto clínico de cada paciente.\n\nTabla de reacciones adversas:\n- Trastornos del sistema reproductor: galactorrea (secreción láctea fuera de la lactancia), frecuentes.\n\nAnte la aparición de este síntoma, se recomienda realizar seguimiento clínico y reconsiderar la continuidad del tratamiento según la intensidad del cuadro y la evolución observada.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+          "surface": "Trastornos del sistema reproductor"
+        },
+        {
+          "type": "REACT",
+          "canonical": "galactorrea",
+          "surface": "galactorrea"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SULPIRIDA",
+          "surface": "sulpirida"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SULPIRIDA",
+          "surface": "Dogmatil"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+          "surface": "Trastornos del sistema reproductor"
+        },
+        {
+          "type": "REACT",
+          "canonical": "galactorrea",
+          "surface": "galactorrea"
+        },
+        {
+          "type": "REACT",
+          "canonical": "galactorrea",
+          "surface": "secreción láctea fuera de la lactancia"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+          "surface": "Trastornos del sistema reproductor",
+          "start": 10,
+          "end": 44
+        },
+        {
+          "type": "REACT",
+          "canonical": "galactorrea",
+          "surface": "galactorrea",
+          "start": 49,
+          "end": 60
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes",
+          "start": 114,
+          "end": 124
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SULPIRIDA",
+          "surface": "sulpirida",
+          "start": 152,
+          "end": 161
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SULPIRIDA",
+          "surface": "Dogmatil",
+          "start": 202,
+          "end": 210
+        },
+        {
+          "type": "REACT",
+          "canonical": "galactorrea",
+          "surface": "secreción láctea fuera de la lactancia",
+          "start": 426,
+          "end": 464
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "DOGMATIL 50 mg/ml SOLUCION INYECTABLE",
+        "pactivo": "SULPIRIDA",
+        "reaccion": "crisis oculógiras",
+        "frecuencia": "NO FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA NERVIOSO"
+      },
+      "text": "En la clasificación TRASTORNOS DEL SISTEMA NERVIOSO se ha notificado la siguiente reacción con sulpirida (Dogmatil):\n\n- crisis oculógiras: frecuencia no frecuente.\n\nEste cuadro, descrito de forma común como giro involuntario de los ojos, es compatible con un efecto sobre las vías dopaminérgicas. Se recomienda vigilar la aparición de signos neurológicos durante el tratamiento y valorar la interrupción o ajuste de la administración según la situación clínica, especialmente si el episodio resulta intenso o persistente. La comunicación de sospechas contribuye a caracterizar mejor el perfil de seguridad.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SULPIRIDA",
+          "surface": "sulpirida"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SULPIRIDA",
+          "surface": "Dogmatil"
+        },
+        {
+          "type": "REACT",
+          "canonical": "crisis oculógiras",
+          "surface": "crisis oculógiras"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente"
+        },
+        {
+          "type": "REACT",
+          "canonical": "crisis oculógiras",
+          "surface": "giro involuntario de los ojos"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "start": 20,
+          "end": 51
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SULPIRIDA",
+          "surface": "sulpirida",
+          "start": 95,
+          "end": 104
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SULPIRIDA",
+          "surface": "Dogmatil",
+          "start": 106,
+          "end": 114
+        },
+        {
+          "type": "REACT",
+          "canonical": "crisis oculógiras",
+          "surface": "crisis oculógiras",
+          "start": 120,
+          "end": 137
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente",
+          "start": 150,
+          "end": 162
+        },
+        {
+          "type": "REACT",
+          "canonical": "crisis oculógiras",
+          "surface": "giro involuntario de los ojos",
+          "start": 207,
+          "end": 236
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "DOGMATIL 50 mg/ml SOLUCION INYECTABLE",
+        "pactivo": "SULPIRIDA",
+        "reaccion": "trombosis venosa profunda",
+        "frecuencia": "SIN FRECUENCIA",
+        "sistema": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+      },
+      "text": "En el sistema TRASTORNOS DEL SISTEMA CARDIOVASCULAR, durante el uso de SULPIRIDA (Dogmatil), se ha descrito la siguiente reacción adversa:\n- trombosis venosa profunda: frecuencia no conocida.\n\nLa notificación procede principalmente de la experiencia poscomercialización, por lo que no es posible estimar su incidencia a partir de los datos disponibles. Se recomienda valorar los factores de riesgo individuales antes y durante el tratamiento, así como instruir al paciente para consultar si aparecen signos compatibles con este evento, con el fin de instaurar las medidas clínicas oportunas.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SULPIRIDA",
+          "surface": "SULPIRIDA"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SULPIRIDA",
+          "surface": "Dogmatil"
+        },
+        {
+          "type": "REACT",
+          "canonical": "trombosis venosa profunda",
+          "surface": "trombosis venosa profunda"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "start": 14,
+          "end": 51
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SULPIRIDA",
+          "surface": "SULPIRIDA",
+          "start": 71,
+          "end": 80
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SULPIRIDA",
+          "surface": "Dogmatil",
+          "start": 82,
+          "end": 90
+        },
+        {
+          "type": "REACT",
+          "canonical": "trombosis venosa profunda",
+          "surface": "trombosis venosa profunda",
+          "start": 141,
+          "end": 166
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida",
+          "start": 168,
+          "end": 190
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

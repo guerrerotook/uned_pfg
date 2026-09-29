@@ -1,0 +1,68 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil descrito para IMATINIB MESILATO es coherente con la experiencia acumulada con imatinib en pacientes tratados de forma continuada. La mayoría de los acontecimientos se comunicaron durante los primeros meses y fueron manejables con medidas de soporte, ajuste posológico o interrupción temporal. La evaluación debe considerar el estado basal del paciente, el tratamiento concomitante y la enfermedad subyacente. La relación temporal y la reversibilidad ayudan a orientar la atribución clínica. La lista siguiente utiliza la terminología MedDRA y mantiene las denominaciones notificadas.
+
+Lista tabulada de reacciones adversas
+Categorías empleadas, en este orden cuando proceda: muy frecuentes; frecuentes; poco frecuentes; no frecuente; frecuencia no conocida. Los tramos sin datos se omiten.
+
+TRASTORNOS DE PIEL Y TEJIDOS: Dermatitis/eccema/erupción, Edema periorbital; Alopecia, Edema facial, Eritema, Prurito (picor), Reacción de fotosensibilidad, Sequedad de la piel, Sudoración nocturna; Aumento de la sudoración, Aumento de la tendencia a tener moratones, Contusión, Dermatitis exfoliativa, Equimosis, Erupciones bullosas, Erupción pustular, Foliculitis, Hiperpigmentación de la piel, Hipopigmentación de la piel, Hipotricosis, Onicoclasis, Petequias, Psoriasis, Púrpura, Urticaria; Decoloración de las uñas, Dermatosis neutrofílica febril aguda (Síndrome de Sweet), Edema angioneurótico, Erupción vesicular, Exantema pustuloso generalizado agudo (AGEP), Vasculitis leucocitoclástica, eritema multiforme, síndrome de Stevens- Johnson; Erupción por medicamentos con eosinofilia y síntomas sistémicos (DRESS), Liquen plano, Necrolisis epidérmica tóxica, Pseudoporfiria, Queratosis liquenoide, Síndrome de eritrodisestesia palmoplantar.
+
+TRASTORNOS DEL SISTEMA NERVIOSO: Cefalea; Mareo, Parestesia; Alteración de la memoria, Ciática, Hemorragia cerebral, Migraña, Neuropatía periférica, Somnolencia, Síncope, Síndrome de piernas inquietas, Temblor; Aumento de la presión intracraneal, Convulsiones, Neuritis óptica; Edema cerebral.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS: Alteraciones del gusto, Aumento del lagrimeo, Conjuntivitis, Edema palpebral, Hemorragia conjuntival, Hipoestesia, Ojo seco, Visión borrosa; Blefaritis, Dolor ocular, Edema macular, Edema orbital, Hemorragia escleral, Hemorragia retiniana, Irritación ocular, Pérdida de la audición, Tinnitus, Vértigo; Catarata, Glaucoma, Papiledema; Hemorragia vítrea.
+
+TRASTORNOS DEL SISTEMA GENERAL: Fatiga, Retención de líquidos y edema; Anasarca, Debilidad, Escalofríos, Pirexia, Rigidez; Dolor en el pecho, Malestar.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS: Anemia, Neutropenia, Trombocitopenia; Neutropenia febril, Pancitopenia; Depresión de la médula ósea, Eosinofilia, Linfopenia, Trombocitemia; Anemia hemolítica, Microangiopatía trombótica.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR: Hemorragia, Sofocos; Edema pulmonar, Enfriamiento periférico, Fenómeno de Raynaud, Hematoma subdural, Hematomas, Hipertensión, Hipotensión, Insuficiencia cardíaca congestiva, Palpitaciones, Taquicardia; Angina de pecho, Arritmia, Derrame pericárdico, Fibrilación auricular, Infarto de miocardio, Paro cardíaco, Tamponamiento cardíaco; Pericarditis, Trombosis/embolismo.
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN: Aumento de peso; Anorexia, Pérdida de peso; Aumento de la creatinfosfoquinasa sérica, Aumento de la creatinina sérica, Aumento de la fosfatasa alcalina sérica, Aumento de la lactatodeshidrogenasa sérica, Aumento del apetito, Deshidratación, Disminución del apetito, Gota, Hipercalcemia, Hiperglucemia, Hiperuricemia, Hipocalemia, Hipofosfatemia, Hiponatremia; Aumento de la amilasa sérica, Hipercalemia, Hipomagnesemia.
+
+TRASTORNOS PSIQUIÁTRICOS: Insomnio; Ansiedad, Depresión, Disminución de la líbido; Confusión.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO: Dolor musculoesquelético incluyendo mialgia, artralgia y dolor óseo, Espasmos y calambres musculares; Hinchazón de articulaciones; Rigidez de articulaciones y músculos; Artritis, Debilidad muscular, Rabdomiolisis/miopatía; Necrosis avascular/necrosis de cadera, Retraso en el crecimiento en niños y adolescentes.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO: Diarrea, Dispepsia, Dolor abdominal, Nauseas, Vómitos; Distensión abdominal, Estreñimiento, Flatulencia, Gastritis, Reflujo gastroesofágico, Sequedad de boca; Ascitis, Disfagia, Eructación, Esofagitis, Estomatitis, Hematemesis, Hemorragia gastrointestinal, Melena, Pancreatitis, Queilitis, Ulceración de la boca, Úlcera gástrica; Colitis, Enfermedad inflamatoria intestinal, Íleo; Diverticulitis, Ectasia vascular antral gástrica (EVAG), Obstrucción ilíaca/intestinal, Perforación gastrointestinal.
+
+TRASTORNOS DEL SISTEMA HEPATOBILIAR: Aumento de enzimas hepáticas; Hepatitis, Hiperbilirrubinemia, Ictericia; Insuficiencia hepática, Necrosis hepática.
+
+TRASTORNOS DEL SISTEMA EXCRETOR: Aumento de frecuencia urinaria, Dolor renal, Hematuria, Insuficiencia renal aguda; Insuficiencia renal crónica.
+
+TRASTORNOS DEL SISTEMA REPRODUCTOR: Aumento del tamaño de las mamas, Disfunción eréctil, Disfunción sexual, Dolor en los pezones, Edema de escroto, Ginecomastia, Menorragia, Menstruación irregular; Cuerpo lúteo hemorrágico/quiste de ovario hemorrágico.
+
+INFECCIONES E INFESTACIONES: Celulitis, Gastroenteritis, Herpes simplex, Herpes zoster, Infección del tracto respiratorio superior, Infección del tracto urinario, Influenza, Nasofaringitis, Neumonía, Sepsis, Sinusitis; Infección fúngica; Reactivación del virus de la Hepatitis B.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO: Disnea, Epistaxis, Tos; Derrame pleural, Dolor faringolaríngeo, Faringitis; Dolor pleural, Fibrosis pulmonar, Hemorragia pulmonar, Hipertensión pulmonar; Enfermedad pulmonar intersticial, Insuficiencia respiratoria aguda.
+
+NEOPLASIAS BENIGNAS, MALIGNAS Y NO ESPECIFICADAS: Síndrome de lisis tumoral; Hemorragia tumoral/necrosis tumoral.
+
+TRASTORNOS DEL SISTEMA LINFÁTICO: Linfoadenopatía.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO: Shock anafiláctico.
+
+Descripción de reacciones adversas seleccionadas
+En la práctica clínica, la valoración debe realizarse de forma individual y periódica. Cuando los acontecimientos sean persistentes, intensos o se asocien a deterioro funcional, se recomienda revisar la pauta y los factores predisponentes. La notificación espontánea contribuye a caracterizar mejor el balance de seguridad en poblaciones menos representadas en los estudios iniciales.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+Dentro del sistema TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS, se ha descrito Ojo seco como reacción adversa con frecuencia frecuentes durante el tratamiento con IMATINIB MESILATO (imatinib). Esta manifestación puede relacionarse con cambios en la superficie ocular y suele requerir valoración clínica según la intensidad de los síntomas.
+
+Lista tabulada:
+- Ojo seco: frecuentes.
+
+Se recomienda considerar medidas de soporte ocular y seguimiento si la molestia persiste o interfiere con la actividad habitual, manteniendo la evaluación individual del beneficio y el riesgo.
+
+-- Caso 2 --
+Dentro de TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO, durante el tratamiento con imatinib mesilato (imatinib) se han notificado como muy frecuentes:
+- Espasmos y calambres musculares.
+
+Estos episodios pueden aparecer en distintos momentos del tratamiento y suelen requerir valoración clínica según la intensidad y la repercusión funcional. Se recomienda revisar de forma periódica la tolerabilidad, especialmente si los síntomas interfieren con la actividad diaria o persisten pese a medidas generales de manejo.
+
+-- Caso 3 --
+Dentro de TRASTORNOS DEL SISTEMA RESPIRATORIO, se ha notificado Derrame pleural (líquido en la pleura) en pacientes tratados con IMATINIB MESILATO. En la tabla de reacciones adversas debe figurar como:
+- Derrame pleural: poco frecuentes.
+
+Este acontecimiento puede relacionarse con la retención de líquidos observada durante el tratamiento con imatinib. Se recomienda vigilancia clínica, especialmente en pacientes con antecedentes respiratorios o factores predisponentes, y valorar medidas de manejo según la intensidad y la evolución del cuadro.

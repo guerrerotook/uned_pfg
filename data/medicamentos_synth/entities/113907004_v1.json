@@ -1,0 +1,233 @@
+{
+  "codigo": "113907004",
+  "variante": 1,
+  "codigo_variant": "113907004_v1",
+  "medicamento": "ADEMPAS 1 MG COMPRIMIDOS RECUBIERTOS CON PELICULA",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "RIOCIGUAT",
+      "surface": "RIOCIGUAT",
+      "start": 101,
+      "end": 110
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 853,
+      "end": 888
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 889,
+      "end": 904
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia pulmonar",
+      "surface": "Hemorragia pulmonar",
+      "start": 906,
+      "end": 925
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 894,
+      "end": 904
+    },
+    {
+      "type": "REACT",
+      "canonical": "Congestión nasal",
+      "surface": "Congestión nasal",
+      "start": 939,
+      "end": 955
+    },
+    {
+      "type": "REACT",
+      "canonical": "Epixtasis",
+      "surface": "Epixtasis",
+      "start": 957,
+      "end": 966
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemoptisis",
+      "surface": "Hemoptisis",
+      "start": 968,
+      "end": 978
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 981,
+      "end": 1030
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia (incl. los parámetros de laboratorio respectivos)",
+      "surface": "Anemia (incl. los parámetros de laboratorio respectivos)",
+      "start": 1043,
+      "end": 1099
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1102,
+      "end": 1133
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes",
+      "start": 1134,
+      "end": 1148
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea",
+      "start": 1150,
+      "end": 1157
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareo",
+      "surface": "Mareo",
+      "start": 1159,
+      "end": 1164
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1167,
+      "end": 1199
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea",
+      "start": 1216,
+      "end": 1223
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dispepsia",
+      "surface": "Dispepsia",
+      "start": 1225,
+      "end": 1234
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 1236,
+      "end": 1243
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos",
+      "start": 1245,
+      "end": 1252
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disfagia",
+      "surface": "Disfagia",
+      "start": 1266,
+      "end": 1274
+    },
+    {
+      "type": "REACT",
+      "canonical": "Distensión abdominal",
+      "surface": "Distensión abdominal",
+      "start": 1276,
+      "end": 1296
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor gastrointestinal y abdominal",
+      "surface": "Dolor gastrointestinal y abdominal",
+      "start": 1298,
+      "end": 1332
+    },
+    {
+      "type": "REACT",
+      "canonical": "Enfermedad por reflujo gastroesofágico",
+      "surface": "Enfermedad por reflujo gastroesofágico",
+      "start": 1334,
+      "end": 1372
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento",
+      "start": 1374,
+      "end": 1387
+    },
+    {
+      "type": "REACT",
+      "canonical": "Gastritis",
+      "surface": "Gastritis",
+      "start": 1389,
+      "end": 1398
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 1401,
+      "end": 1431
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema periférico",
+      "surface": "Edema periférico",
+      "start": 1448,
+      "end": 1464
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "INFECCIONES E INFESTACIONES",
+      "start": 1467,
+      "end": 1494
+    },
+    {
+      "type": "REACT",
+      "canonical": "Gastroenteritis",
+      "surface": "Gastroenteritis",
+      "start": 1507,
+      "end": 1522
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1525,
+      "end": 1562
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión",
+      "start": 1575,
+      "end": 1586
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones",
+      "start": 1588,
+      "end": 1601
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "documents": 98,
+  "sentences": 5600,
+  "tokens": 86599,
+  "label_counts": {
+    "O": 60389,
+    "B-ACTIVE": 633,
+    "B-FREQ": 2241,
+    "I-FREQ": 2139,
+    "B-SYS": 1412,
+    "I-SYS": 4670,
+    "B-REACT": 6252,
+    "I-REACT": 8520,
+    "I-ACTIVE": 343
+  },
+  "missing_txt_files": [],
+  "docs_with_no_tags": [],
+  "train": {
+    "documents": 70,
+    "sentences": 4067,
+    "tokens": 60646,
+    "label_counts": {
+      "O": 43225,
+      "B-ACTIVE": 451,
+      "B-SYS": 1002,
+      "I-SYS": 3330,
+      "B-FREQ": 1634,
+      "I-FREQ": 1577,
+      "B-REACT": 4004,
+      "I-REACT": 5242,
+      "I-ACTIVE": 181
+    },
+    "missing_txt_files": [],
+    "docs_with_no_tags": []
+  },
+  "test": {
+    "documents": 30,
+    "sentences": 1622,
+    "tokens": 27597,
+    "label_counts": {
+      "O": 18653,
+      "B-ACTIVE": 198,
+      "B-FREQ": 621,
+      "I-FREQ": 590,
+      "B-SYS": 420,
+      "I-SYS": 1380,
+      "B-REACT": 2278,
+      "I-REACT": 3285,
+      "I-ACTIVE": 172
+    },
+    "missing_txt_files": [],
+    "docs_with_no_tags": []
+  }
+}

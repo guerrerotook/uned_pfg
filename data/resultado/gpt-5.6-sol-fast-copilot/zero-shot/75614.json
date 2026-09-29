@@ -1,0 +1,680 @@
+[
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Infecciones fúngicas, incluyendo infección por Cándida",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Resistencia a patógenos",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Leucopenia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Eosinofilia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Trombocitopenia",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Neutropenia",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Insuficiencia de la médula ósea",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Anemia aplásica",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Pancitopenia",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Agranulocitosis",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Anemia hemolítica",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Angioedema",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Hipersensibilidad",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Shock anafiláctico",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Shock anafilactoide",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Síndrome de secreción inadecuada de hormona antidiurética (SIADH)",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos endocrinos"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Anorexia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Hipoglucemia",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Coma hipoglucémico",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Hiperglucemia",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Crisis de porfiria en pacientes con porfiria",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Insomnio",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Ansiedad",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Estado de confusión",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Nerviosismo",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Reacciones psicóticas, incluyendo alucinaciones y paranoia",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Depresión",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Agitación",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Sueños anómalos",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Pesadillas",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Delirio",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Reacciones psicóticas con comportamiento autolesivo, incluyendo ideas suicidas o intentos de suicidio",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Manía",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Cefalea",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Mareo",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Somnolencia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Temblor",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Disgeusia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Convulsiones",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Parestesia",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Deterioro de la memoria",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Neuropatía periférica sensitiva",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Neuropatía periférica sensitivo-motora",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Parosmia, incluyendo anosmia",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Discinesia",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Trastorno extrapiramidal",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Ageusia",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Síncope",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Hipertensión intracraneal benigna",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Mioclonía",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Alteraciones visuales, como visión borrosa",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Pérdida transitoria de la visión",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Uveítis",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Vértigo",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del oído y del laberinto"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Tinnitus",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del oído y del laberinto"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Pérdida de audición",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del oído y del laberinto"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Deficiencia auditiva",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del oído y del laberinto"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Taquicardia",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Palpitaciones",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Taquicardia ventricular que puede resultar en parada cardiaca",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Arritmia ventricular",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Torsade de pointes",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Intervalo QT prolongado en el electrocardiograma",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Regurgitación de las válvulas cardíacas",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Insuficiencia de las válvulas cardíacas",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Hipotensión",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Disección aórtica",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Aneurisma aórtico",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Disnea",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Broncoespasmo",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Neumonitis alérgica",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Diarrea",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Vómitos",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Náuseas",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Dolor abdominal",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Dispepsia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Flatulencia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Estreñimiento",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Diarrea hemorrágica",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Enterocolitis, incluyendo colitis pseudomembranosa",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Pancreatitis",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Aumento de enzimas hepáticas (ALT/AST, fosfatasa alcalina, GGT)",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Aumento de bilirrubina en sangre",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Ictericia",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Daño hepático grave, incluyendo insuficiencia hepática aguda fulminante",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Hepatitis",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Exantema",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Prurito",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Urticaria",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Hiperhidrosis",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Reacción a fármaco con eosinofilia y síntomas sistémicos (DRESS)",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Erupción fija medicamentosa",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Necrólisis epidérmica tóxica",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Síndrome de Stevens-Johnson",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Eritema multiforme",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Reacción de fotosensibilidad",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Vasculitis leucocitoclástica",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Estomatitis",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Hiperpigmentación de la piel",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Artralgia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Mialgia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Trastornos del tendón, incluyendo tendinitis",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Debilidad muscular",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Rabdomiólisis",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Rotura de tendón",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Rotura de ligamento",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Rotura muscular",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Artritis",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Aumento de la creatinina en sangre",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Insuficiencia renal aguda, incluyendo la debida a nefritis intersticial",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Astenia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Pirexia",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "LEVOFLOXACINO HEMIHIDRATO",
+    "reacción adversa": "Dolor, incluyendo dolor de espalda, dolor torácico y dolor en las extremidades",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  }
+]

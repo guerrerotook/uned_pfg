@@ -1,0 +1,359 @@
+{
+  "codigo": "8451004",
+  "variante": 2,
+  "codigo_variant": "8451004_v2",
+  "medicamento": "VOLIBRIS 10 MG COMPRIMIDOS RECUBIERTOS CON PELÍCULA",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "AMBRISENTAN",
+      "surface": "AMBRISENTAN",
+      "start": 249,
+      "end": 260
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "AMBRISENTAN",
+      "surface": "ambrisentán",
+      "start": 249,
+      "end": 260
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "AMBRISENTAN",
+      "surface": "Volibris",
+      "start": 310,
+      "end": 318
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 928,
+      "end": 965
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 966,
+      "end": 976
+    },
+    {
+      "type": "REACT",
+      "canonical": "Acúfenos",
+      "surface": "Acúfenos",
+      "start": 978,
+      "end": 986
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteración visual",
+      "surface": "Alteración visual",
+      "start": 988,
+      "end": 1005
+    },
+    {
+      "type": "REACT",
+      "canonical": "Visión borrosa",
+      "surface": "Visión borrosa",
+      "start": 1007,
+      "end": 1021
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 1023,
+      "end": 1038
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pérdida auditiva súbita",
+      "surface": "Pérdida auditiva súbita",
+      "start": 1040,
+      "end": 1063
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 1066,
+      "end": 1115
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes",
+      "start": 1116,
+      "end": 1130
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia (disminución de la hemoglobina y hematocrito)",
+      "surface": "Anemia (disminución de la hemoglobina y hematocrito)",
+      "start": 1132,
+      "end": 1184
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 1187,
+      "end": 1217
+    },
+    {
+      "type": "REACT",
+      "canonical": "Astenia",
+      "surface": "Astenia",
+      "start": 1230,
+      "end": 1237
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor torácico",
+      "surface": "Dolor torácico",
+      "start": 1255,
+      "end": 1269
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema periférico",
+      "surface": "Edema periférico",
+      "start": 1271,
+      "end": 1287
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "Fatiga",
+      "start": 1289,
+      "end": 1295
+    },
+    {
+      "type": "REACT",
+      "canonical": "Retención de fluidos",
+      "surface": "Retención de fluidos",
+      "start": 1297,
+      "end": 1317
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1320,
+      "end": 1351
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea (incluyendo cefalea sinusal, migraña)",
+      "surface": "Cefalea (incluyendo cefalea sinusal, migraña)",
+      "start": 1368,
+      "end": 1413
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareos",
+      "surface": "Mareos",
+      "start": 1415,
+      "end": 1421
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 1424,
+      "end": 1459
+    },
+    {
+      "type": "REACT",
+      "canonical": "Congestión del tracto respiratorio superior",
+      "surface": "Congestión del tracto respiratorio superior",
+      "start": 1476,
+      "end": 1519
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disnea",
+      "surface": "Disnea",
+      "start": 1521,
+      "end": 1527
+    },
+    {
+      "type": "REACT",
+      "canonical": "Nasofaringitis",
+      "surface": "Nasofaringitis",
+      "start": 1529,
+      "end": 1543
+    },
+    {
+      "type": "REACT",
+      "canonical": "Epixtasis",
+      "surface": "Epixtasis",
+      "start": 1557,
+      "end": 1566
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rinitis",
+      "surface": "Rinitis",
+      "start": 1568,
+      "end": 1575
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sinusitis",
+      "surface": "Sinusitis",
+      "start": 1577,
+      "end": 1586
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1589,
+      "end": 1621
+    },
+    {
+      "type": "REACT",
+      "canonical": "Daño hepático",
+      "surface": "Daño hepático",
+      "start": 1639,
+      "end": 1652
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hepatitis autoinmune",
+      "surface": "Hepatitis autoinmune",
+      "start": 1654,
+      "end": 1674
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea",
+      "start": 1692,
+      "end": 1699
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 1701,
+      "end": 1708
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos",
+      "start": 1710,
+      "end": 1717
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor abdominal",
+      "surface": "Dolor abdominal",
+      "start": 1731,
+      "end": 1746
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento",
+      "start": 1748,
+      "end": 1761
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de transaminasas",
+      "surface": "Incremento de transaminasas",
+      "start": 1763,
+      "end": 1790
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 1793,
+      "end": 1821
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción",
+      "surface": "Erupción",
+      "start": 1834,
+      "end": 1842
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1845,
+      "end": 1882
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fallo cardiaco",
+      "surface": "Fallo cardiaco",
+      "start": 1895,
+      "end": 1909
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión",
+      "start": 1911,
+      "end": 1922
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síncope",
+      "surface": "Síncope",
+      "start": 1924,
+      "end": 1931
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones",
+      "start": 1949,
+      "end": 1962
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rubefacción",
+      "surface": "Rubefacción",
+      "start": 1964,
+      "end": 1975
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 1978,
+      "end": 2013
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacciones de hipersensibilidad (angioedema, erupción cutánea, prurito)",
+      "surface": "Reacciones de hipersensibilidad (angioedema, erupción cutánea, prurito)",
+      "start": 2026,
+      "end": 2097
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "Trastornos del sistema respiratorio",
+      "start": 1424,
+      "end": 1459
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "palpitaciones",
+      "start": 1949,
+      "end": 1962
+    }
+  ]
+}

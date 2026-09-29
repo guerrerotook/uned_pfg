@@ -1,0 +1,764 @@
+[
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "candidiasis",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "infección vaginal",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "neumonía",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "infección por hongos",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "infección bacteriana",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "faringitis",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "gastroenteritis",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "trastorno respiratorio",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "rinitis",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "candidiasis oral",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "colitis pseudomembranosa",
+    "frecuencia": "frecuencia no conocida",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "leucopenia",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "neutropenia",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "eosinofilia",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "trombocitopenia",
+    "frecuencia": "raras",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "anemia hemolítica",
+    "frecuencia": "raras",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "angioedema",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "hipersensibilidad",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "reacción anafiláctica",
+    "frecuencia": "raras",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "anorexia",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "nerviosismo",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "insomnio",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "agitación",
+    "frecuencia": "raras",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "agresividad",
+    "frecuencia": "frecuencia no conocida",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "ansiedad",
+    "frecuencia": "frecuencia no conocida",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "delirio",
+    "frecuencia": "frecuencia no conocida",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "alucinación",
+    "frecuencia": "frecuencia no conocida",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "cefalea",
+    "frecuencia": "frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "mareo",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "somnolencia",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "disgeusia",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "parestesia",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "síncope",
+    "frecuencia": "frecuencia no conocida",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "convulsión",
+    "frecuencia": "frecuencia no conocida",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "hipoestesia",
+    "frecuencia": "frecuencia no conocida",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "hiperactividad psicomotora",
+    "frecuencia": "frecuencia no conocida",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "anosmia",
+    "frecuencia": "frecuencia no conocida",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "ageusia",
+    "frecuencia": "frecuencia no conocida",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "parosmia",
+    "frecuencia": "frecuencia no conocida",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "miastenia gravis",
+    "frecuencia": "frecuencia no conocida",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "alteración visual",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "sordera",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos del oído y del laberinto"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "trastorno del oído",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos del oído y del laberinto"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "vértigo",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos del oído y del laberinto"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "alteración de la audición incluyendo sordera",
+    "frecuencia": "raras",
+    "trastorno": "Trastornos del oído y del laberinto"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "acufenos",
+    "frecuencia": "raras",
+    "trastorno": "Trastornos del oído y del laberinto"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "palpitaciones",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "torsade de pointes",
+    "frecuencia": "raras",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "arritmia incluyendo taquicardia ventricular",
+    "frecuencia": "raras",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "prolongación del intervalo QT en el ECG",
+    "frecuencia": "raras",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "sofocos",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "hipotensión",
+    "frecuencia": "raras",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "disnea",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "epistaxis",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "diarrea",
+    "frecuencia": "muy frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "vómitos",
+    "frecuencia": "frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "dolor abdominal",
+    "frecuencia": "frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "náuseas",
+    "frecuencia": "frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "estreñimiento",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "disfagia",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "flatulencia",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "dispepsia",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "gastritis",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "distensión abdominal",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "boca seca",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "eructos",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "ulceración de la boca",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "hipersecreción salivar",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "pancreatitis",
+    "frecuencia": "frecuencia no conocida",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "cambio de color de la lengua",
+    "frecuencia": "frecuencia no conocida",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "función hepática anormal",
+    "frecuencia": "raras",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "ictericia colestática",
+    "frecuencia": "raras",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "insuficiencia hepática",
+    "frecuencia": "frecuencia no conocida",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "hepatitis fulminante",
+    "frecuencia": "frecuencia no conocida",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "necrosis hepática",
+    "frecuencia": "frecuencia no conocida",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "erupción",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "prurito",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "urticaria",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "dermatitis",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "piel seca",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "hiperhidrosis",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "reacciones de fotosensibilidad",
+    "frecuencia": "raras",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "reacción al fármaco con eosinofilia y síntomas sistémicos (DRESS)",
+    "frecuencia": "raras",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "pustulosis exantemática generalizada aguda (PEGA)",
+    "frecuencia": "raras",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "síndrome de Stevens-Johnson (SJS)",
+    "frecuencia": "frecuencia no conocida",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "necrólisis epidérmica tóxica (NET)",
+    "frecuencia": "frecuencia no conocida",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "eritema multiforme",
+    "frecuencia": "frecuencia no conocida",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "osteoartritis",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos musculoesqueléticos"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "mialgia",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos musculoesqueléticos"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "dolor de espalda",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos musculoesqueléticos"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "dolor de cuello",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos musculoesqueléticos"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "artralgia",
+    "frecuencia": "raras",
+    "trastorno": "Trastornos musculoesqueléticos"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "disuria",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "dolor renal",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "insuficiencia renal aguda",
+    "frecuencia": "raras",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "nefritis intersticial",
+    "frecuencia": "raras",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "metrorragia",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos del aparato reproductor y de la mama"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "trastorno testicular",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos del aparato reproductor y de la mama"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "edema",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de acción"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "astenia",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de acción"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "malestar general",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de acción"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "fatiga",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de acción"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "edema de cara",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de acción"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "dolor torácico",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de acción"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "pirexia",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de acción"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "dolor",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de acción"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "edema periférico",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de acción"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "recuento disminuido de linfocitos",
+    "frecuencia": "frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "recuento elevado de eosinófilos",
+    "frecuencia": "frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "bicarbonato disminuido en sangre",
+    "frecuencia": "frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "basófilos elevados",
+    "frecuencia": "frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "monocitos elevados",
+    "frecuencia": "frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "neutrófilos elevados",
+    "frecuencia": "frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "aspartato aminotransferasa elevada",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "alanina aminotransferasa elevada",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "urea elevada en sangre",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "creatinina elevada en sangre",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "hiperbilirrubinemia",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "potasio anormal en sangre",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "aumento de la fosfatasa alcalina en la sangre",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "cloruro elevado",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "glucosa elevada",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "plaquetas aumentadas",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "hematocrito disminuido",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "bicarbonato elevado",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "sodio anormal",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "AZITROMICINA DIHIDRATO",
+    "reacción adversa": "complicación post-intervención",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Lesiones traumáticas, intoxicaciones y complicaciones de procedimientos terapéuticos"
+  }
+]

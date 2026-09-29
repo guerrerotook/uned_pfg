@@ -1,0 +1,74 @@
+Resumen del perfil de seguridad
+La pauta combina darunavir, cobicistat, emtricitabina y tenofovir alafenamida; también pueden encontrarse las abreviaturas FTC y TAF en documentación clínica. En conjunto, el perfil de tolerabilidad observado es coherente con el de una asociación antirretroviral administrada una vez al día. La evaluación debe considerar la situación basal del paciente, los tratamientos concomitantes y la evolución analítica durante el seguimiento. La mayoría de los acontecimientos se identifican mediante vigilancia clínica habitual y revisión periódica de parámetros bioquímicos. Ante manifestaciones extensas, persistentes o acompañadas de afectación sistémica, se recomienda valorar la continuidad del tratamiento de acuerdo con el juicio clínico.
+
+Lista tabulada de reacciones adversas
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+frecuentes: Anemia.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+muy frecuentes: erupción (incluyendo erupción macular, maculopapular, papular, eritematosa, prurítica, erupción generalizada y dermatitis alérgica).
+frecuentes: prurito, urticaria.
+poco frecuentes: angioedema.
+no frecuente: reacción al medicamento con eosinofilia y síntomas sistémicos, síndrome de Stevens-Johnson.
+frecuencia no conocida: necrólisis epidérmica tóxica, pustulosis exantemática generalizada aguda.
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN
+frecuentes: anorexia, aumento de lipoproteína de baja densidad, diabetes mellitus, dislipidemia, hipercolesterolemia, hiperlipidemia, hipertrigliceridemia.
+poco frecuentes: hiperglucemia.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+frecuentes: artralgia, mialgia.
+poco frecuentes: osteonecrosis.
+
+TRASTORNOS DEL SISTEMA GENERAL
+frecuentes: astenia, aumento de la creatinina en sangre, cansancio.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+muy frecuentes: diarrea.
+frecuentes: Nauseas (náuseas), aumento de las enzimas hepáticas, dispepsia, distensión abdominal, dolor abdominal, flatulencia, vómitos.
+poco frecuentes: aumento de las enzimas pancreáticas, hepatitis aguda, hepatitis citolítica, pancreatitis aguda.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+muy frecuentes: cefalea.
+frecuentes: mareo.
+
+TRASTORNOS DEL SISTEMA REPRODUCTOR
+poco frecuentes: ginecomastia.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+frecuentes: hipersensibilidad (al medicamento).
+poco frecuentes: síndrome inflamatorio de reconstitución inmunitaria.
+
+TRASTORNOS DEL SISTEMA EXCRETOR
+no frecuente: nefropatía por depósito de cristales.
+
+TRASTORNOS PSIQUIÁTRICOS
+frecuentes: sueños anormales.
+
+Descripción de reacciones adversas seleccionadas
+Los acontecimientos de tipo cutáneo deben interpretarse teniendo en cuenta su extensión, el tiempo hasta el inicio y la presencia de signos generales. En la práctica asistencial, se aconseja documentar la evolución y descartar otros factores contribuyentes antes de establecer una relación definitiva.
+
+Las variaciones analíticas pueden requerir confirmación mediante determinaciones repetidas, especialmente cuando existen antecedentes relevantes o exposición a otros medicamentos. La actuación clínica debe individualizarse y apoyarse en la valoración global del beneficio terapéutico.
+
+En pacientes con enfermedad avanzada o con respuesta inmunitaria inicial, pueden observarse cuadros inflamatorios relacionados con la recuperación de la respuesta del huésped. La notificación de sospechas permite mantener actualizada la información de seguridad y contribuye a una mejor caracterización del perfil del medicamento.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En el sistema Trastornos de piel y tejidos, durante el uso de SYMTUZA (darunavir, cobicistat, emtricitabina, tenofovir alafenamida) se ha notificado la siguiente reacción adversa grave; debido a su naturaleza, debe valorarse clínicamente de forma inmediata si aparecen manifestaciones compatibles. La relación temporal y la posible contribución de cada componente deben revisarse junto con la historia farmacológica del paciente.
+
+- necrólisis epidérmica tóxica: frecuencia no conocida.
+
+Cuando se sospeche este cuadro, se recomienda interrumpir el tratamiento y aplicar las medidas de soporte apropiadas conforme a la práctica clínica.
+
+-- Caso 2 --
+En la clasificación por órganos y sistemas TRASTORNOS DEL SISTEMA DIGESTIVO, se ha identificado la siguiente reacción adversa asociada al tratamiento con darunavir, cobicistat, emtricitabina, tenofovir alafenamida (Symtuza):
+
+- Nauseas: frecuentes.
+
+Este acontecimiento puede aparecer durante las primeras fases de la administración y debe interpretarse dentro del perfil de tolerabilidad de la combinación. Se recomienda valorar su evolución en el seguimiento clínico habitual, especialmente si persiste o afecta a la adherencia. No se considera necesario interrumpir la pauta de forma sistemática; la decisión debe basarse en la intensidad del episodio y en la situación clínica del paciente.
+
+-- Caso 3 --
+En el sistema TRASTORNOS DE PIEL Y TEJIDOS, la categoría de reacciones adversas muy frecuentes incluye la erupción (sarpullido) durante el tratamiento con darunavir, cobicistat, emtricitabina, tenofovir alafenamida. En la tabla de reacciones adversas debe recogerse literalmente:
+- erupción (incluyendo erupción macular, maculopapular, papular, eritematosa, prurítica, erupción generalizada y dermatitis alérgica).
+Estos acontecimientos se consideran coherentes con el perfil de seguridad de la combinación y requieren seguimiento clínico según la intensidad y la evolución. Se recomienda valorar de forma individual la continuidad del tratamiento y documentar la resolución o persistencia en controles posteriores.

@@ -1,0 +1,95 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil de seguridad descrito para linezolid procede de la experiencia clínica y de la notificación posterior a la comercialización. En general, las notificaciones fueron manejables con seguimiento clínico y analítico, especialmente cuando la duración del tratamiento fue limitada. La interpretación debe considerar la situación basal del paciente, la enfermedad infecciosa tratada y el uso concomitante de otros medicamentos. La abreviatura LZD puede encontrarse en algunos documentos clínicos para referirse al mismo principio activo. Se recomienda valorar los hallazgos de laboratorio junto con la evolución clínica.
+
+Lista tabulada de reacciones adversas
+EXPLORACIONES COMPLEMENTARIAS
+frecuentes: Aumento de la LDH, Aumento de la amilasa, Aumento de la creatinquinasa, Aumento de la glucemia no basal, Aumento de la lipasa, Aumento o disminucipon del recuento de leucocitos, Aumento o disminución del bicarbonato, Aumento o disminución del potasio, Aumento o disminución del recuento de plaquetas, DIsminución de hemoglobina, Disminución de la albúmina, Disminución de las proteínas totales, Disminución del calcio, Disminución del hematocrito, Disminución del recuento de hematíes, Disminución del sodio, Eosinofilia, Neutrofilia.
+poco frecuentes: Aumento del calcio, Aumento del recuento de reticulocitos, Aumento del sodio, Aumento o disminucipón del cloruro, Disminución de la glucemia no basal.
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN
+no frecuente: Acidosis láctica.
+poco frecuentes: Hiponatremia.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+poco frecuentes: Acúfenos, Neuropatía óptica, Visión borrosa.
+no frecuente: Cambios anormales del campo visual.
+frecuencia no conocida: Cambios en la agudeza visual, Cambios en la visión del color, Neuritis óptica, Pérdida de visión.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+frecuencia no conocida: Alopecia.
+poco frecuentes: Angioedema, Dermatitis, Dermatitis ampollosa, Diaforesis, Urticaria.
+frecuentes: Erupción cutánea, Prurito.
+no frecuente: Necrólisis epidérmica tóxica, Síndrome de Stevens-Johnson, Vascultis por hipersensibilidad.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+no frecuente: Anafilaxia.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+frecuentes: Anemia, Trombocitopenia.
+no frecuente: Anemia sideroblástica.
+poco frecuentes: Eosinofilia, Leucopenia, Neutropenia, Pancitopenia.
+frecuencia no conocida: Mielosupresión.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+poco frecuentes: Arritmia (taquicardia), Ataques isquémicos transitorios, Flebitis, Tromboflebitis.
+frecuentes: Hipertensión.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+poco frecuentes: Boca seca, Distensión abdominal, Estomatitis, Gatritis, Glositis, Heces blandas, Pancreatitis, Trastorno o cambio del color de la lengua.
+no frecuente: Decoloración de la superficie dental.
+frecuentes: Diarrea, Dispepsia, Dolor abdominal localizado o generalizado, Estreñimiento, Náuseas, Vómitos.
+
+INFECCIONES E INFESTACIONES
+frecuentes: Candidiasis, Candidiasis oral, Candidiasis vaginal, Infecciones fúngicas.
+poco frecuentes: Colitis asociada a antibióticos, Colitis pseudomembranosa, Vaginitis.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+frecuentes: Cefalea, Mareos, Percepción errónea del sabor (sabor metálico).
+poco frecuentes: Convulsiones, Hipoestesia, Neuropatía periférica, Parestesia.
+frecuencia no conocida: Síndrome serotoninérico.
+
+TRASTORNOS DEL SISTEMA GENERAL
+poco frecuentes: Dolor en la zona de inyección, Escalofríos, Fatiga, Sed aumentada.
+frecuentes: Dolor localizado, Fiebre.
+
+TRASTORNOS DEL SISTEMA EXCRETOR
+poco frecuentes: Fallo renal, Incremento de la creatinina, Poliuria.
+frecuentes: Incremento del BUN.
+
+TRASTORNOS DEL SISTEMA HEPATOBILIAR
+frecuentes: Incremento de la ALT, Incremento de la AST, Incremento de la fosfatasa alcalina, Pruebas de función hepática anormales.
+poco frecuentes: Incremento de la bilirrubina total.
+
+TRASTORNOS PSIQUIÁTRICOS
+frecuentes: Insomnio.
+
+TRASTORNOS DEL SISTEMA REPRODUCTOR
+poco frecuentes: Trastornos vulvovaginales.
+
+Descripción de reacciones adversas seleccionadas
+Durante el seguimiento, se aconseja revisar los resultados analíticos de forma periódica cuando existan factores de riesgo o tratamientos de duración prolongada. La decisión de continuar, interrumpir o ajustar el tratamiento debe basarse en la valoración individual del balance beneficio-riesgo. En pacientes con antecedentes relevantes o exposición concomitante a fármacos de acción central, debe mantenerse una vigilancia clínica adecuada. Si el paciente refiere alteraciones de la vista, se recomienda evaluación médica sin demora.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En pacientes tratados con linezolid (linezólido), la evaluación de seguridad incluye la vigilancia de posibles manifestaciones locales cuando exista sintomatología compatible o antecedentes predisponentes. Dentro del sistema TRASTORNOS DEL SISTEMA REPRODUCTOR, la reacción adversa identificada se clasifica como poco frecuentes:
+
+- Trastornos vulvovaginales.
+
+La aparición de esta reacción debe valorarse en el contexto clínico y según la duración del tratamiento. Se recomienda registrar su intensidad, evolución temporal y relación con la administración, considerando medidas de seguimiento habituales sin modificar la clasificación de frecuencia establecida. Esta información debe interpretarse junto con el resto de datos de seguridad disponibles.
+
+-- Caso 2 --
+Dentro de TRASTORNOS DEL SISTEMA INMUNOLÓGICO, se ha notificado Anafilaxia con linezolid, con una frecuencia no frecuente. Esta reacción debe considerarse compatible con una respuesta inmunológica aguda al tratamiento con linezólido y requiere valoración clínica inmediata.
+
+Lista tabulada:
+- TRASTORNOS DEL SISTEMA INMUNOLÓGICO: Anafilaxia; no frecuente.
+
+En caso de sospecha, se recomienda interrumpir la administración y aplicar las medidas de soporte habituales, de acuerdo con el estado del paciente. La reexposición solo debe considerarse tras una evaluación individual del beneficio y el riesgo.
+
+-- Caso 3 --
+En el sistema de clasificación de órganos Trastornos de piel y tejidos, se ha notificado:
+- Alopecia: frecuencia no conocida.
+
+La alopecia (caída del cabello) puede aparecer durante el tratamiento con LINEZOLID, incluido linezolid por vía oral, aunque con los datos disponibles no puede estimarse su incidencia. Se recomienda valorar la evolución clínica y la posible relación temporal con el tratamiento, especialmente si la pérdida de cabello persiste o resulta clínicamente relevante. La actuación deberá individualizarse según el balance beneficio/riesgo y la situación del paciente.

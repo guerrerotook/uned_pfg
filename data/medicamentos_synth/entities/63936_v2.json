@@ -1,0 +1,541 @@
+{
+  "codigo": "63936",
+  "variante": 2,
+  "codigo_variant": "63936_v2",
+  "medicamento": "MIDAZOLAM NORMON 1 MG/ML SOLUCIÓN INYECTABLE Y PARA PERFUSIÓN EFG",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "MIDAZOLAM",
+      "surface": "MIDAZOLAM",
+      "start": 94,
+      "end": 103
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "MIDAZOLAM",
+      "surface": "Dormicum",
+      "start": 340,
+      "end": 348
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "MIDAZOLAM",
+      "surface": "midazolam",
+      "start": 94,
+      "end": 103
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 997,
+      "end": 1021
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 1022,
+      "end": 1044
+    },
+    {
+      "type": "REACT",
+      "canonical": "Abuso",
+      "surface": "Abuso",
+      "start": 1046,
+      "end": 1051
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agitación",
+      "surface": "Agitación",
+      "start": 1053,
+      "end": 1062
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agresividad",
+      "surface": "Agresividad",
+      "start": 1064,
+      "end": 1075
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alucinaciones",
+      "surface": "Alucinaciones",
+      "start": 1077,
+      "end": 1090
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ansiedad",
+      "surface": "Ansiedad",
+      "start": 1092,
+      "end": 1100
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cambios en la líbido",
+      "surface": "Cambios en la líbido",
+      "start": 1102,
+      "end": 1122
+    },
+    {
+      "type": "REACT",
+      "canonical": "Comportamiento inadecuado",
+      "surface": "Comportamiento inadecuado",
+      "start": 1124,
+      "end": 1149
+    },
+    {
+      "type": "REACT",
+      "canonical": "Conducta agresiva",
+      "surface": "Conducta agresiva",
+      "start": 1151,
+      "end": 1168
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dependencia física",
+      "surface": "Dependencia física",
+      "start": 1170,
+      "end": 1188
+    },
+    {
+      "type": "REACT",
+      "canonical": "Desorientación",
+      "surface": "Desorientación",
+      "start": 1190,
+      "end": 1204
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estados de cosnfusión",
+      "surface": "Estados de cosnfusión",
+      "start": 1206,
+      "end": 1227
+    },
+    {
+      "type": "REACT",
+      "canonical": "Excitación paroxística",
+      "surface": "Excitación paroxística",
+      "start": 1229,
+      "end": 1251
+    },
+    {
+      "type": "REACT",
+      "canonical": "Inquietud",
+      "surface": "Inquietud",
+      "start": 1253,
+      "end": 1262
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ira",
+      "surface": "Ira",
+      "start": 1264,
+      "end": 1267
+    },
+    {
+      "type": "REACT",
+      "canonical": "Irritabilidad",
+      "surface": "Irritabilidad",
+      "start": 1269,
+      "end": 1282
+    },
+    {
+      "type": "REACT",
+      "canonical": "Nerviosismo",
+      "surface": "Nerviosismo",
+      "start": 1284,
+      "end": 1295
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pesadillas",
+      "surface": "Pesadillas",
+      "start": 1297,
+      "end": 1307
+    },
+    {
+      "type": "REACT",
+      "canonical": "Psicosis",
+      "surface": "Psicosis",
+      "start": 1309,
+      "end": 1317
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacciones paradójicas del comportamiento",
+      "surface": "Reacciones paradójicas del comportamiento",
+      "start": 1319,
+      "end": 1360
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sueños anormales",
+      "surface": "Sueños anormales",
+      "start": 1362,
+      "end": 1378
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de retirada",
+      "surface": "Síndrome de retirada",
+      "start": 1380,
+      "end": 1400
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastornos emocionales y anímicos",
+      "surface": "Trastornos emocionales y anímicos",
+      "start": 1402,
+      "end": 1435
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1438,
+      "end": 1469
+    },
+    {
+      "type": "REACT",
+      "canonical": "Amnesia anterógrada",
+      "surface": "Amnesia anterógrada",
+      "start": 1494,
+      "end": 1513
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ataxia",
+      "surface": "Ataxia",
+      "start": 1515,
+      "end": 1521
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea",
+      "start": 1523,
+      "end": 1530
+    },
+    {
+      "type": "REACT",
+      "canonical": "Convulsiones después de la retirada",
+      "surface": "Convulsiones después de la retirada",
+      "start": 1532,
+      "end": 1567
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de la alerta",
+      "surface": "Disminución de la alerta",
+      "start": 1569,
+      "end": 1593
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperactividad",
+      "surface": "Hiperactividad",
+      "start": 1595,
+      "end": 1609
+    },
+    {
+      "type": "REACT",
+      "canonical": "Movimientos involuntarios",
+      "surface": "Movimientos involuntarios",
+      "start": 1611,
+      "end": 1636
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sedación",
+      "surface": "Sedación",
+      "start": 1638,
+      "end": 1646
+    },
+    {
+      "type": "REACT",
+      "canonical": "Somnolencia",
+      "surface": "Somnolencia",
+      "start": 1648,
+      "end": 1659
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vértigos",
+      "surface": "Vértigos",
+      "start": 1661,
+      "end": 1669
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 1672,
+      "end": 1707
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angioedema",
+      "surface": "Angioedema",
+      "start": 1732,
+      "end": 1742
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipersensibilidad",
+      "surface": "Hipersensibilidad",
+      "start": 1744,
+      "end": 1761
+    },
+    {
+      "type": "REACT",
+      "canonical": "Shock anafiláctico",
+      "surface": "Shock anafiláctico",
+      "start": 1763,
+      "end": 1781
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 1784,
+      "end": 1819
+    },
+    {
+      "type": "REACT",
+      "canonical": "Apnea",
+      "surface": "Apnea",
+      "start": 1844,
+      "end": 1849
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión respiratoria",
+      "surface": "Depresión respiratoria",
+      "start": 1851,
+      "end": 1873
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disnea",
+      "surface": "Disnea",
+      "start": 1875,
+      "end": 1881
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipo",
+      "surface": "Hipo",
+      "start": 1883,
+      "end": 1887
+    },
+    {
+      "type": "REACT",
+      "canonical": "Laringoespasmo",
+      "surface": "Laringoespasmo",
+      "start": 1889,
+      "end": 1903
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parada respiratoria",
+      "surface": "Parada respiratoria",
+      "start": 1905,
+      "end": 1924
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1927,
+      "end": 1964
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bradicardia",
+      "surface": "Bradicardia",
+      "start": 1989,
+      "end": 2000
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión",
+      "start": 2002,
+      "end": 2013
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parada cardíaca",
+      "surface": "Parada cardíaca",
+      "start": 2015,
+      "end": 2030
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de Kounis",
+      "surface": "Síndrome de Kounis",
+      "start": 2032,
+      "end": 2050
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tromboflebitis",
+      "surface": "Tromboflebitis",
+      "start": 2052,
+      "end": 2066
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombosis",
+      "surface": "Trombosis",
+      "start": 2068,
+      "end": 2077
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vasodilatación",
+      "surface": "Vasodilatación",
+      "start": 2079,
+      "end": 2093
+    },
+    {
+      "type": "SYS",
+      "canonical": "LESIONES TRAUMÁTICAS, INTOXICACIONES Y COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS",
+      "surface": "LESIONES TRAUMÁTICAS, INTOXICACIONES Y COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS",
+      "start": 2096,
+      "end": 2180
+    },
+    {
+      "type": "REACT",
+      "canonical": "Caídas y fracturas",
+      "surface": "Caídas y fracturas",
+      "start": 2205,
+      "end": 2223
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 2226,
+      "end": 2256
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eritema y dolor en el lugar de la inyección",
+      "surface": "Eritema y dolor en el lugar de la inyección",
+      "start": 2281,
+      "end": 2324
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "Fatiga",
+      "start": 2326,
+      "end": 2332
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 2335,
+      "end": 2363
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción cutánea",
+      "surface": "Erupción cutánea",
+      "start": 2388,
+      "end": 2404
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito",
+      "start": 2406,
+      "end": 2413
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria",
+      "start": 2415,
+      "end": 2424
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 2427,
+      "end": 2459
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento",
+      "start": 2484,
+      "end": 2497
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 2499,
+      "end": 2506
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad de boca",
+      "surface": "Sequedad de boca",
+      "start": 2508,
+      "end": 2524
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos",
+      "start": 2526,
+      "end": 2533
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad de boca",
+      "surface": "boca seca",
+      "start": 3492,
+      "end": 3501
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "prurito",
+      "start": 2406,
+      "end": 2413
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "Trastornos del sistema nervioso",
+      "start": 1438,
+      "end": 1469
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "Trastornos psiquiátricos",
+      "start": 997,
+      "end": 1021
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dependencia física",
+      "surface": "dependencia física",
+      "start": 1170,
+      "end": 1188
+    }
+  ]
+}

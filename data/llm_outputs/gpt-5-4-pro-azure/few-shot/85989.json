@@ -1,0 +1,92 @@
+[
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Infecciones víricas",
+    "frecuencia": "MUY FRECUENTE",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Infecciones respiratorias",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Infección del tracto urinario",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Infecciones cutáneas",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Abscesos",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Infecciones por hongos",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Sepsis",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Fascitis necrotizante",
+    "frecuencia": "RARA",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Infecciones bacterianas",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Neutropenia",
+    "frecuencia": "MUY FRECUENTE",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Trombocitopenia",
+    "frecuencia": "MUY FRECUENTE",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Anemia",
+    "frecuencia": "MUY FRECUENTE",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Leucopenia",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Linfopenia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "SUNITINIB MALATO",
+    "reacción adversa": "Pancitopenia",
+    "frecuencia": "RARA",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  }
+]

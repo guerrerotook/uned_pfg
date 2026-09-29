@@ -1,0 +1,77 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil de seguridad descrito para BISOPROLOL FUMARATO es coherente con el observado para los bloqueantes beta utilizados en la práctica clínica. En el uso habitual de bisoprolol, las manifestaciones suelen aparecer al inicio del tratamiento o tras incrementos de dosis, y en muchos casos son de intensidad leve o moderada. La valoración clínica debe tener en cuenta la situación basal del paciente, la dosis administrada y la posible presencia de enfermedades concomitantes. Con BISOPROLOL CINFA, la vigilancia debe ser especialmente cuidadosa en pacientes con antecedentes respiratorios, alteraciones de la conducción o tratamiento concomitante con otros medicamentos que puedan modificar la respuesta hemodinámica. La información siguiente se presenta según la clasificación por órganos y sistemas y por categoría de frecuencia.
+
+Lista tabulada de reacciones adversas
+
+TRASTORNOS DE PIEL Y TEJIDOS
+frecuencia no conocida: Alopecia, Erupciones similares a la psoriasis, Psoriasis.
+no frecuente: Hipersensibilidad (prurito, rubefacción, erupción cutánea, angioedema).
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+muy frecuentes: Bradicardia.
+frecuentes: Hipotensión, Insuficiencia cardiaca descompensada, Sensación de frío o entumecimiento de extremidades.
+poco frecuentes: Alteraciones de la conducción AV, Hipotensión ortostática.
+
+TRASTORNOS PSIQUIÁTRICOS
+poco frecuentes: Alteraciones del sueño, Depresión.
+no frecuente: Alucinación, Pesadillas.
+
+TRASTORNOS DEL SISTEMA GENERAL
+frecuentes: Astenia, Fatiga.
+
+PRUEBAS COMPLEMENTARIAS
+no frecuente: Aumento de las enzimas hepáticas (AST, ALT), Aumento de los triglicéridos.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+poco frecuentes: Broncoespasmo en pacientes con asma bronquial u obstrucción de las vías aéreas.
+no frecuente: Rinitis alérgica.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+poco frecuentes: Calambres, Debilidad muscular.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+frecuentes: Cefalea, Mareos.
+no frecuente: Síncope.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+frecuencia no conocida: Conjuntivitis.
+no frecuente: Deterioro de la audición, Disminución de la producción de lágrimas (a tener en cuenta si se utiliza lentes de contacto).
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+frecuentes: Diarrea, Estreñimiento, Náuseas, Vómitos.
+no frecuente: Hepatitis.
+
+TRASTORNOS DEL SISTEMA REPRODUCTOR
+no frecuente: Disfunción eréctil.
+
+Descripción de reacciones adversas seleccionadas
+Algunas manifestaciones relacionadas con el efecto farmacológico pueden requerir ajuste gradual de la pauta o reevaluación clínica individualizada. Si aparecen síntomas persistentes, debe revisarse la tolerabilidad global antes de modificar el tratamiento, evitando interrupciones bruscas salvo criterio médico. La sensación de frialdad en manos o pies (manos frías) puede ser interpretada por el paciente como un cambio circulatorio periférico y conviene explicarla en el contexto del tratamiento.
+
+Las alteraciones analíticas deben interpretarse junto con la historia clínica y otros factores de riesgo. En pacientes con antecedentes respiratorios, la aparición de síntomas compatibles con limitación del flujo aéreo justifica una valoración específica. La notificación de sospechas de reacciones adversas tras la autorización del medicamento permite una supervisión continuada de su relación beneficio-riesgo.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En la evaluación de seguridad de BISOPROLOL FUMARATO, también descrito como bisoprolol, la reacción adversa notificada se clasifica según MedDRA dentro de Trastornos del sistema general.
+
+Listado de reacción:
+- Fatiga (cansancio): frecuentes.
+
+La Fatiga puede relacionarse con el efecto farmacodinámico del beta-bloqueo y suele valorarse en el contexto de la situación clínica basal del paciente. Se recomienda seguimiento clínico si la Fatiga persiste o interfiere con la actividad habitual, considerando la evolución tras el ajuste terapéutico cuando proceda.
+
+-- Caso 2 --
+Dentro del sistema de clasificación de órganos TRASTORNOS DE PIEL Y TEJIDOS, se ha notificado la siguiente reacción adversa asociada al tratamiento con BISOPROLOL FUMARATO (bisoprolol):
+
+- Alopecia: frecuencia no conocida.
+
+La notificación disponible no permite estimar la incidencia a partir de los datos existentes. En pacientes que presenten pérdida de cabello durante el tratamiento, se recomienda valorar la relación temporal con la administración y realizar seguimiento clínico según la evolución.
+
+-- Caso 3 --
+En la evaluación del perfil de seguridad de BISOPROLOL FUMARATO, esta reacción se clasifica dentro del sistema Trastornos psiquiátricos. Durante el tratamiento con bisoprolol, conviene valorar su relación temporal con el inicio del tratamiento o con ajustes de dosis, especialmente si el paciente refiere problemas para dormir.
+
+Lista tabulada:
+- Alteraciones del sueño: poco frecuentes.
+
+Estas manifestaciones deben interpretarse en el contexto clínico individual y de los tratamientos concomitantes. Se recomienda seguimiento clínico si persisten o resultan relevantes para el paciente, sin modificar el tratamiento salvo indicación médica.

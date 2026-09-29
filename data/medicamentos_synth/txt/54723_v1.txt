@@ -1,0 +1,70 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil de tolerabilidad de AMIODARONA HIDROCLORURO por vía intravenosa requiere vigilancia clínica durante y después de la perfusión. Las notificaciones recogidas proceden de la experiencia clínica y de la comunicación espontánea tras la comercialización. La aparición de acontecimientos relevantes puede estar influida por la situación basal del paciente, la velocidad de administración, la exposición acumulada y los tratamientos concomitantes. En algunos casos no es posible estimar la incidencia a partir de los datos disponibles. La evaluación individual debe considerar la gravedad del cuadro y la necesidad de medidas de soporte o de interrupción del tratamiento.
+
+Lista tabulada de reacciones adversas
+Las reacciones se presentan por clasificación de órganos y por categoría de notificación.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+frecuencia no conocida: Agranulocitosis, Neutropenia.
+
+TRASTORNOS PSIQUIÁTRICOS
+frecuencia no conocida: Alucinaciones, Delirium.
+frecuentes: Disminución de la libido.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+no frecuente: Apnea, Broncoespasmo, Pneumonitis intersticial o fibrosis, Síndrome de distrés respiratorio agudo (SDRA).
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+no frecuente: Arritmias, Bradicardia acusada, Parada cardiaca, Paro sinusal, Sofocos.
+frecuentes: Bradicardia moderada, Disminución de la presión sanguínea.
+frecuencia no conocida: Torsade de pointes.
+
+TRASTORNOS DEL SISTEMA GENERAL
+frecuentes: Cambios de la pigmentación, Celulitis, Dolor, Edema, Eritema, Extravasación, Flebitis, Induración, Infección, Infiltración, Inflamación, Necrosis, Tromboflebitis.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+no frecuente: Cefalea, Hipertensión intracraneal benigna (pseudotumor cerebri).
+
+TRASTORNOS DE PIEL Y TEJIDOS
+frecuencia no conocida: Dermatitis bullosa, Necrolisis epidérmica tóxica (NET), Reacción medicamentosa con eosinofilia y síntomas sistémicos (DRESS), Síndrome de Stevens - Johnson (SSJ), Urticaria.
+frecuentes: Eczema.
+no frecuente: Sudoración.
+
+LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS
+frecuencia no conocida: Disfunción primaria del injerto (DPI) post trasplante cardiaco.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+frecuencia no conocida: Dolor de espalda.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+frecuencia no conocida: Edema angioneurótico (edema de Quincke).
+no frecuente: Shock anafiláctico.
+
+TRASTORNOS DEL SISTEMA ENDOCRINO
+frecuencia no conocida: Hipertiroidismo.
+no frecuente: Síndrome de secreción inadecuada de hormona antidiurética (SIADH).
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+no frecuente: Ictericia, Incremento de transaminasas, Insuficiencia hepática, Náuseas.
+frecuencia no conocida: Pancreatitis aguda.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+frecuencia no conocida: Neuritis óptica, Neuropatía.
+
+Descripción de reacciones adversas seleccionadas
+Durante la administración parenteral debe disponerse de monitorización adecuada y de medios para el manejo inmediato de acontecimientos clínicamente significativos. La perfusión debe realizarse conforme a las recomendaciones de uso, evitando concentraciones o velocidades que puedan favorecer manifestaciones locales o sistémicas. Si aparecen signos de mala tolerancia, se recomienda valorar la situación hemodinámica, la función respiratoria y los parámetros analíticos pertinentes.
+
+La notificación de sospechas de reacciones adversas después de la autorización del medicamento es importante. Permite una supervisión continuada de la relación beneficio-riesgo. Se invita a los profesionales sanitarios a comunicar cualquier sospecha mediante el sistema nacional de notificación, incluyendo la información disponible sobre dosis, duración, condiciones de administración, evolución clínica y tratamientos asociados.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+Dentro de TRASTORNOS DEL SISTEMA CARDIOVASCULAR, Bradicardia moderada se clasifica entre las reacciones adversas frecuentes asociadas a AMIODARONA HIDROCLORURO. Este efecto es coherente con la acción farmacológica sobre la conducción y el automatismo cardiacos, por lo que se recomienda valorar la situación clínica del paciente y realizar seguimiento de la frecuencia cardiaca, especialmente durante la administración inicial o en pacientes con factores predisponentes. En caso de aparición, la continuación del tratamiento debe evaluarse según la intensidad del hallazgo y la respuesta clínica, siguiendo las medidas habituales de monitorización.
+
+-- Caso 2 --
+En el sistema de clasificación de órganos TRASTORNOS PSIQUIÁTRICOS, se ha notificado Delirium asociado al uso de AMIODARONA HIDROCLORURO, con frecuencia no conocida. La identificación debe realizarse mediante evaluación clínica individual, teniendo en cuenta la situación basal del paciente, la exposición reciente al tratamiento y la posible contribución de factores intercurrentes. Se recomienda vigilancia clínica durante la administración y en el periodo posterior, así como valorar medidas de soporte y la reevaluación del tratamiento si la sintomatología persiste o resulta clínicamente significativa.
+
+-- Caso 3 --
+En la clasificación por órganos y sistemas, dentro de Trastornos del sistema endocrino, se ha descrito Síndrome de secreción inadecuada de hormona antidiurética (SIADH) asociado al tratamiento con AMIODARONA HIDROCLORURO, con una frecuencia no frecuente. Este acontecimiento puede relacionarse con una alteración de la regulación de la hormona antidiurética durante la exposición al principio activo. En pacientes con datos clínicos o analíticos compatibles, se recomienda valorar la situación clínica, revisar el tratamiento concomitante y considerar medidas de seguimiento apropiadas según criterio médico.

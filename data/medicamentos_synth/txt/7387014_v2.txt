@@ -1,0 +1,52 @@
+Resumen del perfil de seguridad
+El perfil observado con TACROLIMUS es coherente con el de un tratamiento inmunosupresor de estrecho margen terapéutico. En la práctica clínica, Advagraf requiere vigilancia individualizada, especialmente durante los ajustes de dosis y en los periodos de cambio de tratamiento concomitante. La exposición a tacrolimus puede asociarse a manifestaciones sistémicas variadas, por lo que la interpretación debe considerar la situación basal, el tipo de trasplante y la medicación administrada de forma simultánea. Se recomienda revisar periódicamente los parámetros clínicos y analíticos, incluyendo control metabólico, hemograma, función de órganos diana y tolerabilidad neurológica. La notificación de sospechas facilita una caracterización continuada del balance beneficio-riesgo.
+
+Lista tabulada de reacciones adversas
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN: muy frecuentes: Diabetes mellitus, Hiperglucemia, Hiperpotasemia; frecuentes: Acidosis metabólica, Disminución del apetito, Hipercolesterolemia, Hiperlipidemia, Hipertrigliceridemia, Hiperuricemia, Hipocalcemia, Hipofosfatemia, Hipomagnesemia, Hiponatremia, Hipopotasemia, Sobrecarga de líquidos; poco frecuentes: Deshidratación, Hiperfosfatemia, Hipoglucemia, Hipoproteinemia.
+TRASTORNOS DE PIEL Y TEJIDOS: frecuentes: Acné, Alopecia, Erupción cutánea, Prurito, Sudoración; poco frecuentes: Dermatitis, Fotosensibilidad; no frecuente: Necrólisis epidérmica tóxica (síndrome de Lyell), Síndrome de Stevens-Johnson.
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR: muy frecuentes: Hipertensión; frecuentes: Acontecimientos tromboembólicos e isquémicos, Alteraciones isquémicas de las arterias coronarias, Hemorragia, Taquicardia, Trastornos vasculares hipotensivos, Trastornos vasculares periféricos; poco frecuentes: Arritmias supraventriculares, Arritmias ventriculares, Cardiomiopatía, Hipertrofia ventricular, Infarto, Insuficiencia cardiaca, Palpitaciones, Parada cardiaca, Shock, Trombosis venosa profunda; no frecuente: Derrame pericárdico, Torsade des pointes.
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS: frecuentes: Acúfenos, Alteraciones oculares, Fotofobia, Visión borrosa; poco frecuentes: Cataratas, Hipoacusia; no frecuente: Audición alterada, Ceguera, Sordera neurosensorial; frecuencia no conocida: Neuropatía óptica.
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS: frecuentes: Anemia, Análisis eritrocitario anormal, Leucocitosis, Leucopenia, Trombocitopenia; poco frecuentes: Anomalías en los análisis de la coagulación y del sangrado, Coagulopatía, Microangiopatía trombótica, Neutropenia, Pancitopenia; no frecuente: Hipoprotrombinemia, Púrpura trombocitopénica trombótica; frecuencia no conocida: Agranulocitosis, Anemia hemolítica, Aplasia eritrocitaria pura, Neutropenia febril.
+TRASTORNOS DEL SISTEMA NERVIOSO: muy frecuentes: Cefalea, Temblor; frecuentes: Alteraciones de la conciencia, Alteración de la expresión escrita, Convulsiones, Mareo, Neuropatía periférica, Parestesias, disestesias, Trastornos del sistema nervioso; poco frecuentes: Amnesia, Anormalidades del habla y del lenguaje, Coma, Encefalopatía, Hemorragia SNC y ACV, Paresia, parálisis; no frecuente: Hipertonía, Miastenia; frecuencia no conocida: Síndrome de encefalopatía posterior reversible (SEPR).
+PRUEBAS COMPLEMENTARIAS: frecuentes: Aumento de peso, Incremento de fosfatasa alcalina en sangre; poco frecuentes: Alteración ritmo y pulso, Disminución de peso, ECG anormal, Incremento de LDH en sangre, Incremento de amilasa; no frecuente: Ecocardiograma anormal, Intervalo QT prolongado.
+TRASTORNOS PSIQUIÁTRICOS: muy frecuentes: Insomnio; frecuentes: Alteraciones del humor, Alucinaciones, Ansiedad, Confusión y desorientación, Depresión, Pesadillas, Trastornos mentales; poco frecuentes: Trastornos psicóticos.
+TRASTORNOS DEL SISTEMA EXCRETOR: muy frecuentes: Deterioro renal; frecuentes: Anormalidades de la orina, Insuficiencia renal, Insuficiencia renal aguda, Necrosis tubular renal, Nefropatía tóxica, Oliguria, Síntomas vesicales y uretrales; poco frecuentes: Anuria, Síndrome hemolítico urémico; no frecuente: Cistitis hemorrágica, Nefropatía.
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO: frecuentes: Artralgias, Dolor de espalda, Dolor en una extremidad, Espasmos musculares; poco frecuentes: Trastornos articulares; no frecuente: Disminución de la movilidad.
+TRASTORNOS DEL SISTEMA DIGESTIVO: muy frecuentes: Diarrea, Náuseas; frecuentes: Ascitis, Colestasis, Deposiciones blandas, Dispepsia, Distensión abdominal, Dolor gastrointestinal y abdominal, Estomatitis y úlceras, Estreñimiento, Flatulencia, Hemorragia gastrointestinal, Ictericia, Inflamación gastrointestinal, Lesión hepatocelular, hepatitis, Perforación de úlcera gastrointestinal, Trastornos de los conductos biliares, Vómitos, Úlcera gastrointestinal; poco frecuentes: Enfermedad por reflujo gastroesofágico, Pancreatitis aguda, Pancreatitis crónica, Vaciamiento gástrico alterado, Íleo paralítico; no frecuente: Enfermedad hepática por oclusión venosa, Insuficiencia hepática, Pseudoquiste pancreático, Subíleo, Trombosis de la arteria hepática.
+TRASTORNOS DEL SISTEMA RESPIRATORIO: frecuentes: Congestión nasal, Derrame pleural, Disnea, Faringitis, Inflamación nasal, Tos, Trastornos pulmonares parenquimatosos; poco frecuentes: Asma, Insuficiencia respiratoria, Trastornos del tracto respiratorio; no frecuente: Síndrome de distrés respiratorio agudo (SDRA).
+TRASTORNOS DEL SISTEMA GENERAL: frecuentes: Astenia, Distermia, Dolor, Edema, Fiebre; poco frecuentes: Cuadro gripal, Inquietud, Insuficiencia multiorgánica, Intolerancia a la temperatura, Sensación anormal, Sensación de opresión torácica; no frecuente: Caída, Incremento tejido adiposo, Opresión torácica, Sed, Úlcera.
+LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS: muy frecuentes: Pruebas de función hepática anormales; frecuentes: Disfunción primaria del trasplante.
+TRASTORNOS DEL SISTEMA REPRODUCTOR: poco frecuentes: Dismenorrea, Hemorragia uterina.
+TRASTORNOS DEL SISTEMA ENDOCRINO: no frecuente: Hirsutismo.
+INFECCIONES E INFESTACIONES: muy frecuentes: Infecciones.
+NEOPLASIAS: frecuencia no conocida: Neoplasia.
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO: frecuencia no conocida: Reacciones alérgicas y anafilactoides.
+
+Descripción de reacciones adversas seleccionadas
+Algunas manifestaciones aparecen al inicio o tras variaciones de exposición y pueden mejorar con medidas de soporte o reevaluación terapéutica. La valoración debe integrar resultados analíticos seriados y exploración clínica, evitando atribuciones automáticas cuando existan procesos intercurrentes.
+
+Las alteraciones neurológicas, metabólicas, renales y cardiovasculares requieren atención particular por su posible repercusión funcional. En casos de gravedad clínica o evolución inesperada, debe considerarse la revisión completa del tratamiento concomitante y de los niveles sistémicos.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En el sistema Trastornos de la sangre y órganos hematopoyéticos se ha notificado Agranulocitosis asociada al tratamiento con tacrolimus (Advagraf). La frecuencia comunicada es frecuencia no conocida, ya que no puede estimarse a partir de los datos disponibles.
+
+Lista tabulada:
+- Agranulocitosis: frecuencia no conocida.
+
+Este acontecimiento debe considerarse durante el seguimiento clínico, especialmente en pacientes con factores que puedan modificar la exposición sistémica. Se recomienda valorar controles hematológicos según la situación clínica y revisar el tratamiento si se confirma una relación temporal con tacrolimus.
+
+-- Caso 2 --
+En el sistema de clasificación de órganos Trastornos de la sangre y órganos hematopoyéticos, durante el tratamiento con tacrolimus (Advagraf) se ha notificado la siguiente reacción adversa:
+- Púrpura trombocitopénica trombótica: no frecuente.
+
+Este acontecimiento debe considerarse en el contexto del perfil hematológico del paciente y de la inmunosupresión mantenida. Se recomienda seguimiento clínico y analítico periódico, con valoración de la continuidad del tratamiento si aparecen datos clínicos o analíticos compatibles. La identificación precoz y el manejo de soporte pueden ser relevantes para limitar la evolución del cuadro, de acuerdo con la práctica clínica habitual.
+
+-- Caso 3 --
+En pacientes tratados con tacrolimus de liberación prolongada (Advagraf), se ha identificado Inquietud (sensación de nerviosismo) como reacción adversa incluida en TRASTORNOS DEL SISTEMA GENERAL. La frecuencia comunicada es poco frecuentes.
+
+Tabla de reacciones adversas:
+- TRASTORNOS DEL SISTEMA GENERAL: Inquietud (poco frecuentes).
+
+La aparición de esta reacción puede relacionarse con la exposición sistémica al inmunosupresor y debe valorarse en el contexto clínico del paciente. Se recomienda realizar seguimiento clínico y considerar factores concomitantes que puedan modificar la tolerabilidad del tratamiento, sin interrumpirlo sin una evaluación médica adecuada.

@@ -1,0 +1,82 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil de seguridad de LEVETIRACETAM se ha caracterizado mediante la revisión de los acontecimientos notificados durante el uso clínico y el seguimiento posterior. En general, las notificaciones fueron de intensidad variable y requirieron una valoración individual de la relación temporal, la dosis administrada y las características basales del paciente. La información disponible no sustituye la vigilancia clínica habitual ni la evaluación de otras causas posibles. La aparición de signos nuevos o persistentes debe conducir a una reevaluación del tratamiento y de las medidas de soporte apropiadas.
+
+Lista tabulada de reacciones adversas
+Las reacciones se presentan por sistema de clasificación de órganos y por frecuencia.
+
+TRASTORNOS PSIQUIÁTRICOS
+frecuentes: Depresión, agresividad, ansiedad, insomnio, nerviosismo.
+poco frecuentes: Intento de suicidio, agitación, alteraciones psicóticas, alucinaciones, ataque de pánico, cambios de humor, cólera, estado confusiona.
+no frecuente: Suicidio, delirio, trastornos de personalidad.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+poco frecuentes: Trombocitopenia, leucopenia.
+no frecuente: Pancitopenia, agranulocitosis, neutropenia.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+frecuentes: Rash.
+poco frecuentes: Alopecia, eczema, prurito.
+no frecuente: Necrólisis epidérmica tóxica, eritema multiforme, síndrome de Stevens- Johnson.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+muy frecuentes: Somnolencia, cefalea.
+frecuentes: Convulsión, letargo, mareo, temblor, trastorno del equilibrio.
+poco frecuentes: Amnesia, alteración de la atención, coordinación anorma.
+no frecuente: Coreoatetosis, alteración de la marcha, crisis epilépticas agravadas, discinesia, encefalopatia, síndrome neuroléptico maligno.
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN
+frecuentes: Anorexia.
+poco frecuentes: Pérdida de peso, aumento de peso.
+no frecuente: Hiponatremia.
+
+TRASTORNOS DEL SISTEMA GENERAL
+frecuentes: Astenia.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+poco frecuentes: Debilidad muscular, Lesión, mialgia.
+no frecuente: Cefalea, Rabdomiólisis.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+frecuentes: Dolor abdominal, diarrea, dispepsia, náuseas.
+poco frecuentes: Pruebas anormales de la función hepática.
+no frecuente: Pancreatitis, hepatitis.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+frecuentes: Vértigo.
+poco frecuentes: Diplopía, visión borrosa.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+no frecuente: hipersensibilidad.
+
+INFECCIONES E INFESTACIONES
+muy frecuentes: Nasofaringitis.
+no frecuente: Infección.
+
+TRASTORNOS DEL SISTEMA EXCRETOR
+no frecuente: Lesión renal aguda.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+no frecuente: Prolongación del intervalo QT.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+frecuentes: Tos.
+
+Descripción de reacciones adversas seleccionadas
+La valoración de los acontecimientos de carácter conductual o del estado mental debe realizarse de forma sistemática, especialmente cuando exista antecedente relevante o cambios recientes en la situación clínica. Se recomienda informar al paciente y a sus cuidadores de la necesidad de comunicar de inmediato cualquier modificación marcada del comportamiento.
+
+Las alteraciones cutáneas graves requieren una actuación rápida, con suspensión del tratamiento si se sospecha una relación causal y según criterio clínico. Las alteraciones hematológicas, hepáticas o renales deben investigarse mediante las pruebas complementarias adecuadas cuando existan síntomas compatibles o hallazgos analíticos inesperados.
+
+En pacientes con deterioro clínico, polimedicación o factores de riesgo concomitantes, la interpretación de los casos notificados debe considerar diagnósticos alternativos y la evolución temporal. La decisión de continuar, ajustar o retirar el tratamiento debe basarse en el balance individual entre beneficio y riesgo.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En la tabla de reacciones adversas, Convulsión se clasifica como frecuentes dentro de TRASTORNOS DEL SISTEMA NERVIOSO para LEVETIRACETAM. Esta notificación debe interpretarse en el contexto de la enfermedad de base y de la variabilidad individual de la respuesta al tratamiento, sin que la sola aparición establezca una relación causal definitiva en todos los casos. Se recomienda vigilancia clínica durante el seguimiento, especialmente tras cambios de dosis o situaciones que puedan modificar la exposición al tratamiento, valorando la continuidad terapéutica conforme al balance beneficio-riesgo individual.
+
+-- Caso 2 --
+En la clasificación por órganos y sistemas, bajo TRASTORNOS DEL SISTEMA NERVIOSO, se han notificado Somnolencia, cefalea como reacciones adversas muy frecuentes durante el tratamiento con LEVETIRACETAM. Estas manifestaciones son coherentes con la acción central del medicamento y pueden aparecer al inicio del tratamiento o tras ajustes de dosis. Se recomienda valorar la intensidad y la persistencia de los síntomas durante el seguimiento clínico, especialmente cuando puedan interferir con actividades que requieran atención. La necesidad de modificar la pauta debe considerarse de forma individual, de acuerdo con la situación clínica del paciente.
+
+-- Caso 3 --
+En la clasificación de Trastornos del sistema nervioso, se han notificado crisis epilépticas agravadas con una frecuencia no frecuente durante el tratamiento con LEVETIRACETAM. Este acontecimiento debe interpretarse en el contexto de la variabilidad propia de la enfermedad de base y de posibles factores intercurrentes, por lo que se recomienda valorar la evolución clínica y la adherencia al tratamiento. Si se observa un incremento relevante de la actividad convulsiva, el paciente debe ser reevaluado y considerarse el ajuste terapéutico conforme al criterio clínico.

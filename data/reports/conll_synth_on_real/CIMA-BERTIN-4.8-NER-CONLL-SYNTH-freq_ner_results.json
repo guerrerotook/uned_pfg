@@ -1,0 +1,163 @@
+{
+  "model_name": "CIMA-BERTIN-4.8-NER-CONLL-SYNTH-freq",
+  "timestamp": "2026-05-24T12:49:34.955570+00:00",
+  "entity_types": [
+    "FREQ"
+  ],
+  "labels": [
+    "O",
+    "B-FREQ",
+    "I-FREQ"
+  ],
+  "summary": {
+    "total_codes": 15,
+    "total_sentences": 941,
+    "total_tokens": 17316,
+    "label_counts": {
+      "O": 17273,
+      "B-FREQ": 32,
+      "I-FREQ": 11
+    },
+    "missing_txt_files": [],
+    "docs_with_no_tags": [
+      "77045",
+      "63936",
+      "62305",
+      "62250",
+      "61184",
+      "01196001",
+      "113907004",
+      "80368",
+      "68477",
+      "63696",
+      "39411"
+    ]
+  },
+  "seqeval": {
+    "precision": 0.07590759075907591,
+    "recall": 0.71875,
+    "f1": 0.1373134328358209,
+    "per_entity": {
+      "FREQ": {
+        "precision": 0.07590759075907591,
+        "recall": 0.71875,
+        "f1-score": 0.1373134328358209,
+        "support": 32
+      },
+      "micro avg": {
+        "precision": 0.07590759075907591,
+        "recall": 0.71875,
+        "f1-score": 0.1373134328358209,
+        "support": 32
+      },
+      "macro avg": {
+        "precision": 0.07590759075907591,
+        "recall": 0.71875,
+        "f1-score": 0.1373134328358209,
+        "support": 32
+      },
+      "weighted avg": {
+        "precision": 0.07590759075907591,
+        "recall": 0.71875,
+        "f1-score": 0.1373134328358209,
+        "support": 32
+      }
+    }
+  },
+  "overall": {
+    "ent_type": {
+      "correct": 25,
+      "incorrect": 0,
+      "partial": 0,
+      "missed": 7,
+      "spurious": 278,
+      "precision": 0.0825,
+      "recall": 0.7812,
+      "f1": 0.1493
+    },
+    "exact": {
+      "correct": 23,
+      "incorrect": 2,
+      "partial": 0,
+      "missed": 7,
+      "spurious": 278,
+      "precision": 0.0759,
+      "recall": 0.7188,
+      "f1": 0.1373
+    },
+    "partial": {
+      "correct": 23,
+      "incorrect": 0,
+      "partial": 2,
+      "missed": 7,
+      "spurious": 278,
+      "precision": 0.0792,
+      "recall": 0.75,
+      "f1": 0.1433
+    },
+    "strict": {
+      "correct": 23,
+      "incorrect": 2,
+      "partial": 0,
+      "missed": 7,
+      "spurious": 278,
+      "precision": 0.0759,
+      "recall": 0.7188,
+      "f1": 0.1373
+    }
+  },
+  "entities": {
+    "FREQ": {
+      "ent_type": {
+        "correct": 25,
+        "incorrect": 0,
+        "partial": 0,
+        "missed": 7,
+        "spurious": 278,
+        "precision": 0.0825,
+        "recall": 0.7812,
+        "f1": 0.1493
+      },
+      "exact": {
+        "correct": 23,
+        "incorrect": 2,
+        "partial": 0,
+        "missed": 7,
+        "spurious": 278,
+        "precision": 0.0759,
+        "recall": 0.7188,
+        "f1": 0.1373
+      },
+      "partial": {
+        "correct": 23,
+        "incorrect": 0,
+        "partial": 2,
+        "missed": 7,
+        "spurious": 278,
+        "precision": 0.0792,
+        "recall": 0.75,
+        "f1": 0.1433
+      },
+      "strict": {
+        "correct": 23,
+        "incorrect": 2,
+        "partial": 0,
+        "missed": 7,
+        "spurious": 278,
+        "precision": 0.0759,
+        "recall": 0.7188,
+        "f1": 0.1373
+      }
+    }
+  },
+  "loose_overlap": {
+    "FREQ": {
+      "precision": 0.0825,
+      "recall": 0.7812,
+      "f1": 0.1493,
+      "matched_pred": 25,
+      "gold": 32,
+      "pred": 303
+    }
+  }
+}

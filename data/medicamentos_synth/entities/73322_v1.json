@@ -1,0 +1,443 @@
+{
+  "codigo": "73322",
+  "variante": 1,
+  "codigo_variant": "73322_v1",
+  "medicamento": "BROMAZEPAM KERN PHARMA 1,5 MG CAPSULAS EFG",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "BROMAZEPAM",
+      "surface": "BROMAZEPAM",
+      "start": 83,
+      "end": 93
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 1005,
+      "end": 1029
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 1030,
+      "end": 1052
+    },
+    {
+      "type": "REACT",
+      "canonical": "Abuso",
+      "surface": "Abuso",
+      "start": 1054,
+      "end": 1059
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agitación",
+      "surface": "Agitación",
+      "start": 1061,
+      "end": 1070
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agresividad",
+      "surface": "Agresividad",
+      "start": 1072,
+      "end": 1083
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones del humor",
+      "surface": "Alteraciones del humor",
+      "start": 1085,
+      "end": 1107
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alucinación",
+      "surface": "Alucinación",
+      "start": 1109,
+      "end": 1120
+    },
+    {
+      "type": "REACT",
+      "canonical": "Amnesia anterógrada",
+      "surface": "Amnesia anterógrada",
+      "start": 1122,
+      "end": 1141
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ansiedad",
+      "surface": "Ansiedad",
+      "start": 1143,
+      "end": 1151
+    },
+    {
+      "type": "REACT",
+      "canonical": "Comportamiento inadecuado",
+      "surface": "Comportamiento inadecuado",
+      "start": 1153,
+      "end": 1178
+    },
+    {
+      "type": "REACT",
+      "canonical": "Confusión",
+      "surface": "Confusión",
+      "start": 1180,
+      "end": 1189
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dependencia",
+      "surface": "Dependencia",
+      "start": 1191,
+      "end": 1202
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión (puede desenmascarar una depresión existente)",
+      "surface": "Depresión (puede desenmascarar una depresión existente)",
+      "start": 1204,
+      "end": 1259
+    },
+    {
+      "type": "REACT",
+      "canonical": "Derilio",
+      "surface": "Derilio",
+      "start": 1261,
+      "end": 1268
+    },
+    {
+      "type": "REACT",
+      "canonical": "Desorientación",
+      "surface": "Desorientación",
+      "start": 1270,
+      "end": 1284
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperactividad",
+      "surface": "Hiperactividad",
+      "start": 1286,
+      "end": 1300
+    },
+    {
+      "type": "REACT",
+      "canonical": "Intranquilidad",
+      "surface": "Intranquilidad",
+      "start": 1302,
+      "end": 1316
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ira",
+      "surface": "Ira",
+      "start": 1318,
+      "end": 1321
+    },
+    {
+      "type": "REACT",
+      "canonical": "Irritabilidad",
+      "surface": "Irritabilidad",
+      "start": 1323,
+      "end": 1336
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pesadillas",
+      "surface": "Pesadillas",
+      "start": 1338,
+      "end": 1348
+    },
+    {
+      "type": "REACT",
+      "canonical": "Psicosis",
+      "surface": "Psicosis",
+      "start": 1350,
+      "end": 1358
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pérdida de memoria",
+      "surface": "Pérdida de memoria",
+      "start": 1360,
+      "end": 1378
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sueños anormales",
+      "surface": "Sueños anormales",
+      "start": 1380,
+      "end": 1396
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de abstinencia",
+      "surface": "Síndrome de abstinencia",
+      "start": 1398,
+      "end": 1421
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastornos de la libido",
+      "surface": "Trastornos de la libido",
+      "start": 1423,
+      "end": 1446
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 1449,
+      "end": 1484
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angioedema",
+      "surface": "Angioedema",
+      "start": 1509,
+      "end": 1519
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipersensibilidad",
+      "surface": "Hipersensibilidad",
+      "start": 1521,
+      "end": 1538
+    },
+    {
+      "type": "REACT",
+      "canonical": "Shock anafiláctico",
+      "surface": "Shock anafiláctico",
+      "start": 1540,
+      "end": 1558
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1561,
+      "end": 1592
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ataxia",
+      "surface": "Ataxia",
+      "start": 1617,
+      "end": 1623
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea",
+      "start": 1625,
+      "end": 1632
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareos",
+      "surface": "Mareos",
+      "start": 1634,
+      "end": 1640
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reducción del estado de alerta",
+      "surface": "Reducción del estado de alerta",
+      "start": 1642,
+      "end": 1672
+    },
+    {
+      "type": "REACT",
+      "canonical": "Somnolencia",
+      "surface": "Somnolencia",
+      "start": 1674,
+      "end": 1685
+    },
+    {
+      "type": "SYS",
+      "canonical": "LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS",
+      "surface": "LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS",
+      "start": 1688,
+      "end": 1771
+    },
+    {
+      "type": "REACT",
+      "canonical": "Caídas",
+      "surface": "Caídas",
+      "start": 1796,
+      "end": 1802
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fracturas",
+      "surface": "Fracturas",
+      "start": 1804,
+      "end": 1813
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 1816,
+      "end": 1858
+    },
+    {
+      "type": "REACT",
+      "canonical": "Debilidad muscular",
+      "surface": "Debilidad muscular",
+      "start": 1883,
+      "end": 1901
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 1904,
+      "end": 1939
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión respiratoria",
+      "surface": "Depresión respiratoria",
+      "start": 1964,
+      "end": 1986
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 1989,
+      "end": 2026
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diplopia",
+      "surface": "Diplopia",
+      "start": 2051,
+      "end": 2059
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 2062,
+      "end": 2094
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento",
+      "start": 2119,
+      "end": 2132
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 2134,
+      "end": 2141
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos",
+      "start": 2143,
+      "end": 2150
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 2153,
+      "end": 2183
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "Fatiga",
+      "start": 2208,
+      "end": 2214
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 2217,
+      "end": 2254
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia cardiaca",
+      "surface": "Insuficiencia cardiaca",
+      "start": 2279,
+      "end": 2301
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parada cardiaca",
+      "surface": "Parada cardiaca",
+      "start": 2303,
+      "end": 2318
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 2321,
+      "end": 2349
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito",
+      "start": 2374,
+      "end": 2381
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rash cutáneo",
+      "surface": "Rash cutáneo",
+      "start": 2383,
+      "end": 2395
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria",
+      "start": 2397,
+      "end": 2406
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "start": 2409,
+      "end": 2440
+    },
+    {
+      "type": "REACT",
+      "canonical": "Retención urinaria",
+      "surface": "Retención urinaria",
+      "start": 2465,
+      "end": 2483
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "Trastornos psiquiátricos",
+      "start": 1005,
+      "end": 1029
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sueños anormales",
+      "surface": "sueños anormales",
+      "start": 1380,
+      "end": 1396
+    }
+  ]
+}

@@ -1,0 +1,611 @@
+{
+  "codigo": "99118007",
+  "variante": 1,
+  "codigo_variant": "99118007_v1",
+  "medicamento": "ARAVA 20 MG COMPRIMIDOS RECUBIERTOS CON PELICULA",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "LEFLUNOMIDA",
+      "surface": "LEFLUNOMIDA",
+      "start": 94,
+      "end": 105
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 804,
+      "end": 853
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 854,
+      "end": 866
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agranulocitosis",
+      "surface": "Agranulocitosis",
+      "start": 868,
+      "end": 883
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eosinofilia",
+      "surface": "Eosinofilia",
+      "start": 885,
+      "end": 896
+    },
+    {
+      "type": "REACT",
+      "canonical": "Leucopenia (leucocitos > 2G/L)",
+      "surface": "Leucopenia (leucocitos > 2G/L)",
+      "start": 898,
+      "end": 928
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pancitopenia (probablemente mediada por mecanismo antiproliferativo)",
+      "surface": "Pancitopenia (probablemente mediada por mecanismo antiproliferativo)",
+      "start": 930,
+      "end": 998
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 1000,
+      "end": 1015
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia",
+      "surface": "Anemia",
+      "start": 1017,
+      "end": 1023
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombocitopenia leve (plaquetas <100 G/L)",
+      "surface": "Trombocitopenia leve (plaquetas <100 G/L)",
+      "start": 1025,
+      "end": 1066
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 1005,
+      "end": 1015
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 1113,
+      "end": 1141
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alopecia",
+      "surface": "Alopecia",
+      "start": 1154,
+      "end": 1162
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eczema",
+      "surface": "Eczema",
+      "start": 1164,
+      "end": 1170
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción cutánea (incluyendo erupción maculopapular)",
+      "surface": "Erupción cutánea (incluyendo erupción maculopapular)",
+      "start": 1172,
+      "end": 1224
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito",
+      "start": 1226,
+      "end": 1233
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad de piel",
+      "surface": "Sequedad de piel",
+      "start": 1235,
+      "end": 1251
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eritema multiforme",
+      "surface": "Eritema multiforme",
+      "start": 1267,
+      "end": 1285
+    },
+    {
+      "type": "REACT",
+      "canonical": "Necrolisis epidérmica tóxica (NET)",
+      "surface": "Necrolisis epidérmica tóxica (NET)",
+      "start": 1287,
+      "end": 1321
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de Stevens - Johnson (SSJ)",
+      "surface": "Síndrome de Stevens - Johnson (SSJ)",
+      "start": 1323,
+      "end": 1358
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria",
+      "start": 1377,
+      "end": 1386
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 1388,
+      "end": 1410
+    },
+    {
+      "type": "REACT",
+      "canonical": "Lupus eritematoso cutáneo",
+      "surface": "Lupus eritematoso cutáneo",
+      "start": 1412,
+      "end": 1437
+    },
+    {
+      "type": "REACT",
+      "canonical": "Psoriasis",
+      "surface": "Psoriasis",
+      "start": 1439,
+      "end": 1448
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacción medicamentosa con eosinofilia y síntomas sistémicos (DRESS)",
+      "surface": "Reacción medicamentosa con eosinofilia y síntomas sistémicos (DRESS)",
+      "start": 1450,
+      "end": 1518
+    },
+    {
+      "type": "REACT",
+      "canonical": "Úlcera cutánea",
+      "surface": "Úlcera cutánea",
+      "start": 1520,
+      "end": 1534
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 1537,
+      "end": 1574
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones del gusto",
+      "surface": "Alteraciones del gusto",
+      "start": 1592,
+      "end": 1614
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 1617,
+      "end": 1647
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anorexia",
+      "surface": "Anorexia",
+      "start": 1660,
+      "end": 1668
+    },
+    {
+      "type": "REACT",
+      "canonical": "Astenia",
+      "surface": "Astenia",
+      "start": 1670,
+      "end": 1677
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pérdida de peso (normalmente insignificante)",
+      "surface": "Pérdida de peso (normalmente insignificante)",
+      "start": 1679,
+      "end": 1723
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 1726,
+      "end": 1750
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ansiedad",
+      "surface": "Ansiedad",
+      "start": 1768,
+      "end": 1776
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1779,
+      "end": 1816
+    },
+    {
+      "type": "REACT",
+      "canonical": "Leve aumento de la presión arterial",
+      "surface": "Leve aumento de la presión arterial",
+      "start": 1829,
+      "end": 1864
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento pronunciado de la presión arterial",
+      "surface": "Aumento pronunciado de la presión arterial",
+      "start": 1880,
+      "end": 1922
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1925,
+      "end": 1956
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea",
+      "start": 1969,
+      "end": 1976
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareos",
+      "surface": "Mareos",
+      "start": 1978,
+      "end": 1984
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neuropatía periférica",
+      "surface": "Neuropatía periférica",
+      "start": 1986,
+      "end": 2007
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parestesias",
+      "surface": "Parestesias",
+      "start": 2009,
+      "end": 2020
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 2023,
+      "end": 2055
+    },
+    {
+      "type": "REACT",
+      "canonical": "Colitis (incluyendo colitis microscópica como colitis linfocítica, colitis colágena)",
+      "surface": "Colitis (incluyendo colitis microscópica como colitis linfocítica, colitis colágena)",
+      "start": 2068,
+      "end": 2152
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea",
+      "start": 2154,
+      "end": 2161
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor abdominal",
+      "surface": "Dolor abdominal",
+      "start": 2163,
+      "end": 2178
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estomatitis aftosa",
+      "surface": "Estomatitis aftosa",
+      "start": 2180,
+      "end": 2198
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de enzimas de colestasis",
+      "surface": "Incremento de enzimas de colestasis",
+      "start": 2200,
+      "end": 2235
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de transaminasas (especialmente ALT)",
+      "surface": "Incremento de transaminasas (especialmente ALT)",
+      "start": 2237,
+      "end": 2284
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 2286,
+      "end": 2293
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos",
+      "start": 2295,
+      "end": 2302
+    },
+    {
+      "type": "REACT",
+      "canonical": "Úlceras bucales",
+      "surface": "Úlceras bucales",
+      "start": 2304,
+      "end": 2319
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hepatitis",
+      "surface": "Hepatitis",
+      "start": 2335,
+      "end": 2344
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ictericia colestásica",
+      "surface": "Ictericia colestásica",
+      "start": 2346,
+      "end": 2367
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia hepática",
+      "surface": "Insuficiencia hepática",
+      "start": 2369,
+      "end": 2391
+    },
+    {
+      "type": "REACT",
+      "canonical": "Necrosis hepática aguda",
+      "surface": "Necrosis hepática aguda",
+      "start": 2393,
+      "end": 2416
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pancreatitis",
+      "surface": "Pancreatitis",
+      "start": 2418,
+      "end": 2430
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "start": 2433,
+      "end": 2467
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución del recuento total del esperma",
+      "surface": "Disminución del recuento total del esperma",
+      "start": 2492,
+      "end": 2534
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dismminución de la motilidad progresiva rápida del esperma",
+      "surface": "Dismminución de la motilidad progresiva rápida del esperma",
+      "start": 2536,
+      "end": 2594
+    },
+    {
+      "type": "REACT",
+      "canonical": "Leve disminución (reversible) de la concentración de esperma",
+      "surface": "Leve disminución (reversible) de la concentración de esperma",
+      "start": 2596,
+      "end": 2656
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 2659,
+      "end": 2694
+    },
+    {
+      "type": "REACT",
+      "canonical": "Enfermedad pulmonar intersticial incluyendo neumonitis intersticial",
+      "surface": "Enfermedad pulmonar intersticial incluyendo neumonitis intersticial",
+      "start": 2709,
+      "end": 2776
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertensión pulmonar",
+      "surface": "Hipertensión pulmonar",
+      "start": 2802,
+      "end": 2823
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "start": 2826,
+      "end": 2857
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fallo renal",
+      "surface": "Fallo renal",
+      "start": 2882,
+      "end": 2893
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "surface": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "start": 2896,
+      "end": 2928
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperlipidemia",
+      "surface": "Hiperlipidemia",
+      "start": 2946,
+      "end": 2960
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipofosfatemia",
+      "surface": "Hipofosfatemia",
+      "start": 2962,
+      "end": 2976
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipopotasemia",
+      "surface": "Hipopotasemia",
+      "start": 2978,
+      "end": 2991
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipouricemia",
+      "surface": "Hipouricemia",
+      "start": 3017,
+      "end": 3029
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "start": 3032,
+      "end": 3073
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de CPK",
+      "surface": "Incremento de CPK",
+      "start": 3086,
+      "end": 3103
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de LDH",
+      "surface": "Incremento de LDH",
+      "start": 3119,
+      "end": 3136
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "INFECCIONES E INFESTACIONES",
+      "start": 3139,
+      "end": 3166
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infecciones graves incluyendo sepsis",
+      "surface": "Infecciones graves incluyendo sepsis",
+      "start": 3181,
+      "end": 3217
+    },
+    {
+      "type": "SYS",
+      "canonical": "NEOPLASIAS",
+      "surface": "NEOPLASIAS",
+      "start": 3220,
+      "end": 3230
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neoplasia",
+      "surface": "Neoplasia",
+      "start": 3255,
+      "end": 3264
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 3267,
+      "end": 3302
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacciones alérgicas leves",
+      "surface": "Reacciones alérgicas leves",
+      "start": 3315,
+      "end": 3341
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacciones anafilácticas",
+      "surface": "Reacciones anafilácticas",
+      "start": 3357,
+      "end": 3381
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vasculitis incluyendo vasculitis necrotizante cutánea",
+      "surface": "Vasculitis incluyendo vasculitis necrotizante cutánea",
+      "start": 3383,
+      "end": 3436
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 3439,
+      "end": 3481
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tenosinovitis",
+      "surface": "Tenosinovitis",
+      "start": 3494,
+      "end": 3507
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rotura tendinosa",
+      "surface": "Rotura tendinosa",
+      "start": 3526,
+      "end": 3542
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "Trastornos del sistema digestivo",
+      "start": 2023,
+      "end": 2055
+    }
+  ]
+}

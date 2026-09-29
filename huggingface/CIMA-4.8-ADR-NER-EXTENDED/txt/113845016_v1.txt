@@ -1,0 +1,71 @@
+Resumen del perfil de seguridad
+El perfil de seguridad observado con IMATINIB MESILATO es concordante con el esperado para un tratamiento sistémico de administración continuada. La mayoría de los acontecimientos fueron de intensidad leve o moderada y pudieron manejarse con medidas de soporte, ajuste temporal de la dosis o vigilancia clínica. En la evaluación deben considerarse la enfermedad de base, los tratamientos concomitantes y la situación hematológica previa. Las notificaciones procedentes de la práctica clínica complementan los datos de los estudios y permiten identificar acontecimientos menos predecibles. La información siguiente se presenta por clasificación de órganos y por categoría de frecuencia.
+
+Lista tabulada de reacciones adversas
+TRASTORNOS DE PIEL Y TEJIDOS
+muy frecuentes: Dermatitis/eccema/erupción, Edema periorbital.
+frecuentes: Alopecia, Edema facial, Eritema, Prurito, Reacción de fotosensibilidad, Sequedad de la piel, Sudoración nocturna.
+poco frecuentes: Urticaria, Petequias, Equimosis, Púrpura, Erupciones bullosas, Erupción pustular.
+frecuencia no conocida: Erupción por medicamentos con eosinofilia y síntomas sistémicos (DRESS), Necrolisis epidérmica tóxica, Síndrome de eritrodisestesia palmoplantar.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+muy frecuentes: Cefalea.
+frecuentes: Mareo, Parestesia.
+poco frecuentes: Migraña, Neuropatía periférica, Somnolencia, Síncope, Temblor.
+no frecuente: Convulsiones, Aumento de la presión intracraneal.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+frecuentes: Alteraciones del gusto, Aumento del lagrimeo, Conjuntivitis, Edema palpebral, Ojo seco, Visión borrosa.
+poco frecuentes: Blefaritis, Dolor ocular, Edema macular, Hemorragia retiniana, Tinnitus, Vértigo.
+no frecuente: Catarata, Glaucoma, Papiledema.
+
+TRASTORNOS DEL SISTEMA GENERAL
+muy frecuentes: Fatiga, Retención de líquidos y edema.
+frecuentes: Anasarca, Debilidad, Escalofríos, Pirexia, Rigidez.
+no frecuente: Dolor en el pecho, Malestar.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+muy frecuentes: Anemia, Neutropenia, Trombocitopenia.
+frecuentes: Neutropenia febril, Pancitopenia.
+poco frecuentes: Depresión de la médula ósea, Eosinofilia, Linfopenia, Trombocitemia.
+no frecuente: Anemia hemolítica, Microangiopatía trombótica.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+frecuentes: Hemorragia, Sofocos.
+poco frecuentes: Hipertensión, Hipotensión, Palpitaciones, Taquicardia, Insuficiencia cardíaca congestiva, Edema pulmonar.
+no frecuente: Angina de pecho, Arritmia, Derrame pericárdico, Fibrilación auricular, Infarto de miocardio.
+frecuencia no conocida: Pericarditis, Trombosis/embolismo.
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN
+muy frecuentes: Aumento de peso.
+frecuentes: Anorexia, Pérdida de peso.
+poco frecuentes: Deshidratación, Disminución del apetito, Hiperglucemia, Hiponatremia, Hipocalemia, Hipofosfatemia.
+no frecuente: Hipercalemia, Hipomagnesemia.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+muy frecuentes: Diarrea, Dispepsia, Dolor abdominal, Nauseas, Vómitos.
+frecuentes: Distensión abdominal, Estreñimiento, Flatulencia, Gastritis, Reflujo gastroesofágico, Sequedad de boca.
+poco frecuentes: Estomatitis, Hemorragia gastrointestinal, Melena, Pancreatitis, Úlcera gástrica.
+frecuencia no conocida: Perforación gastrointestinal, Obstrucción ilíaca/intestinal.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+frecuentes: Disnea, Epistaxis, Tos.
+poco frecuentes: Derrame pleural, Dolor faringolaríngeo, Faringitis.
+no frecuente: Fibrosis pulmonar, Hemorragia pulmonar, Hipertensión pulmonar.
+frecuencia no conocida: Enfermedad pulmonar intersticial, Insuficiencia respiratoria aguda.
+
+Descripción de reacciones adversas seleccionadas
+Durante el seguimiento se recomienda valorar de forma periódica los parámetros clínicos y analíticos, especialmente en pacientes con factores de riesgo o con antecedentes relevantes. La aparición de síntomas persistentes, progresivos o acompañados de deterioro general debe motivar una evaluación individualizada. En algunos casos puede ser necesaria la interrupción temporal del tratamiento y la reintroducción posterior según el balance beneficio-riesgo.
+
+Las manifestaciones cutáneas y digestivas suelen aparecer al inicio del tratamiento y pueden fluctuar con la exposición. Los acontecimientos hematológicos requieren control mediante hemogramas seriados, ya que pueden condicionar modificaciones de dosis. Los acontecimientos cardiopulmonares y los cuadros con afectación sistémica deben investigarse sin demora cuando existan signos clínicos sugestivos.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En el sistema INFECCIONES E INFESTACIONES, se ha descrito Reactivación del virus de la Hepatitis B con IMATINIB MESILATO; la frecuencia es frecuencia no conocida. Este acontecimiento se ha observado principalmente en pacientes portadores del virus sometidos a tratamiento con inhibidores de tirosina cinasa. Antes de iniciar el tratamiento debe considerarse la evaluación del estado serológico y, durante el mismo, realizar seguimiento clínico y analítico cuando proceda. En caso de positividad o antecedentes de infección, se recomienda consultar las guías clínicas y mantener la vigilancia durante el tratamiento y tras su finalización.
+
+-- Caso 2 --
+En pacientes tratados con IMATINIB MESILATO, dentro de TRASTORNOS DEL SISTEMA RESPIRATORIO, Epistaxis se incluye entre las reacciones adversas frecuentes. La evaluación clínica debe considerar la intensidad y duración del episodio, así como factores predisponentes o tratamientos concomitantes que puedan favorecer su aparición durante el tratamiento. En caso de persistencia o recurrencia, se recomienda realizar seguimiento clínico y valorar las medidas de soporte apropiadas, manteniendo la vigilancia del balance beneficio-riesgo y la continuidad terapéutica según criterio médico.
+
+-- Caso 3 --
+En el sistema de clasificación de órganos Trastornos del sistema nervioso, se ha identificado Neuritis óptica con frecuencia no frecuente durante el tratamiento con IMATINIB MESILATO. Este acontecimiento debe valorarse en el contexto del perfil de seguridad del medicamento y de la situación clínica del paciente, especialmente si aparecen quejas visuales durante el seguimiento. Se recomienda considerar una evaluación oftalmológica y la revisión del tratamiento según el juicio clínico, manteniendo la vigilancia habitual y notificando los casos sospechosos conforme a los procedimientos establecidos.

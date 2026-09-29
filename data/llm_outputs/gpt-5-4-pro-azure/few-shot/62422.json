@@ -1,0 +1,410 @@
+[
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Trombocitopenia reversible",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Retención de líquidos",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Anorexia",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Hipocalemia",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Hipomagnesemia",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Hipoglucemia",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Euforia",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Alucinaciones",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Disforia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Farmacodependencia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Agitación",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Insomnio",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Desorientación",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Disminución de la libido",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Confusión",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Sedación",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Mareo",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Dolor de cabeza",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Síncope",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Aumento de la presión intracraneal (especialmente con dosis altas)",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Visión borrosa",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS OCULARES"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Miosis",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS OCULARES"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Ojos secos",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS OCULARES"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Nistagmo",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS OCULARES"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Estrabismo",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS OCULARES"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Agudeza visual reducida",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS OCULARES"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Vértigo",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DEL OÍDO Y DEL LABERINTO"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Bradicardia",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS CARDÍACOS"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Palpitaciones",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS CARDÍACOS"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Prolongación del intervalo QT",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS CARDÍACOS"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Torsade de pointes",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS CARDÍACOS"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Parada cardíaca",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS CARDÍACOS"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Rubor facial",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS VASCULARES"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Hipotensión",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS VASCULARES"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Shock",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS VASCULARES"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Edema pulmonar",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS RESPIRATORIOS, TORÁCICOS Y MEDIASTÍNICOS"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Exacerbación del asma",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS RESPIRATORIOS, TORÁCICOS Y MEDIASTÍNICOS"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Sequedad nasal",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS RESPIRATORIOS, TORÁCICOS Y MEDIASTÍNICOS"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Depresión respiratoria",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS RESPIRATORIOS, TORÁCICOS Y MEDIASTÍNICOS"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Parada respiratoria",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS RESPIRATORIOS, TORÁCICOS Y MEDIASTÍNICOS"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Síndrome de apnea central del sueño",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS RESPIRATORIOS, TORÁCICOS Y MEDIASTÍNICOS"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Náuseas",
+    "frecuencia": "MUY FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Vómitos",
+    "frecuencia": "MUY FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Estreñimiento",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Boca seca",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Glositis",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Discinesia del conducto biliar",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS HEPATOBILIARES"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Erupción cutánea transitoria",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Hiperhidrosis",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Prurito",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Urticaria (raremente urticaria hemorrágica)",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Otras erupciones",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Niveles elevados de prolactina con administración a largo plazo",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS ENDOCRINOS"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Hipoadrenalismo",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS ENDOCRINOS"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Hipogonadismo",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS ENDOCRINOS"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Retención urinaria",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS RENALES Y URINARIOS"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Efecto antidiurético",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS RENALES Y URINARIOS"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Disminución de la potencia sexual",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DEL APARATO REPRODUCTOR Y DE LA MAMA"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Galactorrea",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DEL APARATO REPRODUCTOR Y DE LA MAMA"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Dismenorrea",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DEL APARATO REPRODUCTOR Y DE LA MAMA"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Amenorrea",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DEL APARATO REPRODUCTOR Y DE LA MAMA"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Fatiga",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE APLICACIÓN"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Somnolencia",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE APLICACIÓN"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Edema de las extremidades inferiores",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE APLICACIÓN"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Hipotermia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE APLICACIÓN"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Astenia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE APLICACIÓN"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Edema",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE APLICACIÓN"
+  },
+  {
+    "principio activo": "METADONA HIDROCLORURO",
+    "reacción adversa": "Aumento de peso",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "PRUEBAS O EXPLORACIONES COMPLEMENTARIAS"
+  }
+]

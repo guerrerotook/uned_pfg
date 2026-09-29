@@ -1,0 +1,386 @@
+[
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Trombocitopenia",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Agranulocitosis",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Pancitopenia",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Reacciones de hipersensibilidad",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Reacciones anafilácticas/anafilactoides",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Síndrome de secreción inapropiada de hormona antidiurética (SIADH)",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS ENDOCRINOS"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Hiponatremia",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Confusión",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Depresión",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Desenmascaramiento de depresión",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Cambio de la libido",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Disminución de orgasmos",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Desinhibición",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Euforia",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Ideas de suicidio",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Intentos de suicidio",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Ansiedad",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Agitación",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Excitación",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Hostilidad",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Agresividad",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Furia",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Alteraciones del sueño",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Insomnio",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Deseo sexual",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Alucinaciones",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Sedación",
+    "frecuencia": "MUY FRECUENTE",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Somnolencia",
+    "frecuencia": "MUY FRECUENTE",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Ataxia",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Mareos",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Depresión del sistema nervioso central (SNC)",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Síntomas extrapiramidales",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Temblor",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Disartria (habla pastosa)",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Dolor de cabeza",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Convulsiones (crisis)",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Amnesia",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Coma",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Alteraciones de la atención",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Alteraciones de la concentración",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Trastorno del equilibrio",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Diplopía",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS OCULARES"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Visión borrosa",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS OCULARES"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Vértigo",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DEL OÍDO Y DEL LABERINTO"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Hipotensión",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS VASCULARES"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Disminución de la presión sanguínea",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS VASCULARES"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Insuficiencia respiratoria",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS RESPIRATORIOS, TORÁCICOS Y MEDIASTÍNICOS"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Apnea",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS RESPIRATORIOS, TORÁCICOS Y MEDIASTÍNICOS"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Empeoramiento de la apnea del sueño",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS RESPIRATORIOS, TORÁCICOS Y MEDIASTÍNICOS"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Empeoramiento de la enfermedad pulmonar obstructiva crónica (EPOC)",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS RESPIRATORIOS, TORÁCICOS Y MEDIASTÍNICOS"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Náuseas",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Estreñimiento",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Ictericia",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS HEPATOBILIARES"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Angioedema",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Reacciones alérgicas en la piel",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Alopecia",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Debilidad muscular",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS MUSCULOESQUELÉTICOS Y DEL TEJIDO CONJUNTIVO"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Impotencia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DEL APARATO REPRODUCTOR Y DE LA MAMA"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Fatiga",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Astenia",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Hipotermia",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Aumento de la bilirrubina",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "EXPLORACIONES COMPLEMENTARIAS"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Aumento de las transaminasas",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "EXPLORACIONES COMPLEMENTARIAS"
+  },
+  {
+    "principio activo": "LORAZEPAM",
+    "reacción adversa": "Aumento de la fosfatasa alcalina",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "EXPLORACIONES COMPLEMENTARIAS"
+  }
+]

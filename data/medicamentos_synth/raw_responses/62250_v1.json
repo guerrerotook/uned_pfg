@@ -1,0 +1,1447 @@
+{
+  "codigo": "62250",
+  "variante": 1,
+  "codigo_variant": "62250_v1",
+  "medicamento": "SPIRAXIN 200 mg COMPRIMIDOS RECUBIERTOS CON PELICULA",
+  "model": "gpt-5.5",
+  "style_variant_idx": 0,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "Resumen del perfil de seguridad\nRIFAXIMINA se ha evaluado en pacientes tratados por vía oral en condiciones controladas y en la experiencia posterior a la autorización. El perfil observado fue en general compatible con una baja exposición sistémica. La mayoría de los acontecimientos comunicados fueron de intensidad leve o moderada y remitieron sin medidas específicas. La notificación espontánea puede limitar la estimación precisa de algunos acontecimientos. La evaluación clínica debe considerar la situación basal del paciente y la posible coexistencia de otros tratamientos.\n\nLista tabulada de reacciones adversas\nfrecuentes\nTRASTORNOS DEL SISTEMA DIGESTIVO: Estreñimiento, diarrea, distensión abdominal, dolor abdominal, dolor de cabeza, esfuerzo involuntario y doloroso o ineficaz, flatulencia, náuseas, sensación de tener necesidad de defecar, vómitos.\nTRASTORNOS DEL SISTEMA NERVIOSO: Fiebre, Mareo.\n\npoco frecuentes\nINFECCIONES E INFESTACIONES: Candidiasis (infección por un tipo de hongo), herpes en los labios, infección de las vías respiratorias superiores, inflamación o infección de la nariz y/o garganta.\nTRASTORNOS DE PIEL Y TEJIDOS: Erupciones cutáneas y sarpullidos que pueden ser de aparición súbita, brazo hinchado (edema periférico), quemaduras solares, sudoración abundante.\nTRASTORNOS DEL SISTEMA DIGESTIVO: Acumulación de líquido en el abdomen (ascitis), Pérdida de apetito, Resultados anormales de la prueba del hígado (incremento de la aspartato aminotransferasa), deshidratación, desórdenes de la motilidad gastrointestinal, digestión pesada, dolor abdominal superior, heces duras, heces mucosas, sangre en las heces, sequedad labial, trastornos del gusto.\nTRASTORNOS DEL SISTEMA GENERAL: Agotamiento, Sofocos, dolor y malestar, escalofríos, sintomatología similar a la de una gripe, sudor frío.\nTRASTORNOS DEL SISTEMA EXCRETOR: Resultados anormales de análisis de orina: presencia de glucosa en la orina, aumento de la cantidad de orina excretada, aumento de la frecuencia de orinar, presencia de proteínas en la orina, sangre en la orina.\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR: Aumento de la presión sanguínea, Palpitaciones.\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO: Dolor de espalda, calambres musculares, debilidad muscular, dolor en el cuello, dolores musculares generalizados.\nTRASTORNOS DEL SISTEMA RESPIRATORIO: Dificultad para respirar, congestión nasal, dolor de garganta, goteo de la nariz, sequedad de garganta, tos.\nTRASTORNOS DEL SISTEMA NERVIOSO: Disminución de la sensibilidad, Dolor de oído, Insomnio, Visión doble, dolor en la frente o en un lado de la cabeza, estado de ánimo deprimido, migraña, nerviosismo, sensación de hormigueo, sensación de que la habitación da vueltas (vértigo), somnolencia, sueños anormales.\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS: Recuento anormal de glóbulos blancos en la sangre (aumento de linfocitos y monocitos y disminución de neutrófilos).\nTRASTORNOS DEL SISTEMA REPRODUCTOR: Períodos menstruales prolongados e irregulares.\n\nfrecuencia no conocida\nINFECCIONES E INFESTACIONES: Infección causada por la bacteriaClostridium difficile.\nTRASTORNOS DE PIEL Y TEJIDOS: Hinchazón de piel y mucosas, dermatitis, dermatitis con descamación de la piel, eczema, eritemas, manchas rojas en la piel (púrpura), picor, urticaria.\nTRASTORNOS DEL SISTEMA DIGESTIVO: Anomalías en las pruebas de la función del hígado.\nTRASTORNOS DEL SISTEMA NERVIOSO: Sensación de desmayo.\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS: Disminución del número de plaquetas en la sangre, Valores anormales en las pruebas de coagulacion sanguínea (Relación Normalizada Internacional).\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO: Reacciones alérgicas graves, hipersensibilidad.\n\nDescripción de reacciones adversas seleccionadas\nEn los estudios disponibles, los acontecimientos fueron recogidos mediante entrevista dirigida y revisión de datos analíticos cuando procedía. La interpretación de hallazgos aislados debe realizarse con cautela, especialmente si existen enfermedades concomitantes o alteraciones previas. En caso de aparición de manifestaciones clínicamente relevantes, se recomienda valorar la continuidad del tratamiento de acuerdo con el criterio médico.\n\nLa información posterior a la comercialización procede de notificaciones voluntarias y no siempre permite establecer una relación temporal completa. Por ello, algunos acontecimientos se mantienen sin una estimación cuantitativa fiable. El seguimiento clínico y la comunicación de sospechas contribuyen a una caracterización más precisa del perfil de seguridad.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nDentro del sistema de clasificación de órganos TRASTORNOS DE PIEL Y TEJIDOS, se han notificado eritemas con frecuencia no conocida durante el tratamiento con RIFAXIMINA. La aparición de estas manifestaciones cutáneas debe valorarse en el contexto clínico del paciente y de la exposición al medicamento. La información disponible procede principalmente de la experiencia posterior a la comercialización, por lo que no permite estimar una incidencia precisa. En caso de persistencia o progresión, se recomienda seguimiento clínico y reconsiderar la continuidad del tratamiento según criterio médico, teniendo en cuenta la relación temporal con la administración.\n\n-- Caso 2 --\nSe ha descrito la reacción adversa copiar durante el tratamiento con RIFAXIMINA. En la información disponible, la frecuencia se recoge como nan y el sistema de clasificación de órganos se consigna como nan. La aparición de este acontecimiento debe valorarse en el contexto clínico del paciente y de la evolución temporal tras la administración del medicamento. Se recomienda realizar seguimiento clínico y considerar la relación temporal con la exposición, sin que estos datos modifiquen por sí solos el perfil general de seguridad descrito.\n\n-- Caso 3 --\nEn el sistema de clasificación de órganos Infecciones e infestaciones, se ha descrito infección de las vías respiratorias superiores durante el tratamiento con RIFAXIMINA, con una frecuencia de notificación clasificada como poco frecuentes. La aparición de este acontecimiento debe valorarse en el contexto clínico del paciente, considerando la evolución temporal respecto al inicio del tratamiento y la presencia de factores predisponentes. En caso de persistencia o empeoramiento de los síntomas, se recomienda realizar seguimiento clínico y aplicar las medidas terapéuticas habituales, sin que ello implique necesariamente la suspensión del medicamento.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "RIFAXIMINA",
+      "surface": "RIFAXIMINA",
+      "start": 32,
+      "end": 42
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 620,
+      "end": 630
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 631,
+      "end": 663
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento",
+      "start": 665,
+      "end": 678
+    },
+    {
+      "type": "REACT",
+      "canonical": "diarrea",
+      "surface": "diarrea",
+      "start": 680,
+      "end": 687
+    },
+    {
+      "type": "REACT",
+      "canonical": "distensión abdominal",
+      "surface": "distensión abdominal",
+      "start": 689,
+      "end": 709
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor abdominal",
+      "surface": "dolor abdominal",
+      "start": 711,
+      "end": 726
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor de cabeza",
+      "surface": "dolor de cabeza",
+      "start": 728,
+      "end": 743
+    },
+    {
+      "type": "REACT",
+      "canonical": "esfuerzo involuntario y doloroso o ineficaz",
+      "surface": "esfuerzo involuntario y doloroso o ineficaz",
+      "start": 745,
+      "end": 788
+    },
+    {
+      "type": "REACT",
+      "canonical": "flatulencia",
+      "surface": "flatulencia",
+      "start": 790,
+      "end": 801
+    },
+    {
+      "type": "REACT",
+      "canonical": "náuseas",
+      "surface": "náuseas",
+      "start": 803,
+      "end": 810
+    },
+    {
+      "type": "REACT",
+      "canonical": "sensación de tener necesidad de defecar",
+      "surface": "sensación de tener necesidad de defecar",
+      "start": 812,
+      "end": 851
+    },
+    {
+      "type": "REACT",
+      "canonical": "vómitos",
+      "surface": "vómitos",
+      "start": 853,
+      "end": 860
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 862,
+      "end": 893
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fiebre",
+      "surface": "Fiebre",
+      "start": 895,
+      "end": 901
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareo",
+      "surface": "Mareo",
+      "start": 903,
+      "end": 908
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 911,
+      "end": 926
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "INFECCIONES E INFESTACIONES",
+      "start": 927,
+      "end": 954
+    },
+    {
+      "type": "REACT",
+      "canonical": "Candidiasis (infección por un tipo de hongo)",
+      "surface": "Candidiasis (infección por un tipo de hongo)",
+      "start": 956,
+      "end": 1000
+    },
+    {
+      "type": "REACT",
+      "canonical": "herpes en los labios",
+      "surface": "herpes en los labios",
+      "start": 1002,
+      "end": 1022
+    },
+    {
+      "type": "REACT",
+      "canonical": "infección de las vías respiratorias superiores",
+      "surface": "infección de las vías respiratorias superiores",
+      "start": 1024,
+      "end": 1070
+    },
+    {
+      "type": "REACT",
+      "canonical": "inflamación o infección de la nariz y/o garganta",
+      "surface": "inflamación o infección de la nariz y/o garganta",
+      "start": 1072,
+      "end": 1120
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 1122,
+      "end": 1150
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupciones cutáneas y sarpullidos que pueden ser de aparición súbita",
+      "surface": "Erupciones cutáneas y sarpullidos que pueden ser de aparición súbita",
+      "start": 1152,
+      "end": 1220
+    },
+    {
+      "type": "REACT",
+      "canonical": "brazo hinchado (edema periférico)",
+      "surface": "brazo hinchado (edema periférico)",
+      "start": 1222,
+      "end": 1255
+    },
+    {
+      "type": "REACT",
+      "canonical": "quemaduras solares",
+      "surface": "quemaduras solares",
+      "start": 1257,
+      "end": 1275
+    },
+    {
+      "type": "REACT",
+      "canonical": "sudoración abundante",
+      "surface": "sudoración abundante",
+      "start": 1277,
+      "end": 1297
+    },
+    {
+      "type": "REACT",
+      "canonical": "Acumulación de líquido en el abdomen (ascitis)",
+      "surface": "Acumulación de líquido en el abdomen (ascitis)",
+      "start": 1333,
+      "end": 1379
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pérdida de apetito",
+      "surface": "Pérdida de apetito",
+      "start": 1381,
+      "end": 1399
+    },
+    {
+      "type": "REACT",
+      "canonical": "Resultados anormales de la prueba del hígado (incremento de la aspartato aminotransferasa)",
+      "surface": "Resultados anormales de la prueba del hígado (incremento de la aspartato aminotransferasa)",
+      "start": 1401,
+      "end": 1491
+    },
+    {
+      "type": "REACT",
+      "canonical": "deshidratación",
+      "surface": "deshidratación",
+      "start": 1493,
+      "end": 1507
+    },
+    {
+      "type": "REACT",
+      "canonical": "desórdenes de la motilidad gastrointestinal",
+      "surface": "desórdenes de la motilidad gastrointestinal",
+      "start": 1509,
+      "end": 1552
+    },
+    {
+      "type": "REACT",
+      "canonical": "digestión pesada",
+      "surface": "digestión pesada",
+      "start": 1554,
+      "end": 1570
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor abdominal superior",
+      "surface": "dolor abdominal superior",
+      "start": 1572,
+      "end": 1596
+    },
+    {
+      "type": "REACT",
+      "canonical": "heces duras",
+      "surface": "heces duras",
+      "start": 1598,
+      "end": 1609
+    },
+    {
+      "type": "REACT",
+      "canonical": "heces mucosas",
+      "surface": "heces mucosas",
+      "start": 1611,
+      "end": 1624
+    },
+    {
+      "type": "REACT",
+      "canonical": "sangre en las heces",
+      "surface": "sangre en las heces",
+      "start": 1626,
+      "end": 1645
+    },
+    {
+      "type": "REACT",
+      "canonical": "sequedad labial",
+      "surface": "sequedad labial",
+      "start": 1647,
+      "end": 1662
+    },
+    {
+      "type": "REACT",
+      "canonical": "trastornos del gusto",
+      "surface": "trastornos del gusto",
+      "start": 1664,
+      "end": 1684
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 1686,
+      "end": 1716
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agotamiento",
+      "surface": "Agotamiento",
+      "start": 1718,
+      "end": 1729
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sofocos",
+      "surface": "Sofocos",
+      "start": 1731,
+      "end": 1738
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor y malestar",
+      "surface": "dolor y malestar",
+      "start": 1740,
+      "end": 1756
+    },
+    {
+      "type": "REACT",
+      "canonical": "escalofríos",
+      "surface": "escalofríos",
+      "start": 1758,
+      "end": 1769
+    },
+    {
+      "type": "REACT",
+      "canonical": "sintomatología similar a la de una gripe",
+      "surface": "sintomatología similar a la de una gripe",
+      "start": 1771,
+      "end": 1811
+    },
+    {
+      "type": "REACT",
+      "canonical": "sudor frío",
+      "surface": "sudor frío",
+      "start": 1813,
+      "end": 1823
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "start": 1825,
+      "end": 1856
+    },
+    {
+      "type": "REACT",
+      "canonical": "Resultados anormales de análisis de orina: presencia de glucosa en la orina",
+      "surface": "Resultados anormales de análisis de orina: presencia de glucosa en la orina",
+      "start": 1858,
+      "end": 1933
+    },
+    {
+      "type": "REACT",
+      "canonical": "aumento de la cantidad de orina excretada",
+      "surface": "aumento de la cantidad de orina excretada",
+      "start": 1935,
+      "end": 1976
+    },
+    {
+      "type": "REACT",
+      "canonical": "aumento de la frecuencia de orinar,",
+      "surface": "aumento de la frecuencia de orinar,",
+      "start": 1978,
+      "end": 2013
+    },
+    {
+      "type": "REACT",
+      "canonical": "presencia de proteínas en la orina",
+      "surface": "presencia de proteínas en la orina",
+      "start": 2014,
+      "end": 2048
+    },
+    {
+      "type": "REACT",
+      "canonical": "sangre en la orina",
+      "surface": "sangre en la orina",
+      "start": 2050,
+      "end": 2068
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 2070,
+      "end": 2107
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la presión sanguínea",
+      "surface": "Aumento de la presión sanguínea",
+      "start": 2109,
+      "end": 2140
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones",
+      "start": 2142,
+      "end": 2155
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 2157,
+      "end": 2199
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor de espalda",
+      "surface": "Dolor de espalda",
+      "start": 2201,
+      "end": 2217
+    },
+    {
+      "type": "REACT",
+      "canonical": "calambres musculares,",
+      "surface": "calambres musculares,",
+      "start": 2219,
+      "end": 2240
+    },
+    {
+      "type": "REACT",
+      "canonical": "debilidad muscular",
+      "surface": "debilidad muscular",
+      "start": 2241,
+      "end": 2259
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor en el cuello",
+      "surface": "dolor en el cuello",
+      "start": 2261,
+      "end": 2279
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolores musculares generalizados",
+      "surface": "dolores musculares generalizados",
+      "start": 2281,
+      "end": 2313
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 2315,
+      "end": 2350
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dificultad para respirar",
+      "surface": "Dificultad para respirar",
+      "start": 2352,
+      "end": 2376
+    },
+    {
+      "type": "REACT",
+      "canonical": "congestión nasal",
+      "surface": "congestión nasal",
+      "start": 2378,
+      "end": 2394
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor de garganta",
+      "surface": "dolor de garganta",
+      "start": 2396,
+      "end": 2413
+    },
+    {
+      "type": "REACT",
+      "canonical": "goteo de la nariz",
+      "surface": "goteo de la nariz",
+      "start": 2415,
+      "end": 2432
+    },
+    {
+      "type": "REACT",
+      "canonical": "sequedad de garganta",
+      "surface": "sequedad de garganta",
+      "start": 2434,
+      "end": 2454
+    },
+    {
+      "type": "REACT",
+      "canonical": "tos",
+      "surface": "tos",
+      "start": 2456,
+      "end": 2459
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de la sensibilidad",
+      "surface": "Disminución de la sensibilidad",
+      "start": 2494,
+      "end": 2524
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor de oído",
+      "surface": "Dolor de oído",
+      "start": 2526,
+      "end": 2539
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insomnio",
+      "surface": "Insomnio",
+      "start": 2541,
+      "end": 2549
+    },
+    {
+      "type": "REACT",
+      "canonical": "Visión doble",
+      "surface": "Visión doble",
+      "start": 2551,
+      "end": 2563
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor en la frente o en un lado de la cabeza",
+      "surface": "dolor en la frente o en un lado de la cabeza",
+      "start": 2565,
+      "end": 2609
+    },
+    {
+      "type": "REACT",
+      "canonical": "estado de ánimo deprimido",
+      "surface": "estado de ánimo deprimido",
+      "start": 2611,
+      "end": 2636
+    },
+    {
+      "type": "REACT",
+      "canonical": "migraña",
+      "surface": "migraña",
+      "start": 2638,
+      "end": 2645
+    },
+    {
+      "type": "REACT",
+      "canonical": "nerviosismo",
+      "surface": "nerviosismo",
+      "start": 2647,
+      "end": 2658
+    },
+    {
+      "type": "REACT",
+      "canonical": "sensación de hormigueo",
+      "surface": "sensación de hormigueo",
+      "start": 2660,
+      "end": 2682
+    },
+    {
+      "type": "REACT",
+      "canonical": "sensación de que la habitación da vueltas (vértigo)",
+      "surface": "sensación de que la habitación da vueltas (vértigo)",
+      "start": 2684,
+      "end": 2735
+    },
+    {
+      "type": "REACT",
+      "canonical": "somnolencia",
+      "surface": "somnolencia",
+      "start": 2737,
+      "end": 2748
+    },
+    {
+      "type": "REACT",
+      "canonical": "sueños anormales",
+      "surface": "sueños anormales",
+      "start": 2750,
+      "end": 2766
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 2768,
+      "end": 2817
+    },
+    {
+      "type": "REACT",
+      "canonical": "Recuento anormal de glóbulos blancos en la sangre (aumento de linfocitos y monocitos y disminución de neutrófilos)",
+      "surface": "Recuento anormal de glóbulos blancos en la sangre (aumento de linfocitos y monocitos y disminución de neutrófilos)",
+      "start": 2819,
+      "end": 2933
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "start": 2935,
+      "end": 2969
+    },
+    {
+      "type": "REACT",
+      "canonical": "Períodos menstruales prolongados e irregulares",
+      "surface": "Períodos menstruales prolongados e irregulares",
+      "start": 2971,
+      "end": 3017
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 3020,
+      "end": 3042
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infección causada por la bacteriaClostridium difficile",
+      "surface": "Infección causada por la bacteriaClostridium difficile",
+      "start": 3072,
+      "end": 3126
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hinchazón de piel y mucosas",
+      "surface": "Hinchazón de piel y mucosas",
+      "start": 3158,
+      "end": 3185
+    },
+    {
+      "type": "REACT",
+      "canonical": "dermatitis",
+      "surface": "dermatitis",
+      "start": 3187,
+      "end": 3197
+    },
+    {
+      "type": "REACT",
+      "canonical": "dermatitis con descamación de la piel",
+      "surface": "dermatitis con descamación de la piel",
+      "start": 3199,
+      "end": 3236
+    },
+    {
+      "type": "REACT",
+      "canonical": "eczema",
+      "surface": "eczema",
+      "start": 3238,
+      "end": 3244
+    },
+    {
+      "type": "REACT",
+      "canonical": "eritemas",
+      "surface": "eritemas",
+      "start": 3246,
+      "end": 3254
+    },
+    {
+      "type": "REACT",
+      "canonical": "manchas rojas en la piel (púrpura)",
+      "surface": "manchas rojas en la piel (púrpura)",
+      "start": 3256,
+      "end": 3290
+    },
+    {
+      "type": "REACT",
+      "canonical": "picor",
+      "surface": "picor",
+      "start": 3292,
+      "end": 3297
+    },
+    {
+      "type": "REACT",
+      "canonical": "urticaria",
+      "surface": "urticaria",
+      "start": 3299,
+      "end": 3308
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anomalías en las pruebas de la función del hígado",
+      "surface": "Anomalías en las pruebas de la función del hígado",
+      "start": 3344,
+      "end": 3393
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sensación de desmayo",
+      "surface": "Sensación de desmayo",
+      "start": 3428,
+      "end": 3448
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución del número de plaquetas en la sangre",
+      "surface": "Disminución del número de plaquetas en la sangre",
+      "start": 3501,
+      "end": 3549
+    },
+    {
+      "type": "REACT",
+      "canonical": "Valores anormales en las pruebas de coagulacion sanguínea (Relación Normalizada Internacional)",
+      "surface": "Valores anormales en las pruebas de coagulacion sanguínea (Relación Normalizada Internacional)",
+      "start": 3551,
+      "end": 3645
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 3647,
+      "end": 3682
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacciones alérgicas graves",
+      "surface": "Reacciones alérgicas graves",
+      "start": 3684,
+      "end": 3711
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipersensibilidad",
+      "surface": "hipersensibilidad",
+      "start": 3713,
+      "end": 3730
+    },
+    {
+      "type": "REACT",
+      "canonical": "copiar",
+      "surface": "copiar",
+      "start": 5372,
+      "end": 5378
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NAN",
+      "surface": "nan",
+      "start": 5477,
+      "end": 5480
+    },
+    {
+      "type": "SYS",
+      "canonical": "nan",
+      "surface": "nan",
+      "start": 5477,
+      "end": 5480
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "Infecciones e infestaciones",
+      "start": 927,
+      "end": 954
+    }
+  ],
+  "raw_long_doc_text": "Resumen del perfil de seguridad\nRIFAXIMINA se ha evaluado en pacientes tratados por vía oral en condiciones controladas y en la experiencia posterior a la autorización. El perfil observado fue en general compatible con una baja exposición sistémica. La mayoría de los acontecimientos comunicados fueron de intensidad leve o moderada y remitieron sin medidas específicas. La notificación espontánea puede limitar la estimación precisa de algunos acontecimientos. La evaluación clínica debe considerar la situación basal del paciente y la posible coexistencia de otros tratamientos.\n\nLista tabulada de reacciones adversas\nfrecuentes\nTRASTORNOS DEL SISTEMA DIGESTIVO: Estreñimiento, diarrea, distensión abdominal, dolor abdominal, dolor de cabeza, esfuerzo involuntario y doloroso o ineficaz, flatulencia, náuseas, sensación de tener necesidad de defecar, vómitos.\nTRASTORNOS DEL SISTEMA NERVIOSO: Fiebre, Mareo.\n\npoco frecuentes\nINFECCIONES E INFESTACIONES: Candidiasis (infección por un tipo de hongo), herpes en los labios, infección de las vías respiratorias superiores, inflamación o infección de la nariz y/o garganta.\nTRASTORNOS DE PIEL Y TEJIDOS: Erupciones cutáneas y sarpullidos que pueden ser de aparición súbita, brazo hinchado (edema periférico), quemaduras solares, sudoración abundante.\nTRASTORNOS DEL SISTEMA DIGESTIVO: Acumulación de líquido en el abdomen (ascitis), Pérdida de apetito, Resultados anormales de la prueba del hígado (incremento de la aspartato aminotransferasa), deshidratación, desórdenes de la motilidad gastrointestinal, digestión pesada, dolor abdominal superior, heces duras, heces mucosas, sangre en las heces, sequedad labial, trastornos del gusto.\nTRASTORNOS DEL SISTEMA GENERAL: Agotamiento, Sofocos, dolor y malestar, escalofríos, sintomatología similar a la de una gripe, sudor frío.\nTRASTORNOS DEL SISTEMA EXCRETOR: Resultados anormales de análisis de orina: presencia de glucosa en la orina, aumento de la cantidad de orina excretada, aumento de la frecuencia de orinar, presencia de proteínas en la orina, sangre en la orina.\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR: Aumento de la presión sanguínea, Palpitaciones.\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO: Dolor de espalda, calambres musculares, debilidad muscular, dolor en el cuello, dolores musculares generalizados.\nTRASTORNOS DEL SISTEMA RESPIRATORIO: Dificultad para respirar, congestión nasal, dolor de garganta, goteo de la nariz, sequedad de garganta, tos.\nTRASTORNOS DEL SISTEMA NERVIOSO: Disminución de la sensibilidad, Dolor de oído, Insomnio, Visión doble, dolor en la frente o en un lado de la cabeza, estado de ánimo deprimido, migraña, nerviosismo, sensación de hormigueo, sensación de que la habitación da vueltas (vértigo), somnolencia, sueños anormales.\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS: Recuento anormal de glóbulos blancos en la sangre (aumento de linfocitos y monocitos y disminución de neutrófilos).\nTRASTORNOS DEL SISTEMA REPRODUCTOR: Períodos menstruales prolongados e irregulares.\n\nfrecuencia no conocida\nINFECCIONES E INFESTACIONES: Infección causada por la bacteriaClostridium difficile.\nTRASTORNOS DE PIEL Y TEJIDOS: Hinchazón de piel y mucosas, dermatitis, dermatitis con descamación de la piel, eczema, eritemas, manchas rojas en la piel (púrpura), picor, urticaria.\nTRASTORNOS DEL SISTEMA DIGESTIVO: Anomalías en las pruebas de la función del hígado.\nTRASTORNOS DEL SISTEMA NERVIOSO: Sensación de desmayo.\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS: Disminución del número de plaquetas en la sangre, Valores anormales en las pruebas de coagulacion sanguínea (Relación Normalizada Internacional).\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO: Reacciones alérgicas graves, hipersensibilidad.\n\nDescripción de reacciones adversas seleccionadas\nEn los estudios disponibles, los acontecimientos fueron recogidos mediante entrevista dirigida y revisión de datos analíticos cuando procedía. La interpretación de hallazgos aislados debe realizarse con cautela, especialmente si existen enfermedades concomitantes o alteraciones previas. En caso de aparición de manifestaciones clínicamente relevantes, se recomienda valorar la continuidad del tratamiento de acuerdo con el criterio médico.\n\nLa información posterior a la comercialización procede de notificaciones voluntarias y no siempre permite establecer una relación temporal completa. Por ello, algunos acontecimientos se mantienen sin una estimación cuantitativa fiable. El seguimiento clínico y la comunicación de sospechas contribuyen a una caracterización más precisa del perfil de seguridad.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "RIFAXIMINA",
+      "surface": "RIFAXIMINA"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento"
+    },
+    {
+      "type": "REACT",
+      "canonical": "diarrea",
+      "surface": "diarrea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "distensión abdominal",
+      "surface": "distensión abdominal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor abdominal",
+      "surface": "dolor abdominal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor de cabeza",
+      "surface": "dolor de cabeza"
+    },
+    {
+      "type": "REACT",
+      "canonical": "esfuerzo involuntario y doloroso o ineficaz",
+      "surface": "esfuerzo involuntario y doloroso o ineficaz"
+    },
+    {
+      "type": "REACT",
+      "canonical": "flatulencia",
+      "surface": "flatulencia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "náuseas",
+      "surface": "náuseas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "sensación de tener necesidad de defecar",
+      "surface": "sensación de tener necesidad de defecar"
+    },
+    {
+      "type": "REACT",
+      "canonical": "vómitos",
+      "surface": "vómitos"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fiebre",
+      "surface": "Fiebre"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareo",
+      "surface": "Mareo"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "INFECCIONES E INFESTACIONES"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Candidiasis (infección por un tipo de hongo)",
+      "surface": "Candidiasis (infección por un tipo de hongo)"
+    },
+    {
+      "type": "REACT",
+      "canonical": "herpes en los labios",
+      "surface": "herpes en los labios"
+    },
+    {
+      "type": "REACT",
+      "canonical": "infección de las vías respiratorias superiores",
+      "surface": "infección de las vías respiratorias superiores"
+    },
+    {
+      "type": "REACT",
+      "canonical": "inflamación o infección de la nariz y/o garganta",
+      "surface": "inflamación o infección de la nariz y/o garganta"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupciones cutáneas y sarpullidos que pueden ser de aparición súbita",
+      "surface": "Erupciones cutáneas y sarpullidos que pueden ser de aparición súbita"
+    },
+    {
+      "type": "REACT",
+      "canonical": "brazo hinchado (edema periférico)",
+      "surface": "brazo hinchado (edema periférico)"
+    },
+    {
+      "type": "REACT",
+      "canonical": "quemaduras solares",
+      "surface": "quemaduras solares"
+    },
+    {
+      "type": "REACT",
+      "canonical": "sudoración abundante",
+      "surface": "sudoración abundante"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Acumulación de líquido en el abdomen (ascitis)",
+      "surface": "Acumulación de líquido en el abdomen (ascitis)"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pérdida de apetito",
+      "surface": "Pérdida de apetito"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Resultados anormales de la prueba del hígado (incremento de la aspartato aminotransferasa)",
+      "surface": "Resultados anormales de la prueba del hígado (incremento de la aspartato aminotransferasa)"
+    },
+    {
+      "type": "REACT",
+      "canonical": "deshidratación",
+      "surface": "deshidratación"
+    },
+    {
+      "type": "REACT",
+      "canonical": "desórdenes de la motilidad gastrointestinal",
+      "surface": "desórdenes de la motilidad gastrointestinal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "digestión pesada",
+      "surface": "digestión pesada"
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor abdominal superior",
+      "surface": "dolor abdominal superior"
+    },
+    {
+      "type": "REACT",
+      "canonical": "heces duras",
+      "surface": "heces duras"
+    },
+    {
+      "type": "REACT",
+      "canonical": "heces mucosas",
+      "surface": "heces mucosas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "sangre en las heces",
+      "surface": "sangre en las heces"
+    },
+    {
+      "type": "REACT",
+      "canonical": "sequedad labial",
+      "surface": "sequedad labial"
+    },
+    {
+      "type": "REACT",
+      "canonical": "trastornos del gusto",
+      "surface": "trastornos del gusto"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agotamiento",
+      "surface": "Agotamiento"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sofocos",
+      "surface": "Sofocos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor y malestar",
+      "surface": "dolor y malestar"
+    },
+    {
+      "type": "REACT",
+      "canonical": "escalofríos",
+      "surface": "escalofríos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "sintomatología similar a la de una gripe",
+      "surface": "sintomatología similar a la de una gripe"
+    },
+    {
+      "type": "REACT",
+      "canonical": "sudor frío",
+      "surface": "sudor frío"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Resultados anormales de análisis de orina: presencia de glucosa en la orina",
+      "surface": "Resultados anormales de análisis de orina: presencia de glucosa en la orina"
+    },
+    {
+      "type": "REACT",
+      "canonical": "aumento de la cantidad de orina excretada",
+      "surface": "aumento de la cantidad de orina excretada"
+    },
+    {
+      "type": "REACT",
+      "canonical": "aumento de la frecuencia de orinar,",
+      "surface": "aumento de la frecuencia de orinar,"
+    },
+    {
+      "type": "REACT",
+      "canonical": "presencia de proteínas en la orina",
+      "surface": "presencia de proteínas en la orina"
+    },
+    {
+      "type": "REACT",
+      "canonical": "sangre en la orina",
+      "surface": "sangre en la orina"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la presión sanguínea",
+      "surface": "Aumento de la presión sanguínea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor de espalda",
+      "surface": "Dolor de espalda"
+    },
+    {
+      "type": "REACT",
+      "canonical": "calambres musculares,",
+      "surface": "calambres musculares,"
+    },
+    {
+      "type": "REACT",
+      "canonical": "debilidad muscular",
+      "surface": "debilidad muscular"
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor en el cuello",
+      "surface": "dolor en el cuello"
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolores musculares generalizados",
+      "surface": "dolores musculares generalizados"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dificultad para respirar",
+      "surface": "Dificultad para respirar"
+    },
+    {
+      "type": "REACT",
+      "canonical": "congestión nasal",
+      "surface": "congestión nasal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor de garganta",
+      "surface": "dolor de garganta"
+    },
+    {
+      "type": "REACT",
+      "canonical": "goteo de la nariz",
+      "surface": "goteo de la nariz"
+    },
+    {
+      "type": "REACT",
+      "canonical": "sequedad de garganta",
+      "surface": "sequedad de garganta"
+    },
+    {
+      "type": "REACT",
+      "canonical": "tos",
+      "surface": "tos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de la sensibilidad",
+      "surface": "Disminución de la sensibilidad"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor de oído",
+      "surface": "Dolor de oído"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insomnio",
+      "surface": "Insomnio"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Visión doble",
+      "surface": "Visión doble"
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor en la frente o en un lado de la cabeza",
+      "surface": "dolor en la frente o en un lado de la cabeza"
+    },
+    {
+      "type": "REACT",
+      "canonical": "estado de ánimo deprimido",
+      "surface": "estado de ánimo deprimido"
+    },
+    {
+      "type": "REACT",
+      "canonical": "migraña",
+      "surface": "migraña"
+    },
+    {
+      "type": "REACT",
+      "canonical": "nerviosismo",
+      "surface": "nerviosismo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "sensación de hormigueo",
+      "surface": "sensación de hormigueo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "sensación de que la habitación da vueltas (vértigo)",
+      "surface": "sensación de que la habitación da vueltas (vértigo)"
+    },
+    {
+      "type": "REACT",
+      "canonical": "somnolencia",
+      "surface": "somnolencia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "sueños anormales",
+      "surface": "sueños anormales"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Recuento anormal de glóbulos blancos en la sangre (aumento de linfocitos y monocitos y disminución de neutrófilos)",
+      "surface": "Recuento anormal de glóbulos blancos en la sangre (aumento de linfocitos y monocitos y disminución de neutrófilos)"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Períodos menstruales prolongados e irregulares",
+      "surface": "Períodos menstruales prolongados e irregulares"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infección causada por la bacteriaClostridium difficile",
+      "surface": "Infección causada por la bacteriaClostridium difficile"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hinchazón de piel y mucosas",
+      "surface": "Hinchazón de piel y mucosas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "dermatitis",
+      "surface": "dermatitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "dermatitis con descamación de la piel",
+      "surface": "dermatitis con descamación de la piel"
+    },
+    {
+      "type": "REACT",
+      "canonical": "eczema",
+      "surface": "eczema"
+    },
+    {
+      "type": "REACT",
+      "canonical": "eritemas",
+      "surface": "eritemas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "manchas rojas en la piel (púrpura)",
+      "surface": "manchas rojas en la piel (púrpura)"
+    },
+    {
+      "type": "REACT",
+      "canonical": "picor",
+      "surface": "picor"
+    },
+    {
+      "type": "REACT",
+      "canonical": "urticaria",
+      "surface": "urticaria"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anomalías en las pruebas de la función del hígado",
+      "surface": "Anomalías en las pruebas de la función del hígado"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sensación de desmayo",
+      "surface": "Sensación de desmayo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución del número de plaquetas en la sangre",
+      "surface": "Disminución del número de plaquetas en la sangre"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Valores anormales en las pruebas de coagulacion sanguínea (Relación Normalizada Internacional)",
+      "surface": "Valores anormales en las pruebas de coagulacion sanguínea (Relación Normalizada Internacional)"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacciones alérgicas graves",
+      "surface": "Reacciones alérgicas graves"
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipersensibilidad",
+      "surface": "hipersensibilidad"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "SPIRAXIN 200 mg COMPRIMIDOS RECUBIERTOS CON PELICULA",
+        "pactivo": "RIFAXIMINA",
+        "reaccion": "eritemas",
+        "frecuencia": "SIN FRECUENCIA",
+        "sistema": "TRASTORNOS DE PIEL Y TEJIDOS"
+      },
+      "text": "Dentro del sistema de clasificación de órganos TRASTORNOS DE PIEL Y TEJIDOS, se han notificado eritemas con frecuencia no conocida durante el tratamiento con RIFAXIMINA. La aparición de estas manifestaciones cutáneas debe valorarse en el contexto clínico del paciente y de la exposición al medicamento. La información disponible procede principalmente de la experiencia posterior a la comercialización, por lo que no permite estimar una incidencia precisa. En caso de persistencia o progresión, se recomienda seguimiento clínico y reconsiderar la continuidad del tratamiento según criterio médico, teniendo en cuenta la relación temporal con la administración.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+        },
+        {
+          "type": "REACT",
+          "canonical": "eritemas",
+          "surface": "eritemas"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "RIFAXIMINA",
+          "surface": "RIFAXIMINA"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "start": 47,
+          "end": 75
+        },
+        {
+          "type": "REACT",
+          "canonical": "eritemas",
+          "surface": "eritemas",
+          "start": 95,
+          "end": 103
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida",
+          "start": 108,
+          "end": 130
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "RIFAXIMINA",
+          "surface": "RIFAXIMINA",
+          "start": 158,
+          "end": 168
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "SPIRAXIN 200 mg COMPRIMIDOS RECUBIERTOS CON PELICULA",
+        "pactivo": "RIFAXIMINA",
+        "reaccion": "copiar",
+        "frecuencia": "nan",
+        "sistema": "nan"
+      },
+      "text": "Se ha descrito la reacción adversa copiar durante el tratamiento con RIFAXIMINA. En la información disponible, la frecuencia se recoge como nan y el sistema de clasificación de órganos se consigna como nan. La aparición de este acontecimiento debe valorarse en el contexto clínico del paciente y de la evolución temporal tras la administración del medicamento. Se recomienda realizar seguimiento clínico y considerar la relación temporal con la exposición, sin que estos datos modifiquen por sí solos el perfil general de seguridad descrito.",
+      "declared": [
+        {
+          "type": "REACT",
+          "canonical": "copiar",
+          "surface": "copiar"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "RIFAXIMINA",
+          "surface": "RIFAXIMINA"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NAN",
+          "surface": "nan"
+        },
+        {
+          "type": "SYS",
+          "canonical": "nan",
+          "surface": "nan"
+        }
+      ],
+      "validated": [
+        {
+          "type": "REACT",
+          "canonical": "copiar",
+          "surface": "copiar",
+          "start": 35,
+          "end": 41
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "RIFAXIMINA",
+          "surface": "RIFAXIMINA",
+          "start": 69,
+          "end": 79
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NAN",
+          "surface": "nan",
+          "start": 140,
+          "end": 143
+        },
+        {
+          "type": "SYS",
+          "canonical": "nan",
+          "surface": "nan",
+          "start": 140,
+          "end": 143
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "SPIRAXIN 200 mg COMPRIMIDOS RECUBIERTOS CON PELICULA",
+        "pactivo": "RIFAXIMINA",
+        "reaccion": "infección de las vías respiratorias superiores",
+        "frecuencia": "POCO FRECUENTE",
+        "sistema": "INFECCIONES E INFESTACIONES"
+      },
+      "text": "En el sistema de clasificación de órganos Infecciones e infestaciones, se ha descrito infección de las vías respiratorias superiores durante el tratamiento con RIFAXIMINA, con una frecuencia de notificación clasificada como poco frecuentes. La aparición de este acontecimiento debe valorarse en el contexto clínico del paciente, considerando la evolución temporal respecto al inicio del tratamiento y la presencia de factores predisponentes. En caso de persistencia o empeoramiento de los síntomas, se recomienda realizar seguimiento clínico y aplicar las medidas terapéuticas habituales, sin que ello implique necesariamente la suspensión del medicamento.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "INFECCIONES E INFESTACIONES",
+          "surface": "Infecciones e infestaciones"
+        },
+        {
+          "type": "REACT",
+          "canonical": "infección de las vías respiratorias superiores",
+          "surface": "infección de las vías respiratorias superiores"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "RIFAXIMINA",
+          "surface": "RIFAXIMINA"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "INFECCIONES E INFESTACIONES",
+          "surface": "Infecciones e infestaciones",
+          "start": 42,
+          "end": 69
+        },
+        {
+          "type": "REACT",
+          "canonical": "infección de las vías respiratorias superiores",
+          "surface": "infección de las vías respiratorias superiores",
+          "start": 86,
+          "end": 132
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "RIFAXIMINA",
+          "surface": "RIFAXIMINA",
+          "start": 160,
+          "end": 170
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes",
+          "start": 224,
+          "end": 239
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

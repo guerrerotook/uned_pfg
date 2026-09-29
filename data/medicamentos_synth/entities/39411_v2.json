@@ -1,0 +1,303 @@
+{
+  "codigo": "39411",
+  "variante": 2,
+  "codigo_variant": "39411_v2",
+  "medicamento": "SYNALAR GAMMA 0,01% crema 60 g",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "PARAHIDROXIBENZOATO DE METILO (E-218)",
+      "surface": "PARAHIDROXIBENZOATO DE METILO (E-218)",
+      "start": 378,
+      "end": 415
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "PARAHIDROXIBENZOATO DE METILO (E-218)",
+      "surface": "metilparabeno",
+      "start": 417,
+      "end": 430
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "PARAHIDROXIBENZOATO DE PROPILO",
+      "surface": "PARAHIDROXIBENZOATO DE PROPILO",
+      "start": 433,
+      "end": 463
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "PARAHIDROXIBENZOATO DE PROPILO",
+      "surface": "propilparabeno",
+      "start": 465,
+      "end": 479
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "SORBITAN MONOESTEARATO",
+      "surface": "SORBITAN MONOESTEARATO",
+      "start": 483,
+      "end": 505
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 1050,
+      "end": 1078
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "Poco frecuentes",
+      "start": 1079,
+      "end": 1094
+    },
+    {
+      "type": "REACT",
+      "canonical": "Atrofia cutánea, a menudo irreversible, con adelgazamiento de la epidermis",
+      "surface": "Atrofia cutánea, a menudo irreversible, con adelgazamiento de la epidermis",
+      "start": 1096,
+      "end": 1170
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dermatitis perioral",
+      "surface": "Dermatitis perioral",
+      "start": 1172,
+      "end": 1191
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dermatitis y eczema, incluyendo dermatitis de contacto",
+      "surface": "Dermatitis y eczema, incluyendo dermatitis de contacto",
+      "start": 1193,
+      "end": 1247
+    },
+    {
+      "type": "REACT",
+      "canonical": "Despigmentación de la piel",
+      "surface": "Despigmentación de la piel",
+      "start": 1249,
+      "end": 1275
+    },
+    {
+      "type": "REACT",
+      "canonical": "Efecto rebote",
+      "surface": "Efecto rebote",
+      "start": 1277,
+      "end": 1290
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupciones acneiformes",
+      "surface": "Erupciones acneiformes",
+      "start": 1292,
+      "end": 1314
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estrías en la piel",
+      "surface": "Estrías en la piel",
+      "start": 1316,
+      "end": 1334
+    },
+    {
+      "type": "REACT",
+      "canonical": "Púrpura",
+      "surface": "Púrpura",
+      "start": 1336,
+      "end": 1343
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sensación de quemazón",
+      "surface": "Sensación de quemazón",
+      "start": 1345,
+      "end": 1366
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sensación de quemazón",
+      "surface": "ardor",
+      "start": 1368,
+      "end": 1373
+    },
+    {
+      "type": "REACT",
+      "canonical": "Telangiectasia",
+      "surface": "Telangiectasia",
+      "start": 1376,
+      "end": 1390
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "Frecuencia no conocida",
+      "start": 1393,
+      "end": 1415
+    },
+    {
+      "type": "REACT",
+      "canonical": "Foliculitis",
+      "surface": "Foliculitis",
+      "start": 1417,
+      "end": 1428
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertricosis",
+      "surface": "Hipertricosis",
+      "start": 1430,
+      "end": 1443
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infección secundaria",
+      "surface": "Infección secundaria",
+      "start": 1445,
+      "end": 1465
+    },
+    {
+      "type": "REACT",
+      "canonical": "Maceración dérmica",
+      "surface": "Maceración dérmica",
+      "start": 1467,
+      "end": 1485
+    },
+    {
+      "type": "REACT",
+      "canonical": "Miliaria",
+      "surface": "Miliaria",
+      "start": 1487,
+      "end": 1495
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito",
+      "start": 1497,
+      "end": 1504
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad de la piel",
+      "surface": "Sequedad de la piel",
+      "start": 1506,
+      "end": 1525
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 1528,
+      "end": 1563
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipersensibilidad",
+      "surface": "Hipersensibilidad",
+      "start": 1588,
+      "end": 1605
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "surface": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "start": 1608,
+      "end": 1640
+    },
+    {
+      "type": "REACT",
+      "canonical": "Supresión adrenal",
+      "surface": "Supresión adrenal",
+      "start": 1658,
+      "end": 1675
+    },
+    {
+      "type": "REACT",
+      "canonical": "Maceración dérmica",
+      "surface": "maceración dérmica",
+      "start": 1467,
+      "end": 1485
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "Trastornos de piel y tejidos",
+      "start": 1050,
+      "end": 1078
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 1393,
+      "end": 1415
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "PARAHIDROXIBENZOATO DE METILO (E-218), PARAHIDROXIBENZOATO DE PROPILO, SORBITAN MONOESTEARATO,",
+      "surface": "parahidroxibenzoato de metilo (E-218)",
+      "start": 378,
+      "end": 415
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "PARAHIDROXIBENZOATO DE METILO (E-218), PARAHIDROXIBENZOATO DE PROPILO, SORBITAN MONOESTEARATO,",
+      "surface": "parahidroxibenzoato de propilo",
+      "start": 433,
+      "end": 463
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "PARAHIDROXIBENZOATO DE METILO (E-218), PARAHIDROXIBENZOATO DE PROPILO, SORBITAN MONOESTEARATO,",
+      "surface": "metil/propilparabeno",
+      "start": 3265,
+      "end": 3285
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "PARAHIDROXIBENZOATO DE METILO (E-218), PARAHIDROXIBENZOATO DE PROPILO, SORBITAN MONOESTEARATO,",
+      "surface": "PARAHIDROXIBENZOATO DE METILO (E-218), PARAHIDROXIBENZOATO DE PROPILO, SORBITAN MONOESTEARATO,",
+      "start": 3600,
+      "end": 3694
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 3741,
+      "end": 3753
+    },
+    {
+      "type": "REACT",
+      "canonical": "Telangiectasia",
+      "surface": "arañitas vasculares",
+      "start": 3955,
+      "end": 3974
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "PARAHIDROXIBENZOATO DE METILO (E-218), PARAHIDROXIBENZOATO DE PROPILO, SORBITAN MONOESTEARATO,",
+      "surface": "metilparabeno",
+      "start": 417,
+      "end": 430
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "PARAHIDROXIBENZOATO DE METILO (E-218), PARAHIDROXIBENZOATO DE PROPILO, SORBITAN MONOESTEARATO,",
+      "surface": "sorbitan monoestearato",
+      "start": 483,
+      "end": 505
+    },
+    {
+      "type": "REACT",
+      "canonical": "Miliaria",
+      "surface": "sudamina",
+      "start": 4478,
+      "end": 4486
+    }
+  ]
+}

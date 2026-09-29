@@ -1,0 +1,35 @@
+{
+  "config": "documents",
+  "entity_types": [
+    "REACT",
+    "ACTIVE",
+    "FREQ",
+    "SYS"
+  ],
+  "train": {
+    "documents": 70,
+    "drugs": 35,
+    "entities": 4913,
+    "entity_counts": {
+      "ACTIVE": 180,
+      "SYS": 868,
+      "FREQ": 254,
+      "REACT": 3611
+    },
+    "mean_chars": 5577.3,
+    "mean_words": 731.1
+  },
+  "test": {
+    "documents": 28,
+    "drugs": 14,
+    "entities": 2537,
+    "entity_counts": {
+      "ACTIVE": 73,
+      "FREQ": 95,
+      "SYS": 347,
+      "REACT": 2022
+    },
+    "mean_chars": 5950.2,
+    "mean_words": 784.6
+  }
+}

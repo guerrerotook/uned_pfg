@@ -1,0 +1,96 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil de seguridad observado con leflunomida en el contexto de tratamiento prolongado es coherente con su acción inmunomoduladora y con la necesidad de vigilancia clínica y analítica. Arava puede asociarse a acontecimientos de intensidad variable; la mayoría se identifican mediante seguimiento rutinario y suelen manejarse con ajuste terapéutico, interrupción temporal o medidas de apoyo. Antes y durante el tratamiento se recomienda valorar antecedentes relevantes, tratamientos concomitantes y resultados de laboratorio, especialmente cuando exista predisposición a toxicidad orgánica. La notificación de sospechas permite mantener una caracterización actualizada del balance beneficio-riesgo.
+
+Lista tabulada de reacciones adversas
+Las reacciones se presentan agrupadas por clasificación de órganos y por categoría notificada. Dentro de cada grupo, los términos se enumeran sin establecer un orden de gravedad.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+no frecuente: Agranulocitosis, Eosinofilia, Leucopenia (leucocitos > 2G/L), Pancitopenia (probablemente mediada por mecanismo antiproliferativo).
+poco frecuentes: Anemia, Trombocitopenia leve (plaquetas <100 G/L).
+frecuentes: Leucopenia (leucocitos > 2G/L).
+
+TRASTORNOS DE PIEL Y TEJIDOS
+frecuentes: Alopecia, Eczema, Erupción cutánea (incluyendo erupción maculopapular), Prurito, Sequedad de piel.
+no frecuente: Eritema multiforme, Necrolisis epidérmica tóxica (NET), Síndrome de Stevens - Johnson (SSJ).
+frecuencia no conocida: Lupus eritematoso cutáneo, Psoriasis, Reacción medicamentosa con eosinofilia y síntomas sistémicos (DRESS), Úlcera cutánea.
+poco frecuentes: Urticaria.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+poco frecuentes: Alteraciones del gusto.
+
+TRASTORNOS DEL SISTEMA GENERAL
+frecuentes: Anorexia, Astenia, Pérdida de peso (normalmente insignificante).
+
+TRASTORNOS PSIQUIÁTRICOS
+poco frecuentes: Ansiedad.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+no frecuente: Aumento pronunciado de la presión arterial.
+frecuentes: Leve aumento de la presión arterial.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+frecuentes: Cefalea, Mareos, Neuropatía periférica, Parestesias.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+frecuentes: Colitis (incluyendo colitis microscópica como colitis linfocítica, colitis colágena), Diarrea, Dolor abdominal, Estomatitis aftosa, Incremento de enzimas de colestasis, Incremento de transaminasas (especialmente ALT), Náuseas, Vómitos, Úlceras bucales.
+no frecuente: Hepatitis, Ictericia colestásica, Insuficiencia hepática, Necrosis hepática aguda, Pancreatitis.
+
+TRASTORNOS DEL SISTEMA REPRODUCTOR
+frecuencia no conocida: Disminución del recuento total del esperma, Dismminución de la motilidad progresiva rápida del esperma, Leve disminución (reversible) de la concentración de esperma.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+no frecuente: Enfermedad pulmonar intersticial incluyendo neumonitis intersticial.
+frecuencia no conocida: Hipertensión pulmonar.
+
+TRASTORNOS DEL SISTEMA EXCRETOR
+frecuencia no conocida: Fallo renal.
+
+TRASTORNOS DEL SISTEMA ENDOCRINO
+poco frecuentes: Hiperlipidemia, Hipofosfatemia, Hipopotasemia.
+frecuencia no conocida: Hipouricemia.
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN
+frecuentes: Incremento de CPK.
+no frecuente: Incremento de LDH.
+
+INFECCIONES E INFESTACIONES
+no frecuente: Infecciones graves incluyendo sepsis.
+
+NEOPLASIAS
+frecuencia no conocida: Neoplasia.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+frecuentes: Reacciones alérgicas leves.
+no frecuente: Reacciones anafilácticas, Vasculitis incluyendo vasculitis necrotizante cutánea.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+poco frecuentes: Rotura tendinosa.
+frecuentes: Tenosinovitis.
+
+Descripción de reacciones adversas seleccionadas
+La evaluación clínica debe considerar la evolución temporal, la relación con dosis acumuladas y la presencia de medicamentos concomitantes. Cuando aparezcan signos compatibles con afectación orgánica relevante, debe revisarse la continuidad del tratamiento y realizarse una valoración individual del paciente. Las medidas de seguimiento deben adaptarse a la situación clínica, evitando retrasos en la identificación de acontecimientos potencialmente serios.
+
+En pacientes con factores predisponentes, los hallazgos analíticos o síntomas persistentes requieren una interpretación prudente. La interrupción del tratamiento y las actuaciones de eliminación acelerada pueden valorarse de acuerdo con la situación clínica. La información procedente de la práctica clínica contribuye a precisar el patrón de seguridad observado.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+Durante el tratamiento con leflunomida (Arava), dentro de la tabla de reacciones adversas se incluye:
+- Trastornos del sistema digestivo: Colitis (incluyendo colitis microscópica como colitis linfocítica, colitis colágena), clasificadas como frecuentes.
+
+Esta reacción debe considerarse en pacientes que presenten molestias digestivas persistentes (problemas intestinales) durante el seguimiento. Se recomienda valorar la evolución clínica y la continuidad del tratamiento según la gravedad y el contexto del paciente, manteniendo una vigilancia adecuada.
+
+-- Caso 2 --
+En el sistema de clasificación de órganos NEOPLASIAS, se ha notificado la siguiente reacción adversa durante el tratamiento con leflunomida (Arava):
+- Neoplasia: frecuencia no conocida.
+
+La información disponible no permite estimar su incidencia a partir de los datos existentes. Dado el efecto modulador de la respuesta inmunitaria, se recomienda valorar los antecedentes del paciente y mantener una vigilancia clínica adecuada durante el seguimiento. Ante la sospecha clínica, debe realizarse una evaluación individualizada de la continuidad del tratamiento y aplicar las medidas diagnósticas y terapéuticas habituales.
+
+-- Caso 3 --
+En pacientes tratados con LEFLUNOMIDA (Arava), se ha notificado la siguiente reacción adversa dentro de la categoría TRASTORNOS PSIQUIÁTRICOS:
+
+- Ansiedad: poco frecuentes.
+
+La aparición de Ansiedad (sensación de inquietud) debe valorarse en el contexto clínico del paciente y de la evolución temporal tras el inicio o ajuste del tratamiento. Se recomienda realizar seguimiento clínico si el síntoma persiste o interfiere con la actividad habitual, considerando las medidas terapéuticas oportunas según criterio médico.

@@ -1,0 +1,77 @@
+Resumen del perfil de seguridad
+CASPOFUNGINA, comercializada como Cancidas, se ha asociado en estudios clínicos y en la experiencia posterior a la autorización con un patrón de tolerabilidad concordante con su uso intravenoso en pacientes hospitalizados. El perfil observado fue generalmente manejable mediante vigilancia clínica, control analítico y medidas de soporte. Algunas manifestaciones se relacionaron con la perfusión y otras con alteraciones analíticas detectadas durante el seguimiento. La interpretación de los hallazgos debe considerar la enfermedad de base, los tratamientos concomitantes y la situación clínica del paciente.
+
+Lista tabulada de reacciones adversas
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+frecuentes: Flebitis.
+poco frecuentes: Acaloramiento, Arritmia, Fibrilación auricular, Hipertensión, Hipotensión, Insuficiencia cardiaca congestiva, Palpitaciones, Rubefacción, Taquicardia, Tromboflebitis.
+
+PRUEBAS COMPLEMENTARIAS
+frecuentes: Albúmina disminuida en sangre, Potasio disminuido en sangre.
+poco frecuentes: Aumento del nivel del medicamento inmunosupresor, Auscultación pulmonar anormal, Bicarbonato disminuido en sangre, Calcio disminuido en sangre, Calcio elevado en sangre, Cilindros en orina, Cloruro disminuido en sangre, Cloruro elevado en sangre, Creatinina elevada en sangre, Dióxido de carbono disminuido, Elevación del fósforo en sangre, Fosforo disminuido en sangre, Glucosa elevada en sangre, Hematuria, Hematíes en orina positivos, Leucocitos positivos en orina, Magnesio disminuido en sangre, Potasio elevado en sangre, Presencia de proteina en orina, Presión arterial aumentada, Proporción normalizada internacional aumentada, Proteinas totales disminuidas, Sodio disminuido en sangre, Sodio elevado en sangre, Tiempo de protrombina disminuido, Tiempo prolongado de protrombina, Tiempo prolongado de tromboplastina parcial activada, Urea elevada en sangre, pH urinario aumentado, Ácido úrico disminuido en sangre.
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN
+frecuentes: Hipokalemia.
+poco frecuentes: Acidosis metabólica, Anorexia, Desequilibrio electrolítico, Hiperglucemia, Hipocalcemia, Hipomagnesemia, Sobrecarga de líquido.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+frecuentes: Hematocrito disminuido, Hemoglobina disminuida, Recuento disminuido de leucocitos.
+poco frecuentes: Anemia, Coagulopatía, Leucopenia, Recuento disminuido de linfocitos, Recuento disminuido de neutrófilos, Recuento disminuido de plaquetas, Recuento elevado de eosinófilos, Recuento elevado de leucocitos, Recuento elevado de plaquetas, Trombocitopenia.
+
+TRASTORNOS PSIQUIÁTRICOS
+poco frecuentes: Ansiedad, Desorientación, Insomnio.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+frecuentes: Artralgia.
+poco frecuentes: Dolor de espalda, Dolor en una extremidad, Dolor óseo, Mialgia, Pérdida de fuerza muscular.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+frecuentes: Diarrea, Elevación de los valores hepáticos (ALT, AST, FALc, bilirrubina conjugada, bilirrubina en sangre), Náuseas, Vómitos.
+poco frecuentes: Ascitis, Boca seca, Colestasis, Disfagia, Dispepsia, Distensión abdominal, Dolor abdominal, Dolor en la zona superior del abdomen, Estreñimiento, Flatulencia, Función hepática anormal, GGT elevada, Hepatomegalia, Hepatotoxicidad, Hiperbilirrubinemia, Ictericia, Molestias en el estómago, Trastorno hepático.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+poco frecuentes: Broncoespasmo, Congestión nasal, Disnea paroxística nocturna, Dolor faringolaríngeo, Estertores, Hipoxia, Sibilancia, Taquipnea, Tos.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+frecuentes: Cefalea.
+poco frecuentes: Disgeusia, Hipoestesia, Mareo, Parestesias, Somnolencia, Temblor.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+frecuentes: Eritema, Erupción, Hiperhidrosis, Prurito.
+poco frecuentes: Dermatitis alérgica, Eritema multiforme, Erupción eritematosa, Erupción generalizada, Erupción macular, Erupción maculopapular, Erupción morbiliforme, Erupción prurítica, Lesión de la piel, Prurito generalizado, Urticaria.
+frecuencia no conocida: Necrolisis epidérmica tóxica (NET), Síndrome de Stevens - Johnson (SSJ).
+
+TRASTORNOS DEL SISTEMA REPRODUCTOR
+frecuentes: Disnea.
+
+TRASTORNOS DEL SISTEMA GENERAL
+frecuentes: Escalofrío, Pirexia, Prurito en el lugar de perfusión.
+poco frecuentes: Dolor, Dolor a la palpación, Dolor en el lugar de entrada de un catéter, Dolor en el lugar de perfusión, Dolor en la zona de inyección, Dolor torácico, Edema, Edema de cara, Edema en la zona de inyección, Edema perfiérico, Eritema en la zona de inyección, Eritema en la zona de perfusión, Erupción en el lugar de perfusión, Extravasación en el lugar de perfusión, Fatiga, Flebitis en el lugar de perfusión, Flebitis en la zona de inyección, Hinchazón en el lugar de perfusión, Hinchazón en la zona de inyección, Induración, Induración del lugar de perfusión, Irritación en el lugar de perfusión, Malestar general, Malestar torácico, Sensación de calor, Sensación de cambio de temperatura corporal, Sensación de frío, Urticaria en el lugar de perfusión.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+poco frecuentes: Edema palpebral, Ictericia ocular, Lagrimeo aumentado, Visión borrosa.
+
+TRASTORNOS DEL SISTEMA EXCRETOR
+poco frecuentes: Fallo renal, Insuficiencia renal aguda.
+
+Descripción de reacciones adversas seleccionadas
+Durante la administración intravenosa se recomienda observar el lugar de perfusión y la evolución de los parámetros clínicos, especialmente en pacientes con tratamientos concomitantes complejos. Los hallazgos de laboratorio deben valorarse de forma seriada, ya que cambios aislados pueden reflejar la situación basal o la respuesta al tratamiento. En caso de manifestaciones cutáneas extensas o síntomas compatibles con hipersensibilidad, se debe realizar una evaluación médica inmediata y considerar las medidas clínicas apropiadas. Algunas molestias digestivas pueden describirse por el paciente como malestar de estómago, aunque en la tabla se mantienen los términos normalizados.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En el sistema de clasificación de órganos Trastornos de piel y tejidos, se ha notificado durante el uso de caspofungina (Cancidas) la siguiente reacción adversa:
+- Necrolisis epidérmica tóxica (NET): frecuencia no conocida.
+Este acontecimiento debe considerarse clínicamente relevante por su posible evolución rápida y por la necesidad de valoración médica inmediata. Si aparecen signos compatibles tras el inicio de la perfusión, se recomienda interrumpir la administración y realizar seguimiento estrecho, de acuerdo con el criterio clínico. La información disponible no permite estimar la incidencia a partir de los datos existentes.
+
+-- Caso 2 --
+En el sistema de clasificación de órganos TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS, durante el tratamiento con CASPOFUNGINA (CANCIDAS) se ha identificado la siguiente reacción adversa:
+- poco frecuentes: Recuento disminuido de plaquetas.
+
+Este hallazgo analítico debe interpretarse en el contexto clínico del paciente y de los controles hematológicos disponibles. Se recomienda realizar seguimiento según la situación basal y la evolución durante la perfusión, especialmente en pacientes con factores concomitantes que puedan modificar los parámetros hematológicos. La decisión clínica debe basarse en la magnitud del cambio y en la valoración individual del beneficio y el riesgo.
+
+-- Caso 3 --
+En el sistema Pruebas complementarias, la albúmina disminuida en sangre se incluye entre las reacciones adversas frecuentes notificadas durante el tratamiento con caspofungina (Cancidas). Este hallazgo analítico puede reflejar variaciones del estado clínico subyacente o de la respuesta al tratamiento, por lo que debe interpretarse junto con la evolución del paciente y otros datos de laboratorio. Se recomienda el seguimiento periódico de los parámetros bioquímicos cuando esté clínicamente indicado.
+
+Lista tabulada:
+- Albúmina disminuida en sangre: frecuentes.

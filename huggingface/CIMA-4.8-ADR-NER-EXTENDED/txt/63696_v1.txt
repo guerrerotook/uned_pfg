@@ -1,0 +1,56 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil de seguridad observado durante el uso clínico es, en general, acorde con el esperado para este tipo de tratamiento. En los ensayos y en la experiencia posterior a la autorización, la mayoría de las notificaciones fueron de intensidad leve o moderada y no requirieron medidas específicas distintas de la observación clínica habitual. No obstante, como ocurre con otros medicamentos de uso amplio, la información procedente de la práctica clínica puede identificar acontecimientos que no siempre permiten estimar una incidencia precisa. La evaluación debe tener en cuenta la situación basal del paciente, la exposición concomitante a otros medicamentos y la relación temporal con la administración. Con LORATADINA, la interpretación de los datos debe realizarse de forma individualizada, especialmente cuando existan antecedentes relevantes o síntomas persistentes.
+
+Lista tabulada de reacciones adversas
+Las reacciones adversas se presentan a continuación por clasificación de órganos y por frecuencia. Dentro de cada grupo, las reacciones se enumeran manteniendo la denominación utilizada para la notificación clínica.
+
+TRASTORNOS PSIQUIÁTRICOS
+frecuencia no conocida: Agresión, Comportamiento anormal, Estado de ánimo deprimido.
+
+TRASTORNOS DEL SISTEMA GENERAL
+frecuentes: Fatiga.
+frecuencia no conocida: Astenia.
+
+TRASTORNOS DEL SISTEMA HEPATOBILIAR
+frecuencia no conocida: Ictericia.
+
+EXPLORACIONES COMPLEMENTARIAS
+frecuencia no conocida: Aumento de peso.
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN
+frecuencia no conocida: Aumento del apetito.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+frecuentes: Boca seca.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+frecuentes: Cefalea.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+frecuencia no conocida: Fotosensibilidad.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+frecuencia no conocida: QT prolongado.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+frecuencia no conocida: Sequedad del ojo.
+
+Descripción de reacciones adversas seleccionadas
+En la práctica clínica, la aparición de síntomas nuevos durante el tratamiento debe valorarse considerando otros factores que puedan contribuir al cuadro observado. Cuando el inicio sea temporalmente compatible, se recomienda una revisión de la medicación concomitante y de las condiciones clínicas que puedan modificar la tolerabilidad. La decisión de continuar, interrumpir o modificar el tratamiento debe basarse en el juicio clínico y en la evolución del paciente.
+
+Las comunicaciones posteriores a la comercialización son útiles para caracterizar acontecimientos cuya incidencia no puede calcularse con los datos disponibles. En estos casos, la ausencia de una estimación fiable no implica necesariamente mayor o menor gravedad, sino limitaciones propias de la notificación espontánea. La información debe actualizarse de forma continua mediante el seguimiento de las sospechas comunicadas por profesionales sanitarios y pacientes.
+
+Es importante informar al paciente de que consulte si observa cambios inesperados o persistentes. La notificación de sospechas de reacciones adversas permite una supervisión continuada de la relación beneficio-riesgo y facilita la adopción de medidas adecuadas cuando sean necesarias.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En el sistema de clasificación de órganos TRASTORNOS DEL SISTEMA DIGESTIVO se ha identificado la reacción adversa Náuseas asociada al uso de LORATADINA, con frecuencia nan. Este acontecimiento debe valorarse en el contexto clínico del paciente y de la evolución temporal tras la administración. En caso de persistencia o intensidad relevante, se recomienda considerar el seguimiento clínico habitual y la reevaluación del tratamiento conforme a la práctica médica.
+
+-- Caso 2 --
+En el sistema TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS se ha identificado Sequedad del ojo asociada al uso de LORATADINA, con frecuencia no conocida a partir de los datos disponibles. Este término debe registrarse conforme a la terminología MedDRA y valorarse en el contexto clínico del paciente. La aparición de esta manifestación puede relacionarse con la respuesta individual al tratamiento; se recomienda realizar seguimiento si persiste o resulta molesta, considerando las medidas habituales de evaluación clínica sin modificar la clasificación establecida.
+
+-- Caso 3 --
+En la clasificación de TRASTORNOS DEL SISTEMA GENERAL, la Fatiga se ha notificado como una de las reacciones adversas frecuentes asociadas al tratamiento con LORATADINA. La aparición de este acontecimiento debe valorarse en el contexto clínico del paciente, teniendo en cuenta la exposición al medicamento y la evolución temporal de los síntomas. En caso de persistencia o interferencia con las actividades habituales, se recomienda realizar una evaluación clínica y considerar las medidas de seguimiento apropiadas, de acuerdo con el criterio médico.

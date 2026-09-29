@@ -1,0 +1,135 @@
+{
+  "codigo": "69465",
+  "variante": 1,
+  "codigo_variant": "69465_v1",
+  "medicamento": "SUPLECAL MINIPLASCO SOLUCION INYECTABLE",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "GLUCONATO CALCIO MONOHIDRATO",
+      "surface": "GLUCONATO CALCIO MONOHIDRATO",
+      "start": 84,
+      "end": 112
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1302,
+      "end": 1339
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 1340,
+      "end": 1362
+    },
+    {
+      "type": "REACT",
+      "canonical": "Arritmia cardíaca",
+      "surface": "Arritmia cardíaca",
+      "start": 1364,
+      "end": 1381
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bradicardia",
+      "surface": "Bradicardia",
+      "start": 1383,
+      "end": 1394
+    },
+    {
+      "type": "REACT",
+      "canonical": "colapso circulatorio (potencialmente mortal)",
+      "surface": "colapso circulatorio (potencialmente mortal)",
+      "start": 1396,
+      "end": 1440
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipotensión",
+      "surface": "hipotensión",
+      "start": 1442,
+      "end": 1453
+    },
+    {
+      "type": "REACT",
+      "canonical": "rubor, especialmente después de una administración demasiado rápida",
+      "surface": "rubor, especialmente después de una administración demasiado rápida",
+      "start": 1455,
+      "end": 1522
+    },
+    {
+      "type": "REACT",
+      "canonical": "vasodilatación",
+      "surface": "vasodilatación",
+      "start": 1524,
+      "end": 1538
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 1541,
+      "end": 1571
+    },
+    {
+      "type": "REACT",
+      "canonical": "la administración intramuscular puede ir acompañada de sensación de dolor o eritema",
+      "surface": "la administración intramuscular puede ir acompañada de sensación de dolor o eritema",
+      "start": 1596,
+      "end": 1679
+    },
+    {
+      "type": "REACT",
+      "canonical": "sensación de calor",
+      "surface": "sensación de calor",
+      "start": 1681,
+      "end": 1699
+    },
+    {
+      "type": "REACT",
+      "canonical": "sudoración",
+      "surface": "sudoración",
+      "start": 1701,
+      "end": 1711
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1714,
+      "end": 1746
+    },
+    {
+      "type": "REACT",
+      "canonical": "náuseas",
+      "surface": "náuseas",
+      "start": 1771,
+      "end": 1778
+    },
+    {
+      "type": "REACT",
+      "canonical": "vómitos",
+      "surface": "vómitos",
+      "start": 1780,
+      "end": 1787
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "Trastornos del sistema digestivo",
+      "start": 1714,
+      "end": 1746
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "trastornos del sistema digestivo",
+      "start": 1714,
+      "end": 1746
+    }
+  ]
+}

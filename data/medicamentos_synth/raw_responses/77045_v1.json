@@ -1,0 +1,331 @@
+{
+  "codigo": "77045",
+  "variante": 1,
+  "codigo_variant": "77045_v1",
+  "medicamento": "LEVOTIROXINA SODICA TEVA 100 microgramos COMPRIMIDOS EFG",
+  "model": "gpt-5.5",
+  "style_variant_idx": 0,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\n\nEl perfil de seguridad de LEVOTIROXINA SODICA está condicionado por la necesidad de mantener un ajuste individualizado del tratamiento y por la vigilancia clínica durante el seguimiento. La información disponible procede de la notificación clínica habitual y debe interpretarse junto con la situación basal del paciente y la respuesta al tratamiento. En la experiencia acumulada se han comunicado Angioedema, Erupción cuttánea y Urticaria con frecuencia no conocida. Estas notificaciones no permiten establecer una estimación fiable de aparición, pero son relevantes para la evaluación continuada de la tolerabilidad. La identificación temprana de cualquier manifestación compatible facilita la toma de decisiones y la revisión de la pauta cuando se considere necesario.\n\nComo en otros tratamientos de uso prolongado, la valoración de una sospecha debe tener en cuenta la cronología, la evolución tras la actuación clínica y la posible presencia de factores concomitantes. La comunicación de sospechas contribuye a caracterizar mejor el perfil de seguridad en la práctica asistencial. No se dispone de datos que permitan definir subgrupos con un patrón específico a partir de la información resumida en esta sección. La actuación debe ajustarse a criterios clínicos y a las recomendaciones generales de farmacovigilancia.\n\nLista tabulada de reacciones adversas\n\nLas reacciones adversas se presentan a continuación según el sistema de clasificación de órganos y la categoría indicada para la estimación disponible. Dentro de cada grupo, los términos se expresan utilizando una denominación estándar y se mantienen sin jerarquización de gravedad.\n\nSistema de clasificación de órganos: TRASTORNOS DE PIEL Y TEJIDOS\nfrecuencia no conocida: Angioedema, Erupción cuttánea, Urticaria.\n\nDescripción de reacciones adversas seleccionadas\n\nAngioedema se ha notificado de forma aislada durante el tratamiento con LEVOTIROXINA SODICA. Ante una sospecha clínica, debe valorarse la relación temporal con la administración y la necesidad de medidas adecuadas de control. La decisión sobre la continuidad o modificación del tratamiento debe basarse en la situación del paciente y en la evaluación médica individual. Cuando proceda, la información debe registrarse de forma completa para facilitar el seguimiento posterior.\n\nErupción cuttánea y Urticaria pueden aparecer como manifestaciones de tolerabilidad durante la exposición al medicamento. La evolución puede ser variable y requiere observación clínica, especialmente si los síntomas reaparecen tras una nueva exposición. En ausencia de datos cuantitativos suficientes, ambas se consideran de frecuencia no conocida. La revisión de tratamientos concomitantes, antecedentes relevantes y cambios recientes en la medicación puede ayudar a contextualizar la sospecha.\n\nNotificación de sospechas de reacciones adversas\n\nEs importante notificar las sospechas de reacciones adversas tras la autorización del medicamento. Ello permite una supervisión continuada de la relación beneficio-riesgo. Se invita a los profesionales sanitarios a comunicar cualquier sospecha por los procedimientos establecidos en el sistema nacional de notificación correspondiente. La información clínica completa, incluyendo la fecha de inicio, evolución, medidas adoptadas y desenlace, mejora la calidad de la evaluación farmacológica.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nDentro de TRASTORNOS DE PIEL Y TEJIDOS, se ha notificado Angioedema asociado al uso de LEVOTIROXINA SODICA, con frecuencia no conocida, ya que no puede estimarse a partir de los datos disponibles. La aparición de este cuadro puede ser compatible con un mecanismo de sensibilidad individual al tratamiento. Si se sospecha una relación temporal con la administración, debe valorarse la interrupción del medicamento y establecerse seguimiento clínico adecuado, de acuerdo con la gravedad y la evolución del paciente. La notificación espontánea tras la comercialización contribuye a caracterizar mejor este riesgo.\n\n-- Caso 2 --\nDentro del sistema TRASTORNOS DE PIEL Y TEJIDOS, se ha notificado erupción cutánea asociada al tratamiento con LEVOTIROXINA SODICA, con frecuencia no conocida a partir de los datos disponibles. La aparición de esta manifestación debe valorarse en el contexto clínico del paciente y de la exposición al tratamiento. Se recomienda realizar seguimiento clínico y considerar la adecuación de la pauta si los síntomas persisten o resultan clínicamente relevantes.\n\n-- Caso 3 --\nDentro del sistema TRASTORNOS DE PIEL Y TEJIDOS, se ha notificado Urticaria asociada al uso de LEVOTIROXINA SODICA, con frecuencia no conocida. Esta frecuencia procede de notificación espontánea o de información poscomercialización, por lo que no puede estimarse de forma fiable a partir de los datos disponibles. En pacientes tratados, la aparición de lesiones compatibles debe motivar valoración clínica y revisión del tratamiento, considerando la relación temporal con la administración y la evolución tras las medidas adoptadas. La evaluación debe realizarse de acuerdo con la práctica clínica habitual, teniendo en cuenta antecedentes relevantes y la necesidad de continuidad del tratamiento.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "LEVOTIROXINA SODICA",
+      "surface": "LEVOTIROXINA SODICA",
+      "start": 84,
+      "end": 103
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angioedema",
+      "surface": "Angioedema",
+      "start": 455,
+      "end": 465
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción cuttánea",
+      "surface": "Erupción cuttánea",
+      "start": 467,
+      "end": 484
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria",
+      "start": 487,
+      "end": 496
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 501,
+      "end": 523
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 1741,
+      "end": 1769
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción cuttánea",
+      "surface": "erupción cutánea",
+      "start": 4172,
+      "end": 4188
+    }
+  ],
+  "raw_long_doc_text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\n\nEl perfil de seguridad de LEVOTIROXINA SODICA está condicionado por la necesidad de mantener un ajuste individualizado del tratamiento y por la vigilancia clínica durante el seguimiento. La información disponible procede de la notificación clínica habitual y debe interpretarse junto con la situación basal del paciente y la respuesta al tratamiento. En la experiencia acumulada se han comunicado Angioedema, Erupción cuttánea y Urticaria con frecuencia no conocida. Estas notificaciones no permiten establecer una estimación fiable de aparición, pero son relevantes para la evaluación continuada de la tolerabilidad. La identificación temprana de cualquier manifestación compatible facilita la toma de decisiones y la revisión de la pauta cuando se considere necesario.\n\nComo en otros tratamientos de uso prolongado, la valoración de una sospecha debe tener en cuenta la cronología, la evolución tras la actuación clínica y la posible presencia de factores concomitantes. La comunicación de sospechas contribuye a caracterizar mejor el perfil de seguridad en la práctica asistencial. No se dispone de datos que permitan definir subgrupos con un patrón específico a partir de la información resumida en esta sección. La actuación debe ajustarse a criterios clínicos y a las recomendaciones generales de farmacovigilancia.\n\nLista tabulada de reacciones adversas\n\nLas reacciones adversas se presentan a continuación según el sistema de clasificación de órganos y la categoría indicada para la estimación disponible. Dentro de cada grupo, los términos se expresan utilizando una denominación estándar y se mantienen sin jerarquización de gravedad.\n\nSistema de clasificación de órganos: TRASTORNOS DE PIEL Y TEJIDOS\nfrecuencia no conocida: Angioedema, Erupción cuttánea, Urticaria.\n\nDescripción de reacciones adversas seleccionadas\n\nAngioedema se ha notificado de forma aislada durante el tratamiento con LEVOTIROXINA SODICA. Ante una sospecha clínica, debe valorarse la relación temporal con la administración y la necesidad de medidas adecuadas de control. La decisión sobre la continuidad o modificación del tratamiento debe basarse en la situación del paciente y en la evaluación médica individual. Cuando proceda, la información debe registrarse de forma completa para facilitar el seguimiento posterior.\n\nErupción cuttánea y Urticaria pueden aparecer como manifestaciones de tolerabilidad durante la exposición al medicamento. La evolución puede ser variable y requiere observación clínica, especialmente si los síntomas reaparecen tras una nueva exposición. En ausencia de datos cuantitativos suficientes, ambas se consideran de frecuencia no conocida. La revisión de tratamientos concomitantes, antecedentes relevantes y cambios recientes en la medicación puede ayudar a contextualizar la sospecha.\n\nNotificación de sospechas de reacciones adversas\n\nEs importante notificar las sospechas de reacciones adversas tras la autorización del medicamento. Ello permite una supervisión continuada de la relación beneficio-riesgo. Se invita a los profesionales sanitarios a comunicar cualquier sospecha por los procedimientos establecidos en el sistema nacional de notificación correspondiente. La información clínica completa, incluyendo la fecha de inicio, evolución, medidas adoptadas y desenlace, mejora la calidad de la evaluación farmacológica.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "LEVOTIROXINA SODICA",
+      "surface": "LEVOTIROXINA SODICA"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angioedema",
+      "surface": "Angioedema"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción cuttánea",
+      "surface": "Erupción cuttánea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angioedema",
+      "surface": "Angioedema"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción cuttánea",
+      "surface": "Erupción cuttánea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angioedema",
+      "surface": "Angioedema"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "LEVOTIROXINA SODICA",
+      "surface": "LEVOTIROXINA SODICA"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción cuttánea",
+      "surface": "Erupción cuttánea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "LEVOTIROXINA SODICA TEVA 100 microgramos COMPRIMIDOS EFG",
+        "pactivo": "LEVOTIROXINA SODICA",
+        "reaccion": "Angioedema",
+        "frecuencia": "SIN FRECUENCIA",
+        "sistema": "TRASTORNOS DE PIEL Y TEJIDOS"
+      },
+      "text": "Dentro de TRASTORNOS DE PIEL Y TEJIDOS, se ha notificado Angioedema asociado al uso de LEVOTIROXINA SODICA, con frecuencia no conocida, ya que no puede estimarse a partir de los datos disponibles. La aparición de este cuadro puede ser compatible con un mecanismo de sensibilidad individual al tratamiento. Si se sospecha una relación temporal con la administración, debe valorarse la interrupción del medicamento y establecerse seguimiento clínico adecuado, de acuerdo con la gravedad y la evolución del paciente. La notificación espontánea tras la comercialización contribuye a caracterizar mejor este riesgo.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Angioedema",
+          "surface": "Angioedema"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LEVOTIROXINA SODICA",
+          "surface": "LEVOTIROXINA SODICA"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "start": 10,
+          "end": 38
+        },
+        {
+          "type": "REACT",
+          "canonical": "Angioedema",
+          "surface": "Angioedema",
+          "start": 57,
+          "end": 67
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LEVOTIROXINA SODICA",
+          "surface": "LEVOTIROXINA SODICA",
+          "start": 87,
+          "end": 106
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida",
+          "start": 112,
+          "end": 134
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "LEVOTIROXINA SODICA TEVA 100 microgramos COMPRIMIDOS EFG",
+        "pactivo": "LEVOTIROXINA SODICA",
+        "reaccion": "Erupción cuttánea",
+        "frecuencia": "SIN FRECUENCIA",
+        "sistema": "TRASTORNOS DE PIEL Y TEJIDOS"
+      },
+      "text": "Dentro del sistema TRASTORNOS DE PIEL Y TEJIDOS, se ha notificado erupción cutánea asociada al tratamiento con LEVOTIROXINA SODICA, con frecuencia no conocida a partir de los datos disponibles. La aparición de esta manifestación debe valorarse en el contexto clínico del paciente y de la exposición al tratamiento. Se recomienda realizar seguimiento clínico y considerar la adecuación de la pauta si los síntomas persisten o resultan clínicamente relevantes.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Erupción cuttánea",
+          "surface": "erupción cutánea"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LEVOTIROXINA SODICA",
+          "surface": "LEVOTIROXINA SODICA"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "start": 19,
+          "end": 47
+        },
+        {
+          "type": "REACT",
+          "canonical": "Erupción cuttánea",
+          "surface": "erupción cutánea",
+          "start": 66,
+          "end": 82
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LEVOTIROXINA SODICA",
+          "surface": "LEVOTIROXINA SODICA",
+          "start": 111,
+          "end": 130
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida",
+          "start": 136,
+          "end": 158
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "LEVOTIROXINA SODICA TEVA 100 microgramos COMPRIMIDOS EFG",
+        "pactivo": "LEVOTIROXINA SODICA",
+        "reaccion": "Urticaria",
+        "frecuencia": "SIN FRECUENCIA",
+        "sistema": "TRASTORNOS DE PIEL Y TEJIDOS"
+      },
+      "text": "Dentro del sistema TRASTORNOS DE PIEL Y TEJIDOS, se ha notificado Urticaria asociada al uso de LEVOTIROXINA SODICA, con frecuencia no conocida. Esta frecuencia procede de notificación espontánea o de información poscomercialización, por lo que no puede estimarse de forma fiable a partir de los datos disponibles. En pacientes tratados, la aparición de lesiones compatibles debe motivar valoración clínica y revisión del tratamiento, considerando la relación temporal con la administración y la evolución tras las medidas adoptadas. La evaluación debe realizarse de acuerdo con la práctica clínica habitual, teniendo en cuenta antecedentes relevantes y la necesidad de continuidad del tratamiento.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Urticaria",
+          "surface": "Urticaria"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LEVOTIROXINA SODICA",
+          "surface": "LEVOTIROXINA SODICA"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "start": 19,
+          "end": 47
+        },
+        {
+          "type": "REACT",
+          "canonical": "Urticaria",
+          "surface": "Urticaria",
+          "start": 66,
+          "end": 75
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LEVOTIROXINA SODICA",
+          "surface": "LEVOTIROXINA SODICA",
+          "start": 95,
+          "end": 114
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida",
+          "start": 120,
+          "end": 142
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

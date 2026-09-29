@@ -1,0 +1,86 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+METASEDIN contiene METADONA HIDROCLORURO; en la práctica clínica puede denominarse de forma abreviada metadona. El perfil observado es coherente con el esperado para un analgésico opioide de uso controlado. La aparición de efectos depende de la dosis, de la situación clínica previa y de la exposición mantenida. Se recomienda valorar periódicamente la tolerabilidad, especialmente al iniciar el tratamiento, al modificar la pauta o cuando existan factores que aumenten la sensibilidad del paciente. La información siguiente resume las notificaciones agrupadas según la clasificación utilizada en la ficha técnica.
+
+Lista tabulada de reacciones adversas
+
+TRASTORNOS PSIQUIÁTRICOS
+- poco frecuentes: Agitación, Confusión, Desorientación, Disforia, Disminución de la líbido, Farmacodependencia, Insomnio.
+- frecuentes: Alucinaciones, Euforia.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+- frecuencia no conocida: Agudeza visual reducida, Estrabismo, Nistagmo, Ojos secos.
+- frecuentes: Miosis, Visión borrosa, Vértigo.
+
+TRASTORNOS DEL SISTEMA REPRODUCTOR
+- poco frecuentes: Ammenorrea, Dismenorrea, Galactorrea.
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN
+- frecuencia no conocida: Anorexia, Hipocalemia, Hipoglucemia, Hipomagnesemia.
+- frecuentes: Retención de líquidos.
+
+TRASTORNOS DEL SISTEMA GENERAL
+- poco frecuentes: Astenia, Edema, Edema de las extremidades inferiores, Hipotermia.
+- frecuentes: Fatiga, Somnolencia.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+- frecuencia no conocida: Aumenro de la presión intracraneal.
+- poco frecuentes: Dolor de cabeza, Síncope.
+- frecuentes: Mareos, Sedación.
+
+EXPLORACIONES COMPLEMENTARIAS
+- frecuentes: Aumento de peso.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+- muy frecuentes: Náuseas, Vómitos.
+- frecuentes: Estreñimiento.
+- poco frecuentes: Boca seca, Glositis.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+- no frecuente: Bradicardia, Palpitaciones, Parada cardíaca, Prolongación del intérvalo QT, Shock, Torsade de pointes.
+- poco frecuentes: Hipotensión, Rubor facial.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+- poco frecuentes: Depresión respiratoria, Disminución de la potencia sexual, Edema pulmonar, Exacerbación del asma, Sequedad nasal.
+- no frecuente: Parada respiratoria.
+- frecuencia no conocida: Síndrome de apnea central del sueño.
+
+TRASTORNOS DEL SISTEMA HEPATOBILIAR
+- poco frecuentes: Discinesia del conducto biliar.
+
+TRASTORNOS DEL SISTEMA EXCRETOR
+- poco frecuentes: Efecto antidiurético, Retención urinaria.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+- frecuentes: Erupción cutánea transitoria, Hiperhidrosis.
+- poco frecuentes: Otras erupciones, Prurito, Urticaria.
+
+TRASTORNOS DEL SISTEMA ENDOCRINO
+- frecuencia no conocida: Hipoadrenalismo, Hipogonadismo, Niveles elevados de prolactina con administración a largo plazo.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+- frecuencia no conocida: Trombocitopenia reversible en pacientes dependientes de opioides con hepatitis crónica.
+
+Descripción de reacciones adversas seleccionadas
+La evaluación clínica debe considerar la situación basal y el uso concomitante de otros medicamentos. Algunas manifestaciones pueden influir en actividades que requieren atención mantenida; por ejemplo, la Visión borrosa (visión borrosa para el paciente) puede justificar recomendaciones individualizadas hasta comprobar la evolución. La notificación de sospechas permite mantener actualizada la relación beneficio-riesgo y detectar patrones de presentación en condiciones reales de uso.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En el sistema TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS, se ha descrito con METADONA HIDROCLORURO (metadona) la siguiente reacción adversa, de frecuencia no conocida:
+- Trombocitopenia reversible en pacientes dependientes de opioides con hepatitis crónica.
+La notificación procede principalmente de pacientes con comorbilidad hepática crónica; se recomienda considerar controles hematológicos si aparecen datos clínicos compatibles o durante seguimientos prolongados. El cuadro se ha comunicado como reversible tras la valoración clínica y el ajuste individual del tratamiento, sin que pueda estimarse su incidencia a partir de los datos disponibles.
+
+-- Caso 2 --
+En el perfil de seguridad de METASEDIN, la metadona puede asociarse a efectos gastrointestinales durante el tratamiento. Dentro del sistema de clasificación de órganos Trastornos del sistema digestivo, se ha descrito la siguiente reacción adversa:
+
+- Náuseas: muy frecuentes.
+
+Este efecto debe valorarse en el contexto clínico del paciente, especialmente al inicio del tratamiento o tras ajustes de dosis. Se recomienda seguimiento clínico y medidas de apoyo habituales si la intensidad interfiere con la tolerabilidad del tratamiento.
+
+-- Caso 3 --
+En el sistema de clasificación de órganos Trastornos del sistema cardiovascular, se ha notificado Bradicardia (pulso lento) con frecuencia no frecuente durante el tratamiento con metadona hidrocloruro, principio activo de METASEDIN. Este hallazgo puede relacionarse con los efectos farmacológicos de la metadona en pacientes susceptibles, especialmente cuando existen factores predisponentes; se recomienda seguimiento clínico según la situación individual. La valoración debe considerar la dosis, la evolución temporal y el estado basal del paciente, sin modificar la interpretación de la categoría indicada.
+
+Lista tabulada de reacciones adversas:
+- Trastornos del sistema cardiovascular: Bradicardia (no frecuente).

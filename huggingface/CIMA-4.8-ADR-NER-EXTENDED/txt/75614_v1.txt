@@ -1,0 +1,51 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil de seguridad descrito para LEVOFLOXACINO HEMIHIDRATO procede de la información acumulada en pacientes tratados por vía oral y de la vigilancia posterior a la comercialización. La mayoría de los acontecimientos comunicados fueron de intensidad leve o moderada y remitieron tras la interrupción o finalización del tratamiento. Algunas manifestaciones pueden aparecer de forma temprana y requerir valoración clínica, especialmente en pacientes con factores predisponentes. La clasificación siguiente se presenta por sistema de clasificación de órganos y por categoría de frecuencia, utilizando la terminología estándar.
+
+Lista tabulada de reacciones adversas
+TRASTORNOS DEL SISTEMA NERVIOSO: frecuentes: Cefalea, Mareo; poco frecuentes: Disgeusia, Somnolencia, Temblor; no frecuente: Convulsiones, Deterioro de la memoria, Parestesia; frecuencia no conocida: Ageusia, Anosmia, Discinesia, Hipertensión intracraneal benigna, Mioclonía, Neuropatía periférica sensitiva, Neuropatía periférica sensitivo-motora, Parosmia, Síncope, Trastorno extrapiramidal.
+
+TRASTORNOS PSIQUIÁTRICOS: frecuentes: Insomnio; poco frecuentes: Ansiedad, Estado de confusión, Nerviosismo; no frecuente: Agitación, Delirio, Depresión, Pesadillas, Reacciones psicóticas, Sueños anómalos; frecuencia no conocida: Manía, Reacciones psicóticas con comportamiento autolesivo, incluyendo ideas suicidas o intentos de suicidio.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS: poco frecuentes: Eosinofilia, Leucopenia; no frecuente: Neutropenia, Trombocitopenia; frecuencia no conocida: Agranulocitosis, Anemia aplásica, Anemia hemolítica, Insuficiencia de la médula ósea, Pancitopenia.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS: poco frecuentes: Vértigo; no frecuente: Alteraciones visuales tales como visión borrosa, Tinnitus; frecuencia no conocida: Deficiencia auditiva, Pérdida de audición, Pérdida transitoria de la visión, Uveítis.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO: no frecuente: Angioedema, Hipersensibilidad.
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN: poco frecuentes: Anorexia; no frecuente: Coma hipoglucémico, Hipoglucemia particularmente en pacientes diabéticos; frecuencia no conocida: Hiperglucemia.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR: no frecuente: Hipotensión, Palpitaciones, Taquicardia; frecuencia no conocida: Arritmia ventricular, Intérvalo QT prolongado en el electrocardiograma, Taquicardia ventricular, Torsade de pointes (en pacientes con factores de riesgo de prolongación del QT).
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO: poco frecuentes: Artralgia, Mialgia; no frecuente: Debilidad muscular, Trastornos del tendón incluyendo tendinitis; frecuencia no conocida: Artritis, Rabdomiólisis, Rotura de ligamento, Rotura de tendón, Rotura muscular.
+
+TRASTORNOS DEL SISTEMA GENERAL: poco frecuentes: Astenia; no frecuente: Pirexia; frecuencia no conocida: Dolor.
+
+TRASTORNOS DEL SISTEMA HEPATOBILIAR: frecuentes: Aumento de enzimas hepáticas; poco frecuentes: Aumento de bilirrubina en sangre; frecuencia no conocida: Daño hepático grave, Hepatitis, Ictericia, Insuficiencia hepática aguda fulminante.
+
+TRASTORNOS DEL SISTEMA EXCRETOR: poco frecuentes: Aumento de la creatinina en sangre; no frecuente: Insuficiencia renal aguda.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO: poco frecuentes: Disnea; frecuencia no conocida: Broncoespasmo, Neumonitis alérgica.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO: frecuentes: Diarrea, Náuseas, Vómitos; poco frecuentes: Dispepsia, Dolor abdominal, Estreñimiento, Flatulencia; frecuencia no conocida: Diarrea hemorrágica, Enterocolitis pseudomembranosa, Pancreatitis.
+
+TRASTORNOS DE PIEL Y TEJIDOS: poco frecuentes: Exantema, Hiperihidrosis, Prurito, Urticaria; no frecuente: Erupción fija medicamentosa, Reacción a fármaco con eosinofilia y síntomas sistémicos (DRESS); frecuencia no conocida: Eritema multiforme, Estomatitis, Hiperpigmentación de la piel, Necrólisis epidérmica tóxica, Reacción de fotosensibilidad, Síndrome de Stevens-Johnson, Vasculitis leucocitoclástica.
+
+INFECCIONES E INFESTACIONES: poco frecuentes: Infecciones fúngicas, Resistencia a patógenos.
+
+TRASTORNOS DEL SISTEMA ENDOCRINO: no frecuente: Sindrome de secreción inadecuada de la hormona antidiurética.
+
+Descripción de reacciones adversas seleccionadas
+Durante el tratamiento debe considerarse la situación clínica individual, la edad, la función renal y los tratamientos concomitantes. La aparición de síntomas persistentes, progresivos o clínicamente relevantes justifica una evaluación inmediata y la adopción de medidas adecuadas. En pacientes con antecedentes o factores predisponentes, el profesional sanitario debe valorar cuidadosamente la continuidad del tratamiento. La notificación de sospechas permite mantener actualizada la información de seguridad y contribuye a una caracterización más precisa del perfil del medicamento.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+Dentro del sistema de clasificación de órganos Trastornos de piel y tejidos, Urticaria se clasifica entre las reacciones adversas poco frecuentes notificadas durante el tratamiento con LEVOFLOXACINO HEMIHIDRATO. La aparición de lesiones compatibles debe valorarse en el contexto clínico del paciente y del momento de exposición al medicamento. Se recomienda realizar seguimiento clínico y considerar la adecuación del tratamiento si la manifestación persiste o progresa.
+
+-- Caso 2 --
+En el sistema de clasificación de órganos Trastornos psiquiátricos, el insomnio se ha notificado como una de las reacciones adversas frecuentes asociadas al tratamiento con LEVOFLOXACINO HEMIHIDRATO. Esta manifestación puede aparecer durante la administración y debe valorarse en el contexto clínico del paciente, especialmente si interfiere con el descanso o con las actividades habituales. Se recomienda informar al paciente para que comunique la persistencia o el empeoramiento del síntoma, y considerar el seguimiento clínico según la evolución y la necesidad de continuar el tratamiento.
+
+-- Caso 3 --
+En el apartado de reacciones adversas, Anosmia se clasifica bajo TRASTORNOS DEL SISTEMA NERVIOSO y se ha notificado con frecuencia no conocida durante el uso de LEVOFLOXACINO HEMIHIDRATO. Su aparición puede ser coherente con la afectación funcional de vías sensoriales descrita para este grupo de medicamentos, sin que los datos disponibles permitan establecer una incidencia precisa. Se recomienda valorar la evolución clínica y la relación temporal con el tratamiento, así como considerar la notificación de los casos sospechosos conforme a los procedimientos habituales de farmacovigilancia.

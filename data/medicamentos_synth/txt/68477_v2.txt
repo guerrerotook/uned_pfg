@@ -1,0 +1,90 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil de seguridad de LORAZEPAM se corresponde con el esperado para un ansiolítico de acción central. Con lorazepam, las manifestaciones comunicadas suelen depender de la sensibilidad individual, de la situación clínica basal y de la exposición acumulada. En pacientes de edad avanzada o debilitados se recomienda valorar periódicamente la necesidad de continuar el tratamiento y ajustar la pauta de forma individual. Algunas manifestaciones pueden aparecer al inicio y disminuir con la continuación del tratamiento; otras requieren reevaluación clínica. La información siguiente se presenta con terminología clínica y siguiendo la clasificación por órganos.
+
+Lista tabulada de reacciones adversas
+
+TRASTORNOS PSIQUIÁTRICOS
+frecuentes: Confusión, Depresión, Desenmascaramiento de depresión.
+poco frecuentes: Cambio de  la líbido, Disminución de orgasmos.
+frecuencia no conocida: Agitación, Agresividad, Alteraciones del sueño, Alucinaciones, Ansiedad, Deseo sexual, Deshinibición, Euforia, Excitación, Furia, Hostilidad, Ideas e intentos de suicidio, Insomnio.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+frecuencia no conocida: Agranulositosis, Pancitopenia, Trombocitopenia.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+frecuencia no conocida: Alopecia, Angioedema, Reaciones alérgicas en la piel.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+muy frecuentes: Sedación, Somnolencia.
+frecuentes: Ataxia, Mareos.
+frecuencia no conocida: Alteraciones de la atención/concentración, Amnesia, Coma, Convulsiones, Disartria, Dolor de cabeza, Efecto depresor del SNC a altas dosis, Síntomas extrapiramidales, Temblor, Trastorno del equilibrio.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+frecuencia no conocida: Apnea, Empeoramiento de la EPOC dosis dependiente, Empeoramiento de la apnea del sueño, Insuficiencia respiratoria.
+
+TRASTORNOS DEL SISTEMA GENERAL
+muy frecuentes: Fatiga.
+frecuentes: Astenia.
+frecuencia no conocida: Hipotermia.
+
+EXPLORACIONES COMPLEMENTARIAS
+frecuencia no conocida: Aumento de la bilirrubina, Aumento de la fosfatasa alcalina, Aumento de las transaminasas.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+frecuentes: Debilidad muscular.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+frecuencia no conocida: Dismninución de la presión sanguínea, Hipotensión.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+poco frecuentes: Náuseas.
+frecuencia no conocida: Estreñimiento.
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN
+frecuencia no conocida: Hiponatremia.
+
+TRASTORNOS DEL SISTEMA HEPATOBILIAR
+frecuencia no conocida: Ictericia.
+
+TRASTORNOS DEL SISTEMA REPRODUCTOR
+poco frecuentes: Impotencia.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+frecuencia no conocida: Problemas visuales (diplopia y visión borrosa), Vértigo.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+frecuencia no conocida: Reacciones de hipersensibilidad y anafilácticas/anafilactoides.
+
+TRASTORNOS DEL SISTEMA ENDOCRINO
+frecuencia no conocida: Síndrome de secreción inapropiada de hormona antidiurética.
+
+Descripción de reacciones adversas seleccionadas
+Las alteraciones relacionadas con el estado de alerta y la coordinación deben valorarse especialmente cuando el paciente realiza actividades que requieren atención sostenida. La aparición de síntomas conductuales o cambios del estado mental exige una revisión del balance beneficio-riesgo y de los factores predisponentes.
+
+En personas con enfermedad respiratoria previa, la vigilancia clínica debe ser más estrecha, sobre todo si existen tratamientos concomitantes con acción depresora central. También se aconseja considerar antecedentes hematológicos, hepáticos, endocrinos o de hipersensibilidad antes de mantener la exposición durante periodos prolongados.
+
+La comunicación de sospechas tras la autorización del medicamento permite una supervisión continuada. Los profesionales sanitarios deben notificar cualquier sospecha relevante mediante los sistemas establecidos, aportando la mayor información clínica disponible.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En el perfil de seguridad de lorazepam, la Fatiga (cansancio) se incluye dentro del sistema de clasificación de órganos TRASTORNOS DEL SISTEMA GENERAL. En la tabla de reacciones adversas debe consignarse de forma literal:
+- Fatiga: muy frecuentes.
+Este efecto es coherente con la acción depresora central de las benzodiacepinas y puede observarse especialmente al inicio del tratamiento o tras ajustes de dosis. Se recomienda valorar la evolución clínica y la repercusión funcional, considerando las circunstancias individuales del paciente y la duración prevista del tratamiento.
+
+-- Caso 2 --
+Dentro de TRASTORNOS DEL SISTEMA GENERAL, se ha notificado Astenia asociada al tratamiento con LORAZEPAM. Esta reacción adversa se considera de frecuencia frecuentes y puede aparecer especialmente al inicio del tratamiento o tras ajustes de dosis, en relación con el efecto depresor central propio de las benzodiazepinas.
+
+Lista tabulada:
+- TRASTORNOS DEL SISTEMA GENERAL: Astenia (cansancio), frecuentes.
+
+En pacientes tratados con lorazepam o Lorazepam Cinfa, se recomienda valorar la evolución clínica y la tolerabilidad, especialmente si la sensación de falta de energía interfiere con las actividades habituales. La persistencia o intensificación del cuadro debe considerarse en la reevaluación del tratamiento.
+
+-- Caso 3 --
+Dentro de los Trastornos del sistema digestivo, durante el tratamiento con lorazepam se han notificado las siguientes reacciones adversas poco frecuentes:
+
+- Náuseas.
+
+Las Náuseas pueden aparecer de forma aislada y, en general, deben valorarse en relación con el estado clínico del paciente y la pauta de administración. Dado el perfil farmacológico del lorazepam, también conocido en la práctica clínica por presentaciones como Orfidal, se recomienda realizar seguimiento si la molestia digestiva persiste o interfiere con la adherencia al tratamiento, sin modificar la dosis sin valoración médica.

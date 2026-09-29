@@ -1,0 +1,236 @@
+[
+  {
+    "principio activo": "LEVOTIROXINA SODICA",
+    "reacción adversa": "reacciones de hipersensibilidad",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+  },
+  {
+    "principio activo": "LEVOTIROXINA SODICA",
+    "reacción adversa": "hipertiroidismo",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS ENDOCRINOS"
+  },
+  {
+    "principio activo": "LEVOTIROXINA SODICA",
+    "reacción adversa": "aumento del apetito",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  },
+  {
+    "principio activo": "LEVOTIROXINA SODICA",
+    "reacción adversa": "insomnio",
+    "frecuencia": "MUY FRECUENTE",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "LEVOTIROXINA SODICA",
+    "reacción adversa": "nerviosismo",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "LEVOTIROXINA SODICA",
+    "reacción adversa": "inquietud interna",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "LEVOTIROXINA SODICA",
+    "reacción adversa": "excitación",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "LEVOTIROXINA SODICA",
+    "reacción adversa": "dolor de cabeza",
+    "frecuencia": "MUY FRECUENTE",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "LEVOTIROXINA SODICA",
+    "reacción adversa": "hipertensión intracraneal benigna (pseudotumor cerebral), particularmente en niños",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "LEVOTIROXINA SODICA",
+    "reacción adversa": "temblores",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "LEVOTIROXINA SODICA",
+    "reacción adversa": "palpitaciones",
+    "frecuencia": "MUY FRECUENTE",
+    "trastorno": "TRASTORNOS CARDIACOS"
+  },
+  {
+    "principio activo": "LEVOTIROXINA SODICA",
+    "reacción adversa": "taquicardia",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS CARDIACOS"
+  },
+  {
+    "principio activo": "LEVOTIROXINA SODICA",
+    "reacción adversa": "malestar anginoso",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS CARDIACOS"
+  },
+  {
+    "principio activo": "LEVOTIROXINA SODICA",
+    "reacción adversa": "arritmias cardiacas",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS CARDIACOS"
+  },
+  {
+    "principio activo": "LEVOTIROXINA SODICA",
+    "reacción adversa": "insuficiencia cardiaca",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS CARDIACOS"
+  },
+  {
+    "principio activo": "LEVOTIROXINA SODICA",
+    "reacción adversa": "infarto de miocardio",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS CARDIACOS"
+  },
+  {
+    "principio activo": "LEVOTIROXINA SODICA",
+    "reacción adversa": "rubor",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS VASCULARES"
+  },
+  {
+    "principio activo": "LEVOTIROXINA SODICA",
+    "reacción adversa": "hipertensión",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS VASCULARES"
+  },
+  {
+    "principio activo": "LEVOTIROXINA SODICA",
+    "reacción adversa": "colapso circulatorio en neonatos prematuros de muy bajo peso al nacer",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS VASCULARES"
+  },
+  {
+    "principio activo": "LEVOTIROXINA SODICA",
+    "reacción adversa": "disnea",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS RESPIRATORIOS, TORÁCICOS Y MEDIASTÍNICOS"
+  },
+  {
+    "principio activo": "LEVOTIROXINA SODICA",
+    "reacción adversa": "dolor abdominal",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "LEVOTIROXINA SODICA",
+    "reacción adversa": "náuseas",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "LEVOTIROXINA SODICA",
+    "reacción adversa": "diarrea",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "LEVOTIROXINA SODICA",
+    "reacción adversa": "vómitos",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "LEVOTIROXINA SODICA",
+    "reacción adversa": "angioedema",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "LEVOTIROXINA SODICA",
+    "reacción adversa": "erupción cutánea",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "LEVOTIROXINA SODICA",
+    "reacción adversa": "urticaria",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "LEVOTIROXINA SODICA",
+    "reacción adversa": "prurito",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "LEVOTIROXINA SODICA",
+    "reacción adversa": "hiperhidrosis",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "LEVOTIROXINA SODICA",
+    "reacción adversa": "pérdida transitoria del cabello en niños",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "LEVOTIROXINA SODICA",
+    "reacción adversa": "calambres musculares",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS MUSCULOESQUELÉTICOS Y DEL TEJIDO CONJUNTIVO"
+  },
+  {
+    "principio activo": "LEVOTIROXINA SODICA",
+    "reacción adversa": "debilidad muscular",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS MUSCULOESQUELÉTICOS Y DEL TEJIDO CONJUNTIVO"
+  },
+  {
+    "principio activo": "LEVOTIROXINA SODICA",
+    "reacción adversa": "osteoporosis en dosis supresoras de levotiroxina, especialmente en mujeres posmenopáusicas, principalmente cuando se tratan durante un período prolongado",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS MUSCULOESQUELÉTICOS Y DEL TEJIDO CONJUNTIVO"
+  },
+  {
+    "principio activo": "LEVOTIROXINA SODICA",
+    "reacción adversa": "craneoesteneosis en bebés",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS MUSCULOESQUELÉTICOS Y DEL TEJIDO CONJUNTIVO"
+  },
+  {
+    "principio activo": "LEVOTIROXINA SODICA",
+    "reacción adversa": "cierre prematuro de la epífisis en niños",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS MUSCULOESQUELÉTICOS Y DEL TEJIDO CONJUNTIVO"
+  },
+  {
+    "principio activo": "LEVOTIROXINA SODICA",
+    "reacción adversa": "menstruación irregular",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DEL APARATO REPRODUCTOR Y DE LA MAMA"
+  },
+  {
+    "principio activo": "LEVOTIROXINA SODICA",
+    "reacción adversa": "intolerancia al calor",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "LEVOTIROXINA SODICA",
+    "reacción adversa": "fiebre",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "LEVOTIROXINA SODICA",
+    "reacción adversa": "pérdida de peso",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "EXPLORACIONES COMPLEMENTARIAS"
+  }
+]

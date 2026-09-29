@@ -1,0 +1,530 @@
+[
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Candidiasis orofaríngea",
+    "frecuencia": "Frecuente",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Neumonía (en pacientes con EPOC)",
+    "frecuencia": "Frecuente",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Reacciones de hipersensibilidad inmediata y retardada",
+    "frecuencia": "Rara",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Exantema",
+    "frecuencia": "Rara",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Urticaria",
+    "frecuencia": "Rara",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Prurito",
+    "frecuencia": "Rara",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Dermatitis",
+    "frecuencia": "Rara",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Angioedema",
+    "frecuencia": "Rara",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Reacción anafiláctica",
+    "frecuencia": "Rara",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Síndrome de Cushing",
+    "frecuencia": "Muy rara",
+    "trastorno": "Trastornos endocrinos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Supresión adrenal",
+    "frecuencia": "Muy rara",
+    "trastorno": "Trastornos endocrinos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Retraso del crecimiento",
+    "frecuencia": "Muy rara",
+    "trastorno": "Trastornos endocrinos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Disminución de la densidad mineral ósea",
+    "frecuencia": "Muy rara",
+    "trastorno": "Trastornos endocrinos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Hipocalemia",
+    "frecuencia": "Rara",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Hiperglucemia",
+    "frecuencia": "Muy rara",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Agresividad",
+    "frecuencia": "Poco frecuente",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Hiperactividad psicomotora",
+    "frecuencia": "Poco frecuente",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Ansiedad",
+    "frecuencia": "Poco frecuente",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Alteraciones del sueño",
+    "frecuencia": "Poco frecuente",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Depresión",
+    "frecuencia": "Muy rara",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Alteraciones del comportamiento (principalmente en niños)",
+    "frecuencia": "Muy rara",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Cefalea",
+    "frecuencia": "Frecuente",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Temblor",
+    "frecuencia": "Frecuente",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Mareo",
+    "frecuencia": "Poco frecuente",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Alteraciones del gusto",
+    "frecuencia": "Muy rara",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Visión borrosa",
+    "frecuencia": "Poco frecuente",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Cataratas",
+    "frecuencia": "Muy rara",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Glaucoma",
+    "frecuencia": "Muy rara",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Palpitaciones",
+    "frecuencia": "Frecuente",
+    "trastorno": "Trastornos cardíacos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Taquicardia",
+    "frecuencia": "Poco frecuente",
+    "trastorno": "Trastornos cardíacos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Arritmias cardíacas",
+    "frecuencia": "Rara",
+    "trastorno": "Trastornos cardíacos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Fibrilación auricular",
+    "frecuencia": "Rara",
+    "trastorno": "Trastornos cardíacos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Taquicardia supraventricular",
+    "frecuencia": "Rara",
+    "trastorno": "Trastornos cardíacos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Extrasístoles",
+    "frecuencia": "Rara",
+    "trastorno": "Trastornos cardíacos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Angina de pecho",
+    "frecuencia": "Muy rara",
+    "trastorno": "Trastornos cardíacos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Prolongación del intervalo QTc",
+    "frecuencia": "Muy rara",
+    "trastorno": "Trastornos cardíacos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Variaciones en la presión arterial",
+    "frecuencia": "Muy rara",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Irritación leve de garganta",
+    "frecuencia": "Frecuente",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Tos",
+    "frecuencia": "Frecuente",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Disfonía, incluida ronquera",
+    "frecuencia": "Frecuente",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Broncoespasmo",
+    "frecuencia": "Rara",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Broncoespasmo paradójico",
+    "frecuencia": "Muy rara",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Náuseas",
+    "frecuencia": "Poco frecuente",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Hematomas",
+    "frecuencia": "Poco frecuente",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Calambres musculares",
+    "frecuencia": "Poco frecuente",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Candidiasis orofaríngea",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Neumonía (en pacientes con EPOC)",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Exantema",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Urticaria",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Prurito",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Dermatitis",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Angioedema",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Reacción anafiláctica",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Síndrome de Cushing",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos endocrinos"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Supresión adrenal",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos endocrinos"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Retraso del crecimiento",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos endocrinos"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Disminución de la densidad mineral ósea",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos endocrinos"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Hipocalemia",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Hiperglucemia",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Agresividad",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Hiperactividad psicomotora",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Ansiedad",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Alteraciones del sueño",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Depresión",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Alteraciones del comportamiento (principalmente en niños)",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Cefalea",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Temblor",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Mareo",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Alteraciones del gusto",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Visión borrosa",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Cataratas",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Glaucoma",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Palpitaciones",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos cardíacos"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Taquicardia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos cardíacos"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Fibrilación auricular",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos cardíacos"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Taquicardia supraventricular",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos cardíacos"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Extrasístoles",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos cardíacos"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Angina de pecho",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos cardíacos"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Prolongación del intervalo QTc",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos cardíacos"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Variaciones en la presión arterial",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Irritación leve de garganta",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Tos",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Disfonía, incluida ronquera",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Broncoespasmo",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Broncoespasmo paradójico",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Náuseas",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Hematomas",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "FORMOTEROL FUMARATO DIHIDRATO",
+    "reacción adversa": "Calambres musculares",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  }
+]

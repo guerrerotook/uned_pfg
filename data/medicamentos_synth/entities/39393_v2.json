@@ -1,0 +1,303 @@
+{
+  "codigo": "39393",
+  "variante": 2,
+  "codigo_variant": "39393_v2",
+  "medicamento": "SYNTOCINON 10 UI amp 1 ml IV",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "OXITOCINA",
+      "surface": "oxitocina",
+      "start": 35,
+      "end": 44
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "OXITOCINA",
+      "surface": "Syntocinon",
+      "start": 64,
+      "end": 74
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "Trastornos de piel y tejidos",
+      "start": 990,
+      "end": 1018
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 1019,
+      "end": 1041
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angioedema",
+      "surface": "Angioedema",
+      "start": 1043,
+      "end": 1053
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 1055,
+      "end": 1067
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción",
+      "surface": "Erupción",
+      "start": 1069,
+      "end": 1077
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "Trastornos del sistema cardiovascular",
+      "start": 1080,
+      "end": 1117
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 1118,
+      "end": 1133
+    },
+    {
+      "type": "REACT",
+      "canonical": "Arritmia",
+      "surface": "Arritmia",
+      "start": 1135,
+      "end": 1143
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 1123,
+      "end": 1133
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bradicardia",
+      "surface": "Bradicardia",
+      "start": 1157,
+      "end": 1168
+    },
+    {
+      "type": "REACT",
+      "canonical": "Taquicardia",
+      "surface": "Taquicardia",
+      "start": 1170,
+      "end": 1181
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión",
+      "start": 1207,
+      "end": 1218
+    },
+    {
+      "type": "REACT",
+      "canonical": "Isquemia miocárdica",
+      "surface": "Isquemia miocárdica",
+      "start": 1220,
+      "end": 1239
+    },
+    {
+      "type": "REACT",
+      "canonical": "prolongación del intervalo QT del electrocardiograma",
+      "surface": "prolongación del intervalo QT del electrocardiograma",
+      "start": 1241,
+      "end": 1293
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "Trastornos de la sangre y órganos hematopoyéticos",
+      "start": 1296,
+      "end": 1345
+    },
+    {
+      "type": "REACT",
+      "canonical": "Coagulación intravascular diseminada",
+      "surface": "Coagulación intravascular diseminada",
+      "start": 1370,
+      "end": 1406
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "Trastornos del sistema reproductor",
+      "start": 1409,
+      "end": 1443
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertonía uterina",
+      "surface": "Hipertonía uterina",
+      "start": 1468,
+      "end": 1486
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de sufrimiento fetal, asfixia y muerte",
+      "surface": "Síndrome de sufrimiento fetal, asfixia y muerte",
+      "start": 1488,
+      "end": 1535
+    },
+    {
+      "type": "REACT",
+      "canonical": "contracciones tetánicas del útero",
+      "surface": "contracciones tetánicas del útero",
+      "start": 1537,
+      "end": 1570
+    },
+    {
+      "type": "REACT",
+      "canonical": "ruptura del útero",
+      "surface": "ruptura del útero",
+      "start": 1572,
+      "end": 1589
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "Trastornos del sistema nervioso",
+      "start": 1592,
+      "end": 1623
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor de cabeza",
+      "surface": "Dolor de cabeza",
+      "start": 1636,
+      "end": 1651
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "Trastornos del sistema respiratorio",
+      "start": 1654,
+      "end": 1689
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema pulmonar agudo",
+      "surface": "Edema pulmonar agudo",
+      "start": 1714,
+      "end": 1734
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "Trastornos del metabolismo y la nutrición",
+      "start": 1737,
+      "end": 1778
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiponatremia",
+      "surface": "Hiponatremia",
+      "start": 1803,
+      "end": 1815
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiponatremia neonatal",
+      "surface": "Hiponatremia neonatal",
+      "start": 1817,
+      "end": 1838
+    },
+    {
+      "type": "REACT",
+      "canonical": "Intoxicación hídrica",
+      "surface": "Intoxicación hídrica",
+      "start": 1840,
+      "end": 1860
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "Trastornos del sistema digestivo",
+      "start": 1863,
+      "end": 1895
+    },
+    {
+      "type": "REACT",
+      "canonical": "Nauseas",
+      "surface": "Nauseas",
+      "start": 1908,
+      "end": 1915
+    },
+    {
+      "type": "REACT",
+      "canonical": "vómitos",
+      "surface": "vómitos",
+      "start": 1917,
+      "end": 1924
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "Trastornos del sistema inmunológico",
+      "start": 1927,
+      "end": 1962
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacción anafiláctica/anafilactoide asociada a disnea e hipotensión",
+      "surface": "Reacción anafiláctica/anafilactoide asociada a disnea e hipotensión",
+      "start": 1977,
+      "end": 2044
+    },
+    {
+      "type": "REACT",
+      "canonical": "shock anafiláctico/anafilactoide",
+      "surface": "shock anafiláctico/anafilactoide",
+      "start": 2046,
+      "end": 2078
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "Trastornos del sistema general",
+      "start": 2081,
+      "end": 2111
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rubor",
+      "surface": "Rubor",
+      "start": 2136,
+      "end": 2141
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rubor",
+      "surface": "sofoco",
+      "start": 2143,
+      "end": 2149
+    },
+    {
+      "type": "REACT",
+      "canonical": "Arritmia",
+      "surface": "latido irregular",
+      "start": 3717,
+      "end": 3733
+    },
+    {
+      "type": "REACT",
+      "canonical": "Taquicardia",
+      "surface": "pulso rápido",
+      "start": 4086,
+      "end": 4098
+    }
+  ]
+}

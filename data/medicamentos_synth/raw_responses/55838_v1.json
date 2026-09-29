@@ -1,0 +1,250 @@
+{
+  "codigo": "55838",
+  "variante": 1,
+  "codigo_variant": "55838_v1",
+  "medicamento": "Sueroral Casen polvo para solución oral",
+  "model": "gpt-5.5",
+  "style_variant_idx": 0,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil de seguridad de GLUCOSA se considera previsible cuando el medicamento se utiliza de acuerdo con las recomendaciones de administración. La mayoría de las situaciones notificadas se han observado en un contexto clínico en el que el estado de hidratación, la función renal y el aporte de sales pueden modificar la tolerancia al tratamiento. Antes de iniciar la administración se recomienda valorar la situación basal del paciente y mantener una vigilancia adecuada durante el periodo de uso. En caso de aparición de síntomas persistentes o de empeoramiento del estado general, debe reconsiderarse la pauta de administración y aplicarse el manejo clínico oportuno.\n\nLa información disponible no permite establecer una relación con acontecimientos distintos de los incluidos en la lista siguiente. La evaluación de seguridad se ha realizado atendiendo a la terminología habitual de las fichas técnicas y agrupando las reacciones por sistema de clasificación de órganos. Dentro de cada grupo, las reacciones se presentan por frecuencia decreciente cuando procede. La notificación de sospechas de reacciones adversas tras la autorización del medicamento permite continuar la vigilancia del balance beneficio-riesgo.\n\nLista tabulada de reacciones adversas\n\nSistema de clasificación de órganos: Trastornos del sistema general\nFrecuencia: poco frecuentes\nEn pacientes con deterioro renal puede dar lugar a hipernatremia e hiperkaliemia.\n\nSistema de clasificación de órganos: Trastornos del sistema digestivo\nFrecuencia: poco frecuentes\nvómitos.\n\nDescripción de reacciones adversas seleccionadas\n\nEn pacientes con deterioro renal puede dar lugar a hipernatremia e hiperkaliemia se recoge como una reacción asociada a condiciones clínicas en las que la eliminación de determinados componentes puede estar reducida. En estos pacientes, la valoración previa y el seguimiento durante la administración son especialmente importantes. Si se observa deterioro clínico, deben adoptarse medidas de control y considerar la interrupción temporal del tratamiento hasta completar la evaluación.\n\nLos vómitos pueden presentarse durante el uso del medicamento y, si son persistentes, pueden dificultar la administración adecuada de la solución. La tolerancia digestiva debe valorarse de forma individual, especialmente cuando el paciente no pueda mantener la ingesta recomendada. Si aparecen vómitos repetidos, se aconseja revisar la pauta de administración y asegurar una reposición adecuada conforme al criterio clínico.\n\nNo se dispone de datos que indiquen diferencias relevantes en la naturaleza de estas reacciones según la edad, siempre que el medicamento se utilice de acuerdo con las instrucciones de preparación y administración. La aparición de cualquier signo no esperado debe notificarse por los canales habituales de farmacovigilancia, aportando la mayor información posible sobre dosis, duración del tratamiento, situación basal y evolución posterior.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nEn el sistema de clasificación de órganos TRASTORNOS DEL SISTEMA GENERAL, se ha descrito la siguiente reacción adversa asociada a GLUCOSA: En pacientes con deterioro renal puede dar lugar a hipernatremia e hiperkaliemia. La frecuencia se considera poco frecuentes. En estos pacientes, la capacidad para eliminar la carga de solutos puede estar reducida, por lo que se recomienda valorar la función renal y el balance hidroelectrolítico durante el tratamiento, especialmente si se precisa administración repetida o mantenida.\n\n-- Caso 2 --\nEn la clasificación por órganos y sistemas, dentro de TRASTORNOS DEL SISTEMA DIGESTIVO, los vómitos se consideran poco frecuentes durante el tratamiento con GLUCOSA. La aparición de este episodio puede relacionarse con la administración de soluciones orales hiperosmolares o con la tolerancia individual al preparado, especialmente si la ingesta se realiza de forma rápida. En caso de persistencia o intensidad clínica relevante, se recomienda valorar la evolución del paciente y reconsiderar la pauta de administración de acuerdo con el estado de hidratación. No se requiere una medida específica si el cuadro es leve y transitorio, salvo seguimiento clínico habitual.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "GLUCOSA",
+      "surface": "GLUCOSA",
+      "start": 83,
+      "end": 90
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "Trastornos del sistema general",
+      "start": 1353,
+      "end": 1383
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 1396,
+      "end": 1411
+    },
+    {
+      "type": "REACT",
+      "canonical": "En pacientes con deterioro renal puede dar lugar a hipernatremia e hiperkaliemia",
+      "surface": "En pacientes con deterioro renal puede dar lugar a hipernatremia e hiperkaliemia",
+      "start": 1412,
+      "end": 1492
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "Trastornos del sistema digestivo",
+      "start": 1532,
+      "end": 1564
+    },
+    {
+      "type": "REACT",
+      "canonical": "vómitos",
+      "surface": "vómitos",
+      "start": 1593,
+      "end": 1600
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 1353,
+      "end": 1383
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1532,
+      "end": 1564
+    }
+  ],
+  "raw_long_doc_text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil de seguridad de GLUCOSA se considera previsible cuando el medicamento se utiliza de acuerdo con las recomendaciones de administración. La mayoría de las situaciones notificadas se han observado en un contexto clínico en el que el estado de hidratación, la función renal y el aporte de sales pueden modificar la tolerancia al tratamiento. Antes de iniciar la administración se recomienda valorar la situación basal del paciente y mantener una vigilancia adecuada durante el periodo de uso. En caso de aparición de síntomas persistentes o de empeoramiento del estado general, debe reconsiderarse la pauta de administración y aplicarse el manejo clínico oportuno.\n\nLa información disponible no permite establecer una relación con acontecimientos distintos de los incluidos en la lista siguiente. La evaluación de seguridad se ha realizado atendiendo a la terminología habitual de las fichas técnicas y agrupando las reacciones por sistema de clasificación de órganos. Dentro de cada grupo, las reacciones se presentan por frecuencia decreciente cuando procede. La notificación de sospechas de reacciones adversas tras la autorización del medicamento permite continuar la vigilancia del balance beneficio-riesgo.\n\nLista tabulada de reacciones adversas\n\nSistema de clasificación de órganos: Trastornos del sistema general\nFrecuencia: poco frecuentes\nEn pacientes con deterioro renal puede dar lugar a hipernatremia e hiperkaliemia.\n\nSistema de clasificación de órganos: Trastornos del sistema digestivo\nFrecuencia: poco frecuentes\nvómitos.\n\nDescripción de reacciones adversas seleccionadas\n\nEn pacientes con deterioro renal puede dar lugar a hipernatremia e hiperkaliemia se recoge como una reacción asociada a condiciones clínicas en las que la eliminación de determinados componentes puede estar reducida. En estos pacientes, la valoración previa y el seguimiento durante la administración son especialmente importantes. Si se observa deterioro clínico, deben adoptarse medidas de control y considerar la interrupción temporal del tratamiento hasta completar la evaluación.\n\nLos vómitos pueden presentarse durante el uso del medicamento y, si son persistentes, pueden dificultar la administración adecuada de la solución. La tolerancia digestiva debe valorarse de forma individual, especialmente cuando el paciente no pueda mantener la ingesta recomendada. Si aparecen vómitos repetidos, se aconseja revisar la pauta de administración y asegurar una reposición adecuada conforme al criterio clínico.\n\nNo se dispone de datos que indiquen diferencias relevantes en la naturaleza de estas reacciones según la edad, siempre que el medicamento se utilice de acuerdo con las instrucciones de preparación y administración. La aparición de cualquier signo no esperado debe notificarse por los canales habituales de farmacovigilancia, aportando la mayor información posible sobre dosis, duración del tratamiento, situación basal y evolución posterior.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "GLUCOSA",
+      "surface": "GLUCOSA"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "Trastornos del sistema general"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "En pacientes con deterioro renal puede dar lugar a hipernatremia e hiperkaliemia",
+      "surface": "En pacientes con deterioro renal puede dar lugar a hipernatremia e hiperkaliemia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "Trastornos del sistema digestivo"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "vómitos",
+      "surface": "vómitos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "En pacientes con deterioro renal puede dar lugar a hipernatremia e hiperkaliemia",
+      "surface": "En pacientes con deterioro renal puede dar lugar a hipernatremia e hiperkaliemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "vómitos",
+      "surface": "vómitos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "vómitos",
+      "surface": "vómitos"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "Sueroral Casen polvo para solución oral",
+        "pactivo": "GLUCOSA",
+        "reaccion": "En pacientes con deterioro renal puede dar lugar a hipernatremia e hiperkaliemia",
+        "frecuencia": "POCO FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA GENERAL"
+      },
+      "text": "En el sistema de clasificación de órganos TRASTORNOS DEL SISTEMA GENERAL, se ha descrito la siguiente reacción adversa asociada a GLUCOSA: En pacientes con deterioro renal puede dar lugar a hipernatremia e hiperkaliemia. La frecuencia se considera poco frecuentes. En estos pacientes, la capacidad para eliminar la carga de solutos puede estar reducida, por lo que se recomienda valorar la función renal y el balance hidroelectrolítico durante el tratamiento, especialmente si se precisa administración repetida o mantenida.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+          "surface": "TRASTORNOS DEL SISTEMA GENERAL"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "GLUCOSA",
+          "surface": "GLUCOSA"
+        },
+        {
+          "type": "REACT",
+          "canonical": "En pacientes con deterioro renal puede dar lugar a hipernatremia e hiperkaliemia",
+          "surface": "En pacientes con deterioro renal puede dar lugar a hipernatremia e hiperkaliemia"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+          "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+          "start": 42,
+          "end": 72
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "GLUCOSA",
+          "surface": "GLUCOSA",
+          "start": 130,
+          "end": 137
+        },
+        {
+          "type": "REACT",
+          "canonical": "En pacientes con deterioro renal puede dar lugar a hipernatremia e hiperkaliemia",
+          "surface": "En pacientes con deterioro renal puede dar lugar a hipernatremia e hiperkaliemia",
+          "start": 139,
+          "end": 219
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes",
+          "start": 248,
+          "end": 263
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "Sueroral Casen polvo para solución oral",
+        "pactivo": "GLUCOSA",
+        "reaccion": "vómitos",
+        "frecuencia": "POCO FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+      },
+      "text": "En la clasificación por órganos y sistemas, dentro de TRASTORNOS DEL SISTEMA DIGESTIVO, los vómitos se consideran poco frecuentes durante el tratamiento con GLUCOSA. La aparición de este episodio puede relacionarse con la administración de soluciones orales hiperosmolares o con la tolerancia individual al preparado, especialmente si la ingesta se realiza de forma rápida. En caso de persistencia o intensidad clínica relevante, se recomienda valorar la evolución del paciente y reconsiderar la pauta de administración de acuerdo con el estado de hidratación. No se requiere una medida específica si el cuadro es leve y transitorio, salvo seguimiento clínico habitual.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+        },
+        {
+          "type": "REACT",
+          "canonical": "vómitos",
+          "surface": "vómitos"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "GLUCOSA",
+          "surface": "GLUCOSA"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "start": 54,
+          "end": 86
+        },
+        {
+          "type": "REACT",
+          "canonical": "vómitos",
+          "surface": "vómitos",
+          "start": 92,
+          "end": 99
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes",
+          "start": 114,
+          "end": 129
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "GLUCOSA",
+          "surface": "GLUCOSA",
+          "start": 157,
+          "end": 164
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

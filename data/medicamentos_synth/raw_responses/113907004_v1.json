@@ -1,0 +1,621 @@
+{
+  "codigo": "113907004",
+  "variante": 1,
+  "codigo_variant": "113907004_v1",
+  "medicamento": "ADEMPAS 1 MG COMPRIMIDOS RECUBIERTOS CON PELICULA",
+  "model": "gpt-5.5",
+  "style_variant_idx": 0,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil observado durante la exposición a RIOCIGUAT fue coherente con su actividad farmacológica y con la situación clínica de la población tratada. Las notificaciones se evaluaron teniendo en cuenta la gravedad del cuadro de base, la duración de la exposición y la información disponible tras la administración repetida. La mayoría de los acontecimientos fueron de intensidad leve o moderada y pudieron manejarse mediante vigilancia clínica, medidas de soporte o ajuste del tratamiento según el criterio médico. La relación temporal con el inicio o la modificación de la dosis debe valorarse de forma individual. La información siguiente se presenta por clasificación de órganos y por categoría de aparición, utilizando terminología médica normalizada.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\npoco frecuentes: Hemorragia pulmonar.\nfrecuentes: Congestión nasal, Epixtasis, Hemoptisis.\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS\nfrecuentes: Anemia (incl. los parámetros de laboratorio respectivos).\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nmuy frecuentes: Cefalea, Mareo.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nmuy frecuentes: Diarrea, Dispepsia, Náuseas, Vómitos.\nfrecuentes: Disfagia, Distensión abdominal, Dolor gastrointestinal y abdominal, Enfermedad por reflujo gastroesofágico, Estreñimiento, Gastritis.\n\nTRASTORNOS DEL SISTEMA GENERAL\nmuy frecuentes: Edema periférico.\n\nINFECCIONES E INFESTACIONES\nfrecuentes: Gastroenteritis.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\nfrecuentes: Hipotensión, Palpitaciones.\n\nDescripción de reacciones adversas seleccionadas\nLa interpretación de la lista debe realizarse dentro del contexto clínico del paciente y considerando la evolución del proceso subyacente. Antes de atribuir un acontecimiento al medicamento, se recomienda revisar la medicación concomitante, las enfermedades previas, los hallazgos analíticos y la secuencia temporal de los síntomas. En caso de cambios clínicamente relevantes, el profesional sanitario debe valorar la necesidad de monitorización adicional o de modificaciones en la pauta de administración.\n\nDurante el seguimiento, pueden ser útiles una anamnesis dirigida, la exploración física y la revisión periódica de parámetros complementarios cuando estén indicados. La comunicación clara con el paciente facilita la identificación temprana de acontecimientos que puedan requerir atención médica. La persistencia, el empeoramiento o la recurrencia tras la reexposición deben tenerse en cuenta al evaluar la causalidad.\n\nLa notificación de sospechas de reacciones adversas tras la autorización del medicamento es importante, ya que permite una supervisión continuada de la relación beneficio-riesgo. Se invita a los profesionales sanitarios a comunicar cualquier sospecha mediante los sistemas nacionales de notificación establecidos. Esta información contribuye a mantener actualizado el conocimiento de seguridad y a orientar la práctica clínica de forma proporcionada.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nEn la clasificación por órganos y sistemas, dentro de TRASTORNOS DEL SISTEMA CARDIOVASCULAR, se ha notificado Hipotensión como una de las reacciones adversas frecuentes asociadas al tratamiento con RIOCIGUAT. Este efecto es coherente con la acción vasodilatadora del medicamento y puede manifestarse especialmente en pacientes con factores predisponentes o con ajuste reciente de la dosis. Se recomienda considerar la situación clínica del paciente, controlar la presión arterial durante el tratamiento y valorar medidas de manejo conforme a la práctica clínica habitual.\n\n-- Caso 2 --\nEn la evaluación de seguridad de RIOCIGUAT, dentro de TRASTORNOS DEL SISTEMA DIGESTIVO, Dispepsia se incluyó entre las reacciones adversas muy frecuentes. La notificación debe interpretarse de acuerdo con la exposición acumulada y con la susceptibilidad individual del paciente; se recomienda valorar la persistencia o intensidad de los síntomas durante el seguimiento clínico habitual. En caso de molestias clínicamente relevantes, deben aplicarse medidas de soporte y revisar la necesidad de ajuste del tratamiento conforme a la situación clínica. Esta información contribuye a la caracterización global del perfil de tolerabilidad.\n\n-- Caso 3 --\nEn la clasificación por sistema y órgano, dentro de TRASTORNOS DEL SISTEMA RESPIRATORIO, Hemorragia pulmonar figura entre las reacciones adversas poco frecuentes descritas en pacientes tratados con RIOCIGUAT. Este acontecimiento debe valorarse teniendo en cuenta la situación clínica basal y los factores predisponentes individuales, especialmente cuando existan antecedentes relevantes o tratamiento concomitante que pueda modificar el riesgo. Se recomienda vigilancia clínica y evaluación inmediata si aparecen signos compatibles, considerando la interrupción o ajuste del tratamiento de acuerdo con la valoración médica. La información debe interpretarse en el contexto del perfil de seguridad establecido y de la exposición acumulada al principio activo.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "RIOCIGUAT",
+      "surface": "RIOCIGUAT",
+      "start": 101,
+      "end": 110
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 853,
+      "end": 888
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 889,
+      "end": 904
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia pulmonar",
+      "surface": "Hemorragia pulmonar",
+      "start": 906,
+      "end": 925
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 894,
+      "end": 904
+    },
+    {
+      "type": "REACT",
+      "canonical": "Congestión nasal",
+      "surface": "Congestión nasal",
+      "start": 939,
+      "end": 955
+    },
+    {
+      "type": "REACT",
+      "canonical": "Epixtasis",
+      "surface": "Epixtasis",
+      "start": 957,
+      "end": 966
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemoptisis",
+      "surface": "Hemoptisis",
+      "start": 968,
+      "end": 978
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 981,
+      "end": 1030
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia (incl. los parámetros de laboratorio respectivos)",
+      "surface": "Anemia (incl. los parámetros de laboratorio respectivos)",
+      "start": 1043,
+      "end": 1099
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1102,
+      "end": 1133
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes",
+      "start": 1134,
+      "end": 1148
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea",
+      "start": 1150,
+      "end": 1157
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareo",
+      "surface": "Mareo",
+      "start": 1159,
+      "end": 1164
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1167,
+      "end": 1199
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea",
+      "start": 1216,
+      "end": 1223
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dispepsia",
+      "surface": "Dispepsia",
+      "start": 1225,
+      "end": 1234
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 1236,
+      "end": 1243
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos",
+      "start": 1245,
+      "end": 1252
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disfagia",
+      "surface": "Disfagia",
+      "start": 1266,
+      "end": 1274
+    },
+    {
+      "type": "REACT",
+      "canonical": "Distensión abdominal",
+      "surface": "Distensión abdominal",
+      "start": 1276,
+      "end": 1296
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor gastrointestinal y abdominal",
+      "surface": "Dolor gastrointestinal y abdominal",
+      "start": 1298,
+      "end": 1332
+    },
+    {
+      "type": "REACT",
+      "canonical": "Enfermedad por reflujo gastroesofágico",
+      "surface": "Enfermedad por reflujo gastroesofágico",
+      "start": 1334,
+      "end": 1372
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento",
+      "start": 1374,
+      "end": 1387
+    },
+    {
+      "type": "REACT",
+      "canonical": "Gastritis",
+      "surface": "Gastritis",
+      "start": 1389,
+      "end": 1398
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 1401,
+      "end": 1431
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema periférico",
+      "surface": "Edema periférico",
+      "start": 1448,
+      "end": 1464
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "INFECCIONES E INFESTACIONES",
+      "start": 1467,
+      "end": 1494
+    },
+    {
+      "type": "REACT",
+      "canonical": "Gastroenteritis",
+      "surface": "Gastroenteritis",
+      "start": 1507,
+      "end": 1522
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1525,
+      "end": 1562
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión",
+      "start": 1575,
+      "end": 1586
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones",
+      "start": 1588,
+      "end": 1601
+    }
+  ],
+  "raw_long_doc_text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil observado durante la exposición a RIOCIGUAT fue coherente con su actividad farmacológica y con la situación clínica de la población tratada. Las notificaciones se evaluaron teniendo en cuenta la gravedad del cuadro de base, la duración de la exposición y la información disponible tras la administración repetida. La mayoría de los acontecimientos fueron de intensidad leve o moderada y pudieron manejarse mediante vigilancia clínica, medidas de soporte o ajuste del tratamiento según el criterio médico. La relación temporal con el inicio o la modificación de la dosis debe valorarse de forma individual. La información siguiente se presenta por clasificación de órganos y por categoría de aparición, utilizando terminología médica normalizada.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\npoco frecuentes: Hemorragia pulmonar.\nfrecuentes: Congestión nasal, Epixtasis, Hemoptisis.\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS\nfrecuentes: Anemia (incl. los parámetros de laboratorio respectivos).\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nmuy frecuentes: Cefalea, Mareo.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nmuy frecuentes: Diarrea, Dispepsia, Náuseas, Vómitos.\nfrecuentes: Disfagia, Distensión abdominal, Dolor gastrointestinal y abdominal, Enfermedad por reflujo gastroesofágico, Estreñimiento, Gastritis.\n\nTRASTORNOS DEL SISTEMA GENERAL\nmuy frecuentes: Edema periférico.\n\nINFECCIONES E INFESTACIONES\nfrecuentes: Gastroenteritis.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\nfrecuentes: Hipotensión, Palpitaciones.\n\nDescripción de reacciones adversas seleccionadas\nLa interpretación de la lista debe realizarse dentro del contexto clínico del paciente y considerando la evolución del proceso subyacente. Antes de atribuir un acontecimiento al medicamento, se recomienda revisar la medicación concomitante, las enfermedades previas, los hallazgos analíticos y la secuencia temporal de los síntomas. En caso de cambios clínicamente relevantes, el profesional sanitario debe valorar la necesidad de monitorización adicional o de modificaciones en la pauta de administración.\n\nDurante el seguimiento, pueden ser útiles una anamnesis dirigida, la exploración física y la revisión periódica de parámetros complementarios cuando estén indicados. La comunicación clara con el paciente facilita la identificación temprana de acontecimientos que puedan requerir atención médica. La persistencia, el empeoramiento o la recurrencia tras la reexposición deben tenerse en cuenta al evaluar la causalidad.\n\nLa notificación de sospechas de reacciones adversas tras la autorización del medicamento es importante, ya que permite una supervisión continuada de la relación beneficio-riesgo. Se invita a los profesionales sanitarios a comunicar cualquier sospecha mediante los sistemas nacionales de notificación establecidos. Esta información contribuye a mantener actualizado el conocimiento de seguridad y a orientar la práctica clínica de forma proporcionada.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "RIOCIGUAT",
+      "surface": "RIOCIGUAT"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia pulmonar",
+      "surface": "Hemorragia pulmonar"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Congestión nasal",
+      "surface": "Congestión nasal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Epixtasis",
+      "surface": "Epixtasis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemoptisis",
+      "surface": "Hemoptisis"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia (incl. los parámetros de laboratorio respectivos)",
+      "surface": "Anemia (incl. los parámetros de laboratorio respectivos)"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareo",
+      "surface": "Mareo"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dispepsia",
+      "surface": "Dispepsia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disfagia",
+      "surface": "Disfagia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Distensión abdominal",
+      "surface": "Distensión abdominal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor gastrointestinal y abdominal",
+      "surface": "Dolor gastrointestinal y abdominal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Enfermedad por reflujo gastroesofágico",
+      "surface": "Enfermedad por reflujo gastroesofágico"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Gastritis",
+      "surface": "Gastritis"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema periférico",
+      "surface": "Edema periférico"
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "INFECCIONES E INFESTACIONES"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Gastroenteritis",
+      "surface": "Gastroenteritis"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "ADEMPAS 1 MG COMPRIMIDOS RECUBIERTOS CON PELICULA",
+        "pactivo": "RIOCIGUAT",
+        "reaccion": "Hipotensión",
+        "frecuencia": "FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+      },
+      "text": "En la clasificación por órganos y sistemas, dentro de TRASTORNOS DEL SISTEMA CARDIOVASCULAR, se ha notificado Hipotensión como una de las reacciones adversas frecuentes asociadas al tratamiento con RIOCIGUAT. Este efecto es coherente con la acción vasodilatadora del medicamento y puede manifestarse especialmente en pacientes con factores predisponentes o con ajuste reciente de la dosis. Se recomienda considerar la situación clínica del paciente, controlar la presión arterial durante el tratamiento y valorar medidas de manejo conforme a la práctica clínica habitual.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Hipotensión",
+          "surface": "Hipotensión"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "RIOCIGUAT",
+          "surface": "RIOCIGUAT"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "start": 54,
+          "end": 91
+        },
+        {
+          "type": "REACT",
+          "canonical": "Hipotensión",
+          "surface": "Hipotensión",
+          "start": 110,
+          "end": 121
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes",
+          "start": 158,
+          "end": 168
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "RIOCIGUAT",
+          "surface": "RIOCIGUAT",
+          "start": 198,
+          "end": 207
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "ADEMPAS 1 MG COMPRIMIDOS RECUBIERTOS CON PELICULA",
+        "pactivo": "RIOCIGUAT",
+        "reaccion": "Dispepsia",
+        "frecuencia": "MUY FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+      },
+      "text": "En la evaluación de seguridad de RIOCIGUAT, dentro de TRASTORNOS DEL SISTEMA DIGESTIVO, Dispepsia se incluyó entre las reacciones adversas muy frecuentes. La notificación debe interpretarse de acuerdo con la exposición acumulada y con la susceptibilidad individual del paciente; se recomienda valorar la persistencia o intensidad de los síntomas durante el seguimiento clínico habitual. En caso de molestias clínicamente relevantes, deben aplicarse medidas de soporte y revisar la necesidad de ajuste del tratamiento conforme a la situación clínica. Esta información contribuye a la caracterización global del perfil de tolerabilidad.",
+      "declared": [
+        {
+          "type": "ACTIVE",
+          "canonical": "RIOCIGUAT",
+          "surface": "RIOCIGUAT"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Dispepsia",
+          "surface": "Dispepsia"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "MUY FRECUENTE",
+          "surface": "muy frecuentes"
+        }
+      ],
+      "validated": [
+        {
+          "type": "ACTIVE",
+          "canonical": "RIOCIGUAT",
+          "surface": "RIOCIGUAT",
+          "start": 33,
+          "end": 42
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "start": 54,
+          "end": 86
+        },
+        {
+          "type": "REACT",
+          "canonical": "Dispepsia",
+          "surface": "Dispepsia",
+          "start": 88,
+          "end": 97
+        },
+        {
+          "type": "FREQ",
+          "canonical": "MUY FRECUENTE",
+          "surface": "muy frecuentes",
+          "start": 139,
+          "end": 153
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "ADEMPAS 1 MG COMPRIMIDOS RECUBIERTOS CON PELICULA",
+        "pactivo": "RIOCIGUAT",
+        "reaccion": "Hemorragia pulmonar",
+        "frecuencia": "POCO FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA RESPIRATORIO"
+      },
+      "text": "En la clasificación por sistema y órgano, dentro de TRASTORNOS DEL SISTEMA RESPIRATORIO, Hemorragia pulmonar figura entre las reacciones adversas poco frecuentes descritas en pacientes tratados con RIOCIGUAT. Este acontecimiento debe valorarse teniendo en cuenta la situación clínica basal y los factores predisponentes individuales, especialmente cuando existan antecedentes relevantes o tratamiento concomitante que pueda modificar el riesgo. Se recomienda vigilancia clínica y evaluación inmediata si aparecen signos compatibles, considerando la interrupción o ajuste del tratamiento de acuerdo con la valoración médica. La información debe interpretarse en el contexto del perfil de seguridad establecido y de la exposición acumulada al principio activo.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+          "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Hemorragia pulmonar",
+          "surface": "Hemorragia pulmonar"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "RIOCIGUAT",
+          "surface": "RIOCIGUAT"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+          "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+          "start": 52,
+          "end": 87
+        },
+        {
+          "type": "REACT",
+          "canonical": "Hemorragia pulmonar",
+          "surface": "Hemorragia pulmonar",
+          "start": 89,
+          "end": 108
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes",
+          "start": 146,
+          "end": 161
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "RIOCIGUAT",
+          "surface": "RIOCIGUAT",
+          "start": 198,
+          "end": 207
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

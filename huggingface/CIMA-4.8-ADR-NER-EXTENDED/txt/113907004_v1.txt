@@ -1,0 +1,47 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil observado durante la exposición a RIOCIGUAT fue coherente con su actividad farmacológica y con la situación clínica de la población tratada. Las notificaciones se evaluaron teniendo en cuenta la gravedad del cuadro de base, la duración de la exposición y la información disponible tras la administración repetida. La mayoría de los acontecimientos fueron de intensidad leve o moderada y pudieron manejarse mediante vigilancia clínica, medidas de soporte o ajuste del tratamiento según el criterio médico. La relación temporal con el inicio o la modificación de la dosis debe valorarse de forma individual. La información siguiente se presenta por clasificación de órganos y por categoría de aparición, utilizando terminología médica normalizada.
+
+Lista tabulada de reacciones adversas
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+poco frecuentes: Hemorragia pulmonar.
+frecuentes: Congestión nasal, Epixtasis, Hemoptisis.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+frecuentes: Anemia (incl. los parámetros de laboratorio respectivos).
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+muy frecuentes: Cefalea, Mareo.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+muy frecuentes: Diarrea, Dispepsia, Náuseas, Vómitos.
+frecuentes: Disfagia, Distensión abdominal, Dolor gastrointestinal y abdominal, Enfermedad por reflujo gastroesofágico, Estreñimiento, Gastritis.
+
+TRASTORNOS DEL SISTEMA GENERAL
+muy frecuentes: Edema periférico.
+
+INFECCIONES E INFESTACIONES
+frecuentes: Gastroenteritis.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+frecuentes: Hipotensión, Palpitaciones.
+
+Descripción de reacciones adversas seleccionadas
+La interpretación de la lista debe realizarse dentro del contexto clínico del paciente y considerando la evolución del proceso subyacente. Antes de atribuir un acontecimiento al medicamento, se recomienda revisar la medicación concomitante, las enfermedades previas, los hallazgos analíticos y la secuencia temporal de los síntomas. En caso de cambios clínicamente relevantes, el profesional sanitario debe valorar la necesidad de monitorización adicional o de modificaciones en la pauta de administración.
+
+Durante el seguimiento, pueden ser útiles una anamnesis dirigida, la exploración física y la revisión periódica de parámetros complementarios cuando estén indicados. La comunicación clara con el paciente facilita la identificación temprana de acontecimientos que puedan requerir atención médica. La persistencia, el empeoramiento o la recurrencia tras la reexposición deben tenerse en cuenta al evaluar la causalidad.
+
+La notificación de sospechas de reacciones adversas tras la autorización del medicamento es importante, ya que permite una supervisión continuada de la relación beneficio-riesgo. Se invita a los profesionales sanitarios a comunicar cualquier sospecha mediante los sistemas nacionales de notificación establecidos. Esta información contribuye a mantener actualizado el conocimiento de seguridad y a orientar la práctica clínica de forma proporcionada.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En la clasificación por órganos y sistemas, dentro de TRASTORNOS DEL SISTEMA CARDIOVASCULAR, se ha notificado Hipotensión como una de las reacciones adversas frecuentes asociadas al tratamiento con RIOCIGUAT. Este efecto es coherente con la acción vasodilatadora del medicamento y puede manifestarse especialmente en pacientes con factores predisponentes o con ajuste reciente de la dosis. Se recomienda considerar la situación clínica del paciente, controlar la presión arterial durante el tratamiento y valorar medidas de manejo conforme a la práctica clínica habitual.
+
+-- Caso 2 --
+En la evaluación de seguridad de RIOCIGUAT, dentro de TRASTORNOS DEL SISTEMA DIGESTIVO, Dispepsia se incluyó entre las reacciones adversas muy frecuentes. La notificación debe interpretarse de acuerdo con la exposición acumulada y con la susceptibilidad individual del paciente; se recomienda valorar la persistencia o intensidad de los síntomas durante el seguimiento clínico habitual. En caso de molestias clínicamente relevantes, deben aplicarse medidas de soporte y revisar la necesidad de ajuste del tratamiento conforme a la situación clínica. Esta información contribuye a la caracterización global del perfil de tolerabilidad.
+
+-- Caso 3 --
+En la clasificación por sistema y órgano, dentro de TRASTORNOS DEL SISTEMA RESPIRATORIO, Hemorragia pulmonar figura entre las reacciones adversas poco frecuentes descritas en pacientes tratados con RIOCIGUAT. Este acontecimiento debe valorarse teniendo en cuenta la situación clínica basal y los factores predisponentes individuales, especialmente cuando existan antecedentes relevantes o tratamiento concomitante que pueda modificar el riesgo. Se recomienda vigilancia clínica y evaluación inmediata si aparecen signos compatibles, considerando la interrupción o ajuste del tratamiento de acuerdo con la valoración médica. La información debe interpretarse en el contexto del perfil de seguridad establecido y de la exposición acumulada al principio activo.

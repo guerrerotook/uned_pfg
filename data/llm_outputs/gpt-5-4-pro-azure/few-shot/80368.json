@@ -1,0 +1,674 @@
+[
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Candidiasis",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Candidiasis oral",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Candidiasis vaginal",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Infecciones fúngicas",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Vaginitis",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Colitis asociada a antibióticos",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Colitis pseudomembranosa",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Anemia",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Leucopenia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Neutropenia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Trombocitopenia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Eosinofilia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Pancitopenia",
+    "frecuencia": "RARA",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Mielosupresión",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Anemia sideroblástica",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Anafilaxias",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Hiponatremia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Acidosis láctica",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Insomnio",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Cefalea",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Percepción errónea del sabor (sabor metálico)",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Mareos",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Convulsiones",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Hipoestesia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Parestesia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Síndrome serotoninérgico",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Neuropatía periférica",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Visión borrosa",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Cambios anormales del campo visual",
+    "frecuencia": "RARA",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Neuropatía óptica",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Neuritis óptica",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Pérdida de visión",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Cambios en la agudeza visual",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Cambios en la visión del color",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Acúfenos",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos del oído y del laberinto"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Arritmia (taquicardia)",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos cardíacos"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Hipertensión",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Ataques isquémicos transitorios",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Flebitis",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Tromboflebitis",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Diarrea",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Náuseas",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Vómitos",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Dolor abdominal localizado",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Dolor abdominal generalizado",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Estreñimiento",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Dispepsia",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Pancreatitis",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Gastritis",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Distensión abdominal",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Boca seca",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Glositis",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Heces blandas",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Estomatitis",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Trastornos de la lengua",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Cambio de color de la lengua",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Decoloración de la superficie dental",
+    "frecuencia": "RARA",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Pruebas de función hepática anormales",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Incremento de AST",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Incremento de ALT",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Incremento de fosfatasa alcalina",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Incremento de la bilirrubina total",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Prurito",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Erupción cutánea",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Urticaria",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Dermatitis",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Diaforesis",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Reacciones vesiculares",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Síndrome de Stevens-Johnson",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Necrólisis epidérmica tóxica",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Angioedema",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Alopecia",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Incremento de BUN",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Fallo renal",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Incremento de creatinina",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Poliuria",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Trastornos vulvovaginales",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos del aparato reproductor y de la mama"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Fiebre",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Dolor localizado",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Escalofríos",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Fatiga",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Dolor en la zona de inyección",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Aumento de la sed",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Aumento de LDH",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Aumento de creatinquinasa",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Aumento de lipasa",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Aumento de amilasa",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Aumento de glucemia no basal",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Disminución de proteínas totales",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Disminución de albúmina",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Disminución de sodio",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Disminución de calcio",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Aumento de potasio",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Disminución de potasio",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Aumento de bicarbonato",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Disminución de bicarbonato",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Neutrofilia",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Eosinofilia",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Disminución de hemoglobina",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Disminución de hematocrito",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Disminución del recuento de hematíes",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Aumento del recuento de plaquetas",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Disminución del recuento de plaquetas",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Aumento del recuento de leucocitos",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Disminución del recuento de leucocitos",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Aumento de sodio",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Aumento de calcio",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Disminución de la glucemia no basal",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Aumento de cloruro",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Disminución de cloruro",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Aumento del recuento de reticulocitos",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "LINEZOLID",
+    "reacción adversa": "Neutropenia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Exploraciones complementarias"
+  }
+]

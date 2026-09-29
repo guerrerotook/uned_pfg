@@ -1,0 +1,1385 @@
+{
+  "codigo": "62422",
+  "variante": 1,
+  "codigo_variant": "62422_v1",
+  "medicamento": "METASEDIN 30 mg COMPRIMIDOS",
+  "model": "gpt-5.5",
+  "style_variant_idx": 0,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil de seguridad de METADONA HIDROCLORURO es el esperado para un agonista opioide administrado por vía oral. La aparición de acontecimientos puede depender de la dosis, del estado clínico previo y de la exposición acumulada. En la práctica clínica se recomienda valorar de forma periódica la tolerabilidad y la necesidad de ajustar la pauta. La información siguiente se presenta según la clasificación por órganos y sistemas y por categoría de frecuencia utilizada en la evaluación clínica y poscomercialización.\n\nLista tabulada de reacciones adversas\nTRASTORNOS PSIQUIÁTRICOS: frecuentes: Alucinaciones, Euforia; poco frecuentes: Agitación, Confusión, Desorientación, Disforia, Disminución de la líbido, Farmacodependencia, Insomnio.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS: frecuentes: Miosis, Visión borrosa, Vértigo; frecuencia no conocida: Agudeza visual reducida, Estrabismo, Nistagmo, Ojos secos.\n\nTRASTORNOS DEL SISTEMA REPRODUCTOR: poco frecuentes: Ammenorrea, Dismenorrea, Galactorrea.\n\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN: frecuentes: Retención de líquidos; frecuencia no conocida: Anorexia, Hipocalemia, Hipoglucemia, Hipomagnesemia.\n\nTRASTORNOS DEL SISTEMA GENERAL: frecuentes: Fatiga, Somnolencia; poco frecuentes: Astenia, Edema, Edema de las extremidades inferiores, Hipotermia.\n\nTRASTORNOS DEL SISTEMA NERVIOSO: frecuentes: Mareos, Sedación; poco frecuentes: Dolor de cabeza, Síncope; frecuencia no conocida: Aumenro de la presión intracraneal.\n\nEXPLORACIONES COMPLEMENTARIAS: frecuentes: Aumento de peso.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO: muy frecuentes: Náuseas, Vómitos; frecuentes: Estreñimiento; poco frecuentes: Boca seca, Glositis.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR: poco frecuentes: Hipotensión, Rubor facial; no frecuente: Bradicardia, Palpitaciones, Parada cardíaca, Prolongación del intérvalo QT, Shock, Torsade de pointes.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO: poco frecuentes: Depresión respiratoria, Disminución de la potencia sexual, Edema pulmonar, Exacerbación del asma, Sequedad nasal; no frecuente: Parada respiratoria; frecuencia no conocida: Síndrome de apnea central del sueño.\n\nTRASTORNOS DEL SISTEMA HEPATOBILIAR: poco frecuentes: Discinesia del conducto biliar.\n\nTRASTORNOS DEL SISTEMA EXCRETOR: poco frecuentes: Efecto antidiurético, Retención urinaria.\n\nTRASTORNOS DE PIEL Y TEJIDOS: frecuentes: Erupción cutánea transitoria, Hiperhidrosis; poco frecuentes: Otras erupciones, Prurito, Urticaria.\n\nTRASTORNOS DEL SISTEMA ENDOCRINO: frecuencia no conocida: Hipoadrenalismo, Hipogonadismo, Niveles elevados de prolactina con administración a largo plazo.\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS: frecuencia no conocida: Trombocitopenia reversible en pacientes dependientes de opioides con hepatitis crónica.\n\nDescripción de reacciones adversas seleccionadas\nLa evaluación clínica debe considerar la situación basal del paciente y la administración concomitante de otros medicamentos con acción depresora central. En tratamientos mantenidos, la revisión de la respuesta clínica ayuda a identificar cambios de tolerabilidad y a prevenir complicaciones evitables. La interrupción o modificación de la dosis debe realizarse de forma individualizada, con seguimiento médico adecuado.\n\nAlgunas manifestaciones pueden requerir vigilancia estrecha, especialmente en pacientes vulnerables o con comorbilidad relevante. Cuando se observe un cambio clínico significativo, debe valorarse la relación temporal con el tratamiento y la posible contribución de factores intercurrentes. La notificación de sospechas permite mantener actualizada la información de seguridad del medicamento.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nDentro de los TRASTORNOS DEL SISTEMA GENERAL, se ha notificado Fatiga como reacción adversa clasificada entre las frecuentes. En pacientes tratados con METADONA HIDROCLORURO, este efecto puede relacionarse con la acción farmacológica central del opioide y con variaciones individuales de tolerabilidad. Se recomienda valorar su intensidad y evolución durante el seguimiento clínico, especialmente al inicio del tratamiento o tras ajustes de dosis. Si interfiere de forma relevante con la actividad habitual, debe considerarse la reevaluación del tratamiento conforme al criterio clínico.\n\n-- Caso 2 --\nEn la clasificación por órganos y sistemas, dentro de TRASTORNOS DEL SISTEMA RESPIRATORIO, se ha notificado Parada respiratoria con una frecuencia no frecuente durante el tratamiento con METADONA HIDROCLORURO. Este acontecimiento es coherente con el efecto farmacológico opioide sobre el control ventilatorio y requiere valoración clínica inmediata. Se recomienda vigilar estrechamente a los pacientes, en particular al inicio del tratamiento o tras ajustes de dosis, y adoptar las medidas de soporte adecuadas según la situación clínica.\n\n-- Caso 3 --\nEn la evaluación del perfil de seguridad, dentro del sistema de clasificación de órganos TRASTORNOS DEL SISTEMA DIGESTIVO, se han notificado Vómitos, clasificados como muy frecuentes, asociados al tratamiento con METADONA HIDROCLORURO. Esta manifestación puede relacionarse con la actividad farmacológica sobre receptores opioides centrales y con variabilidad individual en la tolerancia durante el tratamiento.\nSe recomienda informar al paciente de la posible aparición de este evento y valorar su intensidad y persistencia en el seguimiento clínico, especialmente al inicio o tras ajustes de dosis. La actuación clínica debe individualizarse según la situación del paciente y la relación temporal con la administración.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "METADONA HIDROCLORURO",
+      "surface": "METADONA HIDROCLORURO",
+      "start": 83,
+      "end": 104
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 615,
+      "end": 639
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 641,
+      "end": 651
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alucinaciones",
+      "surface": "Alucinaciones",
+      "start": 653,
+      "end": 666
+    },
+    {
+      "type": "REACT",
+      "canonical": "Euforia",
+      "surface": "Euforia",
+      "start": 668,
+      "end": 675
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 677,
+      "end": 692
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agitación",
+      "surface": "Agitación",
+      "start": 694,
+      "end": 703
+    },
+    {
+      "type": "REACT",
+      "canonical": "Confusión",
+      "surface": "Confusión",
+      "start": 705,
+      "end": 714
+    },
+    {
+      "type": "REACT",
+      "canonical": "Desorientación",
+      "surface": "Desorientación",
+      "start": 716,
+      "end": 730
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disforia",
+      "surface": "Disforia",
+      "start": 732,
+      "end": 740
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de la líbido",
+      "surface": "Disminución de la líbido",
+      "start": 742,
+      "end": 766
+    },
+    {
+      "type": "REACT",
+      "canonical": "Farmacodependencia",
+      "surface": "Farmacodependencia",
+      "start": 768,
+      "end": 786
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insomnio",
+      "surface": "Insomnio",
+      "start": 788,
+      "end": 796
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 799,
+      "end": 836
+    },
+    {
+      "type": "REACT",
+      "canonical": "Miosis",
+      "surface": "Miosis",
+      "start": 850,
+      "end": 856
+    },
+    {
+      "type": "REACT",
+      "canonical": "Visión borrosa",
+      "surface": "Visión borrosa",
+      "start": 858,
+      "end": 872
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vértigo",
+      "surface": "Vértigo",
+      "start": 874,
+      "end": 881
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 883,
+      "end": 905
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agudeza visual reducida",
+      "surface": "Agudeza visual reducida",
+      "start": 907,
+      "end": 930
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estrabismo",
+      "surface": "Estrabismo",
+      "start": 932,
+      "end": 942
+    },
+    {
+      "type": "REACT",
+      "canonical": "Nistagmo",
+      "surface": "Nistagmo",
+      "start": 944,
+      "end": 952
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ojos secos",
+      "surface": "Ojos secos",
+      "start": 954,
+      "end": 964
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "start": 967,
+      "end": 1001
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ammenorrea",
+      "surface": "Ammenorrea",
+      "start": 1020,
+      "end": 1030
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dismenorrea",
+      "surface": "Dismenorrea",
+      "start": 1032,
+      "end": 1043
+    },
+    {
+      "type": "REACT",
+      "canonical": "Galactorrea",
+      "surface": "Galactorrea",
+      "start": 1045,
+      "end": 1056
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "start": 1059,
+      "end": 1100
+    },
+    {
+      "type": "REACT",
+      "canonical": "Retención de líquidos",
+      "surface": "Retención de líquidos",
+      "start": 1114,
+      "end": 1135
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anorexia",
+      "surface": "Anorexia",
+      "start": 1161,
+      "end": 1169
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipocalemia",
+      "surface": "Hipocalemia",
+      "start": 1171,
+      "end": 1182
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipoglucemia",
+      "surface": "Hipoglucemia",
+      "start": 1184,
+      "end": 1196
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipomagnesemia",
+      "surface": "Hipomagnesemia",
+      "start": 1198,
+      "end": 1212
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 1215,
+      "end": 1245
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "Fatiga",
+      "start": 1259,
+      "end": 1265
+    },
+    {
+      "type": "REACT",
+      "canonical": "Somnolencia",
+      "surface": "Somnolencia",
+      "start": 1267,
+      "end": 1278
+    },
+    {
+      "type": "REACT",
+      "canonical": "Astenia",
+      "surface": "Astenia",
+      "start": 1297,
+      "end": 1304
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema",
+      "surface": "Edema",
+      "start": 1306,
+      "end": 1311
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema de las extremidades inferiores",
+      "surface": "Edema de las extremidades inferiores",
+      "start": 1313,
+      "end": 1349
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotermia",
+      "surface": "Hipotermia",
+      "start": 1351,
+      "end": 1361
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1364,
+      "end": 1395
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareos",
+      "surface": "Mareos",
+      "start": 1409,
+      "end": 1415
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sedación",
+      "surface": "Sedación",
+      "start": 1417,
+      "end": 1425
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor de cabeza",
+      "surface": "Dolor de cabeza",
+      "start": 1444,
+      "end": 1459
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síncope",
+      "surface": "Síncope",
+      "start": 1461,
+      "end": 1468
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumenro de la presión intracraneal",
+      "surface": "Aumenro de la presión intracraneal",
+      "start": 1494,
+      "end": 1528
+    },
+    {
+      "type": "SYS",
+      "canonical": "EXPLORACIONES COMPLEMENTARIAS",
+      "surface": "EXPLORACIONES COMPLEMENTARIAS",
+      "start": 1531,
+      "end": 1560
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de peso",
+      "surface": "Aumento de peso",
+      "start": 1574,
+      "end": 1589
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1592,
+      "end": 1624
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes",
+      "start": 1626,
+      "end": 1640
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 1642,
+      "end": 1649
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos",
+      "start": 1651,
+      "end": 1658
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento",
+      "start": 1672,
+      "end": 1685
+    },
+    {
+      "type": "REACT",
+      "canonical": "Boca seca",
+      "surface": "Boca seca",
+      "start": 1704,
+      "end": 1713
+    },
+    {
+      "type": "REACT",
+      "canonical": "Glositis",
+      "surface": "Glositis",
+      "start": 1715,
+      "end": 1723
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1726,
+      "end": 1763
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión",
+      "start": 1782,
+      "end": 1793
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rubor facial",
+      "surface": "Rubor facial",
+      "start": 1795,
+      "end": 1807
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 1809,
+      "end": 1821
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bradicardia",
+      "surface": "Bradicardia",
+      "start": 1823,
+      "end": 1834
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones",
+      "start": 1836,
+      "end": 1849
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parada cardíaca",
+      "surface": "Parada cardíaca",
+      "start": 1851,
+      "end": 1866
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prolongación del intérvalo QT",
+      "surface": "Prolongación del intérvalo QT",
+      "start": 1868,
+      "end": 1897
+    },
+    {
+      "type": "REACT",
+      "canonical": "Shock",
+      "surface": "Shock",
+      "start": 1899,
+      "end": 1904
+    },
+    {
+      "type": "REACT",
+      "canonical": "Torsade de pointes",
+      "surface": "Torsade de pointes",
+      "start": 1906,
+      "end": 1924
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 1927,
+      "end": 1962
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión respiratoria",
+      "surface": "Depresión respiratoria",
+      "start": 1981,
+      "end": 2003
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de la potencia sexual",
+      "surface": "Disminución de la potencia sexual",
+      "start": 2005,
+      "end": 2038
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema pulmonar",
+      "surface": "Edema pulmonar",
+      "start": 2040,
+      "end": 2054
+    },
+    {
+      "type": "REACT",
+      "canonical": "Exacerbación del asma",
+      "surface": "Exacerbación del asma",
+      "start": 2056,
+      "end": 2077
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad nasal",
+      "surface": "Sequedad nasal",
+      "start": 2079,
+      "end": 2093
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parada respiratoria",
+      "surface": "Parada respiratoria",
+      "start": 2109,
+      "end": 2128
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de apnea central del sueño",
+      "surface": "Síndrome de apnea central del sueño",
+      "start": 2154,
+      "end": 2189
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "surface": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "start": 2192,
+      "end": 2227
+    },
+    {
+      "type": "REACT",
+      "canonical": "Discinesia del conducto biliar",
+      "surface": "Discinesia del conducto biliar",
+      "start": 2246,
+      "end": 2276
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "start": 2279,
+      "end": 2310
+    },
+    {
+      "type": "REACT",
+      "canonical": "Efecto antidiurético",
+      "surface": "Efecto antidiurético",
+      "start": 2329,
+      "end": 2349
+    },
+    {
+      "type": "REACT",
+      "canonical": "Retención urinaria",
+      "surface": "Retención urinaria",
+      "start": 2351,
+      "end": 2369
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 2372,
+      "end": 2400
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción cutánea transitoria",
+      "surface": "Erupción cutánea transitoria",
+      "start": 2414,
+      "end": 2442
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperhidrosis",
+      "surface": "Hiperhidrosis",
+      "start": 2444,
+      "end": 2457
+    },
+    {
+      "type": "REACT",
+      "canonical": "Otras erupciones",
+      "surface": "Otras erupciones",
+      "start": 2476,
+      "end": 2492
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito",
+      "start": 2494,
+      "end": 2501
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria",
+      "start": 2503,
+      "end": 2512
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "surface": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "start": 2515,
+      "end": 2547
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipoadrenalismo",
+      "surface": "Hipoadrenalismo",
+      "start": 2573,
+      "end": 2588
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipogonadismo",
+      "surface": "Hipogonadismo",
+      "start": 2590,
+      "end": 2603
+    },
+    {
+      "type": "REACT",
+      "canonical": "Niveles elevados de prolactina con administración a largo plazo",
+      "surface": "Niveles elevados de prolactina con administración a largo plazo",
+      "start": 2605,
+      "end": 2668
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 2671,
+      "end": 2720
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombocitopenia reversible en pacientes dependientes de opioides con hepatitis crónica",
+      "surface": "Trombocitopenia reversible en pacientes dependientes de opioides con hepatitis crónica",
+      "start": 2746,
+      "end": 2832
+    }
+  ],
+  "raw_long_doc_text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil de seguridad de METADONA HIDROCLORURO es el esperado para un agonista opioide administrado por vía oral. La aparición de acontecimientos puede depender de la dosis, del estado clínico previo y de la exposición acumulada. En la práctica clínica se recomienda valorar de forma periódica la tolerabilidad y la necesidad de ajustar la pauta. La información siguiente se presenta según la clasificación por órganos y sistemas y por categoría de frecuencia utilizada en la evaluación clínica y poscomercialización.\n\nLista tabulada de reacciones adversas\nTRASTORNOS PSIQUIÁTRICOS: frecuentes: Alucinaciones, Euforia; poco frecuentes: Agitación, Confusión, Desorientación, Disforia, Disminución de la líbido, Farmacodependencia, Insomnio.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS: frecuentes: Miosis, Visión borrosa, Vértigo; frecuencia no conocida: Agudeza visual reducida, Estrabismo, Nistagmo, Ojos secos.\n\nTRASTORNOS DEL SISTEMA REPRODUCTOR: poco frecuentes: Ammenorrea, Dismenorrea, Galactorrea.\n\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN: frecuentes: Retención de líquidos; frecuencia no conocida: Anorexia, Hipocalemia, Hipoglucemia, Hipomagnesemia.\n\nTRASTORNOS DEL SISTEMA GENERAL: frecuentes: Fatiga, Somnolencia; poco frecuentes: Astenia, Edema, Edema de las extremidades inferiores, Hipotermia.\n\nTRASTORNOS DEL SISTEMA NERVIOSO: frecuentes: Mareos, Sedación; poco frecuentes: Dolor de cabeza, Síncope; frecuencia no conocida: Aumenro de la presión intracraneal.\n\nEXPLORACIONES COMPLEMENTARIAS: frecuentes: Aumento de peso.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO: muy frecuentes: Náuseas, Vómitos; frecuentes: Estreñimiento; poco frecuentes: Boca seca, Glositis.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR: poco frecuentes: Hipotensión, Rubor facial; no frecuente: Bradicardia, Palpitaciones, Parada cardíaca, Prolongación del intérvalo QT, Shock, Torsade de pointes.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO: poco frecuentes: Depresión respiratoria, Disminución de la potencia sexual, Edema pulmonar, Exacerbación del asma, Sequedad nasal; no frecuente: Parada respiratoria; frecuencia no conocida: Síndrome de apnea central del sueño.\n\nTRASTORNOS DEL SISTEMA HEPATOBILIAR: poco frecuentes: Discinesia del conducto biliar.\n\nTRASTORNOS DEL SISTEMA EXCRETOR: poco frecuentes: Efecto antidiurético, Retención urinaria.\n\nTRASTORNOS DE PIEL Y TEJIDOS: frecuentes: Erupción cutánea transitoria, Hiperhidrosis; poco frecuentes: Otras erupciones, Prurito, Urticaria.\n\nTRASTORNOS DEL SISTEMA ENDOCRINO: frecuencia no conocida: Hipoadrenalismo, Hipogonadismo, Niveles elevados de prolactina con administración a largo plazo.\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS: frecuencia no conocida: Trombocitopenia reversible en pacientes dependientes de opioides con hepatitis crónica.\n\nDescripción de reacciones adversas seleccionadas\nLa evaluación clínica debe considerar la situación basal del paciente y la administración concomitante de otros medicamentos con acción depresora central. En tratamientos mantenidos, la revisión de la respuesta clínica ayuda a identificar cambios de tolerabilidad y a prevenir complicaciones evitables. La interrupción o modificación de la dosis debe realizarse de forma individualizada, con seguimiento médico adecuado.\n\nAlgunas manifestaciones pueden requerir vigilancia estrecha, especialmente en pacientes vulnerables o con comorbilidad relevante. Cuando se observe un cambio clínico significativo, debe valorarse la relación temporal con el tratamiento y la posible contribución de factores intercurrentes. La notificación de sospechas permite mantener actualizada la información de seguridad del medicamento.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "METADONA HIDROCLORURO",
+      "surface": "METADONA HIDROCLORURO"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alucinaciones",
+      "surface": "Alucinaciones"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Euforia",
+      "surface": "Euforia"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agitación",
+      "surface": "Agitación"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Confusión",
+      "surface": "Confusión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Desorientación",
+      "surface": "Desorientación"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disforia",
+      "surface": "Disforia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de la líbido",
+      "surface": "Disminución de la líbido"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Farmacodependencia",
+      "surface": "Farmacodependencia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insomnio",
+      "surface": "Insomnio"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Miosis",
+      "surface": "Miosis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Visión borrosa",
+      "surface": "Visión borrosa"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vértigo",
+      "surface": "Vértigo"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agudeza visual reducida",
+      "surface": "Agudeza visual reducida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estrabismo",
+      "surface": "Estrabismo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Nistagmo",
+      "surface": "Nistagmo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ojos secos",
+      "surface": "Ojos secos"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ammenorrea",
+      "surface": "Ammenorrea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dismenorrea",
+      "surface": "Dismenorrea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Galactorrea",
+      "surface": "Galactorrea"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Retención de líquidos",
+      "surface": "Retención de líquidos"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anorexia",
+      "surface": "Anorexia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipocalemia",
+      "surface": "Hipocalemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipoglucemia",
+      "surface": "Hipoglucemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipomagnesemia",
+      "surface": "Hipomagnesemia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "Fatiga"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Somnolencia",
+      "surface": "Somnolencia"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Astenia",
+      "surface": "Astenia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema",
+      "surface": "Edema"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema de las extremidades inferiores",
+      "surface": "Edema de las extremidades inferiores"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotermia",
+      "surface": "Hipotermia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareos",
+      "surface": "Mareos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sedación",
+      "surface": "Sedación"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor de cabeza",
+      "surface": "Dolor de cabeza"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síncope",
+      "surface": "Síncope"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumenro de la presión intracraneal",
+      "surface": "Aumenro de la presión intracraneal"
+    },
+    {
+      "type": "SYS",
+      "canonical": "EXPLORACIONES COMPLEMENTARIAS",
+      "surface": "EXPLORACIONES COMPLEMENTARIAS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de peso",
+      "surface": "Aumento de peso"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Boca seca",
+      "surface": "Boca seca"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Glositis",
+      "surface": "Glositis"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rubor facial",
+      "surface": "Rubor facial"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bradicardia",
+      "surface": "Bradicardia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parada cardíaca",
+      "surface": "Parada cardíaca"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prolongación del intérvalo QT",
+      "surface": "Prolongación del intérvalo QT"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Shock",
+      "surface": "Shock"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Torsade de pointes",
+      "surface": "Torsade de pointes"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión respiratoria",
+      "surface": "Depresión respiratoria"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de la potencia sexual",
+      "surface": "Disminución de la potencia sexual"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema pulmonar",
+      "surface": "Edema pulmonar"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Exacerbación del asma",
+      "surface": "Exacerbación del asma"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad nasal",
+      "surface": "Sequedad nasal"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parada respiratoria",
+      "surface": "Parada respiratoria"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de apnea central del sueño",
+      "surface": "Síndrome de apnea central del sueño"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA HEPATOBILIAR",
+      "surface": "TRASTORNOS DEL SISTEMA HEPATOBILIAR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Discinesia del conducto biliar",
+      "surface": "Discinesia del conducto biliar"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Efecto antidiurético",
+      "surface": "Efecto antidiurético"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Retención urinaria",
+      "surface": "Retención urinaria"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción cutánea transitoria",
+      "surface": "Erupción cutánea transitoria"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperhidrosis",
+      "surface": "Hiperhidrosis"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Otras erupciones",
+      "surface": "Otras erupciones"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "surface": "TRASTORNOS DEL SISTEMA ENDOCRINO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipoadrenalismo",
+      "surface": "Hipoadrenalismo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipogonadismo",
+      "surface": "Hipogonadismo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Niveles elevados de prolactina con administración a largo plazo",
+      "surface": "Niveles elevados de prolactina con administración a largo plazo"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombocitopenia reversible en pacientes dependientes de opioides con hepatitis crónica",
+      "surface": "Trombocitopenia reversible en pacientes dependientes de opioides con hepatitis crónica"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "METASEDIN 30 mg COMPRIMIDOS",
+        "pactivo": "METADONA HIDROCLORURO",
+        "reaccion": "Fatiga",
+        "frecuencia": "FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA GENERAL"
+      },
+      "text": "Dentro de los TRASTORNOS DEL SISTEMA GENERAL, se ha notificado Fatiga como reacción adversa clasificada entre las frecuentes. En pacientes tratados con METADONA HIDROCLORURO, este efecto puede relacionarse con la acción farmacológica central del opioide y con variaciones individuales de tolerabilidad. Se recomienda valorar su intensidad y evolución durante el seguimiento clínico, especialmente al inicio del tratamiento o tras ajustes de dosis. Si interfiere de forma relevante con la actividad habitual, debe considerarse la reevaluación del tratamiento conforme al criterio clínico.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+          "surface": "TRASTORNOS DEL SISTEMA GENERAL"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Fatiga",
+          "surface": "Fatiga"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "METADONA HIDROCLORURO",
+          "surface": "METADONA HIDROCLORURO"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+          "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+          "start": 14,
+          "end": 44
+        },
+        {
+          "type": "REACT",
+          "canonical": "Fatiga",
+          "surface": "Fatiga",
+          "start": 63,
+          "end": 69
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes",
+          "start": 114,
+          "end": 124
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "METADONA HIDROCLORURO",
+          "surface": "METADONA HIDROCLORURO",
+          "start": 152,
+          "end": 173
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "METASEDIN 30 mg COMPRIMIDOS",
+        "pactivo": "METADONA HIDROCLORURO",
+        "reaccion": "Parada respiratoria",
+        "frecuencia": "NO FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA RESPIRATORIO"
+      },
+      "text": "En la clasificación por órganos y sistemas, dentro de TRASTORNOS DEL SISTEMA RESPIRATORIO, se ha notificado Parada respiratoria con una frecuencia no frecuente durante el tratamiento con METADONA HIDROCLORURO. Este acontecimiento es coherente con el efecto farmacológico opioide sobre el control ventilatorio y requiere valoración clínica inmediata. Se recomienda vigilar estrechamente a los pacientes, en particular al inicio del tratamiento o tras ajustes de dosis, y adoptar las medidas de soporte adecuadas según la situación clínica.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+          "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Parada respiratoria",
+          "surface": "Parada respiratoria"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "METADONA HIDROCLORURO",
+          "surface": "METADONA HIDROCLORURO"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+          "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+          "start": 54,
+          "end": 89
+        },
+        {
+          "type": "REACT",
+          "canonical": "Parada respiratoria",
+          "surface": "Parada respiratoria",
+          "start": 108,
+          "end": 127
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente",
+          "start": 147,
+          "end": 159
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "METADONA HIDROCLORURO",
+          "surface": "METADONA HIDROCLORURO",
+          "start": 187,
+          "end": 208
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "METASEDIN 30 mg COMPRIMIDOS",
+        "pactivo": "METADONA HIDROCLORURO",
+        "reaccion": "Vómitos",
+        "frecuencia": "MUY FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+      },
+      "text": "En la evaluación del perfil de seguridad, dentro del sistema de clasificación de órganos TRASTORNOS DEL SISTEMA DIGESTIVO, se han notificado Vómitos, clasificados como muy frecuentes, asociados al tratamiento con METADONA HIDROCLORURO. Esta manifestación puede relacionarse con la actividad farmacológica sobre receptores opioides centrales y con variabilidad individual en la tolerancia durante el tratamiento.\nSe recomienda informar al paciente de la posible aparición de este evento y valorar su intensidad y persistencia en el seguimiento clínico, especialmente al inicio o tras ajustes de dosis. La actuación clínica debe individualizarse según la situación del paciente y la relación temporal con la administración.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Vómitos",
+          "surface": "Vómitos"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "MUY FRECUENTE",
+          "surface": "muy frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "METADONA HIDROCLORURO",
+          "surface": "METADONA HIDROCLORURO"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "start": 89,
+          "end": 121
+        },
+        {
+          "type": "REACT",
+          "canonical": "Vómitos",
+          "surface": "Vómitos",
+          "start": 141,
+          "end": 148
+        },
+        {
+          "type": "FREQ",
+          "canonical": "MUY FRECUENTE",
+          "surface": "muy frecuentes",
+          "start": 168,
+          "end": 182
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "METADONA HIDROCLORURO",
+          "surface": "METADONA HIDROCLORURO",
+          "start": 213,
+          "end": 234
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

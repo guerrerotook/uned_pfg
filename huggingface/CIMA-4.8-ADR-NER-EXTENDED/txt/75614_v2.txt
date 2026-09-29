@@ -1,0 +1,42 @@
+Resumen del perfil de seguridad
+El perfil de seguridad de LEVOFLOXACINO HEMIHIDRATO es el esperado para un antibacteriano de esta clase y debe interpretarse teniendo en cuenta la situación clínica del paciente. En la práctica, levofloxacino puede asociarse a acontecimientos que afectan a distintos aparatos, por lo que se recomienda valorar los antecedentes relevantes antes y durante el tratamiento. La mayoría de los acontecimientos descritos se han identificado en ensayos clínicos o mediante notificación espontánea posterior a la comercialización. Cuando no puede estimarse la incidencia a partir de los datos disponibles, se clasifica en la categoría correspondiente. La suspensión del tratamiento y la evaluación médica deben considerarse si aparecen manifestaciones intensas, persistentes o sugestivas de afectación grave.
+
+Lista tabulada de reacciones adversas
+TRASTORNOS DEL SISTEMA NERVIOSO: frecuencia no conocida: Ageusia, Anosmia, Discinesia, Hipertensión intracraneal benigna, Mioclonía, Neuropatía periférica sensitiva, Neuropatía periférica sensitivo-motora, Parosmia, Síncope, Trastorno extrapiramidal; frecuentes: Cefalea, Mareo; no frecuente: Convulsiones, Deterioro de la memoria, Parestesia; poco frecuentes: Disgeusia (mal sabor), Somnolencia, Temblor.
+TRASTORNOS PSIQUIÁTRICOS: no frecuente: Agitación, Delirio, Depresión, Pesadillas, Reacciones psicóticas, Sueños anómalos; poco frecuentes: Ansiedad, Estado de confusión, Nerviosismo; frecuentes: Insomnio; frecuencia no conocida: Manía, Reacciones psicóticas con comportamiento autolesivo, incluyendo ideas suicidas o intentos de suicidio.
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS: frecuencia no conocida: Agranulocitosis, Anemia aplásica, Anemia hemolítica, Insuficiencia de la médula ósea, Pancitopenia; poco frecuentes: Eosinofilia, Leucopenia; no frecuente: Neutropenia, Trombocitopenia.
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS: no frecuente: Alteraciones visuales tales como visión borrosa, Tinnitus (zumbidos); frecuencia no conocida: Deficiencia auditiva, Pérdida de audición, Pérdida transitoria de la visión, Uveítis; poco frecuentes: Vértigo.
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO: no frecuente: Angioedema, Hipersensibilidad.
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN: poco frecuentes: Anorexia; no frecuente: Coma hipoglucémico, Hipoglucemia particularmente en pacientes diabéticos; frecuencia no conocida: Hiperglucemia.
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR: frecuencia no conocida: Arritmia ventricular, Intérvalo QT prolongado en el electrocardiograma, Taquicardia ventricular, Torsade de pointes (en pacientes con factores de riesgo de prolongación del QT); no frecuente: Hipotensión, Palpitaciones, Taquicardia.
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO: poco frecuentes: Artralgia, Mialgia; frecuencia no conocida: Artritis, Rabdomiólisis, Rotura de ligamento, Rotura de tendón, Rotura muscular; no frecuente: Debilidad muscular, Trastornos del tendón incluyendo tendinitis.
+TRASTORNOS DEL SISTEMA GENERAL: poco frecuentes: Astenia; frecuencia no conocida: Dolor; no frecuente: Pirexia.
+TRASTORNOS DEL SISTEMA HEPATOBILIAR: poco frecuentes: Aumento de bilirrubina en sangre; frecuentes: Aumento de enzimas hepáticas; frecuencia no conocida: Daño hepático grave, Hepatitis, Ictericia, Insuficiencia hepática aguda fulminante.
+TRASTORNOS DEL SISTEMA EXCRETOR: poco frecuentes: Aumento de la creatinina en sangre; no frecuente: Insuficiencia renal aguda.
+TRASTORNOS DEL SISTEMA RESPIRATORIO: frecuencia no conocida: Broncoespasmo, Neumonitis alérgica; poco frecuentes: Disnea.
+TRASTORNOS DEL SISTEMA DIGESTIVO: frecuentes: Diarrea, Náuseas, Vómitos; frecuencia no conocida: Diarrea hemorrágica, Enterocolitis pseudomembranosa, Pancreatitis; poco frecuentes: Dispepsia, Dolor abdominal, Estreñimiento, Flatulencia.
+TRASTORNOS DE PIEL Y TEJIDOS: frecuencia no conocida: Eritema multiforme, Estomatitis, Hiperpigmentación de la piel, Necrólisis epidérmica tóxica, Reacción de fotosensibilidad, Síndrome de Stevens-Johnson, Vasculitis leucocitoclástica; no frecuente: Erupción fija medicamentosa, Reacción a fármaco con eosinofilia y síntomas sistémicos (DRESS); poco frecuentes: Exantema, Hiperihidrosis, Prurito, Urticaria.
+INFECCIONES E INFESTACIONES: poco frecuentes: Infecciones fúngicas, Resistencia a patógenos.
+TRASTORNOS DEL SISTEMA ENDOCRINO: no frecuente: Sindrome de secreción inadecuada de la hormona antidiurética.
+
+Descripción de reacciones adversas seleccionadas
+Debe prestarse atención a los pacientes con factores predisponentes, tratamientos concomitantes o antecedentes que puedan aumentar la susceptibilidad a acontecimientos graves. Algunos cuadros pueden iniciarse de forma inespecífica y progresar si se mantiene la exposición. En caso de sospecha clínica relevante, el tratamiento debe reevaluarse y adoptarse una medida proporcional a la gravedad. La notificación de sospechas facilita la actualización continua de la información de seguridad.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En el apartado de TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO, se ha identificado la siguiente reacción adversa asociada al uso de levofloxacino:
+- Artritis (inflamación articular): frecuencia no conocida.
+La notificación se basa principalmente en datos poscomercialización, por lo que no puede estimarse su incidencia a partir de la información disponible. En pacientes tratados, la aparición de este cuadro debe valorarse de forma clínica y considerarse el seguimiento, especialmente si los síntomas persisten o limitan la movilidad. La evaluación individual debe tener en cuenta la situación basal del paciente y la necesidad de continuar el tratamiento.
+
+-- Caso 2 --
+Dentro de la clasificación por sistemas, el Insomnio (dificultad para dormir) se incluye en TRASTORNOS PSIQUIÁTRICOS y se ha notificado como una reacción adversa frecuentes durante el tratamiento con LEVOFLOXACINO HEMIHIDRATO. En la práctica clínica, levofloxacino puede asociarse a alteraciones del patrón de sueño, por lo que se recomienda valorar la relación temporal con el inicio del tratamiento y la evolución tras su continuación o retirada.
+
+Lista tabulada:
+- TRASTORNOS PSIQUIÁTRICOS: Insomnio, frecuentes.
+
+-- Caso 3 --
+Dentro de Trastornos de órganos de los sentidos, el tratamiento con LEVOFLOXACINO HEMIHIDRATO, también referido de forma clínica como levofloxacino, puede asociarse a la reacción indicada a continuación. La aparición de esta manifestación debe valorarse en el contexto del estado clínico del paciente y de otros factores concomitantes, sin asumir progresión si remite espontáneamente. Se aconseja informar al paciente para que consulte si interfiere con actividades que requieran atención visual sostenida, como conducir o utilizar maquinaria.
+
+Lista tabulada:
+- Alteraciones visuales tales como visión borrosa: no frecuente.

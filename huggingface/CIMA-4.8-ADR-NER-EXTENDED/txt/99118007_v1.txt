@@ -1,0 +1,85 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil de seguridad observado con LEFLUNOMIDA es coherente con el de un medicamento inmunomodulador administrado de forma continuada. Los acontecimientos notificados fueron en su mayoría de intensidad leve o moderada y se controlaron con medidas clínicas habituales o con la interrupción del tratamiento cuando fue necesario. La valoración periódica del paciente permite detectar cambios analíticos o clínicos antes de que evolucionen a cuadros de mayor relevancia. Debe considerarse la situación basal, la medicación concomitante y la duración de la exposición al interpretar cualquier hallazgo. La notificación de sospechas permite seguir caracterizando el balance de seguridad en la práctica clínica.
+
+Lista tabulada de reacciones adversas
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+no frecuente: Agranulocitosis, Eosinofilia, Leucopenia (leucocitos > 2G/L), Pancitopenia (probablemente mediada por mecanismo antiproliferativo).
+poco frecuentes: Anemia, Trombocitopenia leve (plaquetas <100 G/L).
+frecuentes: Leucopenia (leucocitos > 2G/L).
+
+TRASTORNOS DE PIEL Y TEJIDOS
+frecuentes: Alopecia, Eczema, Erupción cutánea (incluyendo erupción maculopapular), Prurito, Sequedad de piel.
+no frecuente: Eritema multiforme, Necrolisis epidérmica tóxica (NET), Síndrome de Stevens - Johnson (SSJ).
+poco frecuentes: Urticaria.
+frecuencia no conocida: Lupus eritematoso cutáneo, Psoriasis, Reacción medicamentosa con eosinofilia y síntomas sistémicos (DRESS), Úlcera cutánea.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+poco frecuentes: Alteraciones del gusto.
+
+TRASTORNOS DEL SISTEMA GENERAL
+frecuentes: Anorexia, Astenia, Pérdida de peso (normalmente insignificante).
+
+TRASTORNOS PSIQUIÁTRICOS
+poco frecuentes: Ansiedad.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+frecuentes: Leve aumento de la presión arterial.
+no frecuente: Aumento pronunciado de la presión arterial.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+frecuentes: Cefalea, Mareos, Neuropatía periférica, Parestesias.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+frecuentes: Colitis (incluyendo colitis microscópica como colitis linfocítica, colitis colágena), Diarrea, Dolor abdominal, Estomatitis aftosa, Incremento de enzimas de colestasis, Incremento de transaminasas (especialmente ALT), Náuseas, Vómitos, Úlceras bucales.
+no frecuente: Hepatitis, Ictericia colestásica, Insuficiencia hepática, Necrosis hepática aguda, Pancreatitis.
+
+TRASTORNOS DEL SISTEMA REPRODUCTOR
+frecuencia no conocida: Disminución del recuento total del esperma, Dismminución de la motilidad progresiva rápida del esperma, Leve disminución (reversible) de la concentración de esperma.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+no frecuente: Enfermedad pulmonar intersticial incluyendo neumonitis intersticial.
+frecuencia no conocida: Hipertensión pulmonar.
+
+TRASTORNOS DEL SISTEMA EXCRETOR
+frecuencia no conocida: Fallo renal.
+
+TRASTORNOS DEL SISTEMA ENDOCRINO
+poco frecuentes: Hiperlipidemia, Hipofosfatemia, Hipopotasemia.
+frecuencia no conocida: Hipouricemia.
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN
+frecuentes: Incremento de CPK.
+no frecuente: Incremento de LDH.
+
+INFECCIONES E INFESTACIONES
+no frecuente: Infecciones graves incluyendo sepsis.
+
+NEOPLASIAS
+frecuencia no conocida: Neoplasia.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+frecuentes: Reacciones alérgicas leves.
+no frecuente: Reacciones anafilácticas, Vasculitis incluyendo vasculitis necrotizante cutánea.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+frecuentes: Tenosinovitis.
+poco frecuentes: Rotura tendinosa.
+
+Descripción de reacciones adversas seleccionadas
+En la práctica clínica, la interpretación de los hallazgos debe realizarse de forma individualizada y teniendo en cuenta la evolución temporal tras el inicio o ajuste del tratamiento. La aparición de cambios persistentes en controles de laboratorio o de signos clínicos relevantes justifica una reevaluación del tratamiento y de los factores de riesgo del paciente. La retirada temporal o definitiva puede considerarse según la intensidad del cuadro y la respuesta a las medidas adoptadas. En pacientes con comorbilidad, la vigilancia debe ser más estrecha y documentarse de manera sistemática.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En la clasificación por sistemas y órganos, dentro de TRASTORNOS DEL SISTEMA GENERAL, se ha notificado Astenia como reacción adversa asociada al tratamiento con LEFLUNOMIDA. Su frecuencia se clasifica como frecuentes, de acuerdo con la terminología utilizada para la presentación tabulada de reacciones adversas.
+
+La aparición de este acontecimiento debe valorarse en el contexto del estado clínico del paciente y de la evolución durante el tratamiento. Se recomienda realizar seguimiento clínico cuando la intensidad sea persistente o interfiera con la actividad habitual, considerando la necesidad de medidas de manejo individualizadas.
+
+-- Caso 2 --
+En la clasificación por órganos y sistemas, dentro de TRASTORNOS DEL SISTEMA ENDOCRINO, se ha notificado Hipofosfatemia con una frecuencia de poco frecuentes durante el tratamiento con LEFLUNOMIDA. Este hallazgo debe interpretarse en el contexto de la evaluación clínica habitual del paciente y de los controles analíticos cuando estén indicados. En caso de detectarse alteraciones persistentes o clínicamente relevantes de los parámetros de fosfato, se recomienda valorar la continuidad del tratamiento y aplicar las medidas de seguimiento apropiadas, de acuerdo con la situación clínica individual.
+
+-- Caso 3 --
+Dentro de Trastornos del sistema digestivo, se ha notificado Pancreatitis como reacción adversa no frecuente durante el tratamiento con LEFLUNOMIDA. La aparición de dolor abdominal persistente o síntomas compatibles debe evaluarse clínicamente y considerarse en el contexto del tratamiento en curso. En pacientes con factores predisponentes o antecedentes relevantes, se recomienda vigilancia clínica y valoración de la continuidad del tratamiento según la gravedad y la evolución del cuadro. La información disponible no permite establecer subgrupos específicos de mayor riesgo, por lo que la detección precoz y la revisión de la medicación concomitante forman parte del manejo habitual.

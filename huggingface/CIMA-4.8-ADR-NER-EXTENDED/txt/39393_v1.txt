@@ -1,0 +1,56 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil de seguridad de OXITOCINA está condicionado por su actividad farmacológica y por las circunstancias clínicas en las que se administra. Las notificaciones proceden principalmente de la vigilancia durante el uso hospitalario y deben interpretarse considerando la dosis, la velocidad de administración, la respuesta individual y la situación obstétrica. La aparición de acontecimientos clínicamente relevantes puede requerir una reevaluación inmediata del tratamiento y de las medidas de monitorización. En la práctica clínica se recomienda una observación continuada de la paciente y del producto de la gestación cuando proceda. La información disponible no permite estimar con precisión todos los riesgos, por lo que algunos términos se clasifican sin una frecuencia derivada de ensayos controlados.
+
+Lista tabulada de reacciones adversas
+A continuación se presentan las reacciones adversas agrupadas por sistema y por categoría de frecuencia.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+frecuentes: Dolor de cabeza.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+frecuentes: Nauseas, vómitos.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+frecuentes: Bradicardia, Taquicardia.
+poco frecuentes: Arritmia.
+frecuencia no conocida: Hipotensión, Isquemia miocárdica, prolongación del intervalo QT del electrocardiograma.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+no frecuente: Erupción.
+frecuencia no conocida: Angioedema.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+no frecuente: Reacción anafiláctica/anafilactoide asociada a disnea e hipotensión, shock anafiláctico/anafilactoide.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+frecuencia no conocida: Coagulación intravascular diseminada.
+
+TRASTORNOS DEL SISTEMA REPRODUCTOR
+frecuencia no conocida: Hipertonía uterina, Síndrome de sufrimiento fetal, asfixia y muerte, contracciones tetánicas del útero, ruptura del útero.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+frecuencia no conocida: Edema pulmonar agudo.
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN
+frecuencia no conocida: Hiponatremia, Hiponatremia neonatal, Intoxicación hídrica.
+
+TRASTORNOS DEL SISTEMA GENERAL
+frecuencia no conocida: Rubor.
+
+Descripción de reacciones adversas seleccionadas
+Las alteraciones relacionadas con la contractilidad pueden aparecer de forma brusca y requieren valoración clínica inmediata. En particular, Hipertonía uterina, contracciones tetánicas del útero, ruptura del útero y Síndrome de sufrimiento fetal, asfixia y muerte son términos que deben considerarse en el contexto de la respuesta farmacodinámica y de las condiciones obstétricas concomitantes.
+
+El balance de líquidos debe vigilarse en tratamientos que requieran administración mantenida o volúmenes elevados. Intoxicación hídrica, Hiponatremia e Hiponatremia neonatal reflejan situaciones en las que la evaluación analítica y clínica puede ser necesaria para orientar la conducta terapéutica. Asimismo, Edema pulmonar agudo y Coagulación intravascular diseminada representan acontecimientos graves que precisan reconocimiento precoz y tratamiento de soporte según criterio médico.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En la clasificación por órganos y sistemas, dentro de Trastornos del sistema nervioso, se ha notificado Dolor de cabeza como una de las reacciones adversas frecuentes asociadas al uso de OXITOCINA. Este acontecimiento debe interpretarse en el contexto clínico de la administración intravenosa y de la respuesta individual de la paciente. Se recomienda mantener la vigilancia habitual durante el tratamiento y valorar la evolución del cuadro si aparece durante o tras la administración. La notificación de sospechas de reacciones adversas permite continuar evaluando la relación beneficio-riesgo del medicamento en la práctica clínica.
+
+-- Caso 2 --
+Trastornos del sistema cardiovascular: Las notificaciones de Arritmia se consideran poco frecuentes durante la administración de OXITOCINA. Este efecto puede relacionarse con la respuesta farmacodinámica del medicamento y con la situación clínica en la que se utiliza. Se recomienda vigilancia clínica adecuada durante la administración, especialmente en pacientes con factores que puedan aumentar la susceptibilidad a cambios del ritmo cardiaco. Si aparece Arritmia, debe valorarse la continuidad del tratamiento conforme al estado clínico del paciente.
+
+-- Caso 3 --
+Dentro de TRASTORNOS DEL SISTEMA REPRODUCTOR, se ha descrito Síndrome de sufrimiento fetal, asfixia y muerte con OXITOCINA, con frecuencia no conocida a partir de los datos disponibles. Este efecto se considera relacionado con la respuesta farmacológica uterotónica y con la sensibilidad individual al tratamiento. Durante la administración debe mantenerse una vigilancia clínica adecuada y ajustar la perfusión según la respuesta materna y fetal, conforme a la práctica obstétrica habitual.

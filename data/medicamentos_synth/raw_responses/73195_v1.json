@@ -1,0 +1,739 @@
+{
+  "codigo": "73195",
+  "variante": 1,
+  "codigo_variant": "73195_v1",
+  "medicamento": "SULPIRIDA KERN PHARMA 50 mg CAPSULAS EFG",
+  "model": "gpt-5.5",
+  "style_variant_idx": 0,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil descrito para SULPIRIDA se corresponde con el observado en la experiencia clínica y en la notificación espontánea tras la comercialización. Las manifestaciones notificadas pueden aparecer al inicio del tratamiento o tras ajustes de dosis, y en general requieren valoración individual según la intensidad y la evolución temporal. La interpretación de los datos debe realizarse considerando la indicación, la exposición acumulada y las características basales del paciente. La información se presenta agrupada por sistema de clasificación de órganos y por categoría de frecuencia, utilizando la terminología médica habitual. La ausencia de una estimación cuantitativa en algunos acontecimientos refleja limitaciones de los datos disponibles y no implica ausencia de relevancia clínica.\n\nLista tabulada de reacciones adversas\nLas categorías incluidas a continuación resumen las reacciones notificadas con el medicamento. Dentro de cada grupo, los términos se ordenan de forma descriptiva y no necesariamente por gravedad.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nfrecuentes: Parkinsonismo, acatisia, sedación, somnolencia, temblor, trastorno extrapiramidal.\nno frecuente: crisis oculógiras.\npoco frecuentes: discinesia, distonía, hipertonía.\nfrecuencia no conocida: convulsiones, discinesia tardía, hipoquinesia, síndrome maligno, síndrome neuroléptico maligno.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\npoco frecuentes: Hipotensión postural, arritmias ventriculares, taquicardia ventricular.\nfrecuencia no conocida: Prolongación del intervalo QT.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nfrecuentes: Aumento de peso, Incremento de enzimas hepáticas.\n\nTRASTORNOS PSIQUIÁTRICOS\nfrecuentes: insomnio.\nfrecuencia no conocida: confusion.\n\nTRASTORNOS DEL SISTEMA REPRODUCTOR\nfrecuentes: hiperprolactemia.\n\nTRASTORNOS DEL SISTEMA ENDOCRINO\nfrecuentes: Hiperprolactinemia.\n\nTRASTORNOS DE PIEL Y TEJIDOS\nfrecuentes: Rash máculo-papular.\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS\nfrecuencia no conocida: Tromboembolismo venoso.\n\nDescripción de reacciones adversas seleccionadas\nEn la práctica clínica, la aparición de signos motores debe evaluarse con especial atención, ya que puede requerir reducción de la dosis, interrupción del tratamiento o adopción de medidas de soporte. La evolución suele depender de la exposición y de la susceptibilidad individual. Es aconsejable revisar de forma periódica la necesidad de continuar el tratamiento, especialmente cuando los síntomas interfieren con la actividad diaria o se mantienen tras cambios posológicos.\n\nLos hallazgos analíticos o endocrinos deben interpretarse junto con la situación clínica del paciente y con otros tratamientos concomitantes. En caso de alteraciones persistentes, la decisión terapéutica debe basarse en el balance beneficio-riesgo. Los acontecimientos con posible repercusión circulatoria requieren una valoración cuidadosa, en particular en pacientes con antecedentes relevantes o factores predisponentes.\n\nLa notificación de sospechas de reacciones adversas tras la autorización del medicamento es importante. Permite una supervisión continuada del balance beneficio-riesgo y contribuye a caracterizar mejor los acontecimientos observados en condiciones reales de uso.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nEn la tabla de reacciones adversas, las crisis oculógiras se incluyen dentro de TRASTORNOS DEL SISTEMA NERVIOSO y se consideran de frecuencia no frecuente durante el tratamiento con SULPIRIDA. Su aparición puede relacionarse con la actividad farmacológica central del principio activo y debe valorarse en el contexto clínico del paciente, especialmente al inicio del tratamiento o tras modificaciones de dosis. Si se observan signos compatibles, se recomienda seguimiento clínico y reevaluación de la pauta terapéutica de acuerdo con la gravedad y la evolución del cuadro.\n\n-- Caso 2 --\nEn la clasificación TRASTORNOS DEL SISTEMA NERVIOSO, la distonía se incluye entre las reacciones adversas poco frecuentes durante el tratamiento con SULPIRIDA. Este efecto es coherente con la acción del principio activo sobre la neurotransmisión dopaminérgica central y puede aparecer especialmente tras el inicio del tratamiento o tras modificaciones de la pauta. Se recomienda vigilancia clínica, con evaluación individual de la continuidad del tratamiento y de posibles medidas de manejo si se observan manifestaciones compatibles. La información debe interpretarse en el contexto del perfil de seguridad conocido.\n\n-- Caso 3 --\nEn el sistema de clasificación de órganos Trastornos del sistema digestivo, Aumento de peso se clasifica entre las reacciones adversas frecuentes notificadas durante el tratamiento con SULPIRIDA. La aparición de este efecto debe valorarse en el contexto clínico del paciente y de la evolución ponderal previa. Se recomienda considerar el seguimiento periódico del peso corporal, especialmente en tratamientos prolongados o cuando existan factores predisponentes. Si el incremento ponderal resulta clínicamente relevante, el profesional sanitario deberá reevaluar la continuidad del tratamiento y las medidas de control adecuadas, de acuerdo con la situación individual.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "SULPIRIDA",
+      "surface": "SULPIRIDA",
+      "start": 81,
+      "end": 90
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1087,
+      "end": 1118
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 1119,
+      "end": 1129
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parkinsonismo",
+      "surface": "Parkinsonismo",
+      "start": 1131,
+      "end": 1144
+    },
+    {
+      "type": "REACT",
+      "canonical": "acatisia",
+      "surface": "acatisia",
+      "start": 1146,
+      "end": 1154
+    },
+    {
+      "type": "REACT",
+      "canonical": "sedación",
+      "surface": "sedación",
+      "start": 1156,
+      "end": 1164
+    },
+    {
+      "type": "REACT",
+      "canonical": "somnolencia",
+      "surface": "somnolencia",
+      "start": 1166,
+      "end": 1177
+    },
+    {
+      "type": "REACT",
+      "canonical": "temblor",
+      "surface": "temblor",
+      "start": 1179,
+      "end": 1186
+    },
+    {
+      "type": "REACT",
+      "canonical": "trastorno extrapiramidal",
+      "surface": "trastorno extrapiramidal",
+      "start": 1188,
+      "end": 1212
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 1214,
+      "end": 1226
+    },
+    {
+      "type": "REACT",
+      "canonical": "crisis oculógiras",
+      "surface": "crisis oculógiras",
+      "start": 1228,
+      "end": 1245
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 1247,
+      "end": 1262
+    },
+    {
+      "type": "REACT",
+      "canonical": "discinesia",
+      "surface": "discinesia",
+      "start": 1264,
+      "end": 1274
+    },
+    {
+      "type": "REACT",
+      "canonical": "distonía",
+      "surface": "distonía",
+      "start": 1276,
+      "end": 1284
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipertonía",
+      "surface": "hipertonía",
+      "start": 1286,
+      "end": 1296
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 1298,
+      "end": 1320
+    },
+    {
+      "type": "REACT",
+      "canonical": "convulsiones",
+      "surface": "convulsiones",
+      "start": 1322,
+      "end": 1334
+    },
+    {
+      "type": "REACT",
+      "canonical": "discinesia tardía",
+      "surface": "discinesia tardía",
+      "start": 1336,
+      "end": 1353
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipoquinesia",
+      "surface": "hipoquinesia",
+      "start": 1355,
+      "end": 1367
+    },
+    {
+      "type": "REACT",
+      "canonical": "síndrome maligno",
+      "surface": "síndrome maligno",
+      "start": 1369,
+      "end": 1385
+    },
+    {
+      "type": "REACT",
+      "canonical": "síndrome neuroléptico maligno",
+      "surface": "síndrome neuroléptico maligno",
+      "start": 1387,
+      "end": 1416
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1419,
+      "end": 1456
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión postural",
+      "surface": "Hipotensión postural",
+      "start": 1474,
+      "end": 1494
+    },
+    {
+      "type": "REACT",
+      "canonical": "arritmias ventriculares",
+      "surface": "arritmias ventriculares",
+      "start": 1496,
+      "end": 1519
+    },
+    {
+      "type": "REACT",
+      "canonical": "taquicardia ventricular",
+      "surface": "taquicardia ventricular",
+      "start": 1521,
+      "end": 1544
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prolongación del intervalo QT",
+      "surface": "Prolongación del intervalo QT",
+      "start": 1570,
+      "end": 1599
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1602,
+      "end": 1634
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de peso",
+      "surface": "Aumento de peso",
+      "start": 1647,
+      "end": 1662
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de enzimas hepáticas.",
+      "surface": "Incremento de enzimas hepáticas.",
+      "start": 1664,
+      "end": 1696
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 1698,
+      "end": 1722
+    },
+    {
+      "type": "REACT",
+      "canonical": "insomnio",
+      "surface": "insomnio",
+      "start": 1735,
+      "end": 1743
+    },
+    {
+      "type": "REACT",
+      "canonical": "confusion",
+      "surface": "confusion",
+      "start": 1769,
+      "end": 1778
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "start": 1781,
+      "end": 1815
+    },
+    {
+      "type": "REACT",
+      "canonical": "hiperprolactemia",
+      "surface": "hiperprolactemia",
+      "start": 1828,
+      "end": 1844
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "surface": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "start": 1847,
+      "end": 1879
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperprolactinemia.",
+      "surface": "Hiperprolactinemia.",
+      "start": 1892,
+      "end": 1911
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 1913,
+      "end": 1941
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rash máculo-papular",
+      "surface": "Rash máculo-papular",
+      "start": 1954,
+      "end": 1973
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 1976,
+      "end": 2025
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tromboembolismo venoso",
+      "surface": "Tromboembolismo venoso",
+      "start": 2050,
+      "end": 2072
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "Trastornos del sistema digestivo",
+      "start": 1602,
+      "end": 1634
+    }
+  ],
+  "raw_long_doc_text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil descrito para SULPIRIDA se corresponde con el observado en la experiencia clínica y en la notificación espontánea tras la comercialización. Las manifestaciones notificadas pueden aparecer al inicio del tratamiento o tras ajustes de dosis, y en general requieren valoración individual según la intensidad y la evolución temporal. La interpretación de los datos debe realizarse considerando la indicación, la exposición acumulada y las características basales del paciente. La información se presenta agrupada por sistema de clasificación de órganos y por categoría de frecuencia, utilizando la terminología médica habitual. La ausencia de una estimación cuantitativa en algunos acontecimientos refleja limitaciones de los datos disponibles y no implica ausencia de relevancia clínica.\n\nLista tabulada de reacciones adversas\nLas categorías incluidas a continuación resumen las reacciones notificadas con el medicamento. Dentro de cada grupo, los términos se ordenan de forma descriptiva y no necesariamente por gravedad.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nfrecuentes: Parkinsonismo, acatisia, sedación, somnolencia, temblor, trastorno extrapiramidal.\nno frecuente: crisis oculógiras.\npoco frecuentes: discinesia, distonía, hipertonía.\nfrecuencia no conocida: convulsiones, discinesia tardía, hipoquinesia, síndrome maligno, síndrome neuroléptico maligno.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\npoco frecuentes: Hipotensión postural, arritmias ventriculares, taquicardia ventricular.\nfrecuencia no conocida: Prolongación del intervalo QT.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nfrecuentes: Aumento de peso, Incremento de enzimas hepáticas.\n\nTRASTORNOS PSIQUIÁTRICOS\nfrecuentes: insomnio.\nfrecuencia no conocida: confusion.\n\nTRASTORNOS DEL SISTEMA REPRODUCTOR\nfrecuentes: hiperprolactemia.\n\nTRASTORNOS DEL SISTEMA ENDOCRINO\nfrecuentes: Hiperprolactinemia.\n\nTRASTORNOS DE PIEL Y TEJIDOS\nfrecuentes: Rash máculo-papular.\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS\nfrecuencia no conocida: Tromboembolismo venoso.\n\nDescripción de reacciones adversas seleccionadas\nEn la práctica clínica, la aparición de signos motores debe evaluarse con especial atención, ya que puede requerir reducción de la dosis, interrupción del tratamiento o adopción de medidas de soporte. La evolución suele depender de la exposición y de la susceptibilidad individual. Es aconsejable revisar de forma periódica la necesidad de continuar el tratamiento, especialmente cuando los síntomas interfieren con la actividad diaria o se mantienen tras cambios posológicos.\n\nLos hallazgos analíticos o endocrinos deben interpretarse junto con la situación clínica del paciente y con otros tratamientos concomitantes. En caso de alteraciones persistentes, la decisión terapéutica debe basarse en el balance beneficio-riesgo. Los acontecimientos con posible repercusión circulatoria requieren una valoración cuidadosa, en particular en pacientes con antecedentes relevantes o factores predisponentes.\n\nLa notificación de sospechas de reacciones adversas tras la autorización del medicamento es importante. Permite una supervisión continuada del balance beneficio-riesgo y contribuye a caracterizar mejor los acontecimientos observados en condiciones reales de uso.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "SULPIRIDA",
+      "surface": "SULPIRIDA"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parkinsonismo",
+      "surface": "Parkinsonismo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "acatisia",
+      "surface": "acatisia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "sedación",
+      "surface": "sedación"
+    },
+    {
+      "type": "REACT",
+      "canonical": "somnolencia",
+      "surface": "somnolencia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "temblor",
+      "surface": "temblor"
+    },
+    {
+      "type": "REACT",
+      "canonical": "trastorno extrapiramidal",
+      "surface": "trastorno extrapiramidal"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "crisis oculógiras",
+      "surface": "crisis oculógiras"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "discinesia",
+      "surface": "discinesia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "distonía",
+      "surface": "distonía"
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipertonía",
+      "surface": "hipertonía"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "convulsiones",
+      "surface": "convulsiones"
+    },
+    {
+      "type": "REACT",
+      "canonical": "discinesia tardía",
+      "surface": "discinesia tardía"
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipoquinesia",
+      "surface": "hipoquinesia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "síndrome maligno",
+      "surface": "síndrome maligno"
+    },
+    {
+      "type": "REACT",
+      "canonical": "síndrome neuroléptico maligno",
+      "surface": "síndrome neuroléptico maligno"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión postural",
+      "surface": "Hipotensión postural"
+    },
+    {
+      "type": "REACT",
+      "canonical": "arritmias ventriculares",
+      "surface": "arritmias ventriculares"
+    },
+    {
+      "type": "REACT",
+      "canonical": "taquicardia ventricular",
+      "surface": "taquicardia ventricular"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prolongación del intervalo QT",
+      "surface": "Prolongación del intervalo QT"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de peso",
+      "surface": "Aumento de peso"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de enzimas hepáticas.",
+      "surface": "Incremento de enzimas hepáticas."
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "insomnio",
+      "surface": "insomnio"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "confusion",
+      "surface": "confusion"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "hiperprolactemia",
+      "surface": "hiperprolactemia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "surface": "TRASTORNOS DEL SISTEMA ENDOCRINO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperprolactinemia.",
+      "surface": "Hiperprolactinemia."
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rash máculo-papular",
+      "surface": "Rash máculo-papular"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tromboembolismo venoso",
+      "surface": "Tromboembolismo venoso"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "SULPIRIDA KERN PHARMA 50 mg CAPSULAS EFG",
+        "pactivo": "SULPIRIDA",
+        "reaccion": "crisis oculógiras",
+        "frecuencia": "NO FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA NERVIOSO"
+      },
+      "text": "En la tabla de reacciones adversas, las crisis oculógiras se incluyen dentro de TRASTORNOS DEL SISTEMA NERVIOSO y se consideran de frecuencia no frecuente durante el tratamiento con SULPIRIDA. Su aparición puede relacionarse con la actividad farmacológica central del principio activo y debe valorarse en el contexto clínico del paciente, especialmente al inicio del tratamiento o tras modificaciones de dosis. Si se observan signos compatibles, se recomienda seguimiento clínico y reevaluación de la pauta terapéutica de acuerdo con la gravedad y la evolución del cuadro.",
+      "declared": [
+        {
+          "type": "REACT",
+          "canonical": "crisis oculógiras",
+          "surface": "crisis oculógiras"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SULPIRIDA",
+          "surface": "SULPIRIDA"
+        }
+      ],
+      "validated": [
+        {
+          "type": "REACT",
+          "canonical": "crisis oculógiras",
+          "surface": "crisis oculógiras",
+          "start": 40,
+          "end": 57
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "start": 80,
+          "end": 111
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente",
+          "start": 142,
+          "end": 154
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SULPIRIDA",
+          "surface": "SULPIRIDA",
+          "start": 182,
+          "end": 191
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "SULPIRIDA KERN PHARMA 50 mg CAPSULAS EFG",
+        "pactivo": "SULPIRIDA",
+        "reaccion": "distonía",
+        "frecuencia": "POCO FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA NERVIOSO"
+      },
+      "text": "En la clasificación TRASTORNOS DEL SISTEMA NERVIOSO, la distonía se incluye entre las reacciones adversas poco frecuentes durante el tratamiento con SULPIRIDA. Este efecto es coherente con la acción del principio activo sobre la neurotransmisión dopaminérgica central y puede aparecer especialmente tras el inicio del tratamiento o tras modificaciones de la pauta. Se recomienda vigilancia clínica, con evaluación individual de la continuidad del tratamiento y de posibles medidas de manejo si se observan manifestaciones compatibles. La información debe interpretarse en el contexto del perfil de seguridad conocido.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+        },
+        {
+          "type": "REACT",
+          "canonical": "distonía",
+          "surface": "distonía"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SULPIRIDA",
+          "surface": "SULPIRIDA"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "start": 20,
+          "end": 51
+        },
+        {
+          "type": "REACT",
+          "canonical": "distonía",
+          "surface": "distonía",
+          "start": 56,
+          "end": 64
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes",
+          "start": 106,
+          "end": 121
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SULPIRIDA",
+          "surface": "SULPIRIDA",
+          "start": 149,
+          "end": 158
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "SULPIRIDA KERN PHARMA 50 mg CAPSULAS EFG",
+        "pactivo": "SULPIRIDA",
+        "reaccion": "Aumento de peso",
+        "frecuencia": "FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+      },
+      "text": "En el sistema de clasificación de órganos Trastornos del sistema digestivo, Aumento de peso se clasifica entre las reacciones adversas frecuentes notificadas durante el tratamiento con SULPIRIDA. La aparición de este efecto debe valorarse en el contexto clínico del paciente y de la evolución ponderal previa. Se recomienda considerar el seguimiento periódico del peso corporal, especialmente en tratamientos prolongados o cuando existan factores predisponentes. Si el incremento ponderal resulta clínicamente relevante, el profesional sanitario deberá reevaluar la continuidad del tratamiento y las medidas de control adecuadas, de acuerdo con la situación individual.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "Trastornos del sistema digestivo"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Aumento de peso",
+          "surface": "Aumento de peso"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SULPIRIDA",
+          "surface": "SULPIRIDA"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "Trastornos del sistema digestivo",
+          "start": 42,
+          "end": 74
+        },
+        {
+          "type": "REACT",
+          "canonical": "Aumento de peso",
+          "surface": "Aumento de peso",
+          "start": 76,
+          "end": 91
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes",
+          "start": 135,
+          "end": 145
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SULPIRIDA",
+          "surface": "SULPIRIDA",
+          "start": 185,
+          "end": 194
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

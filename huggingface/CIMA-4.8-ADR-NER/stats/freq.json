@@ -1,0 +1,38 @@
+{
+  "config": "freq",
+  "entity_types": [
+    "FREQ"
+  ],
+  "labels": [
+    "O",
+    "B-FREQ",
+    "I-FREQ"
+  ],
+  "train": {
+    "documents": 18,
+    "sentences": 1134,
+    "tokens": 18440,
+    "label_counts": {
+      "O": 18205,
+      "B-FREQ": 155,
+      "I-FREQ": 80
+    },
+    "missing_txt_files": [],
+    "docs_with_no_tags": [
+      "39411",
+      "73322"
+    ]
+  },
+  "test": {
+    "documents": 8,
+    "sentences": 552,
+    "tokens": 9090,
+    "label_counts": {
+      "O": 8890,
+      "B-FREQ": 134,
+      "I-FREQ": 66
+    },
+    "missing_txt_files": [],
+    "docs_with_no_tags": []
+  }
+}

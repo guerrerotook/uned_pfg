@@ -1,0 +1,254 @@
+[
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "infección de las vías respiratorias altas",
+    "frecuencia": "muy frecuentes",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "nasofaringitis",
+    "frecuencia": "muy frecuentes",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "rinitis",
+    "frecuencia": "frecuentes",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "gripe",
+    "frecuencia": "frecuentes",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "hipoglucemia",
+    "frecuencia": "frecuentes",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "depresión",
+    "frecuencia": "frecuencia no conocida",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "cefalea",
+    "frecuencia": "muy frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "mareos",
+    "frecuencia": "muy frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "dolor de oído",
+    "frecuencia": "frecuentes",
+    "trastorno": "Trastornos del oído y del laberinto"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "molestia en el oído",
+    "frecuencia": "frecuentes",
+    "trastorno": "Trastornos del oído y del laberinto"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "acúfenos",
+    "frecuencia": "frecuentes",
+    "trastorno": "Trastornos del oído y del laberinto"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "hiperemia de la membrana timpánica",
+    "frecuencia": "frecuentes",
+    "trastorno": "Trastornos del oído y del laberinto"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "trastorno vestibular",
+    "frecuencia": "frecuentes",
+    "trastorno": "Trastornos del oído y del laberinto"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "taponamiento del oído",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos del oído y del laberinto"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "dolor bucofaríngeo",
+    "frecuencia": "muy frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "congestión nasal",
+    "frecuencia": "muy frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "rinorrea",
+    "frecuencia": "frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "congestión de los senos paranasales",
+    "frecuencia": "frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "eritema faríngeo",
+    "frecuencia": "frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "respiración anómala",
+    "frecuencia": "frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "sibilancias",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "diarrea",
+    "frecuencia": "muy frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "dolor abdominal",
+    "frecuencia": "muy frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "náuseas",
+    "frecuencia": "frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "dolor abdominal alto",
+    "frecuencia": "frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "flatulencia",
+    "frecuencia": "frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "aumento de las transaminasas",
+    "frecuencia": "muy frecuentes",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "alanina aminotransferasa elevada",
+    "frecuencia": "muy frecuentes",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "aspartato aminotransferasa elevada",
+    "frecuencia": "muy frecuentes",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "daño hepático",
+    "frecuencia": "frecuencia no conocida",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "aumento de la bilirrubina total",
+    "frecuencia": "frecuencia no conocida",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "exantema",
+    "frecuencia": "muy frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "acné",
+    "frecuencia": "frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "prurito",
+    "frecuencia": "frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "bulto en la mama",
+    "frecuencia": "frecuentes",
+    "trastorno": "Trastornos del aparato reproductor y de la mama"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "inflamación de la mama",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos del aparato reproductor y de la mama"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "ginecomastia",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos del aparato reproductor y de la mama"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "trastorno del pezón",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos del aparato reproductor y de la mama"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "dolor de pezón",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Trastornos del aparato reproductor y de la mama"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "bacterias en el esputo",
+    "frecuencia": "muy frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "creatina fosfoquinasa en sangre elevada",
+    "frecuencia": "muy frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "IVACAFTOR",
+    "reacción adversa": "presión arterial elevada",
+    "frecuencia": "poco frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  }
+]

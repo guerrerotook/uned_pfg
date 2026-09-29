@@ -1,0 +1,481 @@
+{
+  "codigo": "1201468004",
+  "variante": 2,
+  "codigo_variant": "1201468004_v2",
+  "medicamento": "KAFTRIO 75 MG/50 MG/100 MG GRANULADO EN SOBRE",
+  "model": "gpt-5.5",
+  "style_variant_idx": 1,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\n\nEl perfil de seguridad descrito para NOVALE se basa en la evaluación conjunta de los acontecimientos comunicados durante el uso clínico y el seguimiento posterior. En este documento, Kaftrio se utiliza como denominación breve del mismo tratamiento cuando se describe la experiencia de uso. En general, los acontecimientos observados fueron coherentes con la situación clínica de los pacientes y no obligaron, por sí solos, a modificar las recomendaciones generales de vigilancia. La mayor parte de las notificaciones se resolvieron con tratamiento sintomático o con observación clínica, según el criterio del profesional sanitario. La interpretación de cualquier episodio debe tener en cuenta el estado basal, la edad, los tratamientos concomitantes y la evolución temporal respecto al inicio o continuación del medicamento.\n\nLa información se presenta siguiendo una agrupación por clasificación de órganos y una ordenación por categorías de frecuencia. Dentro de cada grupo, los términos se mantienen con una terminología médica estandarizada para facilitar la codificación y la comparación entre informes. La inclusión de un acontecimiento en la tabla no implica necesariamente causalidad individual en todos los casos, sino que refleja que se ha considerado relevante para la evaluación de seguridad. Se recomienda que los profesionales sanitarios documenten la fecha de inicio, la duración, la gravedad, la evolución y las medidas adoptadas, especialmente cuando el episodio se repita o interfiera con la continuidad del tratamiento.\n\nLista tabulada de reacciones adversas\n\nINFECCIONES E INFESTACIONES\nmuy frecuentes: Infección de las vías respiratorias altas; nasofaringitis.\nfrecuentes: Gripe (gripe común); Rinitis.\n\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN\nfrecuentes: Hipoglucemia.\n\nDescripción de reacciones adversas seleccionadas\n\nLos acontecimientos incluidos en el primer epígrafe pueden aparecer en periodos de mayor exposición comunitaria o coincidir con cambios estacionales. Por este motivo, la valoración clínica debe diferenciar el curso esperado de un cuadro intercurrente de una posible relación temporal con el tratamiento. Cuando se comunique un episodio, resulta útil registrar si existieron contactos cercanos, antecedentes recientes o necesidad de medicación de apoyo. La variante coloquial entre paréntesis se incorpora únicamente como ayuda para reconocer cómo puede describirlo el paciente, sin modificar la denominación médica utilizada en la lista tabulada.\n\nEl acontecimiento incluido en el segundo epígrafe requiere una valoración individualizada, sobre todo en pacientes con antecedentes relevantes o con cambios recientes en la ingesta. Debe considerarse la situación clínica global y la posible contribución de otros tratamientos. Si se confirma una relación temporal clara, el seguimiento debe orientarse a prevenir recurrencias y a asegurar una comunicación adecuada con el paciente o sus cuidadores.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nEn la evaluación de seguridad, dentro del sistema de clasificación de órganos INFECCIONES E INFESTACIONES, se ha identificado la siguiente reacción adversa:\n- Rinitis: frecuentes.\nDurante el tratamiento con NOVALE, este hallazgo debe interpretarse en el contexto clínico del paciente y de su situación respiratoria basal. Se recomienda seguimiento clínico habitual y valoración de la continuidad del tratamiento si el episodio persiste o interfiere con la tolerabilidad, sin que ello implique necesariamente la suspensión automática. La notificación de sospechas contribuye a una caracterización más precisa del perfil de seguridad en uso poscomercialización.\n\n-- Caso 2 --\nEn el sistema de clasificación de órganos Infecciones e infestaciones, se ha identificado la Infección de las vías respiratorias altas como una reacción adversa muy frecuente durante el tratamiento con NOVALE (Kaftrio). Este acontecimiento puede manifestarse como un cuadro catarral de vías altas, generalmente reconocido en la práctica clínica por síntomas respiratorios leves.\n\nTabla de reacciones adversas:\n- Infección de las vías respiratorias altas: muy frecuentes.\n\nSe recomienda valorar la evolución clínica y aplicar las medidas de seguimiento habituales, especialmente si los síntomas persisten o se intensifican. La interpretación debe realizarse en el contexto del estado basal del paciente y del perfil de seguridad conocido del medicamento.\n\n-- Caso 3 --\nDentro del sistema Trastornos del metabolismo y la nutrición, se ha notificado Hipoglucemia con una frecuencia de aparición frecuentes durante el tratamiento con NOVALE (Kaftrio). En la presentación tabulada de reacciones adversas debe recogerse como:\n- Trastornos del metabolismo y la nutrición: Hipoglucemia (glucemia baja), frecuentes.\nLa Hipoglucemia puede requerir seguimiento clínico en pacientes con factores predisponentes, especialmente si existen cambios en la ingesta o en el tratamiento concomitante. Se recomienda valorar la monitorización de la glucemia según la situación clínica del paciente y adoptar las medidas habituales de manejo si aparece glucemia baja.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "NOVALE",
+      "surface": "NOVALE",
+      "start": 95,
+      "end": 101
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "NOVALE",
+      "surface": "Kaftrio",
+      "start": 241,
+      "end": 248
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "INFECCIONES E INFESTACIONES",
+      "start": 1636,
+      "end": 1663
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes",
+      "start": 1664,
+      "end": 1678
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infección de las vías respiratorias altas",
+      "surface": "Infección de las vías respiratorias altas",
+      "start": 1680,
+      "end": 1721
+    },
+    {
+      "type": "REACT",
+      "canonical": "nasofaringitis",
+      "surface": "nasofaringitis",
+      "start": 1723,
+      "end": 1737
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 1668,
+      "end": 1678
+    },
+    {
+      "type": "REACT",
+      "canonical": "Gripe",
+      "surface": "Gripe",
+      "start": 1751,
+      "end": 1756
+    },
+    {
+      "type": "REACT",
+      "canonical": "Gripe",
+      "surface": "gripe",
+      "start": 1751,
+      "end": 1756
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rinitis",
+      "surface": "Rinitis",
+      "start": 1772,
+      "end": 1779
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "start": 1782,
+      "end": 1823
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipoglucemia",
+      "surface": "Hipoglucemia",
+      "start": 1836,
+      "end": 1848
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "Infecciones e infestaciones",
+      "start": 1636,
+      "end": 1663
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuente",
+      "start": 3910,
+      "end": 3923
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infección de las vías respiratorias altas",
+      "surface": "cuadro catarral de vías altas",
+      "start": 4016,
+      "end": 4045
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "Trastornos del metabolismo y la nutrición",
+      "start": 1782,
+      "end": 1823
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipoglucemia",
+      "surface": "glucemia baja",
+      "start": 4828,
+      "end": 4841
+    }
+  ],
+  "raw_long_doc_text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\n\nEl perfil de seguridad descrito para NOVALE se basa en la evaluación conjunta de los acontecimientos comunicados durante el uso clínico y el seguimiento posterior. En este documento, Kaftrio se utiliza como denominación breve del mismo tratamiento cuando se describe la experiencia de uso. En general, los acontecimientos observados fueron coherentes con la situación clínica de los pacientes y no obligaron, por sí solos, a modificar las recomendaciones generales de vigilancia. La mayor parte de las notificaciones se resolvieron con tratamiento sintomático o con observación clínica, según el criterio del profesional sanitario. La interpretación de cualquier episodio debe tener en cuenta el estado basal, la edad, los tratamientos concomitantes y la evolución temporal respecto al inicio o continuación del medicamento.\n\nLa información se presenta siguiendo una agrupación por clasificación de órganos y una ordenación por categorías de frecuencia. Dentro de cada grupo, los términos se mantienen con una terminología médica estandarizada para facilitar la codificación y la comparación entre informes. La inclusión de un acontecimiento en la tabla no implica necesariamente causalidad individual en todos los casos, sino que refleja que se ha considerado relevante para la evaluación de seguridad. Se recomienda que los profesionales sanitarios documenten la fecha de inicio, la duración, la gravedad, la evolución y las medidas adoptadas, especialmente cuando el episodio se repita o interfiera con la continuidad del tratamiento.\n\nLista tabulada de reacciones adversas\n\nINFECCIONES E INFESTACIONES\nmuy frecuentes: Infección de las vías respiratorias altas; nasofaringitis.\nfrecuentes: Gripe (gripe común); Rinitis.\n\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN\nfrecuentes: Hipoglucemia.\n\nDescripción de reacciones adversas seleccionadas\n\nLos acontecimientos incluidos en el primer epígrafe pueden aparecer en periodos de mayor exposición comunitaria o coincidir con cambios estacionales. Por este motivo, la valoración clínica debe diferenciar el curso esperado de un cuadro intercurrente de una posible relación temporal con el tratamiento. Cuando se comunique un episodio, resulta útil registrar si existieron contactos cercanos, antecedentes recientes o necesidad de medicación de apoyo. La variante coloquial entre paréntesis se incorpora únicamente como ayuda para reconocer cómo puede describirlo el paciente, sin modificar la denominación médica utilizada en la lista tabulada.\n\nEl acontecimiento incluido en el segundo epígrafe requiere una valoración individualizada, sobre todo en pacientes con antecedentes relevantes o con cambios recientes en la ingesta. Debe considerarse la situación clínica global y la posible contribución de otros tratamientos. Si se confirma una relación temporal clara, el seguimiento debe orientarse a prevenir recurrencias y a asegurar una comunicación adecuada con el paciente o sus cuidadores.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "NOVALE",
+      "surface": "NOVALE"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "NOVALE",
+      "surface": "Kaftrio"
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "INFECCIONES E INFESTACIONES"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infección de las vías respiratorias altas",
+      "surface": "Infección de las vías respiratorias altas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "nasofaringitis",
+      "surface": "nasofaringitis"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Gripe",
+      "surface": "Gripe"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Gripe",
+      "surface": "gripe"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rinitis",
+      "surface": "Rinitis"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipoglucemia",
+      "surface": "Hipoglucemia"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "KAFTRIO 75 MG/50 MG/100 MG GRANULADO EN SOBRE",
+        "pactivo": "NOVALE",
+        "reaccion": "Rinitis",
+        "frecuencia": "FRECUENTE",
+        "sistema": "INFECCIONES E INFESTACIONES"
+      },
+      "text": "En la evaluación de seguridad, dentro del sistema de clasificación de órganos INFECCIONES E INFESTACIONES, se ha identificado la siguiente reacción adversa:\n- Rinitis: frecuentes.\nDurante el tratamiento con NOVALE, este hallazgo debe interpretarse en el contexto clínico del paciente y de su situación respiratoria basal. Se recomienda seguimiento clínico habitual y valoración de la continuidad del tratamiento si el episodio persiste o interfiere con la tolerabilidad, sin que ello implique necesariamente la suspensión automática. La notificación de sospechas contribuye a una caracterización más precisa del perfil de seguridad en uso poscomercialización.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "INFECCIONES E INFESTACIONES",
+          "surface": "INFECCIONES E INFESTACIONES"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Rinitis",
+          "surface": "Rinitis"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "NOVALE",
+          "surface": "NOVALE"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "INFECCIONES E INFESTACIONES",
+          "surface": "INFECCIONES E INFESTACIONES",
+          "start": 78,
+          "end": 105
+        },
+        {
+          "type": "REACT",
+          "canonical": "Rinitis",
+          "surface": "Rinitis",
+          "start": 159,
+          "end": 166
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes",
+          "start": 168,
+          "end": 178
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "NOVALE",
+          "surface": "NOVALE",
+          "start": 207,
+          "end": 213
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "KAFTRIO 75 MG/50 MG/100 MG GRANULADO EN SOBRE",
+        "pactivo": "NOVALE",
+        "reaccion": "Infección de las vías respiratorias altas",
+        "frecuencia": "MUY FRECUENTE",
+        "sistema": "INFECCIONES E INFESTACIONES"
+      },
+      "text": "En el sistema de clasificación de órganos Infecciones e infestaciones, se ha identificado la Infección de las vías respiratorias altas como una reacción adversa muy frecuente durante el tratamiento con NOVALE (Kaftrio). Este acontecimiento puede manifestarse como un cuadro catarral de vías altas, generalmente reconocido en la práctica clínica por síntomas respiratorios leves.\n\nTabla de reacciones adversas:\n- Infección de las vías respiratorias altas: muy frecuentes.\n\nSe recomienda valorar la evolución clínica y aplicar las medidas de seguimiento habituales, especialmente si los síntomas persisten o se intensifican. La interpretación debe realizarse en el contexto del estado basal del paciente y del perfil de seguridad conocido del medicamento.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "INFECCIONES E INFESTACIONES",
+          "surface": "Infecciones e infestaciones"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Infección de las vías respiratorias altas",
+          "surface": "Infección de las vías respiratorias altas"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "MUY FRECUENTE",
+          "surface": "muy frecuente"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "NOVALE",
+          "surface": "NOVALE"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "NOVALE",
+          "surface": "Kaftrio"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Infección de las vías respiratorias altas",
+          "surface": "cuadro catarral de vías altas"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Infección de las vías respiratorias altas",
+          "surface": "Infección de las vías respiratorias altas"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "MUY FRECUENTE",
+          "surface": "muy frecuentes"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "INFECCIONES E INFESTACIONES",
+          "surface": "Infecciones e infestaciones",
+          "start": 42,
+          "end": 69
+        },
+        {
+          "type": "REACT",
+          "canonical": "Infección de las vías respiratorias altas",
+          "surface": "Infección de las vías respiratorias altas",
+          "start": 93,
+          "end": 134
+        },
+        {
+          "type": "FREQ",
+          "canonical": "MUY FRECUENTE",
+          "surface": "muy frecuente",
+          "start": 161,
+          "end": 174
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "NOVALE",
+          "surface": "NOVALE",
+          "start": 202,
+          "end": 208
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "NOVALE",
+          "surface": "Kaftrio",
+          "start": 210,
+          "end": 217
+        },
+        {
+          "type": "REACT",
+          "canonical": "Infección de las vías respiratorias altas",
+          "surface": "cuadro catarral de vías altas",
+          "start": 267,
+          "end": 296
+        },
+        {
+          "type": "FREQ",
+          "canonical": "MUY FRECUENTE",
+          "surface": "muy frecuentes",
+          "start": 455,
+          "end": 469
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "KAFTRIO 75 MG/50 MG/100 MG GRANULADO EN SOBRE",
+        "pactivo": "NOVALE",
+        "reaccion": "Hipoglucemia",
+        "frecuencia": "FRECUENTE",
+        "sistema": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN"
+      },
+      "text": "Dentro del sistema Trastornos del metabolismo y la nutrición, se ha notificado Hipoglucemia con una frecuencia de aparición frecuentes durante el tratamiento con NOVALE (Kaftrio). En la presentación tabulada de reacciones adversas debe recogerse como:\n- Trastornos del metabolismo y la nutrición: Hipoglucemia (glucemia baja), frecuentes.\nLa Hipoglucemia puede requerir seguimiento clínico en pacientes con factores predisponentes, especialmente si existen cambios en la ingesta o en el tratamiento concomitante. Se recomienda valorar la monitorización de la glucemia según la situación clínica del paciente y adoptar las medidas habituales de manejo si aparece glucemia baja.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+          "surface": "Trastornos del metabolismo y la nutrición"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Hipoglucemia",
+          "surface": "Hipoglucemia"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "NOVALE",
+          "surface": "NOVALE"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "NOVALE",
+          "surface": "Kaftrio"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+          "surface": "Trastornos del metabolismo y la nutrición"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Hipoglucemia",
+          "surface": "Hipoglucemia"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Hipoglucemia",
+          "surface": "glucemia baja"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Hipoglucemia",
+          "surface": "Hipoglucemia"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Hipoglucemia",
+          "surface": "glucemia baja"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+          "surface": "Trastornos del metabolismo y la nutrición",
+          "start": 19,
+          "end": 60
+        },
+        {
+          "type": "REACT",
+          "canonical": "Hipoglucemia",
+          "surface": "Hipoglucemia",
+          "start": 79,
+          "end": 91
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes",
+          "start": 124,
+          "end": 134
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "NOVALE",
+          "surface": "NOVALE",
+          "start": 162,
+          "end": 168
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "NOVALE",
+          "surface": "Kaftrio",
+          "start": 170,
+          "end": 177
+        },
+        {
+          "type": "REACT",
+          "canonical": "Hipoglucemia",
+          "surface": "glucemia baja",
+          "start": 311,
+          "end": 324
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

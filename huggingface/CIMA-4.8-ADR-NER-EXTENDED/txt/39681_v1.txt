@@ -1,0 +1,75 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil de seguridad del principio activo SULFASALAZINA se caracteriza por acontecimientos generalmente reversibles tras la reducción de la dosis o la interrupción del tratamiento. La evaluación clínica debe considerar la situación basal del paciente, la duración de la exposición y la aparición temporal de los síntomas. Se recomienda instruir al paciente para que comunique cualquier cambio clínico persistente, especialmente cuando se presente al inicio del tratamiento o tras ajustes de dosis. En caso de manifestaciones intensas o progresivas, la continuación del medicamento debe valorarse de forma individual, atendiendo a la relación beneficio-riesgo. La información siguiente se presenta conforme a la terminología utilizada en la ficha técnica y no implica que todas las manifestaciones aparezcan en todos los pacientes.
+
+Lista tabulada de reacciones adversas
+Las reacciones se enumeran por sistema de clasificación de órganos y por categoría de presentación, utilizando la denominación disponible en la tabla de seguridad. Dentro de cada apartado, las manifestaciones se citan sin establecer un orden de gravedad ni de causalidad individual.
+
+TRASTORNOS DEL SISTEMA GENERAL
+frecuentes: Fiebre, Mareo, Picor, dolor de cabeza.
+frecuencia no conocida: Fiebre, debilidad, dolor garganta, entumecimiento de las extremidades.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+frecuencia no conocida: Formación de anticuerpos dirigidos contra el propio organismo, Reacción alérgica grave en todo el cuerpo, angioedema, enfermedad del suero, inflamación vasoss angíneos, lupus eritematoso sistémico, meningitis aséptica, síndrome de erupción medicamentosa con eosinofíllia y síntomas sistémicos.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+frecuentes: acúfenos, alteración del gusto.
+frecuencia no conocida: Hinchazón alrededor de los ojos, Lesiones en la parte blanca del ojo y en la membrana transparente que recubre la superficie externa del ojo., alteración del olfato, pérdida de la coordinación de los movimientos.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+frecuentes: leucopenia.
+poco frecuentes: Trombocitopenia.
+frecuencia no conocida: agranulocitosis, anemia, macrocitosis, metahemoglobinemia, pancitopenia.
+
+TRASTORNOS DEL SISTEMA EXCRETOR
+frecuentes: Presencia de proteínas en orina.
+poco frecuentes: Resultados anormales de las pruebas de la función del hígado, ictericia.
+frecuencia no conocida: Aparición de cristales y de sangre en la orina, Disminución de la cantidad de proteínas en la sangre, álculos en los riñones.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+frecuencia no conocida: alteración de los nervios periféricos, convulsiones, encefalopatía.
+
+TRASTORNOS PSIQUIÁTRICOS
+poco frecuentes: Depresión.
+frecuencia no conocida: alucinaciones, insomnio.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+muy frecuentes: molestias estómago, náuseas.
+frecuentes: Diarrea, Pérdidade apetito, dolor de abdomen, vómitos.
+frecuencia no conocida: colitis pseudomembranosa, colitis ulcerosa, estomatitis, fallo hepático, hepatitis, hepatitis fulminante, pancreatitis, parotiditis.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+frecuentes: Manchas rojas o azuladas en la piel.
+poco frecuentes: Pérdida de pelo, Urticaria, edema facial.
+frecuencia no conocida: Coloración azulada de la piel y de las mucosas, Disminución de folato, dermatitis exfoliativa, necrolisis epidérmica tóxica, palidez, síndrome de Stevens-Johnson.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+frecuentes: Tos.
+poco frecuentes: Dificultad para respirar.
+frecuencia no conocida: lesiones en pulmones.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+frecuentes: Dolor de las articulaciones.
+
+TRASTORNOS DEL SISTEMA REPRODUCTOR
+frecuencia no conocida: infertilidad en el hombre.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+frecuencia no conocida: miocarditis, pericarditis.
+
+Descripción de reacciones adversas seleccionadas
+La aparición de manifestaciones compatibles con hipersensibilidad requiere una valoración clínica inmediata y la revisión del tratamiento en curso. Algunas alteraciones pueden desarrollarse de forma gradual y detectarse durante el seguimiento, por lo que resulta conveniente mantener controles adecuados cuando esté clínicamente indicado. El profesional sanitario debe considerar los antecedentes del paciente, la medicación concomitante y la evolución de los hallazgos antes de adoptar medidas terapéuticas.
+
+Cuando se observen síntomas persistentes, el paciente debe recibir instrucciones claras sobre la necesidad de consultar sin demora. La retirada temporal o definitiva del tratamiento, así como otras medidas de soporte, dependerán de la intensidad del cuadro, de su evolución y de la existencia de factores de riesgo individuales. La notificación de sospechas permite actualizar de forma continua la información de seguridad disponible.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En el sistema de clasificación de órganos TRASTORNOS DE PIEL Y TEJIDOS, se ha notificado Pérdida de pelo con SULFASALAZINA; esta reacción adversa se clasifica como poco frecuentes. La aparición del cuadro puede relacionarse temporalmente con la exposición al tratamiento y debe valorarse teniendo en cuenta la evolución clínica, los tratamientos concomitantes y otros factores del paciente. En la práctica clínica se recomienda seguimiento y reevaluar la continuidad del tratamiento si la manifestación persiste, progresa o resulta clínicamente relevante para el paciente.
+
+-- Caso 2 --
+En la clasificación de órganos TRASTORNOS DEL SISTEMA DIGESTIVO, las náuseas se han notificado como reacciones adversas muy frecuentes durante el tratamiento con SULFASALAZINA. Este acontecimiento suele aparecer al inicio de la terapia o tras incrementos de dosis y debe valorarse en el contexto clínico del paciente, especialmente si interfiere con la ingesta o la adherencia al tratamiento. Se recomienda seguimiento clínico y considerar las medidas habituales de manejo según la intensidad y la evolución, sin modificar la evaluación global del perfil de seguridad descrito para el medicamento.
+
+-- Caso 3 --
+En la clasificación TRASTORNOS DEL SISTEMA EXCRETOR, se ha notificado Aparición de cristales y de sangre en la orina asociada al tratamiento con SULFASALAZINA; su frecuencia es frecuencia no conocida. Este hallazgo puede relacionarse con la eliminación renal del compuesto y requiere valorar el estado de hidratación y la función renal según la situación clínica del paciente. Ante la observación de cambios en la orina durante el tratamiento, se recomienda realizar seguimiento clínico y analítico y considerar las medidas habituales de manejo conforme al criterio médico. No se puede estimar su incidencia a partir de los datos disponibles.

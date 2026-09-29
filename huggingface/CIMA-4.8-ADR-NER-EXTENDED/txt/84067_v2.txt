@@ -1,0 +1,78 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil de seguridad de ATAZANAVIR SULFATO procede de la experiencia clínica acumulada con el uso del medicamento en pautas antirretrovirales combinadas. En la práctica, atazanavir, también citado de forma abreviada como ATV, se administra junto con otros fármacos, por lo que la valoración de causalidad debe considerar la situación clínica basal, los tratamientos concomitantes y la evolución temporal. La mayoría de los acontecimientos comunicados fueron manejables con seguimiento clínico y no requirieron medidas específicas distintas de la observación habitual. Debe prestarse atención a la aparición de signos persistentes o clínicamente relevantes, especialmente en pacientes con antecedentes médicos complejos. Las categorías se presentan conforme a la terminología MedDRA y a las frecuencias notificadas.
+
+Lista tabulada de reacciones adversas
+
+TRASTORNOS DE PIEL Y TEJIDOS
+frecuentes: Rash.
+poco frecuentes: Alopecia, Angioedema, Eritema multiforme, Erupciones cutáneas tóxicas, Prurito, Reacción medicamentosa con eosinofilia y síntomas sistémicos (DRESS), Urticaria.
+no frecuente: Eczema, Rash vesiculobulloso, Síndrome de Stevens - Johnson (SSJ), Vasodilatación.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+frecuentes: Cefalea (dolor de cabeza).
+poco frecuentes: Amnesia, Disgeusia, Mareos, Neuropatía periférica, Somnolencia, Síncope.
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN
+poco frecuentes: Anorexia, Aumento de apetito, Aumento de peso, Disminución de peso.
+
+TRASTORNOS PSIQUIÁTRICOS
+poco frecuentes: Ansiedad, Depresión, Desorientación, Insomnio, Sueños anormales, Trastorno del sueño.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+poco frecuentes: Artralgia, Atrofia muscular, Mialgia.
+no frecuente: Miopatía.
+
+TRASTORNOS DEL SISTEMA GENERAL
+frecuentes: Fatiga.
+poco frecuentes: Astenia, Dolor torácico, Fiebre, Malestar general.
+no frecuente: Marcha anormal.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+frecuentes: Diarrea, Dispepsia, Dolor abdominal, Ictericia, Náuseas, Vómitos.
+poco frecuentes: Colelitiasis, Colestasis, Distensión abdominal, Estomatitis aftosa, Flatulencia, Gastritis, Hepatitis, Pancreatitis, Sequedad de boca.
+no frecuente: Colecistitis, Hepatoesplenomegalia.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+poco frecuentes: Disnea.
+
+TRASTORNOS DEL SISTEMA EXCRETOR
+poco frecuentes: Enfermedad renal crónica, Hematuria, Nefritis intersticial, Nefrolitiasis, Polaquiuria, Proteinuria.
+no frecuente: Dolor renal.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+poco frecuentes: Hipertensión, Torsade de pointes.
+no frecuente: Edema, Palpitaciones, Prolongación del QT.
+
+TRASTORNOS DEL SISTEMA REPRODUCTOR
+poco frecuentes: Ginecomastia.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+poco frecuentes: Hipersensibilidad.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+frecuentes: Ictericia ocular.
+
+Descripción de reacciones adversas seleccionadas
+La evaluación individual debe realizarse de forma continuada durante el tratamiento, teniendo en cuenta que la exposición puede mantenerse durante periodos prolongados. Ante manifestaciones intensas, progresivas o acompañadas de deterioro del estado general, se recomienda revisar la relación temporal con la administración y valorar las alternativas terapéuticas disponibles. La comunicación de sospechas contribuye a una mejor caracterización del perfil de seguridad en condiciones reales de uso.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En la clasificación por sistemas, dentro de Trastornos del sistema digestivo, se ha notificado Hepatoesplenomegalia con frecuencia no frecuente durante el tratamiento con atazanavir. Esta alteración, descrita como aumento del tamaño del hígado y del bazo, debe interpretarse en el contexto del perfil hepático basal y del seguimiento clínico habitual del paciente. En pacientes con antecedentes de enfermedad hepática o factores de riesgo, se recomienda valorar la evolución clínica y analítica según la práctica médica, sin que ello implique por sí solo la suspensión automática del tratamiento.
+
+-- Caso 2 --
+En el tratamiento con ATAZANAVIR SULFATO (atazanavir), la dispepsia se ha notificado dentro de los trastornos del sistema digestivo y se clasifica como frecuentes. La aparición puede relacionarse con la exposición gastrointestinal al medicamento y debe valorarse junto con la tolerabilidad individual y la administración indicada.
+
+Lista tabulada:
+- Dispepsia (indigestión): frecuentes.
+
+Se recomienda registrar la evolución clínica y considerar medidas de seguimiento habituales si los síntomas persisten o interfieren con la adherencia. La evaluación debe tener en cuenta el contexto terapéutico y otros factores clínicos del paciente.
+
+-- Caso 3 --
+En la evaluación de seguridad de ATAZANAVIR SULFATO, administrado como atazanavir (ATV), se ha identificado la siguiente reacción adversa dentro del sistema TRASTORNOS PSIQUIÁTRICOS:
+
+- Sueños anormales: poco frecuentes.
+
+Los sueños anormales (sueños raros) se consideran compatibles con efectos sobre el patrón de descanso durante el tratamiento, sin que ello implique necesariamente la interrupción. Se recomienda registrar la aparición temporal, la persistencia y la repercusión funcional, y valorar medidas de seguimiento clínico si la manifestación resulta molesta para el paciente.

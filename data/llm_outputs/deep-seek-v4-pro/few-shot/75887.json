@@ -1,0 +1,134 @@
+[
+  {
+    "principio activo": "LAMIVUDINA",
+    "reacción adversa": "Trombocitopenia",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "LAMIVUDINA",
+    "reacción adversa": "Angioedema",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "LAMIVUDINA",
+    "reacción adversa": "Incrementos de ALT",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "LAMIVUDINA",
+    "reacción adversa": "Exacerbaciones de la hepatitis",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "LAMIVUDINA",
+    "reacción adversa": "Erupción",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "LAMIVUDINA",
+    "reacción adversa": "Prurito",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "LAMIVUDINA",
+    "reacción adversa": "Incrementos de CPK",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "LAMIVUDINA",
+    "reacción adversa": "Trastornos musculares, incluyendo mialgias y calambres",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "LAMIVUDINA",
+    "reacción adversa": "Rabdomiolisis",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "LAMIVUDINA",
+    "reacción adversa": "Malestar y fatiga",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "LAMIVUDINA",
+    "reacción adversa": "Infecciones del tracto respiratorio",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "LAMIVUDINA",
+    "reacción adversa": "Molestias en la garganta y amígdalas",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "LAMIVUDINA",
+    "reacción adversa": "Cefalea",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LAMIVUDINA",
+    "reacción adversa": "Dolor y molestias abdominales",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "LAMIVUDINA",
+    "reacción adversa": "Náuseas",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "LAMIVUDINA",
+    "reacción adversa": "Vómitos",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "LAMIVUDINA",
+    "reacción adversa": "Diarrea",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "LAMIVUDINA",
+    "reacción adversa": "Pancreatitis",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "LAMIVUDINA",
+    "reacción adversa": "Neuropatía periférica (o parestesia)",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "LAMIVUDINA",
+    "reacción adversa": "Acidosis láctica",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "LAMIVUDINA",
+    "reacción adversa": "Reacción inflamatoria frente a infecciones oportunistas asintomáticas o residuales",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "LAMIVUDINA",
+    "reacción adversa": "Trastornos autoinmunes (como la enfermedad de Graves y la hepatitis autoinmune)",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del sistema inmunológico"
+  }
+]

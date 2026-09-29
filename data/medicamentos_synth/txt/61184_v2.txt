@@ -1,0 +1,59 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil observado con IPRATROPIO BROMURO administrado por nebulización es coherente con su uso local por vía inhalatoria. La mayoría de las notificaciones son de intensidad leve o moderada y suelen aparecer en relación temporal con la administración. En la práctica clínica, ipratropio se utiliza en pacientes con patología respiratoria obstructiva, por lo que la valoración clínica debe considerar la enfermedad de base y la técnica de inhalación. Atrovent monodosis debe prepararse y administrarse siguiendo las instrucciones de manejo del nebulizador, evitando el contacto directo del aerosol con los ojos. La información siguiente se presenta por clasificación de órganos y frecuencia, utilizando terminología clínica normalizada.
+
+Lista tabulada de reacciones adversas
+
+TRASTORNOS DE PIEL Y TEJIDOS
+- poco frecuentes: Angioedema, Erupción, Prurito.
+- no frecuente: Urticaria.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+- no frecuente: Aumento de la frecuencia cardíaca, Fibrilación auricular.
+- poco frecuentes: Palpitaciones, Taquicardia supraventricular.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+- poco frecuentes: Aumento de la presión intraocular, Dolor ocular, Edema de córnea, Glaucoma, Haalos visuales, Hiperemia conjuntival, Midriasis, Visión borrosa.
+- no frecuente: Trastorno de la acomodación.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+- no frecuente: Broncoespasmo, Broncoespasmo paradójico, Edema faríngeo, Laringoespasmo, Sequedad de garganta.
+- frecuentes: Irritación de garganta, Tos.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+- poco frecuentes: Diarrea, Edema bucal, Estomatitis, Estreñimiento, Vómitos.
+- frecuentes: Náuseas, Sequedad de boca, Trastornos de la motilidad gastrointestinal.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+- frecuentes: Dolor de cabeza, Mareo.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+- poco frecuentes: Hipersensibilidad, Reacción anafiláctica.
+
+TRASTORNOS DEL SISTEMA EXCRETOR
+- poco frecuentes: Retención urinaria.
+
+Descripción de reacciones adversas seleccionadas
+En medicamentos inhalados administrados mediante nebulizador, la forma de uso puede influir en la aparición de molestias locales. Es recomendable comprobar el ajuste de la mascarilla o boquilla, la dilución indicada y el tiempo de administración, especialmente cuando el paciente comunica síntomas inmediatamente después de la sesión. La educación sanitaria y la revisión periódica de la técnica contribuyen a diferenciar acontecimientos relacionados con el procedimiento de los asociados al medicamento.
+
+Las manifestaciones relacionadas con la exposición accidental del aerosol en la zona ocular requieren especial atención en pacientes predispuestos. Cuando aparezcan cambios visuales o molestias persistentes, debe valorarse la situación clínica y considerar medidas para evitar nuevas exposiciones. Asimismo, ante signos compatibles con una respuesta inmediata, debe interrumpirse la administración y aplicar el tratamiento apropiado según la gravedad. Los pacientes deben ser informados de que comuniquen cualquier empeoramiento inesperado tras la nebulización, aunque haya utilizado previamente el mismo producto sin incidencias.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En la experiencia clínica con ipratropio bromuro (Atrovent), se ha descrito la siguiente reacción adversa dentro del sistema de clasificación de órganos Trastornos del sistema digestivo:
+- Trastornos de la motilidad gastrointestinal: frecuentes.
+Este efecto puede relacionarse con la acción anticolinérgica local o sistémica del tratamiento inhalado. Se recomienda valorar la evolución clínica y revisar la técnica de nebulización si los síntomas resultan persistentes o clínicamente relevantes, sin modificar la pauta salvo criterio médico.
+
+-- Caso 2 --
+Dentro del sistema TRASTORNOS DE PIEL Y TEJIDOS, el uso de IPRATROPIO BROMURO, también conocido por la marca Atrovent, se ha relacionado con acontecimientos cutáneos que pueden no depender de la dosis. En la tabla de reacciones adversas se incluye como poco frecuentes:
+- Angioedema (hinchazón localizada).
+
+Este acontecimiento debe valorarse en el contexto temporal de la nebulización y de la exposición previa al medicamento. Si aparece, se recomienda suspender la administración, evaluar la permeabilidad de la vía aérea y mantener seguimiento clínico hasta su resolución, sin atribuirlo a otras causas sin una revisión adecuada.
+
+-- Caso 3 --
+En el sistema de clasificación de órganos Trastornos de órganos de los sentidos, durante el uso de ipratropio bromuro (Atrovent), se ha notificado:
+- Trastorno de la acomodación: no frecuente.
+
+Esta alteración puede relacionarse con la actividad anticolinérgica local del principio activo, especialmente si el aerosol entra en contacto con los ojos. Se recomienda instruir al paciente en el uso correcto del nebulizador y valorar la evolución si aparece dificultad para enfocar, evitando modificar el tratamiento sin evaluación clínica.

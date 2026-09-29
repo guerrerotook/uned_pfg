@@ -1,0 +1,53 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil de seguridad de USTEKINUMAB se ha caracterizado a partir de la experiencia acumulada en pacientes tratados en programas clínicos y en la práctica posterior. En general, las notificaciones fueron de intensidad leve o moderada y se controlaron con medidas clínicas habituales. La evaluación debe considerar la situación basal del paciente, el uso de tratamientos concomitantes y la evolución temporal tras la administración. Cuando aparezcan manifestaciones sugestivas de hipersensibilidad o de afectación sistémica, se recomienda una valoración médica inmediata. La continuidad del tratamiento debe decidirse de forma individual, atendiendo a la gravedad, la recurrencia y la relación temporal observada.
+
+Lista tabulada de reacciones adversas
+Las reacciones se presentan a continuación por sistema de clasificación de órganos y por categoría de aparición. Dentro de cada grupo, los términos se muestran sin establecer un orden de gravedad.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+frecuentes: Enrojecimiento y dolor en el lugar de inyección, Picor.
+poco frecuentes: Acné, Anafilaxia, Descamación de la piel, Endurecimiento, hinchazón y picor en el lugar de la inyección, Erupción cutánea, cardenales.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+poco frecuentes: Depresión, Parálisis facial (normalmente temporal), Párpado caído.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+frecuentes: Diarrea, Dolor de garganta, Náuseas, Vómitos.
+poco frecuentes: Dificultad para respirar y tragar.
+
+TRASTORNOS DEL SISTEMA GENERAL
+frecuentes: Dolor de cabeza, Sensación de cansancio, Sensación de mareo.
+poco frecuentes: Sentirse débil.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+frecuentes: Dolor de espalda, muscular o articular.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS
+poco frecuentes: Hemorragia.
+
+INFECCIONES E INFESTACIONES
+frecuentes: Infecciones nariz o garganta, Resfriado común, Sinusitis.
+poco frecuentes: Infecciones dentales, Infecciones vaginales por levaduras, Taponamiento o congestión nasal.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+poco frecuentes: Tensión arterial baja.
+
+Descripción de reacciones adversas seleccionadas
+Las manifestaciones en la zona de administración se observaron habitualmente en las primeras fases tras la aplicación y tendieron a resolverse sin secuelas. Enrojecimiento y dolor en el lugar de inyección se describieron como cuadros locales autolimitados. Endurecimiento, hinchazón y picor en el lugar de la inyección requirieron en algunos casos observación clínica, especialmente si se asociaron a aumento progresivo de la extensión o persistencia de las molestias.
+
+Anafilaxia y Dificultad para respirar y tragar deben considerarse señales de alarma por su posible inicio rápido. Ante su aparición, el paciente debe ser evaluado de forma urgente y se debe instaurar el manejo apropiado de acuerdo con la práctica clínica. Tensión arterial baja puede acompañar a cuadros sistémicos y debe interpretarse junto con el estado general, los signos vitales y otros hallazgos relevantes.
+
+Parálisis facial (normalmente temporal) se notificó de manera aislada y debe diferenciarse de otros procesos neurológicos mediante una evaluación adecuada. La comunicación de sospechas de reacciones permite mantener actualizada la relación beneficio-riesgo y facilita la detección de patrones no evidentes en series pequeñas.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En la evaluación del perfil de seguridad, dentro de TRASTORNOS DEL SISTEMA GENERAL, Sentirse débil se recoge entre las reacciones poco frecuentes notificadas en pacientes tratados con USTEKINUMAB. La aparición de este cuadro debe valorarse en el contexto clínico del paciente y de la evolución temporal respecto a la administración del medicamento. Se recomienda seguimiento clínico habitual y considerar medidas de soporte o reevaluación del tratamiento si la intensidad o persistencia lo justifican, conforme a la práctica médica. La información disponible no modifica las recomendaciones generales de vigilancia durante el tratamiento.
+
+-- Caso 2 --
+En la clasificación por órganos y sistemas, dentro de TRASTORNOS DEL SISTEMA GENERAL, se ha notificado Sensación de mareo con USTEKINUMAB; su frecuencia se clasifica como frecuentes. Este acontecimiento se considera coherente con el perfil de seguridad observado durante el tratamiento y debe valorarse en el contexto clínico del paciente, especialmente tras la administración o durante el periodo de observación posterior. Si aparece Sensación de mareo, se recomienda seguimiento clínico y evaluación de factores concomitantes; la continuidad del tratamiento con USTEKINUMAB deberá basarse en la intensidad del episodio y en el criterio médico.
+
+-- Caso 3 --
+En el sistema de clasificación de órganos TRASTORNOS DE PIEL Y TEJIDOS, se ha notificado Acné con USTEKINUMAB, incluido entre las reacciones poco frecuentes. La aparición de esta reacción debe evaluarse en el contexto del estado clínico basal del paciente y de otros factores predisponentes, manteniendo el tratamiento según criterio clínico cuando el cuadro sea leve y no se asocie a complicaciones. Se recomienda registrar la evolución durante el seguimiento y considerar medidas dermatológicas habituales si los síntomas persisten o resultan clínicamente relevantes, sin que esta información implique por sí sola la necesidad de interrumpir la administración.

@@ -1,0 +1,41 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+MIDAZOLAM puede producir efectos no deseados relacionados con su actividad farmacológica y con la situación clínica del paciente. La intensidad y la duración de estos efectos pueden variar según la dosis administrada, la velocidad de administración y la respuesta individual. En el uso parenteral se recomienda observación continuada, especialmente cuando se administra en procedimientos diagnósticos o terapéuticos. Algunas manifestaciones pueden aparecer durante la administración o en el periodo posterior, por lo que debe disponerse de medidas adecuadas de vigilancia y soporte. Con los datos disponibles no puede estimarse una incidencia fiable; por ello, las reacciones enumeradas se clasifican como frecuencia no conocida.
+
+Lista tabulada de reacciones adversas
+Las reacciones se presentan por sistema de clasificación de órganos. Dentro de cada grupo se mantiene la denominación clínica estándar utilizada para la notificación y evaluación de seguridad.
+
+TRASTORNOS PSIQUIÁTRICOS: Abuso, Agitación, Agresividad, Alucinaciones, Ansiedad, Cambios en la líbido, Comportamiento inadecuado, Conducta agresiva, Dependencia física, Desorientación, Estados de cosnfusión, Excitación paroxística, Inquietud, Ira, Irritabilidad, Nerviosismo, Pesadillas, Psicosis, Reacciones paradójicas del comportamiento, Sueños anormales, Síndrome de retirada, Trastornos emocionales y anímicos.
+
+TRASTORNOS DEL SISTEMA NERVIOSO: Amnesia anterógrada, Ataxia, Cefalea, Convulsiones después de la retirada, Disminución de la alerta, Hiperactividad, Movimientos involuntarios, Sedación, Somnolencia, Vértigos.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO: Angioedema, Hipersensibilidad, Shock anafiláctico.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO: Apnea, Depresión respiratoria, Disnea, Hipo, Laringoespasmo, Parada respiratoria.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR: Bradicardia, Hipotensión, Parada cardíaca, Síndrome de Kounis, Tromboflebitis, Trombosis, Vasodilatación.
+
+LESIONES TRAUMÁTICAS, INTOXICACIONES Y COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS: Caídas y fracturas.
+
+TRASTORNOS DEL SISTEMA GENERAL: Eritema y dolor en el lugar de la inyección, Fatiga.
+
+TRASTORNOS DE PIEL Y TEJIDOS: Erupción cutánea, Prurito, Urticaria.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO: Estreñimiento, Náuseas, Sequedad de boca, Vómitos.
+
+Descripción de reacciones adversas seleccionadas
+Durante la utilización clínica deben considerarse las características del paciente, la indicación y la exposición acumulada. La valoración de cualquier acontecimiento debe realizarse de forma individual, teniendo en cuenta la medicación concomitante y el contexto del procedimiento. La recuperación puede requerir un periodo de observación suficiente antes del alta o del traslado a una unidad con menor supervisión.
+
+La comunicación de sospechas tras la autorización permite mantener actualizada la información de seguridad. Los profesionales sanitarios deben registrar los datos relevantes del episodio, incluida la temporalidad, la dosis y la evolución, para facilitar una evaluación adecuada. Si se considera necesario, la administración deberá interrumpirse y se instaurarán las medidas clínicas apropiadas según el estado del paciente.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En la clasificación por sistemas y órganos, dentro de TRASTORNOS PSIQUIÁTRICOS, se ha descrito Psicosis asociada al uso de MIDAZOLAM, con frecuencia no conocida a partir de los datos disponibles. Esta reacción adversa requiere valoración clínica individual y debe interpretarse en el contexto del estado basal del paciente y de la exposición al medicamento. En caso de sospecha, se recomienda seguimiento estrecho, medidas de soporte cuando sean necesarias y reevaluación de la continuidad del tratamiento conforme al balance beneficio-riesgo.
+
+-- Caso 2 --
+En el sistema de clasificación de órganos TRASTORNOS DEL SISTEMA NERVIOSO, se ha notificado Vértigos durante el tratamiento con MIDAZOLAM, con frecuencia no conocida. Este acontecimiento debe considerarse en la valoración clínica del paciente, especialmente durante la administración parenteral y en el periodo de recuperación, dado el efecto depresor central del principio activo. Se recomienda vigilancia clínica y reevaluación de la necesidad de continuar o ajustar la administración según la situación del paciente y la evolución del episodio. La aparición tras la dosis requiere valorar factores concomitantes y mantener medidas habituales de seguridad.
+
+-- Caso 3 --
+Dentro de TRASTORNOS PSIQUIÁTRICOS, se han notificado Pesadillas asociadas al uso de MIDAZOLAM con frecuencia no conocida. Debido a sus efectos farmacológicos centrales y a la posible modificación del ciclo sueño-vigilia durante el periodo de recuperación, este acontecimiento debe valorarse en el contexto clínico del paciente. Si se observa tras la administración, se recomienda seguimiento clínico y reconsiderar las condiciones de uso, especialmente cuando la aparición temporal sugiera relación con el tratamiento. La notificación de sospechas contribuye a caracterizar mejor el perfil de seguridad.

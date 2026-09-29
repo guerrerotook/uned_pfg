@@ -1,0 +1,314 @@
+[
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Candidiasis orofaríngea",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Neumonía (en pacientes con EPOC)",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Aumento de la susceptibilidad a las infecciones",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Reacciones de hipersensibilidad inmediata y retardada",
+    "frecuencia": "RARA",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Exantema",
+    "frecuencia": "RARA",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Urticaria",
+    "frecuencia": "RARA",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Prurito",
+    "frecuencia": "RARA",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Dermatitis",
+    "frecuencia": "RARA",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Angioedema",
+    "frecuencia": "RARA",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Reacción anafiláctica",
+    "frecuencia": "RARA",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Síndrome de Cushing",
+    "frecuencia": "MUY RARA",
+    "trastorno": "Trastornos endocrinos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Supresión adrenal",
+    "frecuencia": "MUY RARA",
+    "trastorno": "Trastornos endocrinos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Retraso del crecimiento",
+    "frecuencia": "MUY RARA",
+    "trastorno": "Trastornos endocrinos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Disminución de la densidad mineral ósea",
+    "frecuencia": "MUY RARA",
+    "trastorno": "Trastornos endocrinos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Rasgos Cushingoides",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos endocrinos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Deterioro de la capacidad para adaptarse al estrés",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Trastornos endocrinos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Hipocalemia",
+    "frecuencia": "RARA",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Hiperglucemia",
+    "frecuencia": "MUY RARA",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Agresividad",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Hiperactividad psicomotora",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Ansiedad",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Alteraciones del sueño",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Depresión",
+    "frecuencia": "MUY RARA",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Alteraciones del comportamiento (principalmente en niños)",
+    "frecuencia": "MUY RARA",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Cefalea",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Temblor",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Mareo",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Alteraciones del gusto",
+    "frecuencia": "MUY RARA",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Visión borrosa",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Cataratas",
+    "frecuencia": "MUY RARA",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Glaucoma",
+    "frecuencia": "MUY RARA",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Palpitaciones",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos cardíacos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Taquicardia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos cardíacos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Arritmias cardíacas",
+    "frecuencia": "RARA",
+    "trastorno": "Trastornos cardíacos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Fibrilación auricular",
+    "frecuencia": "RARA",
+    "trastorno": "Trastornos cardíacos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Taquicardia supraventricular",
+    "frecuencia": "RARA",
+    "trastorno": "Trastornos cardíacos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Extrasístoles",
+    "frecuencia": "RARA",
+    "trastorno": "Trastornos cardíacos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Angina de pecho",
+    "frecuencia": "MUY RARA",
+    "trastorno": "Trastornos cardíacos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Prolongación del intervalo QTc",
+    "frecuencia": "MUY RARA",
+    "trastorno": "Trastornos cardíacos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Variaciones en la presión arterial",
+    "frecuencia": "MUY RARA",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Irritación leve de garganta",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Tos",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Disfonía incluida ronquera",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Broncoespasmo",
+    "frecuencia": "RARA",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Broncoespasmo paradójico",
+    "frecuencia": "MUY RARA",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Náuseas",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Hematomas",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Calambres musculares",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Incremento en los niveles séricos de insulina",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Incremento en los niveles séricos de ácidos grasos libres",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Incremento en los niveles séricos de glicerol",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "BUDESONIDA",
+    "reacción adversa": "Incremento en los niveles séricos de cuerpos cetónicos",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "Exploraciones complementarias"
+  }
+]

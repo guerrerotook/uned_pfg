@@ -1,0 +1,140 @@
+[
+  {
+    "principio activo": "SUXAMETONIO CLORURO",
+    "reacción adversa": "Reacciones anafilácticas",
+    "frecuencia": "Muy raras (<1/10.000)",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "SUXAMETONIO CLORURO",
+    "reacción adversa": "Aumento de la presión intraocular",
+    "frecuencia": "Frecuentes (≥1/100 a <1/10)",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "SUXAMETONIO CLORURO",
+    "reacción adversa": "Bradicardia",
+    "frecuencia": "Frecuentes (≥1/100 a <1/10)",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "SUXAMETONIO CLORURO",
+    "reacción adversa": "Taquicardia",
+    "frecuencia": "Frecuentes (≥1/100 a <1/10)",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "SUXAMETONIO CLORURO",
+    "reacción adversa": "Arritmias (incluidas arritmias ventriculares)",
+    "frecuencia": "Raras (≥1/10.000 a <1/1.000)",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "SUXAMETONIO CLORURO",
+    "reacción adversa": "Paro cardiaco",
+    "frecuencia": "Raras (≥1/10.000 a <1/1.000)",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "SUXAMETONIO CLORURO",
+    "reacción adversa": "Rubefacción cutánea",
+    "frecuencia": "Frecuentes (≥1/100 a <1/10)",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "SUXAMETONIO CLORURO",
+    "reacción adversa": "Hipertensión",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "SUXAMETONIO CLORURO",
+    "reacción adversa": "Hipotensión",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "SUXAMETONIO CLORURO",
+    "reacción adversa": "Broncoespasmo",
+    "frecuencia": "Raras (≥1/10.000 a <1/1.000)",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "SUXAMETONIO CLORURO",
+    "reacción adversa": "Depresión respiratoria prolongada",
+    "frecuencia": "Raras (≥1/10.000 a <1/1.000)",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "SUXAMETONIO CLORURO",
+    "reacción adversa": "Apnea",
+    "frecuencia": "Raras (≥1/10.000 a <1/1.000)",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "SUXAMETONIO CLORURO",
+    "reacción adversa": "Aumento de la presión intragástrica",
+    "frecuencia": "Muy frecuentes (≥1/10)",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "SUXAMETONIO CLORURO",
+    "reacción adversa": "Salivación excesiva",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "SUXAMETONIO CLORURO",
+    "reacción adversa": "Erupción",
+    "frecuencia": "Frecuentes (≥1/100 a <1/10)",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "SUXAMETONIO CLORURO",
+    "reacción adversa": "Fasciculación muscular",
+    "frecuencia": "Muy frecuentes (≥1/10)",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "SUXAMETONIO CLORURO",
+    "reacción adversa": "Dolor muscular posoperatorio",
+    "frecuencia": "Muy frecuentes (≥1/10)",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "SUXAMETONIO CLORURO",
+    "reacción adversa": "Mioglobinemia",
+    "frecuencia": "Frecuentes (≥1/100 a <1/10)",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "SUXAMETONIO CLORURO",
+    "reacción adversa": "Mioglobinuria",
+    "frecuencia": "Frecuentes (≥1/100 a <1/10)",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "SUXAMETONIO CLORURO",
+    "reacción adversa": "Rabdomiólisis",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "SUXAMETONIO CLORURO",
+    "reacción adversa": "Trismo",
+    "frecuencia": "Raras (≥1/10.000 a <1/1.000)",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "SUXAMETONIO CLORURO",
+    "reacción adversa": "Hipertermia maligna",
+    "frecuencia": "Muy raras (<1/10.000)",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "SUXAMETONIO CLORURO",
+    "reacción adversa": "Aumento transitorio del potasio en sangre",
+    "frecuencia": "Frecuentes (≥1/100 a <1/10)",
+    "trastorno": "Exploraciones complementarias"
+  }
+]

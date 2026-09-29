@@ -1,0 +1,242 @@
+[
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Náuseas",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+  },
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Vómitos",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+  },
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Depresión",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Alucinaciones",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Confusión",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Psicosis",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Somnolencia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Agitación",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Insomnio",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Cefalea",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Mareo",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Ataxia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Neuropatía periférica",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Alteraciones del equilibrio",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS"
+  },
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Tinnitus",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS"
+  },
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Agranulocitosis",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Leucopenia",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Eosinofilia",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Anemia hemolítica",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Anemia aplásica",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Trombopenia",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Metahemoglobinemia",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Hipoprotrombinemia",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Fiebre",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+  },
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Enfermedad del suero",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+  },
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Síndrome de Stevens-Johnson",
+    "frecuencia": "MUY RARA",
+    "trastorno": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+  },
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Erupciones exantemáticas",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS DE PIEL Y TEJIDOS"
+  },
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Prurito",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS DE PIEL Y TEJIDOS"
+  },
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Eritema nudoso",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS DE PIEL Y TEJIDOS"
+  },
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Eritema multiforme",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS DE PIEL Y TEJIDOS"
+  },
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Dermatitis exfoliativa",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS DE PIEL Y TEJIDOS"
+  },
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Reacciones de fotosensibilidad",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS DE PIEL Y TEJIDOS"
+  },
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Ictericia",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS HEPATOBILIARES"
+  },
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Necrosis hepática",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS HEPATOBILIARES"
+  },
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Cálculos renales",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS RENALES Y URINARIOS"
+  },
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Oliguria",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS RENALES Y URINARIOS"
+  },
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Cristaluria",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS RENALES Y URINARIOS"
+  },
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Proteinuria",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS RENALES Y URINARIOS"
+  },
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Hematuria",
+    "frecuencia": "RARA",
+    "trastorno": "TRASTORNOS RENALES Y URINARIOS"
+  },
+  {
+    "principio activo": "SULFADIAZINA",
+    "reacción adversa": "Incremento de los valores de nitrógeno ureico en sangre",
+    "frecuencia": "RARA",
+    "trastorno": "EXPLORACIONES COMPLEMENTARIAS"
+  }
+]

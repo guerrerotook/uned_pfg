@@ -1,0 +1,338 @@
+{
+  "codigo": "62223",
+  "variante": 2,
+  "codigo_variant": "62223_v2",
+  "medicamento": "METRONIDAZOL NORMON 250 mg COMPRIMIDOS EFG",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "METRONIDAZOL",
+      "surface": "METRONIDAZOL",
+      "start": 27,
+      "end": 39
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "METRONIDAZOL",
+      "surface": "metronidazol",
+      "start": 27,
+      "end": 39
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 1211,
+      "end": 1260
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 1261,
+      "end": 1283
+    },
+    {
+      "type": "REACT",
+      "canonical": "Leucopenia",
+      "surface": "Leucopenia",
+      "start": 1285,
+      "end": 1295
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 1298,
+      "end": 1335
+    },
+    {
+      "type": "REACT",
+      "canonical": "Crisis oculógira",
+      "surface": "Crisis oculógira",
+      "start": 1360,
+      "end": 1376
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neuropatía óptica/neuritis",
+      "surface": "Neuropatía óptica/neuritis",
+      "start": 1378,
+      "end": 1404
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "start": 1407,
+      "end": 1448
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anorexia",
+      "surface": "Anorexia",
+      "start": 1473,
+      "end": 1481
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "INFECCIONES E INFESTACIONES",
+      "start": 1484,
+      "end": 1511
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 1512,
+      "end": 1522
+    },
+    {
+      "type": "REACT",
+      "canonical": "Superinfecciones con cándida",
+      "surface": "Superinfecciones con cándida",
+      "start": 1524,
+      "end": 1552
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 1554,
+      "end": 1566
+    },
+    {
+      "type": "REACT",
+      "canonical": "Colitis pseudomembranosa",
+      "surface": "Colitis pseudomembranosa",
+      "start": 1568,
+      "end": 1592
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1595,
+      "end": 1626
+    },
+    {
+      "type": "REACT",
+      "canonical": "Convulsiones epileptiformes transitorias",
+      "surface": "Convulsiones epileptiformes transitorias",
+      "start": 1651,
+      "end": 1691
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insomnio",
+      "surface": "Insomnio",
+      "start": 1693,
+      "end": 1701
+    },
+    {
+      "type": "REACT",
+      "canonical": "Meningitis aséptica",
+      "surface": "Meningitis aséptica",
+      "start": 1703,
+      "end": 1722
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mioclono",
+      "surface": "Mioclono",
+      "start": 1724,
+      "end": 1732
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neuropatía sensorial periférica",
+      "surface": "Neuropatía sensorial periférica",
+      "start": 1734,
+      "end": 1765
+    },
+    {
+      "type": "REACT",
+      "canonical": "Somnolencia",
+      "surface": "Somnolencia",
+      "start": 1767,
+      "end": 1778
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 1781,
+      "end": 1805
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión",
+      "surface": "Depresión",
+      "start": 1830,
+      "end": 1839
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1842,
+      "end": 1874
+    },
+    {
+      "type": "REACT",
+      "canonical": "DIarrea",
+      "surface": "DIarrea",
+      "start": 1899,
+      "end": 1906
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disfagia",
+      "surface": "Disfagia",
+      "start": 1908,
+      "end": 1916
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disgeusia",
+      "surface": "Disgeusia",
+      "start": 1918,
+      "end": 1927
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor abdominal",
+      "surface": "Dolor abdominal",
+      "start": 1929,
+      "end": 1944
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estomatitis",
+      "surface": "Estomatitis",
+      "start": 1946,
+      "end": 1957
+    },
+    {
+      "type": "REACT",
+      "canonical": "Glositis",
+      "surface": "Glositis",
+      "start": 1959,
+      "end": 1967
+    },
+    {
+      "type": "REACT",
+      "canonical": "Lengua peluda",
+      "surface": "Lengua peluda",
+      "start": 1969,
+      "end": 1982
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 1984,
+      "end": 1991
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos",
+      "start": 1993,
+      "end": 2000
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 2003,
+      "end": 2031
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eritema multiforme",
+      "surface": "Eritema multiforme",
+      "start": 2056,
+      "end": 2074
+    },
+    {
+      "type": "REACT",
+      "canonical": "Necrólisis epidérmic tóxica",
+      "surface": "Necrólisis epidérmic tóxica",
+      "start": 2076,
+      "end": 2103
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 2106,
+      "end": 2141
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacciones de hipersensibilidad leves a moderadas",
+      "surface": "Reacciones de hipersensibilidad leves a moderadas",
+      "start": 2166,
+      "end": 2215
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacciones graves de hipersensibilidad sistémica aguda",
+      "surface": "Reacciones graves de hipersensibilidad sistémica aguda",
+      "start": 2231,
+      "end": 2285
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión",
+      "surface": "ánimo bajo",
+      "start": 3698,
+      "end": 3708
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "METRONIDAZOL",
+      "surface": "Metronidazol",
+      "start": 27,
+      "end": 39
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 4291,
+      "end": 4333
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mialgia",
+      "surface": "Mialgia",
+      "start": 4437,
+      "end": 4444
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NAN",
+      "surface": "nan",
+      "start": 4446,
+      "end": 4449
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "Infecciones e infestaciones",
+      "start": 1484,
+      "end": 1511
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "METRONIDAZOL",
+      "surface": "Flagyl",
+      "start": 5095,
+      "end": 5101
+    }
+  ]
+}

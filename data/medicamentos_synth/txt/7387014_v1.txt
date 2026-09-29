@@ -1,0 +1,51 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil de seguridad observado es el esperado para un medicamento inmunosupresor administrado de forma continuada tras el trasplante. La aparición y la intensidad de los acontecimientos pueden depender de la dosis, de la exposición sistémica, de la función del injerto y de la medicación concomitante. Durante el tratamiento con TACROLIMUS se recomienda vigilancia clínica y analítica regular, especialmente al inicio, tras los ajustes de dosis y cuando existan factores que puedan modificar la exposición. La valoración de causalidad debe realizarse de forma individual, teniendo en cuenta la situación basal del paciente y las complicaciones propias del periodo postrasplante. La información siguiente se presenta agrupada por sistema de clasificación de órganos y categoría de aparición.
+
+Lista tabulada de reacciones adversas
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN: muy frecuentes: Diabetes mellitus, Hiperglucemia, Hiperpotasemia; frecuentes: Acidosis metabólica, Disminución del apetito, Hiperlipidemia, Hiperuricemia, Hipomagnesemia, Hipopotasemia; poco frecuentes: Deshidratación, Hiperfosfatemia, Hipoglucemia, Hipoproteinemia.
+
+TRASTORNOS DE PIEL Y TEJIDOS: frecuentes: Acné, Alopecia, Erupción cutánea, Prurito, Sudoración; poco frecuentes: Dermatitis, Fotosensibilidad; no frecuente: Necrólisis epidérmica tóxica (síndrome de Lyell), Síndrome de Stevens-Johnson.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR: muy frecuentes: Hipertensión; frecuentes: Acontecimientos tromboembólicos e isquémicos, Hemorragia, Taquicardia, Trastornos vasculares periféricos; poco frecuentes: Arritmias supraventriculares, Cardiomiopatía, Insuficiencia cardiaca, Palpitaciones, Trombosis venosa profunda; no frecuente: Derrame pericárdico, Torsade des pointes.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS: frecuentes: Acúfenos, Alteraciones oculares, Fotofobia, Visión borrosa; poco frecuentes: Cataratas, Hipoacusia; no frecuente: Ceguera; frecuencia no conocida: Neuropatía óptica.
+
+TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS: frecuentes: Anemia, Leucocitosis, Leucopenia, Trombocitopenia; poco frecuentes: Coagulopatía, Microangiopatía trombótica, Neutropenia; no frecuente: Hipoprotrombinemia, Púrpura trombocitopénica trombótica; frecuencia no conocida: Agranulocitosis, Aplasia eritrocitaria pura.
+
+TRASTORNOS DEL SISTEMA NERVIOSO: muy frecuentes: Cefalea, Temblor; frecuentes: Alteraciones de la conciencia, Convulsiones, Mareo, Neuropatía periférica, Parestesias, disestesias; poco frecuentes: Amnesia, Coma, Encefalopatía; no frecuente: Miastenia; frecuencia no conocida: Síndrome de encefalopatía posterior reversible (SEPR).
+
+TRASTORNOS PSIQUIÁTRICOS: muy frecuentes: Insomnio; frecuentes: Alteraciones del humor, Alucinaciones, Ansiedad, Confusión y desorientación, Depresión, Pesadillas; poco frecuentes: Trastornos psicóticos.
+
+TRASTORNOS DEL SISTEMA EXCRETOR: muy frecuentes: Deterioro renal; frecuentes: Anormalidades de la orina, Oliguria, Nefropatía tóxica; poco frecuentes: Anuria, Síndrome hemolítico urémico; no frecuente: Cistitis hemorrágica, Nefropatía.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO: frecuentes: Artralgias, Dolor de espalda, Dolor en una extremidad, Espasmos musculares; poco frecuentes: Trastornos articulares; no frecuente: Disminución de la movilidad.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO: muy frecuentes: Diarrea, Náuseas; frecuentes: Dispepsia, Dolor gastrointestinal y abdominal, Estreñimiento, Flatulencia, Vómitos, Ictericia, Colestasis; poco frecuentes: Enfermedad por reflujo gastroesofágico, Pancreatitis aguda, Íleo paralítico; no frecuente: Insuficiencia hepática, Subíleo.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO: frecuentes: Congestión nasal, Derrame pleural, Disnea, Tos; poco frecuentes: Asma, Insuficiencia respiratoria; no frecuente: Síndrome de distrés respiratorio agudo (SDRA).
+
+TRASTORNOS DEL SISTEMA GENERAL: frecuentes: Astenia, Distermia, Dolor, Edema, Fiebre; poco frecuentes: Cuadro gripal, Inquietud, Sensación anormal; no frecuente: Caída, Opresión torácica, Sed.
+
+PRUEBAS COMPLEMENTARIAS: frecuentes: Aumento de peso, Incremento de fosfatasa alcalina en sangre; poco frecuentes: Disminución de peso, ECG anormal, Incremento de LDH en sangre; no frecuente: Ecocardiograma anormal, Intervalo QT prolongado.
+
+LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS: muy frecuentes: Pruebas de función hepática anormales; frecuentes: Disfunción primaria del trasplante.
+
+TRASTORNOS DEL SISTEMA REPRODUCTOR: poco frecuentes: Dismenorrea, Hemorragia uterina. TRASTORNOS DEL SISTEMA ENDOCRINO: no frecuente: Hirsutismo. INFECCIONES E INFESTACIONES: muy frecuentes: Infecciones. NEOPLASIAS: frecuencia no conocida: Neoplasia. TRASTORNOS DEL SISTEMA INMUNOLÓGICO: frecuencia no conocida: Reacciones alérgicas y anafilactoides.
+
+Descripción de reacciones adversas seleccionadas
+En la práctica clínica se aconseja interpretar los hallazgos de laboratorio junto con los datos de exploración y la evolución temporal. Cuando aparezcan manifestaciones clínicamente relevantes, puede ser necesario intensificar la monitorización, revisar la exposición al medicamento y valorar medidas de soporte. La decisión de modificar el tratamiento corresponde al médico responsable y debe considerar el balance entre eficacia y tolerabilidad.
+
+Algunas manifestaciones pueden aparecer de forma simultánea o en el contexto de complicaciones intercurrentes. La comunicación de sospechas contribuye a caracterizar mejor el perfil de seguridad en condiciones reales de uso y permite actualizar la información disponible cuando procede.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En el sistema Trastornos del metabolismo y la nutrición, Diabetes mellitus se incluye entre las reacciones adversas muy frecuentes durante el tratamiento con TACROLIMUS. La aparición de esta alteración es coherente con el efecto del tratamiento inmunosupresor sobre el metabolismo de la glucosa y debe considerarse en pacientes con factores de riesgo. Se recomienda la monitorización clínica y analítica periódica, especialmente al inicio del tratamiento y tras modificaciones de la dosis, de acuerdo con la práctica clínica habitual.
+
+-- Caso 2 --
+En la evaluación de seguridad de TACROLIMUS, dentro de TRASTORNOS DEL SISTEMA GENERAL, se incluye Intolerancia a la temperatura entre las reacciones adversas poco frecuentes. Esta manifestación debe interpretarse en el contexto del estado clínico del paciente y de la exposición al tratamiento, especialmente cuando exista variabilidad en la percepción de calor o frío. Se recomienda valorar la evolución temporal y la posible relación con el medicamento durante el seguimiento, manteniendo la vigilancia clínica habitual y registrando los hallazgos relevantes para la evaluación continuada del perfil de seguridad.
+
+-- Caso 3 --
+En el sistema de clasificación de órganos TRASTORNOS DEL SISTEMA NERVIOSO, se han notificado Trastornos del sistema nervioso como reacciones adversas frecuentes durante el tratamiento con TACROLIMUS. La aparición de estos acontecimientos debe valorarse en el contexto del estado clínico del paciente y de la exposición al medicamento, especialmente tras cambios de dosis o en situaciones que puedan modificar la exposición sistémica. Se recomienda seguimiento clínico regular y reevaluación del tratamiento si la intensidad o persistencia de la reacción lo requiere, de acuerdo con la práctica asistencial y el balance beneficio-riesgo individual.

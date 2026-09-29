@@ -1,0 +1,471 @@
+{
+  "codigo": "62825",
+  "variante": 2,
+  "codigo_variant": "62825_v2",
+  "medicamento": "ADIRO 100 MG COMPRIMIDOS GASTRORRESISTENTES EFG",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "ACETILSALICILICO ACIDO",
+      "surface": "ACETILSALICILICO ACIDO",
+      "start": 83,
+      "end": 105
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "ACETILSALICILICO ACIDO",
+      "surface": "ácido acetilsalicílico",
+      "start": 144,
+      "end": 166
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "ACETILSALICILICO ACIDO",
+      "surface": "AAS",
+      "start": 169,
+      "end": 172
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 891,
+      "end": 940
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 943,
+      "end": 953
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotrombinemia (con dosis altas)",
+      "surface": "Hipotrombinemia (con dosis altas)",
+      "start": 955,
+      "end": 988
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 992,
+      "end": 1007
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia ferropénica",
+      "surface": "Anemia ferropénica",
+      "start": 1009,
+      "end": 1027
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 1031,
+      "end": 1043
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia hemorrágica",
+      "surface": "Anemia hemorrágica",
+      "start": 1045,
+      "end": 1063
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 1067,
+      "end": 1089
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia hemolítica",
+      "surface": "Anemia hemolítica",
+      "start": 1091,
+      "end": 1108
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemólisis",
+      "surface": "Hemólisis",
+      "start": 1110,
+      "end": 1119
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 1122,
+      "end": 1157
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rinitis",
+      "surface": "Rinitis",
+      "start": 1172,
+      "end": 1179
+    },
+    {
+      "type": "REACT",
+      "canonical": "Epixtasis",
+      "surface": "Epixtasis",
+      "start": 1181,
+      "end": 1190
+    },
+    {
+      "type": "REACT",
+      "canonical": "Congestión nasal",
+      "surface": "Congestión nasal",
+      "start": 1211,
+      "end": 1227
+    },
+    {
+      "type": "REACT",
+      "canonical": "Enfermedad respiratoria exacerbada por ácido acetilsalicílico (EREA)",
+      "surface": "Enfermedad respiratoria exacerbada por ácido acetilsalicílico (EREA)",
+      "start": 1255,
+      "end": 1323
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1326,
+      "end": 1358
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dispepsia",
+      "surface": "Dispepsia",
+      "start": 1373,
+      "end": 1382
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor gastrointestinal y abdominal",
+      "surface": "Dolor gastrointestinal y abdominal",
+      "start": 1384,
+      "end": 1418
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia del tracto gastrointestinal",
+      "surface": "Hemorragia del tracto gastrointestinal",
+      "start": 1420,
+      "end": 1458
+    },
+    {
+      "type": "REACT",
+      "canonical": "Inflamación gastrointestinal",
+      "surface": "Inflamación gastrointestinal",
+      "start": 1460,
+      "end": 1488
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erosión gastrointestinal y úlcera",
+      "surface": "Erosión gastrointestinal y úlcera",
+      "start": 1509,
+      "end": 1542
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hepatitis (particularmente en pacientes con artritis juvenil)",
+      "surface": "Hepatitis (particularmente en pacientes con artritis juvenil)",
+      "start": 1544,
+      "end": 1605
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia hepática",
+      "surface": "Insuficiencia hepática",
+      "start": 1607,
+      "end": 1629
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sangrado gingival",
+      "surface": "Sangrado gingival",
+      "start": 1631,
+      "end": 1648
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de transaminasas",
+      "surface": "Incremento de transaminasas",
+      "start": 1666,
+      "end": 1693
+    },
+    {
+      "type": "REACT",
+      "canonical": "Perforación de úlcera gastrointestinal",
+      "surface": "Perforación de úlcera gastrointestinal",
+      "start": 1695,
+      "end": 1733
+    },
+    {
+      "type": "REACT",
+      "canonical": "Enfermedad diafragmática intestinal",
+      "surface": "Enfermedad diafragmática intestinal",
+      "start": 1761,
+      "end": 1796
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1799,
+      "end": 1836
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hematoma",
+      "surface": "Hematoma",
+      "start": 1856,
+      "end": 1864
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia",
+      "surface": "Hemorragia",
+      "start": 1420,
+      "end": 1430
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia muscular",
+      "surface": "Hemorragia muscular",
+      "start": 1894,
+      "end": 1913
+    },
+    {
+      "type": "REACT",
+      "canonical": "Distrés cardiorrespiratorio",
+      "surface": "Distrés cardiorrespiratorio",
+      "start": 1941,
+      "end": 1968
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia procedimental",
+      "surface": "Hemorragia procedimental",
+      "start": 1970,
+      "end": 1994
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 1997,
+      "end": 2032
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema alérgico y angioedema",
+      "surface": "Edema alérgico y angioedema",
+      "start": 2052,
+      "end": 2079
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipersensibilidad",
+      "surface": "Hipersensibilidad",
+      "start": 2081,
+      "end": 2098
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipersensibilidad inducida por fármacos",
+      "surface": "Hipersensibilidad inducida por fármacos",
+      "start": 2100,
+      "end": 2139
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacción anafiláctica",
+      "surface": "Reacción anafiláctica",
+      "start": 2157,
+      "end": 2178
+    },
+    {
+      "type": "REACT",
+      "canonical": "Shock anafiláctico",
+      "surface": "Shock anafiláctico",
+      "start": 2206,
+      "end": 2224
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 2227,
+      "end": 2255
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción cutánea",
+      "surface": "Erupción cutánea",
+      "start": 2270,
+      "end": 2286
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito",
+      "start": 2288,
+      "end": 2295
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria",
+      "start": 2316,
+      "end": 2325
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "start": 2328,
+      "end": 2359
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia del tracto urogenital",
+      "surface": "Hemorragia del tracto urogenital",
+      "start": 2374,
+      "end": 2406
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fallo renal agudo",
+      "surface": "Fallo renal agudo",
+      "start": 2424,
+      "end": 2441
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia renal",
+      "surface": "Insuficiencia renal",
+      "start": 2443,
+      "end": 2462
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 2465,
+      "end": 2496
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareo",
+      "surface": "Mareo",
+      "start": 2511,
+      "end": 2516
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia cerebral e intracraneal",
+      "surface": "Hemorragia cerebral e intracraneal",
+      "start": 2537,
+      "end": 2571
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 2574,
+      "end": 2604
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de Reye (en menores de 16 años con procesos febriles, gripe o varicela)",
+      "surface": "Síndrome de Reye (en menores de 16 años con procesos febriles, gripe o varicela)",
+      "start": 2624,
+      "end": 2704
+    },
+    {
+      "type": "SYS",
+      "canonical": "LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS",
+      "surface": "LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS",
+      "start": 2707,
+      "end": 2790
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sobredosis",
+      "surface": "Sobredosis",
+      "start": 2805,
+      "end": 2815
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 2818,
+      "end": 2855
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tinnitus",
+      "surface": "Tinnitus",
+      "start": 2870,
+      "end": 2878
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tinnitus",
+      "surface": "zumbidos",
+      "start": 2880,
+      "end": 2888
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "Trastornos del sistema cardiovascular",
+      "start": 1799,
+      "end": 1836
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "ACETILSALICILICO ACIDO",
+      "surface": "aspirina",
+      "start": 3796,
+      "end": 3804
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "Trastornos de piel y tejidos",
+      "start": 2227,
+      "end": 2255
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "Trastornos del sistema digestivo",
+      "start": 1326,
+      "end": 1358
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia del tracto gastrointestinal",
+      "surface": "sangrado digestivo",
+      "start": 5286,
+      "end": 5304
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia del tracto gastrointestinal",
+      "surface": "sangrado del estómago o intestino",
+      "start": 5306,
+      "end": 5339
+    }
+  ]
+}

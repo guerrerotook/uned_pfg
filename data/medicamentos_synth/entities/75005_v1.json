@@ -1,0 +1,632 @@
+{
+  "codigo": "75005",
+  "variante": 1,
+  "codigo_variant": "75005_v1",
+  "medicamento": "LEVETIRACETAM CINFA 1000 mg COMPRIMIDOS RECUBIERTOS CON PELICULA EFG",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "LEVETIRACETAM",
+      "surface": "LEVETIRACETAM",
+      "start": 83,
+      "end": 96
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 789,
+      "end": 813
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 814,
+      "end": 824
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión",
+      "surface": "Depresión",
+      "start": 826,
+      "end": 835
+    },
+    {
+      "type": "REACT",
+      "canonical": "agresividad",
+      "surface": "agresividad",
+      "start": 837,
+      "end": 848
+    },
+    {
+      "type": "REACT",
+      "canonical": "ansiedad",
+      "surface": "ansiedad",
+      "start": 850,
+      "end": 858
+    },
+    {
+      "type": "REACT",
+      "canonical": "insomnio",
+      "surface": "insomnio",
+      "start": 860,
+      "end": 868
+    },
+    {
+      "type": "REACT",
+      "canonical": "nerviosismo",
+      "surface": "nerviosismo",
+      "start": 870,
+      "end": 881
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 883,
+      "end": 898
+    },
+    {
+      "type": "REACT",
+      "canonical": "Intento de suicidio",
+      "surface": "Intento de suicidio",
+      "start": 900,
+      "end": 919
+    },
+    {
+      "type": "REACT",
+      "canonical": "agitación",
+      "surface": "agitación",
+      "start": 921,
+      "end": 930
+    },
+    {
+      "type": "REACT",
+      "canonical": "alteraciones psicóticas",
+      "surface": "alteraciones psicóticas",
+      "start": 932,
+      "end": 955
+    },
+    {
+      "type": "REACT",
+      "canonical": "alucinaciones",
+      "surface": "alucinaciones",
+      "start": 957,
+      "end": 970
+    },
+    {
+      "type": "REACT",
+      "canonical": "ataque de pánico",
+      "surface": "ataque de pánico",
+      "start": 972,
+      "end": 988
+    },
+    {
+      "type": "REACT",
+      "canonical": "cambios de humor",
+      "surface": "cambios de humor",
+      "start": 990,
+      "end": 1006
+    },
+    {
+      "type": "REACT",
+      "canonical": "cólera",
+      "surface": "cólera",
+      "start": 1008,
+      "end": 1014
+    },
+    {
+      "type": "REACT",
+      "canonical": "estado confusiona",
+      "surface": "estado confusiona",
+      "start": 1016,
+      "end": 1033
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 1035,
+      "end": 1047
+    },
+    {
+      "type": "REACT",
+      "canonical": "Suicidio",
+      "surface": "Suicidio",
+      "start": 911,
+      "end": 919
+    },
+    {
+      "type": "REACT",
+      "canonical": "delirio",
+      "surface": "delirio",
+      "start": 1059,
+      "end": 1066
+    },
+    {
+      "type": "REACT",
+      "canonical": "trastornos de personalidad",
+      "surface": "trastornos de personalidad",
+      "start": 1068,
+      "end": 1094
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 1097,
+      "end": 1146
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombocitopenia",
+      "surface": "Trombocitopenia",
+      "start": 1164,
+      "end": 1179
+    },
+    {
+      "type": "REACT",
+      "canonical": "leucopenia",
+      "surface": "leucopenia",
+      "start": 1181,
+      "end": 1191
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pancitopenia",
+      "surface": "Pancitopenia",
+      "start": 1207,
+      "end": 1219
+    },
+    {
+      "type": "REACT",
+      "canonical": "agranulocitosis",
+      "surface": "agranulocitosis",
+      "start": 1221,
+      "end": 1236
+    },
+    {
+      "type": "REACT",
+      "canonical": "neutropenia",
+      "surface": "neutropenia",
+      "start": 1238,
+      "end": 1249
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 1252,
+      "end": 1280
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rash",
+      "surface": "Rash",
+      "start": 1293,
+      "end": 1297
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alopecia",
+      "surface": "Alopecia",
+      "start": 1316,
+      "end": 1324
+    },
+    {
+      "type": "REACT",
+      "canonical": "eczema",
+      "surface": "eczema",
+      "start": 1326,
+      "end": 1332
+    },
+    {
+      "type": "REACT",
+      "canonical": "prurito",
+      "surface": "prurito",
+      "start": 1334,
+      "end": 1341
+    },
+    {
+      "type": "REACT",
+      "canonical": "Necrólisis epidérmica tóxica",
+      "surface": "Necrólisis epidérmica tóxica",
+      "start": 1357,
+      "end": 1385
+    },
+    {
+      "type": "REACT",
+      "canonical": "eritema multiforme",
+      "surface": "eritema multiforme",
+      "start": 1387,
+      "end": 1405
+    },
+    {
+      "type": "REACT",
+      "canonical": "síndrome de Stevens- Johnson",
+      "surface": "síndrome de Stevens- Johnson",
+      "start": 1407,
+      "end": 1435
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1438,
+      "end": 1469
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes",
+      "start": 1470,
+      "end": 1484
+    },
+    {
+      "type": "REACT",
+      "canonical": "Somnolencia, cefalea",
+      "surface": "Somnolencia, cefalea",
+      "start": 1486,
+      "end": 1506
+    },
+    {
+      "type": "REACT",
+      "canonical": "Convulsión",
+      "surface": "Convulsión",
+      "start": 1520,
+      "end": 1530
+    },
+    {
+      "type": "REACT",
+      "canonical": "letargo",
+      "surface": "letargo",
+      "start": 1532,
+      "end": 1539
+    },
+    {
+      "type": "REACT",
+      "canonical": "mareo",
+      "surface": "mareo",
+      "start": 1541,
+      "end": 1546
+    },
+    {
+      "type": "REACT",
+      "canonical": "temblor",
+      "surface": "temblor",
+      "start": 1548,
+      "end": 1555
+    },
+    {
+      "type": "REACT",
+      "canonical": "trastorno del equilibrio",
+      "surface": "trastorno del equilibrio",
+      "start": 1557,
+      "end": 1581
+    },
+    {
+      "type": "REACT",
+      "canonical": "Amnesia",
+      "surface": "Amnesia",
+      "start": 1600,
+      "end": 1607
+    },
+    {
+      "type": "REACT",
+      "canonical": "alteración de la atención",
+      "surface": "alteración de la atención",
+      "start": 1609,
+      "end": 1634
+    },
+    {
+      "type": "REACT",
+      "canonical": "coordinación anorma",
+      "surface": "coordinación anorma",
+      "start": 1636,
+      "end": 1655
+    },
+    {
+      "type": "REACT",
+      "canonical": "Coreoatetosis",
+      "surface": "Coreoatetosis",
+      "start": 1671,
+      "end": 1684
+    },
+    {
+      "type": "REACT",
+      "canonical": "alteración de la marcha",
+      "surface": "alteración de la marcha",
+      "start": 1686,
+      "end": 1709
+    },
+    {
+      "type": "REACT",
+      "canonical": "crisis epilépticas agravadas",
+      "surface": "crisis epilépticas agravadas",
+      "start": 1711,
+      "end": 1739
+    },
+    {
+      "type": "REACT",
+      "canonical": "discinesia",
+      "surface": "discinesia",
+      "start": 1741,
+      "end": 1751
+    },
+    {
+      "type": "REACT",
+      "canonical": "encefalopatia",
+      "surface": "encefalopatia",
+      "start": 1753,
+      "end": 1766
+    },
+    {
+      "type": "REACT",
+      "canonical": "síndrome neuroléptico maligno",
+      "surface": "síndrome neuroléptico maligno",
+      "start": 1768,
+      "end": 1797
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "start": 1800,
+      "end": 1841
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anorexia",
+      "surface": "Anorexia",
+      "start": 1854,
+      "end": 1862
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pérdida de peso",
+      "surface": "Pérdida de peso",
+      "start": 1881,
+      "end": 1896
+    },
+    {
+      "type": "REACT",
+      "canonical": "aumento de peso",
+      "surface": "aumento de peso",
+      "start": 1898,
+      "end": 1913
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiponatremia",
+      "surface": "Hiponatremia",
+      "start": 1929,
+      "end": 1941
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 1944,
+      "end": 1974
+    },
+    {
+      "type": "REACT",
+      "canonical": "Astenia",
+      "surface": "Astenia",
+      "start": 1987,
+      "end": 1994
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 1997,
+      "end": 2039
+    },
+    {
+      "type": "REACT",
+      "canonical": "Debilidad muscular",
+      "surface": "Debilidad muscular",
+      "start": 2057,
+      "end": 2075
+    },
+    {
+      "type": "REACT",
+      "canonical": "Lesión",
+      "surface": "Lesión",
+      "start": 2077,
+      "end": 2083
+    },
+    {
+      "type": "REACT",
+      "canonical": "mialgia",
+      "surface": "mialgia",
+      "start": 2085,
+      "end": 2092
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea",
+      "start": 1499,
+      "end": 1506
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rabdomiólisis",
+      "surface": "Rabdomiólisis",
+      "start": 2117,
+      "end": 2130
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 2133,
+      "end": 2165
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor abdominal",
+      "surface": "Dolor abdominal",
+      "start": 2178,
+      "end": 2193
+    },
+    {
+      "type": "REACT",
+      "canonical": "diarrea",
+      "surface": "diarrea",
+      "start": 2195,
+      "end": 2202
+    },
+    {
+      "type": "REACT",
+      "canonical": "dispepsia",
+      "surface": "dispepsia",
+      "start": 2204,
+      "end": 2213
+    },
+    {
+      "type": "REACT",
+      "canonical": "náuseas",
+      "surface": "náuseas",
+      "start": 2215,
+      "end": 2222
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pruebas anormales de la función hepática",
+      "surface": "Pruebas anormales de la función hepática",
+      "start": 2241,
+      "end": 2281
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pancreatitis",
+      "surface": "Pancreatitis",
+      "start": 2297,
+      "end": 2309
+    },
+    {
+      "type": "REACT",
+      "canonical": "hepatitis",
+      "surface": "hepatitis",
+      "start": 2311,
+      "end": 2320
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 2323,
+      "end": 2360
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vértigo",
+      "surface": "Vértigo",
+      "start": 2373,
+      "end": 2380
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diplopía",
+      "surface": "Diplopía",
+      "start": 2399,
+      "end": 2407
+    },
+    {
+      "type": "REACT",
+      "canonical": "visión borrosa",
+      "surface": "visión borrosa",
+      "start": 2409,
+      "end": 2423
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 2426,
+      "end": 2461
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipersensibilidad",
+      "surface": "hipersensibilidad",
+      "start": 2476,
+      "end": 2493
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "INFECCIONES E INFESTACIONES",
+      "start": 2496,
+      "end": 2523
+    },
+    {
+      "type": "REACT",
+      "canonical": "Nasofaringitis",
+      "surface": "Nasofaringitis",
+      "start": 2540,
+      "end": 2554
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infección",
+      "surface": "Infección",
+      "start": 2570,
+      "end": 2579
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "start": 2582,
+      "end": 2613
+    },
+    {
+      "type": "REACT",
+      "canonical": "Lesión renal aguda",
+      "surface": "Lesión renal aguda",
+      "start": 2628,
+      "end": 2646
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 2649,
+      "end": 2686
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prolongación del intervalo QT",
+      "surface": "Prolongación del intervalo QT",
+      "start": 2701,
+      "end": 2730
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 2733,
+      "end": 2768
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tos",
+      "surface": "Tos",
+      "start": 2781,
+      "end": 2784
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "Trastornos del sistema nervioso",
+      "start": 1438,
+      "end": 1469
+    }
+  ]
+}

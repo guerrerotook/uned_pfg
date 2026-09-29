@@ -1,0 +1,1030 @@
+{
+  "codigo": "78903",
+  "variante": 2,
+  "codigo_variant": "78903_v2",
+  "medicamento": "BISOPROLOL CINFA 5 MG COMPRIMIDOS EFG",
+  "model": "gpt-5.5",
+  "style_variant_idx": 1,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil de seguridad descrito para BISOPROLOL FUMARATO es coherente con el observado para los bloqueantes beta utilizados en la práctica clínica. En el uso habitual de bisoprolol, las manifestaciones suelen aparecer al inicio del tratamiento o tras incrementos de dosis, y en muchos casos son de intensidad leve o moderada. La valoración clínica debe tener en cuenta la situación basal del paciente, la dosis administrada y la posible presencia de enfermedades concomitantes. Con BISOPROLOL CINFA, la vigilancia debe ser especialmente cuidadosa en pacientes con antecedentes respiratorios, alteraciones de la conducción o tratamiento concomitante con otros medicamentos que puedan modificar la respuesta hemodinámica. La información siguiente se presenta según la clasificación por órganos y sistemas y por categoría de frecuencia.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS DE PIEL Y TEJIDOS\nfrecuencia no conocida: Alopecia, Erupciones similares a la psoriasis, Psoriasis.\nno frecuente: Hipersensibilidad (prurito, rubefacción, erupción cutánea, angioedema).\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\nmuy frecuentes: Bradicardia.\nfrecuentes: Hipotensión, Insuficiencia cardiaca descompensada, Sensación de frío o entumecimiento de extremidades.\npoco frecuentes: Alteraciones de la conducción AV, Hipotensión ortostática.\n\nTRASTORNOS PSIQUIÁTRICOS\npoco frecuentes: Alteraciones del sueño, Depresión.\nno frecuente: Alucinación, Pesadillas.\n\nTRASTORNOS DEL SISTEMA GENERAL\nfrecuentes: Astenia, Fatiga.\n\nPRUEBAS COMPLEMENTARIAS\nno frecuente: Aumento de las enzimas hepáticas (AST, ALT), Aumento de los triglicéridos.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\npoco frecuentes: Broncoespasmo en pacientes con asma bronquial u obstrucción de las vías aéreas.\nno frecuente: Rinitis alérgica.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\npoco frecuentes: Calambres, Debilidad muscular.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nfrecuentes: Cefalea, Mareos.\nno frecuente: Síncope.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\nfrecuencia no conocida: Conjuntivitis.\nno frecuente: Deterioro de la audición, Disminución de la producción de lágrimas (a tener en cuenta si se utiliza lentes de contacto).\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nfrecuentes: Diarrea, Estreñimiento, Náuseas, Vómitos.\nno frecuente: Hepatitis.\n\nTRASTORNOS DEL SISTEMA REPRODUCTOR\nno frecuente: Disfunción eréctil.\n\nDescripción de reacciones adversas seleccionadas\nAlgunas manifestaciones relacionadas con el efecto farmacológico pueden requerir ajuste gradual de la pauta o reevaluación clínica individualizada. Si aparecen síntomas persistentes, debe revisarse la tolerabilidad global antes de modificar el tratamiento, evitando interrupciones bruscas salvo criterio médico. La sensación de frialdad en manos o pies (manos frías) puede ser interpretada por el paciente como un cambio circulatorio periférico y conviene explicarla en el contexto del tratamiento.\n\nLas alteraciones analíticas deben interpretarse junto con la historia clínica y otros factores de riesgo. En pacientes con antecedentes respiratorios, la aparición de síntomas compatibles con limitación del flujo aéreo justifica una valoración específica. La notificación de sospechas de reacciones adversas tras la autorización del medicamento permite una supervisión continuada de su relación beneficio-riesgo.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nEn la evaluación de seguridad de BISOPROLOL FUMARATO, también descrito como bisoprolol, la reacción adversa notificada se clasifica según MedDRA dentro de Trastornos del sistema general.\n\nListado de reacción:\n- Fatiga (cansancio): frecuentes.\n\nLa Fatiga puede relacionarse con el efecto farmacodinámico del beta-bloqueo y suele valorarse en el contexto de la situación clínica basal del paciente. Se recomienda seguimiento clínico si la Fatiga persiste o interfiere con la actividad habitual, considerando la evolución tras el ajuste terapéutico cuando proceda.\n\n-- Caso 2 --\nDentro del sistema de clasificación de órganos TRASTORNOS DE PIEL Y TEJIDOS, se ha notificado la siguiente reacción adversa asociada al tratamiento con BISOPROLOL FUMARATO (bisoprolol):\n\n- Alopecia: frecuencia no conocida.\n\nLa notificación disponible no permite estimar la incidencia a partir de los datos existentes. En pacientes que presenten pérdida de cabello durante el tratamiento, se recomienda valorar la relación temporal con la administración y realizar seguimiento clínico según la evolución.\n\n-- Caso 3 --\nEn la evaluación del perfil de seguridad de BISOPROLOL FUMARATO, esta reacción se clasifica dentro del sistema Trastornos psiquiátricos. Durante el tratamiento con bisoprolol, conviene valorar su relación temporal con el inicio del tratamiento o con ajustes de dosis, especialmente si el paciente refiere problemas para dormir.\n\nLista tabulada:\n- Alteraciones del sueño: poco frecuentes.\n\nEstas manifestaciones deben interpretarse en el contexto clínico individual y de los tratamientos concomitantes. Se recomienda seguimiento clínico si persisten o resultan relevantes para el paciente, sin modificar el tratamiento salvo indicación médica.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "BISOPROLOL FUMARATO",
+      "surface": "BISOPROLOL FUMARATO",
+      "start": 94,
+      "end": 113
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "BISOPROLOL FUMARATO",
+      "surface": "bisoprolol",
+      "start": 94,
+      "end": 104
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "BISOPROLOL FUMARATO",
+      "surface": "BISOPROLOL CINFA",
+      "start": 539,
+      "end": 555
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 931,
+      "end": 959
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 960,
+      "end": 982
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alopecia",
+      "surface": "Alopecia",
+      "start": 984,
+      "end": 992
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupciones similares a la psoriasis",
+      "surface": "Erupciones similares a la psoriasis",
+      "start": 994,
+      "end": 1029
+    },
+    {
+      "type": "REACT",
+      "canonical": "Psoriasis",
+      "surface": "Psoriasis",
+      "start": 1020,
+      "end": 1029
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 1042,
+      "end": 1054
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipersensibilidad (prurito, rubefacción, erupción cutánea, angioedema)",
+      "surface": "Hipersensibilidad (prurito, rubefacción, erupción cutánea, angioedema)",
+      "start": 1056,
+      "end": 1126
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1129,
+      "end": 1166
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes",
+      "start": 1167,
+      "end": 1181
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bradicardia",
+      "surface": "Bradicardia",
+      "start": 1183,
+      "end": 1194
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 1171,
+      "end": 1181
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión",
+      "start": 1208,
+      "end": 1219
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia cardiaca descompensada",
+      "surface": "Insuficiencia cardiaca descompensada",
+      "start": 1221,
+      "end": 1257
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sensación de frío o entumecimiento de extremidades",
+      "surface": "Sensación de frío o entumecimiento de extremidades",
+      "start": 1259,
+      "end": 1309
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 1311,
+      "end": 1326
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones de la conducción AV",
+      "surface": "Alteraciones de la conducción AV",
+      "start": 1328,
+      "end": 1360
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión ortostática",
+      "surface": "Hipotensión ortostática",
+      "start": 1362,
+      "end": 1385
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 1388,
+      "end": 1412
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones del sueño",
+      "surface": "Alteraciones del sueño",
+      "start": 1430,
+      "end": 1452
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión",
+      "surface": "Depresión",
+      "start": 1454,
+      "end": 1463
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alucinación",
+      "surface": "Alucinación",
+      "start": 1479,
+      "end": 1490
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pesadillas",
+      "surface": "Pesadillas",
+      "start": 1492,
+      "end": 1502
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 1505,
+      "end": 1535
+    },
+    {
+      "type": "REACT",
+      "canonical": "Astenia",
+      "surface": "Astenia",
+      "start": 1548,
+      "end": 1555
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "Fatiga",
+      "start": 1557,
+      "end": 1563
+    },
+    {
+      "type": "SYS",
+      "canonical": "PRUEBAS COMPLEMENTARIAS",
+      "surface": "PRUEBAS COMPLEMENTARIAS",
+      "start": 1566,
+      "end": 1589
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de las enzimas hepáticas (AST, ALT)",
+      "surface": "Aumento de las enzimas hepáticas (AST, ALT)",
+      "start": 1604,
+      "end": 1647
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de los triglicéridos",
+      "surface": "Aumento de los triglicéridos",
+      "start": 1649,
+      "end": 1677
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 1680,
+      "end": 1715
+    },
+    {
+      "type": "REACT",
+      "canonical": "Broncoespasmo en pacientes con asma bronquial u obstrucción de las vías aéreas",
+      "surface": "Broncoespasmo en pacientes con asma bronquial u obstrucción de las vías aéreas",
+      "start": 1733,
+      "end": 1811
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rinitis alérgica",
+      "surface": "Rinitis alérgica",
+      "start": 1827,
+      "end": 1843
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 1846,
+      "end": 1888
+    },
+    {
+      "type": "REACT",
+      "canonical": "Calambres",
+      "surface": "Calambres",
+      "start": 1906,
+      "end": 1915
+    },
+    {
+      "type": "REACT",
+      "canonical": "Debilidad muscular",
+      "surface": "Debilidad muscular",
+      "start": 1917,
+      "end": 1935
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1938,
+      "end": 1969
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea",
+      "start": 1982,
+      "end": 1989
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareos",
+      "surface": "Mareos",
+      "start": 1991,
+      "end": 1997
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síncope",
+      "surface": "Síncope",
+      "start": 2013,
+      "end": 2020
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 2023,
+      "end": 2060
+    },
+    {
+      "type": "REACT",
+      "canonical": "Conjuntivitis",
+      "surface": "Conjuntivitis",
+      "start": 2085,
+      "end": 2098
+    },
+    {
+      "type": "REACT",
+      "canonical": "Deterioro de la audición",
+      "surface": "Deterioro de la audición",
+      "start": 2114,
+      "end": 2138
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de la producción de lágrimas (a tener en cuenta si se utiliza lentes de contacto)",
+      "surface": "Disminución de la producción de lágrimas (a tener en cuenta si se utiliza lentes de contacto)",
+      "start": 2140,
+      "end": 2233
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 2236,
+      "end": 2268
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea",
+      "start": 2281,
+      "end": 2288
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento",
+      "start": 2290,
+      "end": 2303
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 2305,
+      "end": 2312
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos",
+      "start": 2314,
+      "end": 2321
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hepatitis",
+      "surface": "Hepatitis",
+      "start": 2337,
+      "end": 2346
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "start": 2349,
+      "end": 2383
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disfunción eréctil",
+      "surface": "Disfunción eréctil",
+      "start": 2398,
+      "end": 2416
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "Trastornos del sistema general",
+      "start": 1505,
+      "end": 1535
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "cansancio",
+      "start": 3677,
+      "end": 3686
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alopecia",
+      "surface": "pérdida de cabello",
+      "start": 4379,
+      "end": 4397
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "Trastornos psiquiátricos",
+      "start": 1388,
+      "end": 1412
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones del sueño",
+      "surface": "problemas para dormir",
+      "start": 4857,
+      "end": 4878
+    }
+  ],
+  "raw_long_doc_text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil de seguridad descrito para BISOPROLOL FUMARATO es coherente con el observado para los bloqueantes beta utilizados en la práctica clínica. En el uso habitual de bisoprolol, las manifestaciones suelen aparecer al inicio del tratamiento o tras incrementos de dosis, y en muchos casos son de intensidad leve o moderada. La valoración clínica debe tener en cuenta la situación basal del paciente, la dosis administrada y la posible presencia de enfermedades concomitantes. Con BISOPROLOL CINFA, la vigilancia debe ser especialmente cuidadosa en pacientes con antecedentes respiratorios, alteraciones de la conducción o tratamiento concomitante con otros medicamentos que puedan modificar la respuesta hemodinámica. La información siguiente se presenta según la clasificación por órganos y sistemas y por categoría de frecuencia.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS DE PIEL Y TEJIDOS\nfrecuencia no conocida: Alopecia, Erupciones similares a la psoriasis, Psoriasis.\nno frecuente: Hipersensibilidad (prurito, rubefacción, erupción cutánea, angioedema).\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\nmuy frecuentes: Bradicardia.\nfrecuentes: Hipotensión, Insuficiencia cardiaca descompensada, Sensación de frío o entumecimiento de extremidades.\npoco frecuentes: Alteraciones de la conducción AV, Hipotensión ortostática.\n\nTRASTORNOS PSIQUIÁTRICOS\npoco frecuentes: Alteraciones del sueño, Depresión.\nno frecuente: Alucinación, Pesadillas.\n\nTRASTORNOS DEL SISTEMA GENERAL\nfrecuentes: Astenia, Fatiga.\n\nPRUEBAS COMPLEMENTARIAS\nno frecuente: Aumento de las enzimas hepáticas (AST, ALT), Aumento de los triglicéridos.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\npoco frecuentes: Broncoespasmo en pacientes con asma bronquial u obstrucción de las vías aéreas.\nno frecuente: Rinitis alérgica.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\npoco frecuentes: Calambres, Debilidad muscular.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nfrecuentes: Cefalea, Mareos.\nno frecuente: Síncope.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\nfrecuencia no conocida: Conjuntivitis.\nno frecuente: Deterioro de la audición, Disminución de la producción de lágrimas (a tener en cuenta si se utiliza lentes de contacto).\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nfrecuentes: Diarrea, Estreñimiento, Náuseas, Vómitos.\nno frecuente: Hepatitis.\n\nTRASTORNOS DEL SISTEMA REPRODUCTOR\nno frecuente: Disfunción eréctil.\n\nDescripción de reacciones adversas seleccionadas\nAlgunas manifestaciones relacionadas con el efecto farmacológico pueden requerir ajuste gradual de la pauta o reevaluación clínica individualizada. Si aparecen síntomas persistentes, debe revisarse la tolerabilidad global antes de modificar el tratamiento, evitando interrupciones bruscas salvo criterio médico. La sensación de frialdad en manos o pies (manos frías) puede ser interpretada por el paciente como un cambio circulatorio periférico y conviene explicarla en el contexto del tratamiento.\n\nLas alteraciones analíticas deben interpretarse junto con la historia clínica y otros factores de riesgo. En pacientes con antecedentes respiratorios, la aparición de síntomas compatibles con limitación del flujo aéreo justifica una valoración específica. La notificación de sospechas de reacciones adversas tras la autorización del medicamento permite una supervisión continuada de su relación beneficio-riesgo.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "BISOPROLOL FUMARATO",
+      "surface": "BISOPROLOL FUMARATO"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "BISOPROLOL FUMARATO",
+      "surface": "bisoprolol"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "BISOPROLOL FUMARATO",
+      "surface": "BISOPROLOL CINFA"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alopecia",
+      "surface": "Alopecia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupciones similares a la psoriasis",
+      "surface": "Erupciones similares a la psoriasis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Psoriasis",
+      "surface": "Psoriasis"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipersensibilidad (prurito, rubefacción, erupción cutánea, angioedema)",
+      "surface": "Hipersensibilidad (prurito, rubefacción, erupción cutánea, angioedema)"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bradicardia",
+      "surface": "Bradicardia"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia cardiaca descompensada",
+      "surface": "Insuficiencia cardiaca descompensada"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sensación de frío o entumecimiento de extremidades",
+      "surface": "Sensación de frío o entumecimiento de extremidades"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones de la conducción AV",
+      "surface": "Alteraciones de la conducción AV"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión ortostática",
+      "surface": "Hipotensión ortostática"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones del sueño",
+      "surface": "Alteraciones del sueño"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión",
+      "surface": "Depresión"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alucinación",
+      "surface": "Alucinación"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pesadillas",
+      "surface": "Pesadillas"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Astenia",
+      "surface": "Astenia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "Fatiga"
+    },
+    {
+      "type": "SYS",
+      "canonical": "PRUEBAS COMPLEMENTARIAS",
+      "surface": "PRUEBAS COMPLEMENTARIAS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de las enzimas hepáticas (AST, ALT)",
+      "surface": "Aumento de las enzimas hepáticas (AST, ALT)"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de los triglicéridos",
+      "surface": "Aumento de los triglicéridos"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Broncoespasmo en pacientes con asma bronquial u obstrucción de las vías aéreas",
+      "surface": "Broncoespasmo en pacientes con asma bronquial u obstrucción de las vías aéreas"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rinitis alérgica",
+      "surface": "Rinitis alérgica"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Calambres",
+      "surface": "Calambres"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Debilidad muscular",
+      "surface": "Debilidad muscular"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareos",
+      "surface": "Mareos"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síncope",
+      "surface": "Síncope"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Conjuntivitis",
+      "surface": "Conjuntivitis"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Deterioro de la audición",
+      "surface": "Deterioro de la audición"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de la producción de lágrimas (a tener en cuenta si se utiliza lentes de contacto)",
+      "surface": "Disminución de la producción de lágrimas (a tener en cuenta si se utiliza lentes de contacto)"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hepatitis",
+      "surface": "Hepatitis"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disfunción eréctil",
+      "surface": "Disfunción eréctil"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "BISOPROLOL CINFA 5 MG COMPRIMIDOS EFG",
+        "pactivo": "BISOPROLOL FUMARATO",
+        "reaccion": "Fatiga",
+        "frecuencia": "FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA GENERAL"
+      },
+      "text": "En la evaluación de seguridad de BISOPROLOL FUMARATO, también descrito como bisoprolol, la reacción adversa notificada se clasifica según MedDRA dentro de Trastornos del sistema general.\n\nListado de reacción:\n- Fatiga (cansancio): frecuentes.\n\nLa Fatiga puede relacionarse con el efecto farmacodinámico del beta-bloqueo y suele valorarse en el contexto de la situación clínica basal del paciente. Se recomienda seguimiento clínico si la Fatiga persiste o interfiere con la actividad habitual, considerando la evolución tras el ajuste terapéutico cuando proceda.",
+      "declared": [
+        {
+          "type": "ACTIVE",
+          "canonical": "BISOPROLOL FUMARATO",
+          "surface": "BISOPROLOL FUMARATO"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "BISOPROLOL FUMARATO",
+          "surface": "bisoprolol"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+          "surface": "Trastornos del sistema general"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Fatiga",
+          "surface": "Fatiga"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Fatiga",
+          "surface": "cansancio"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Fatiga",
+          "surface": "Fatiga"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Fatiga",
+          "surface": "Fatiga"
+        }
+      ],
+      "validated": [
+        {
+          "type": "ACTIVE",
+          "canonical": "BISOPROLOL FUMARATO",
+          "surface": "BISOPROLOL FUMARATO",
+          "start": 33,
+          "end": 52
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "BISOPROLOL FUMARATO",
+          "surface": "bisoprolol",
+          "start": 33,
+          "end": 43
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+          "surface": "Trastornos del sistema general",
+          "start": 155,
+          "end": 185
+        },
+        {
+          "type": "REACT",
+          "canonical": "Fatiga",
+          "surface": "Fatiga",
+          "start": 211,
+          "end": 217
+        },
+        {
+          "type": "REACT",
+          "canonical": "Fatiga",
+          "surface": "cansancio",
+          "start": 219,
+          "end": 228
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes",
+          "start": 231,
+          "end": 241
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "BISOPROLOL CINFA 5 MG COMPRIMIDOS EFG",
+        "pactivo": "BISOPROLOL FUMARATO",
+        "reaccion": "Alopecia",
+        "frecuencia": "SIN FRECUENCIA",
+        "sistema": "TRASTORNOS DE PIEL Y TEJIDOS"
+      },
+      "text": "Dentro del sistema de clasificación de órganos TRASTORNOS DE PIEL Y TEJIDOS, se ha notificado la siguiente reacción adversa asociada al tratamiento con BISOPROLOL FUMARATO (bisoprolol):\n\n- Alopecia: frecuencia no conocida.\n\nLa notificación disponible no permite estimar la incidencia a partir de los datos existentes. En pacientes que presenten pérdida de cabello durante el tratamiento, se recomienda valorar la relación temporal con la administración y realizar seguimiento clínico según la evolución.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "BISOPROLOL FUMARATO",
+          "surface": "BISOPROLOL FUMARATO"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "BISOPROLOL FUMARATO",
+          "surface": "bisoprolol"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Alopecia",
+          "surface": "Alopecia"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Alopecia",
+          "surface": "pérdida de cabello"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+          "start": 47,
+          "end": 75
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "BISOPROLOL FUMARATO",
+          "surface": "BISOPROLOL FUMARATO",
+          "start": 152,
+          "end": 171
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "BISOPROLOL FUMARATO",
+          "surface": "bisoprolol",
+          "start": 152,
+          "end": 162
+        },
+        {
+          "type": "REACT",
+          "canonical": "Alopecia",
+          "surface": "Alopecia",
+          "start": 189,
+          "end": 197
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida",
+          "start": 199,
+          "end": 221
+        },
+        {
+          "type": "REACT",
+          "canonical": "Alopecia",
+          "surface": "pérdida de cabello",
+          "start": 345,
+          "end": 363
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "BISOPROLOL CINFA 5 MG COMPRIMIDOS EFG",
+        "pactivo": "BISOPROLOL FUMARATO",
+        "reaccion": "Alteraciones del sueño",
+        "frecuencia": "POCO FRECUENTE",
+        "sistema": "TRASTORNOS PSIQUIÁTRICOS"
+      },
+      "text": "En la evaluación del perfil de seguridad de BISOPROLOL FUMARATO, esta reacción se clasifica dentro del sistema Trastornos psiquiátricos. Durante el tratamiento con bisoprolol, conviene valorar su relación temporal con el inicio del tratamiento o con ajustes de dosis, especialmente si el paciente refiere problemas para dormir.\n\nLista tabulada:\n- Alteraciones del sueño: poco frecuentes.\n\nEstas manifestaciones deben interpretarse en el contexto clínico individual y de los tratamientos concomitantes. Se recomienda seguimiento clínico si persisten o resultan relevantes para el paciente, sin modificar el tratamiento salvo indicación médica.",
+      "declared": [
+        {
+          "type": "ACTIVE",
+          "canonical": "BISOPROLOL FUMARATO",
+          "surface": "BISOPROLOL FUMARATO"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+          "surface": "Trastornos psiquiátricos"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "BISOPROLOL FUMARATO",
+          "surface": "bisoprolol"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Alteraciones del sueño",
+          "surface": "problemas para dormir"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Alteraciones del sueño",
+          "surface": "Alteraciones del sueño"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes"
+        }
+      ],
+      "validated": [
+        {
+          "type": "ACTIVE",
+          "canonical": "BISOPROLOL FUMARATO",
+          "surface": "BISOPROLOL FUMARATO",
+          "start": 44,
+          "end": 63
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+          "surface": "Trastornos psiquiátricos",
+          "start": 111,
+          "end": 135
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "BISOPROLOL FUMARATO",
+          "surface": "bisoprolol",
+          "start": 44,
+          "end": 54
+        },
+        {
+          "type": "REACT",
+          "canonical": "Alteraciones del sueño",
+          "surface": "problemas para dormir",
+          "start": 305,
+          "end": 326
+        },
+        {
+          "type": "REACT",
+          "canonical": "Alteraciones del sueño",
+          "surface": "Alteraciones del sueño",
+          "start": 347,
+          "end": 369
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes",
+          "start": 371,
+          "end": 386
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

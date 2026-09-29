@@ -1,0 +1,8 @@
+{
+  "models": [
+    "CIMA-BERTIN-4.8_mlm_results.json",
+    "bertin-base-upstream_mlm_results.json",
+    "CIMA-RoBERTa-4.8_mlm_results.json",
+    "roberta-base-biomedical-es-upstream_mlm_results.json"
+  ]
+}

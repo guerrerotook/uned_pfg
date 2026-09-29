@@ -1,0 +1,19 @@
+{
+  "models": [
+    "CIMA-BERTIN-4.8-NER-CONLL-SYNTH-active_ner_results.json",
+    "CIMA-BERTIN-4.8-NER-CONLL-SYNTH-freq_ner_results.json",
+    "CIMA-BERTIN-4.8-NER-CONLL-SYNTH-react_ner_results.json",
+    "CIMA-BERTIN-4.8-NER-CONLL-SYNTH-sys_ner_results.json",
+    "CIMA-BERTIN-4.8-NER-CONLL-SYNTH-react-active-freq-sys_ner_results.json",
+    "CIMA-RoBERTa-4.8-NER-CONLL-SYNTH-active_ner_results.json",
+    "CIMA-RoBERTa-4.8-NER-CONLL-SYNTH-freq_ner_results.json",
+    "CIMA-RoBERTa-4.8-NER-CONLL-SYNTH-react_ner_results.json",
+    "CIMA-RoBERTa-4.8-NER-CONLL-SYNTH-sys_ner_results.json",
+    "CIMA-RoBERTa-4.8-NER-CONLL-SYNTH-react-active-freq-sys_ner_results.json",
+    "CIMA-RoBERTa-NER-baseline-CONLL-SYNTH-active_ner_results.json",
+    "CIMA-RoBERTa-NER-baseline-CONLL-SYNTH-freq_ner_results.json",
+    "CIMA-RoBERTa-NER-baseline-CONLL-SYNTH-react_ner_results.json",
+    "CIMA-RoBERTa-NER-baseline-CONLL-SYNTH-sys_ner_results.json",
+    "CIMA-RoBERTa-NER-baseline-CONLL-SYNTH-react-active-freq-sys_ner_results.json"
+  ]
+}

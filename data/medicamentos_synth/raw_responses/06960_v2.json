@@ -1,0 +1,1097 @@
+{
+  "codigo": "06960",
+  "variante": 2,
+  "codigo_variant": "06960_v2",
+  "medicamento": "SULFADIAZINA REIG JOFRE 500 MG COMPRIMIDOS",
+  "model": "gpt-5.5",
+  "style_variant_idx": 1,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\n\nLa SULFADIAZINA, también identificada en este contexto como sulfamida y como Sulfadiazina Reig Jofre, presenta un perfil de seguridad compatible con el observado para medicamentos antibacterianos de uso sistémico. La mayoría de las notificaciones descritas en este apartado proceden de la experiencia clínica y de la vigilancia tras la comercialización, por lo que la relación temporal y la situación basal del paciente deben considerarse de forma individual. La aparición de manifestaciones persistentes, intensas o de instauración brusca requiere valoración médica y, si procede, reconsideración del tratamiento. En pacientes con factores predisponentes, la hidratación adecuada y el control analítico pueden ayudar a detectar precozmente cambios clínicamente relevantes. La información se presenta siguiendo la clasificación por órganos y la frecuencia comunicada.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS DEL SISTEMA NERVIOSO\npoco frecuentes: agitación, ataxia, cefalea, insomio, mareo, neuropatía periférica, somnolencia.\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS\npoco frecuentes: agranulocitosis, anemia aplásica, anemia hemolítica, eosinofilia, hipoprotrombinemia, leucopenia, metahemoglobinemia, trombopenia.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\npoco frecuentes: alteraciones del equilibrio, tinnitus (pitidos).\n\nTRASTORNOS PSIQUIÁTRICOS\npoco frecuentes: alucinaciones, confusión, depresión, psicosis.\n\nTRASTORNOS DEL SISTEMA EXCRETOR\npoco frecuentes: cristaluria, cálculos renale, hematuria, incremento de los valores de nitrógeno ureico en sangre, oliguria, proteinuria.\n\nTRASTORNOS DE PIEL Y TEJIDOS\npoco frecuentes: dermatitis exfoliativa, eritema multiforme, eritema nudoso, erupciones exantemáticas, prurito, reacciones de fotosensibilidad.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\npoco frecuentes: enfermedad del suero, fiebre.\nno frecuente: síndrome de Stevens-Johnson.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nfrecuentes: náuseas, vomitos.\npoco frecuentes: ictericia, necrosis hepática.\n\nDescripción de reacciones adversas seleccionadas\n\nEn el seguimiento clínico, la presencia de cristaluria, hematuria, proteinuria u oliguria requiere comprobar el estado de hidratación, la función renal y la continuidad del tratamiento. La interpretación de estos hallazgos debe hacerse junto con los datos analíticos disponibles y con la evolución de los síntomas.\n\nLa ictericia y la necrosis hepática se consideran manifestaciones que precisan evaluación inmediata. Las náuseas y los vomitos suelen manejarse con medidas de soporte, aunque deben valorarse si condicionan deshidratación o impiden la administración correcta. Las lesiones cutáneas como dermatitis exfoliativa, eritema multiforme o síndrome de Stevens-Johnson exigen una actuación rápida y la adopción de las medidas clínicas oportunas.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nEn la experiencia clínica con sulfadiazina, incluida Sulfadiazina Reig Jofre, se ha identificado síndrome de Stevens-Johnson, clasificado dentro de TRASTORNOS DEL SISTEMA INMUNOLÓGICO, con frecuencia no frecuente. Se considera una manifestación inmunomediada grave, por lo que debe vigilarse la aparición de signos cutáneos o mucosos y valorar la interrupción del tratamiento si se sospecha este cuadro. La notificación de casos contribuye a caracterizar mejor su perfil de seguridad.\n\nLista tabulada:\n- TRASTORNOS DEL SISTEMA INMUNOLÓGICO: síndrome de Stevens-Johnson (no frecuente).\n\n-- Caso 2 --\nEn el sistema de clasificación de órganos Trastornos del sistema digestivo, se han descrito náuseas asociadas al tratamiento con sulfadiazina, incluyendo SULFADIAZINA REIG JOFRE. Esta reacción se considera frecuente dentro del perfil de seguridad observado para este tipo de antibacterianos.\n\nTabla de reacciones adversas:\n- Trastornos del sistema digestivo: náuseas (ganas de vomitar), frecuentes.\n\nLa aparición de náuseas suele requerir únicamente vigilancia clínica y valoración de la tolerabilidad, especialmente al inicio del tratamiento. Si persisten o dificultan la administración correcta, debe reevaluarse la continuidad del tratamiento según el criterio clínico.\n\n-- Caso 3 --\nDentro del sistema Trastornos del sistema nervioso, se ha identificado la cefalea como reacción adversa asociada al tratamiento con sulfadiazina. En la lista tabulada de reacciones adversas se recoge como sigue:\n- Trastornos del sistema nervioso: cefalea (dolor de cabeza), poco frecuentes.\n\nLa aparición de este síntoma durante el uso de sulfadiazina suele valorarse en el contexto clínico del paciente y de la evolución del tratamiento. Si la cefalea persiste o resulta clínicamente relevante, se recomienda considerar la evaluación médica y revisar la necesidad de continuar el tratamiento, de acuerdo con la situación individual.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "SULFADIAZINA",
+      "surface": "SULFADIAZINA",
+      "start": 61,
+      "end": 73
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "SULFADIAZINA",
+      "surface": "sulfamida",
+      "start": 118,
+      "end": 127
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "SULFADIAZINA",
+      "surface": "Sulfadiazina Reig Jofre",
+      "start": 135,
+      "end": 158
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 966,
+      "end": 997
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 998,
+      "end": 1013
+    },
+    {
+      "type": "REACT",
+      "canonical": "agitación",
+      "surface": "agitación",
+      "start": 1015,
+      "end": 1024
+    },
+    {
+      "type": "REACT",
+      "canonical": "ataxia",
+      "surface": "ataxia",
+      "start": 1026,
+      "end": 1032
+    },
+    {
+      "type": "REACT",
+      "canonical": "cefalea",
+      "surface": "cefalea",
+      "start": 1034,
+      "end": 1041
+    },
+    {
+      "type": "REACT",
+      "canonical": "insomio",
+      "surface": "insomio",
+      "start": 1043,
+      "end": 1050
+    },
+    {
+      "type": "REACT",
+      "canonical": "mareo",
+      "surface": "mareo",
+      "start": 1052,
+      "end": 1057
+    },
+    {
+      "type": "REACT",
+      "canonical": "neuropatía periférica",
+      "surface": "neuropatía periférica",
+      "start": 1059,
+      "end": 1080
+    },
+    {
+      "type": "REACT",
+      "canonical": "somnolencia",
+      "surface": "somnolencia",
+      "start": 1082,
+      "end": 1093
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 1096,
+      "end": 1145
+    },
+    {
+      "type": "REACT",
+      "canonical": "agranulocitosis",
+      "surface": "agranulocitosis",
+      "start": 1163,
+      "end": 1178
+    },
+    {
+      "type": "REACT",
+      "canonical": "anemia aplásica",
+      "surface": "anemia aplásica",
+      "start": 1180,
+      "end": 1195
+    },
+    {
+      "type": "REACT",
+      "canonical": "anemia hemolítica",
+      "surface": "anemia hemolítica",
+      "start": 1197,
+      "end": 1214
+    },
+    {
+      "type": "REACT",
+      "canonical": "eosinofilia",
+      "surface": "eosinofilia",
+      "start": 1216,
+      "end": 1227
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipoprotrombinemia",
+      "surface": "hipoprotrombinemia",
+      "start": 1229,
+      "end": 1247
+    },
+    {
+      "type": "REACT",
+      "canonical": "leucopenia",
+      "surface": "leucopenia",
+      "start": 1249,
+      "end": 1259
+    },
+    {
+      "type": "REACT",
+      "canonical": "metahemoglobinemia",
+      "surface": "metahemoglobinemia",
+      "start": 1261,
+      "end": 1279
+    },
+    {
+      "type": "REACT",
+      "canonical": "trombopenia",
+      "surface": "trombopenia",
+      "start": 1281,
+      "end": 1292
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 1295,
+      "end": 1332
+    },
+    {
+      "type": "REACT",
+      "canonical": "alteraciones del equilibrio",
+      "surface": "alteraciones del equilibrio",
+      "start": 1350,
+      "end": 1377
+    },
+    {
+      "type": "REACT",
+      "canonical": "tinnitus",
+      "surface": "tinnitus",
+      "start": 1379,
+      "end": 1387
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 1400,
+      "end": 1424
+    },
+    {
+      "type": "REACT",
+      "canonical": "alucinaciones",
+      "surface": "alucinaciones",
+      "start": 1442,
+      "end": 1455
+    },
+    {
+      "type": "REACT",
+      "canonical": "confusión",
+      "surface": "confusión",
+      "start": 1457,
+      "end": 1466
+    },
+    {
+      "type": "REACT",
+      "canonical": "depresión",
+      "surface": "depresión",
+      "start": 1468,
+      "end": 1477
+    },
+    {
+      "type": "REACT",
+      "canonical": "psicosis",
+      "surface": "psicosis",
+      "start": 1479,
+      "end": 1487
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "start": 1490,
+      "end": 1521
+    },
+    {
+      "type": "REACT",
+      "canonical": "cristaluria",
+      "surface": "cristaluria",
+      "start": 1539,
+      "end": 1550
+    },
+    {
+      "type": "REACT",
+      "canonical": "cálculos renale",
+      "surface": "cálculos renale",
+      "start": 1552,
+      "end": 1567
+    },
+    {
+      "type": "REACT",
+      "canonical": "hematuria",
+      "surface": "hematuria",
+      "start": 1569,
+      "end": 1578
+    },
+    {
+      "type": "REACT",
+      "canonical": "incremento de los valores de nitrógeno ureico en sangre",
+      "surface": "incremento de los valores de nitrógeno ureico en sangre",
+      "start": 1580,
+      "end": 1635
+    },
+    {
+      "type": "REACT",
+      "canonical": "oliguria",
+      "surface": "oliguria",
+      "start": 1637,
+      "end": 1645
+    },
+    {
+      "type": "REACT",
+      "canonical": "proteinuria",
+      "surface": "proteinuria",
+      "start": 1647,
+      "end": 1658
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 1661,
+      "end": 1689
+    },
+    {
+      "type": "REACT",
+      "canonical": "dermatitis exfoliativa",
+      "surface": "dermatitis exfoliativa",
+      "start": 1707,
+      "end": 1729
+    },
+    {
+      "type": "REACT",
+      "canonical": "eritema multiforme",
+      "surface": "eritema multiforme",
+      "start": 1731,
+      "end": 1749
+    },
+    {
+      "type": "REACT",
+      "canonical": "eritema nudoso",
+      "surface": "eritema nudoso",
+      "start": 1751,
+      "end": 1765
+    },
+    {
+      "type": "REACT",
+      "canonical": "erupciones exantemáticas",
+      "surface": "erupciones exantemáticas",
+      "start": 1767,
+      "end": 1791
+    },
+    {
+      "type": "REACT",
+      "canonical": "prurito",
+      "surface": "prurito",
+      "start": 1793,
+      "end": 1800
+    },
+    {
+      "type": "REACT",
+      "canonical": "reacciones de fotosensibilidad",
+      "surface": "reacciones de fotosensibilidad",
+      "start": 1802,
+      "end": 1832
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 1835,
+      "end": 1870
+    },
+    {
+      "type": "REACT",
+      "canonical": "enfermedad del suero",
+      "surface": "enfermedad del suero",
+      "start": 1888,
+      "end": 1908
+    },
+    {
+      "type": "REACT",
+      "canonical": "fiebre",
+      "surface": "fiebre",
+      "start": 1910,
+      "end": 1916
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 1918,
+      "end": 1930
+    },
+    {
+      "type": "REACT",
+      "canonical": "síndrome de Stevens-Johnson",
+      "surface": "síndrome de Stevens-Johnson",
+      "start": 1932,
+      "end": 1959
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1962,
+      "end": 1994
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 1003,
+      "end": 1013
+    },
+    {
+      "type": "REACT",
+      "canonical": "náuseas",
+      "surface": "náuseas",
+      "start": 2007,
+      "end": 2014
+    },
+    {
+      "type": "REACT",
+      "canonical": "vomitos",
+      "surface": "vomitos",
+      "start": 2016,
+      "end": 2023
+    },
+    {
+      "type": "REACT",
+      "canonical": "ictericia",
+      "surface": "ictericia",
+      "start": 2042,
+      "end": 2051
+    },
+    {
+      "type": "REACT",
+      "canonical": "necrosis hepática",
+      "surface": "necrosis hepática",
+      "start": 2053,
+      "end": 2070
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "SULFADIAZINA",
+      "surface": "sulfadiazina",
+      "start": 61,
+      "end": 73
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "Trastornos del sistema digestivo",
+      "start": 1962,
+      "end": 1994
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuente",
+      "start": 1921,
+      "end": 1930
+    },
+    {
+      "type": "REACT",
+      "canonical": "náuseas",
+      "surface": "ganas de vomitar",
+      "start": 3919,
+      "end": 3935
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "Trastornos del sistema nervioso",
+      "start": 966,
+      "end": 997
+    },
+    {
+      "type": "REACT",
+      "canonical": "cefalea",
+      "surface": "dolor de cabeza",
+      "start": 4494,
+      "end": 4509
+    }
+  ],
+  "raw_long_doc_text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\n\nLa SULFADIAZINA, también identificada en este contexto como sulfamida y como Sulfadiazina Reig Jofre, presenta un perfil de seguridad compatible con el observado para medicamentos antibacterianos de uso sistémico. La mayoría de las notificaciones descritas en este apartado proceden de la experiencia clínica y de la vigilancia tras la comercialización, por lo que la relación temporal y la situación basal del paciente deben considerarse de forma individual. La aparición de manifestaciones persistentes, intensas o de instauración brusca requiere valoración médica y, si procede, reconsideración del tratamiento. En pacientes con factores predisponentes, la hidratación adecuada y el control analítico pueden ayudar a detectar precozmente cambios clínicamente relevantes. La información se presenta siguiendo la clasificación por órganos y la frecuencia comunicada.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS DEL SISTEMA NERVIOSO\npoco frecuentes: agitación, ataxia, cefalea, insomio, mareo, neuropatía periférica, somnolencia.\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS\npoco frecuentes: agranulocitosis, anemia aplásica, anemia hemolítica, eosinofilia, hipoprotrombinemia, leucopenia, metahemoglobinemia, trombopenia.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\npoco frecuentes: alteraciones del equilibrio, tinnitus (pitidos).\n\nTRASTORNOS PSIQUIÁTRICOS\npoco frecuentes: alucinaciones, confusión, depresión, psicosis.\n\nTRASTORNOS DEL SISTEMA EXCRETOR\npoco frecuentes: cristaluria, cálculos renale, hematuria, incremento de los valores de nitrógeno ureico en sangre, oliguria, proteinuria.\n\nTRASTORNOS DE PIEL Y TEJIDOS\npoco frecuentes: dermatitis exfoliativa, eritema multiforme, eritema nudoso, erupciones exantemáticas, prurito, reacciones de fotosensibilidad.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\npoco frecuentes: enfermedad del suero, fiebre.\nno frecuente: síndrome de Stevens-Johnson.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nfrecuentes: náuseas, vomitos.\npoco frecuentes: ictericia, necrosis hepática.\n\nDescripción de reacciones adversas seleccionadas\n\nEn el seguimiento clínico, la presencia de cristaluria, hematuria, proteinuria u oliguria requiere comprobar el estado de hidratación, la función renal y la continuidad del tratamiento. La interpretación de estos hallazgos debe hacerse junto con los datos analíticos disponibles y con la evolución de los síntomas.\n\nLa ictericia y la necrosis hepática se consideran manifestaciones que precisan evaluación inmediata. Las náuseas y los vomitos suelen manejarse con medidas de soporte, aunque deben valorarse si condicionan deshidratación o impiden la administración correcta. Las lesiones cutáneas como dermatitis exfoliativa, eritema multiforme o síndrome de Stevens-Johnson exigen una actuación rápida y la adopción de las medidas clínicas oportunas.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "SULFADIAZINA",
+      "surface": "SULFADIAZINA"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "SULFADIAZINA",
+      "surface": "sulfamida"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "SULFADIAZINA",
+      "surface": "Sulfadiazina Reig Jofre"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "agitación",
+      "surface": "agitación"
+    },
+    {
+      "type": "REACT",
+      "canonical": "ataxia",
+      "surface": "ataxia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "cefalea",
+      "surface": "cefalea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "insomio",
+      "surface": "insomio"
+    },
+    {
+      "type": "REACT",
+      "canonical": "mareo",
+      "surface": "mareo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "neuropatía periférica",
+      "surface": "neuropatía periférica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "somnolencia",
+      "surface": "somnolencia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "agranulocitosis",
+      "surface": "agranulocitosis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "anemia aplásica",
+      "surface": "anemia aplásica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "anemia hemolítica",
+      "surface": "anemia hemolítica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "eosinofilia",
+      "surface": "eosinofilia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipoprotrombinemia",
+      "surface": "hipoprotrombinemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "leucopenia",
+      "surface": "leucopenia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "metahemoglobinemia",
+      "surface": "metahemoglobinemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "trombopenia",
+      "surface": "trombopenia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "alteraciones del equilibrio",
+      "surface": "alteraciones del equilibrio"
+    },
+    {
+      "type": "REACT",
+      "canonical": "tinnitus",
+      "surface": "tinnitus"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "alucinaciones",
+      "surface": "alucinaciones"
+    },
+    {
+      "type": "REACT",
+      "canonical": "confusión",
+      "surface": "confusión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "depresión",
+      "surface": "depresión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "psicosis",
+      "surface": "psicosis"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "cristaluria",
+      "surface": "cristaluria"
+    },
+    {
+      "type": "REACT",
+      "canonical": "cálculos renale",
+      "surface": "cálculos renale"
+    },
+    {
+      "type": "REACT",
+      "canonical": "hematuria",
+      "surface": "hematuria"
+    },
+    {
+      "type": "REACT",
+      "canonical": "incremento de los valores de nitrógeno ureico en sangre",
+      "surface": "incremento de los valores de nitrógeno ureico en sangre"
+    },
+    {
+      "type": "REACT",
+      "canonical": "oliguria",
+      "surface": "oliguria"
+    },
+    {
+      "type": "REACT",
+      "canonical": "proteinuria",
+      "surface": "proteinuria"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "dermatitis exfoliativa",
+      "surface": "dermatitis exfoliativa"
+    },
+    {
+      "type": "REACT",
+      "canonical": "eritema multiforme",
+      "surface": "eritema multiforme"
+    },
+    {
+      "type": "REACT",
+      "canonical": "eritema nudoso",
+      "surface": "eritema nudoso"
+    },
+    {
+      "type": "REACT",
+      "canonical": "erupciones exantemáticas",
+      "surface": "erupciones exantemáticas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "prurito",
+      "surface": "prurito"
+    },
+    {
+      "type": "REACT",
+      "canonical": "reacciones de fotosensibilidad",
+      "surface": "reacciones de fotosensibilidad"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "enfermedad del suero",
+      "surface": "enfermedad del suero"
+    },
+    {
+      "type": "REACT",
+      "canonical": "fiebre",
+      "surface": "fiebre"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "síndrome de Stevens-Johnson",
+      "surface": "síndrome de Stevens-Johnson"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "náuseas",
+      "surface": "náuseas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "vomitos",
+      "surface": "vomitos"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "ictericia",
+      "surface": "ictericia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "necrosis hepática",
+      "surface": "necrosis hepática"
+    },
+    {
+      "type": "REACT",
+      "canonical": "cristaluria",
+      "surface": "cristaluria"
+    },
+    {
+      "type": "REACT",
+      "canonical": "hematuria",
+      "surface": "hematuria"
+    },
+    {
+      "type": "REACT",
+      "canonical": "proteinuria",
+      "surface": "proteinuria"
+    },
+    {
+      "type": "REACT",
+      "canonical": "oliguria",
+      "surface": "oliguria"
+    },
+    {
+      "type": "REACT",
+      "canonical": "ictericia",
+      "surface": "ictericia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "necrosis hepática",
+      "surface": "necrosis hepática"
+    },
+    {
+      "type": "REACT",
+      "canonical": "náuseas",
+      "surface": "náuseas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "vomitos",
+      "surface": "vomitos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "dermatitis exfoliativa",
+      "surface": "dermatitis exfoliativa"
+    },
+    {
+      "type": "REACT",
+      "canonical": "eritema multiforme",
+      "surface": "eritema multiforme"
+    },
+    {
+      "type": "REACT",
+      "canonical": "síndrome de Stevens-Johnson",
+      "surface": "síndrome de Stevens-Johnson"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "SULFADIAZINA REIG JOFRE 500 MG COMPRIMIDOS",
+        "pactivo": "SULFADIAZINA",
+        "reaccion": "síndrome de Stevens-Johnson",
+        "frecuencia": "NO FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+      },
+      "text": "En la experiencia clínica con sulfadiazina, incluida Sulfadiazina Reig Jofre, se ha identificado síndrome de Stevens-Johnson, clasificado dentro de TRASTORNOS DEL SISTEMA INMUNOLÓGICO, con frecuencia no frecuente. Se considera una manifestación inmunomediada grave, por lo que debe vigilarse la aparición de signos cutáneos o mucosos y valorar la interrupción del tratamiento si se sospecha este cuadro. La notificación de casos contribuye a caracterizar mejor su perfil de seguridad.\n\nLista tabulada:\n- TRASTORNOS DEL SISTEMA INMUNOLÓGICO: síndrome de Stevens-Johnson (no frecuente).",
+      "declared": [
+        {
+          "type": "ACTIVE",
+          "canonical": "SULFADIAZINA",
+          "surface": "sulfadiazina"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SULFADIAZINA",
+          "surface": "Sulfadiazina Reig Jofre"
+        },
+        {
+          "type": "REACT",
+          "canonical": "síndrome de Stevens-Johnson",
+          "surface": "síndrome de Stevens-Johnson"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+          "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+          "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+        },
+        {
+          "type": "REACT",
+          "canonical": "síndrome de Stevens-Johnson",
+          "surface": "síndrome de Stevens-Johnson"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente"
+        }
+      ],
+      "validated": [
+        {
+          "type": "ACTIVE",
+          "canonical": "SULFADIAZINA",
+          "surface": "sulfadiazina",
+          "start": 30,
+          "end": 42
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SULFADIAZINA",
+          "surface": "Sulfadiazina Reig Jofre",
+          "start": 53,
+          "end": 76
+        },
+        {
+          "type": "REACT",
+          "canonical": "síndrome de Stevens-Johnson",
+          "surface": "síndrome de Stevens-Johnson",
+          "start": 97,
+          "end": 124
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+          "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+          "start": 148,
+          "end": 183
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente",
+          "start": 200,
+          "end": 212
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "SULFADIAZINA REIG JOFRE 500 MG COMPRIMIDOS",
+        "pactivo": "SULFADIAZINA",
+        "reaccion": "náuseas",
+        "frecuencia": "FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+      },
+      "text": "En el sistema de clasificación de órganos Trastornos del sistema digestivo, se han descrito náuseas asociadas al tratamiento con sulfadiazina, incluyendo SULFADIAZINA REIG JOFRE. Esta reacción se considera frecuente dentro del perfil de seguridad observado para este tipo de antibacterianos.\n\nTabla de reacciones adversas:\n- Trastornos del sistema digestivo: náuseas (ganas de vomitar), frecuentes.\n\nLa aparición de náuseas suele requerir únicamente vigilancia clínica y valoración de la tolerabilidad, especialmente al inicio del tratamiento. Si persisten o dificultan la administración correcta, debe reevaluarse la continuidad del tratamiento según el criterio clínico.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "Trastornos del sistema digestivo"
+        },
+        {
+          "type": "REACT",
+          "canonical": "náuseas",
+          "surface": "náuseas"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SULFADIAZINA",
+          "surface": "sulfadiazina"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SULFADIAZINA",
+          "surface": "SULFADIAZINA"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuente"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "Trastornos del sistema digestivo"
+        },
+        {
+          "type": "REACT",
+          "canonical": "náuseas",
+          "surface": "náuseas"
+        },
+        {
+          "type": "REACT",
+          "canonical": "náuseas",
+          "surface": "ganas de vomitar"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        },
+        {
+          "type": "REACT",
+          "canonical": "náuseas",
+          "surface": "náuseas"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "Trastornos del sistema digestivo",
+          "start": 42,
+          "end": 74
+        },
+        {
+          "type": "REACT",
+          "canonical": "náuseas",
+          "surface": "náuseas",
+          "start": 92,
+          "end": 99
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SULFADIAZINA",
+          "surface": "sulfadiazina",
+          "start": 129,
+          "end": 141
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SULFADIAZINA",
+          "surface": "SULFADIAZINA",
+          "start": 129,
+          "end": 141
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuente",
+          "start": 206,
+          "end": 215
+        },
+        {
+          "type": "REACT",
+          "canonical": "náuseas",
+          "surface": "ganas de vomitar",
+          "start": 368,
+          "end": 384
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes",
+          "start": 387,
+          "end": 397
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "SULFADIAZINA REIG JOFRE 500 MG COMPRIMIDOS",
+        "pactivo": "SULFADIAZINA",
+        "reaccion": "cefalea",
+        "frecuencia": "POCO FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA NERVIOSO"
+      },
+      "text": "Dentro del sistema Trastornos del sistema nervioso, se ha identificado la cefalea como reacción adversa asociada al tratamiento con sulfadiazina. En la lista tabulada de reacciones adversas se recoge como sigue:\n- Trastornos del sistema nervioso: cefalea (dolor de cabeza), poco frecuentes.\n\nLa aparición de este síntoma durante el uso de sulfadiazina suele valorarse en el contexto clínico del paciente y de la evolución del tratamiento. Si la cefalea persiste o resulta clínicamente relevante, se recomienda considerar la evaluación médica y revisar la necesidad de continuar el tratamiento, de acuerdo con la situación individual.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "surface": "Trastornos del sistema nervioso"
+        },
+        {
+          "type": "REACT",
+          "canonical": "cefalea",
+          "surface": "cefalea"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SULFADIAZINA",
+          "surface": "sulfadiazina"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "surface": "Trastornos del sistema nervioso"
+        },
+        {
+          "type": "REACT",
+          "canonical": "cefalea",
+          "surface": "cefalea"
+        },
+        {
+          "type": "REACT",
+          "canonical": "cefalea",
+          "surface": "dolor de cabeza"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SULFADIAZINA",
+          "surface": "sulfadiazina"
+        },
+        {
+          "type": "REACT",
+          "canonical": "cefalea",
+          "surface": "cefalea"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "surface": "Trastornos del sistema nervioso",
+          "start": 19,
+          "end": 50
+        },
+        {
+          "type": "REACT",
+          "canonical": "cefalea",
+          "surface": "cefalea",
+          "start": 74,
+          "end": 81
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "SULFADIAZINA",
+          "surface": "sulfadiazina",
+          "start": 132,
+          "end": 144
+        },
+        {
+          "type": "REACT",
+          "canonical": "cefalea",
+          "surface": "dolor de cabeza",
+          "start": 256,
+          "end": 271
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes",
+          "start": 274,
+          "end": 289
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

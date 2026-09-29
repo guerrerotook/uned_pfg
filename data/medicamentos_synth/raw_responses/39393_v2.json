@@ -1,0 +1,881 @@
+{
+  "codigo": "39393",
+  "variante": 2,
+  "codigo_variant": "39393_v2",
+  "medicamento": "SYNTOCINON 10 UI amp 1 ml IV",
+  "model": "gpt-5.5",
+  "style_variant_idx": 1,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "Resumen del perfil de seguridad\nLa oxitocina, administrada como Syntocinon 10 UI en ampolla, presenta un perfil de seguridad conocido en el contexto obstétrico cuando se utiliza con vigilancia clínica adecuada. La naturaleza de las reacciones observadas se relaciona principalmente con la respuesta farmacológica esperada y con la sensibilidad individual de la paciente. La velocidad de administración, la situación clínica y la monitorización durante el procedimiento son factores relevantes para interpretar cualquier acontecimiento observado. La evaluación debe considerar tanto a la madre como al feto o al recién nacido, sin atribuir automáticamente todos los hallazgos al tratamiento. En caso de aparición de signos clínicamente relevantes, se recomienda revisar la pauta y aplicar las medidas asistenciales habituales.\n\nLista tabulada de reacciones adversas\nA continuación se presentan las reacciones adversas agrupadas según la clasificación de órganos y la frecuencia comunicada.\n\nTrastornos de piel y tejidos\nfrecuencia no conocida: Angioedema.\nno frecuente: Erupción.\n\nTrastornos del sistema cardiovascular\npoco frecuentes: Arritmia.\nfrecuentes: Bradicardia, Taquicardia.\nfrecuencia no conocida: Hipotensión, Isquemia miocárdica, prolongación del intervalo QT del electrocardiograma.\n\nTrastornos de la sangre y órganos hematopoyéticos\nfrecuencia no conocida: Coagulación intravascular diseminada.\n\nTrastornos del sistema reproductor\nfrecuencia no conocida: Hipertonía uterina, Síndrome de sufrimiento fetal, asfixia y muerte, contracciones tetánicas del útero, ruptura del útero.\n\nTrastornos del sistema nervioso\nfrecuentes: Dolor de cabeza.\n\nTrastornos del sistema respiratorio\nfrecuencia no conocida: Edema pulmonar agudo.\n\nTrastornos del metabolismo y la nutrición\nfrecuencia no conocida: Hiponatremia, Hiponatremia neonatal, Intoxicación hídrica.\n\nTrastornos del sistema digestivo\nfrecuentes: Nauseas, vómitos.\n\nTrastornos del sistema inmunológico\nno frecuente: Reacción anafiláctica/anafilactoide asociada a disnea e hipotensión, shock anafiláctico/anafilactoide.\n\nTrastornos del sistema general\nfrecuencia no conocida: Rubor (sofoco).\n\nDescripción de reacciones adversas seleccionadas\nLa Hipertonía uterina, las contracciones tetánicas del útero y la ruptura del útero requieren una valoración inmediata, especialmente si aparecen durante la inducción o estimulación del parto. En ese mismo contexto, el Síndrome de sufrimiento fetal, asfixia y muerte representa una situación de gravedad que debe interpretarse junto con la evolución obstétrica y los datos de monitorización disponibles.\n\nLa Intoxicación hídrica puede asociarse a Hiponatremia y, en el recién nacido, a Hiponatremia neonatal. La observación clínica y analítica resulta útil cuando se administran volúmenes relevantes de fluidos o cuando existen condiciones que favorecen la retención de agua.\n\nAnte Hipotensión, Isquemia miocárdica o prolongación del intervalo QT del electrocardiograma, debe considerarse la situación basal de la paciente y la exposición concomitante a otros factores clínicos. Las manifestaciones digestivas como Nauseas y vómitos suelen manejarse de forma sintomática, mientras que la Reacción anafiláctica/anafilactoide asociada a disnea e hipotensión y el shock anafiláctico/anafilactoide precisan actuación urgente.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nEn pacientes tratados con Syntocinon (oxitocina), la administración intravenosa requiere vigilancia clínica, especialmente cuando se emplean perfusiones o ajustes rápidos de dosis. En la clasificación Trastornos del sistema cardiovascular, se ha descrito la siguiente reacción adversa:\n\n- poco frecuentes: Arritmia (latido irregular).\n\nLa aparición de este evento puede relacionarse con la respuesta cardiovascular a la estimulación uterina y al balance de líquidos durante el tratamiento. Se recomienda monitorizar el estado hemodinámico y revisar la pauta si se observan cambios clínicamente relevantes.\n\n-- Caso 2 --\nTrastornos del sistema cardiovascular\n- frecuentes: Taquicardia (pulso rápido).\n\nDurante la administración de oxitocina, especialmente por vía intravenosa, puede observarse Taquicardia como manifestación de respuesta hemodinámica al efecto uterotónico. En pacientes tratadas con Syntocinon se recomienda vigilancia clínica y control de la frecuencia cardiaca durante la perfusión o administración en bolo, ajustando la pauta según la situación obstétrica y la respuesta individual. La aparición de este efecto debe valorarse en el contexto del balance beneficio-riesgo del tratamiento.\n\n-- Caso 3 --\nEn el perfil de seguridad de Syntocinon (oxitocina), dentro de Trastornos del sistema inmunológico, se ha identificado la siguiente reacción adversa:\n\n- shock anafiláctico/anafilactoide: no frecuente.\n\nEste acontecimiento puede aparecer de forma rápida tras la administración intravenosa, por lo que se recomienda mantener vigilancia clínica durante y después de la perfusión, especialmente al inicio del tratamiento. Ante signos compatibles con compromiso sistémico, debe interrumpirse la administración y aplicarse el manejo clínico habitual. La notificación de sospechas contribuye a mantener actualizada la información de seguridad del medicamento.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "OXITOCINA",
+      "surface": "oxitocina",
+      "start": 35,
+      "end": 44
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "OXITOCINA",
+      "surface": "Syntocinon",
+      "start": 64,
+      "end": 74
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "Trastornos de piel y tejidos",
+      "start": 990,
+      "end": 1018
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 1019,
+      "end": 1041
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angioedema",
+      "surface": "Angioedema",
+      "start": 1043,
+      "end": 1053
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 1055,
+      "end": 1067
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción",
+      "surface": "Erupción",
+      "start": 1069,
+      "end": 1077
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "Trastornos del sistema cardiovascular",
+      "start": 1080,
+      "end": 1117
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 1118,
+      "end": 1133
+    },
+    {
+      "type": "REACT",
+      "canonical": "Arritmia",
+      "surface": "Arritmia",
+      "start": 1135,
+      "end": 1143
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 1123,
+      "end": 1133
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bradicardia",
+      "surface": "Bradicardia",
+      "start": 1157,
+      "end": 1168
+    },
+    {
+      "type": "REACT",
+      "canonical": "Taquicardia",
+      "surface": "Taquicardia",
+      "start": 1170,
+      "end": 1181
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión",
+      "start": 1207,
+      "end": 1218
+    },
+    {
+      "type": "REACT",
+      "canonical": "Isquemia miocárdica",
+      "surface": "Isquemia miocárdica",
+      "start": 1220,
+      "end": 1239
+    },
+    {
+      "type": "REACT",
+      "canonical": "prolongación del intervalo QT del electrocardiograma",
+      "surface": "prolongación del intervalo QT del electrocardiograma",
+      "start": 1241,
+      "end": 1293
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "Trastornos de la sangre y órganos hematopoyéticos",
+      "start": 1296,
+      "end": 1345
+    },
+    {
+      "type": "REACT",
+      "canonical": "Coagulación intravascular diseminada",
+      "surface": "Coagulación intravascular diseminada",
+      "start": 1370,
+      "end": 1406
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "Trastornos del sistema reproductor",
+      "start": 1409,
+      "end": 1443
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertonía uterina",
+      "surface": "Hipertonía uterina",
+      "start": 1468,
+      "end": 1486
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de sufrimiento fetal, asfixia y muerte",
+      "surface": "Síndrome de sufrimiento fetal, asfixia y muerte",
+      "start": 1488,
+      "end": 1535
+    },
+    {
+      "type": "REACT",
+      "canonical": "contracciones tetánicas del útero",
+      "surface": "contracciones tetánicas del útero",
+      "start": 1537,
+      "end": 1570
+    },
+    {
+      "type": "REACT",
+      "canonical": "ruptura del útero",
+      "surface": "ruptura del útero",
+      "start": 1572,
+      "end": 1589
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "Trastornos del sistema nervioso",
+      "start": 1592,
+      "end": 1623
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor de cabeza",
+      "surface": "Dolor de cabeza",
+      "start": 1636,
+      "end": 1651
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "Trastornos del sistema respiratorio",
+      "start": 1654,
+      "end": 1689
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema pulmonar agudo",
+      "surface": "Edema pulmonar agudo",
+      "start": 1714,
+      "end": 1734
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "Trastornos del metabolismo y la nutrición",
+      "start": 1737,
+      "end": 1778
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiponatremia",
+      "surface": "Hiponatremia",
+      "start": 1803,
+      "end": 1815
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiponatremia neonatal",
+      "surface": "Hiponatremia neonatal",
+      "start": 1817,
+      "end": 1838
+    },
+    {
+      "type": "REACT",
+      "canonical": "Intoxicación hídrica",
+      "surface": "Intoxicación hídrica",
+      "start": 1840,
+      "end": 1860
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "Trastornos del sistema digestivo",
+      "start": 1863,
+      "end": 1895
+    },
+    {
+      "type": "REACT",
+      "canonical": "Nauseas",
+      "surface": "Nauseas",
+      "start": 1908,
+      "end": 1915
+    },
+    {
+      "type": "REACT",
+      "canonical": "vómitos",
+      "surface": "vómitos",
+      "start": 1917,
+      "end": 1924
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "Trastornos del sistema inmunológico",
+      "start": 1927,
+      "end": 1962
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacción anafiláctica/anafilactoide asociada a disnea e hipotensión",
+      "surface": "Reacción anafiláctica/anafilactoide asociada a disnea e hipotensión",
+      "start": 1977,
+      "end": 2044
+    },
+    {
+      "type": "REACT",
+      "canonical": "shock anafiláctico/anafilactoide",
+      "surface": "shock anafiláctico/anafilactoide",
+      "start": 2046,
+      "end": 2078
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "Trastornos del sistema general",
+      "start": 2081,
+      "end": 2111
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rubor",
+      "surface": "Rubor",
+      "start": 2136,
+      "end": 2141
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rubor",
+      "surface": "sofoco",
+      "start": 2143,
+      "end": 2149
+    },
+    {
+      "type": "REACT",
+      "canonical": "Arritmia",
+      "surface": "latido irregular",
+      "start": 3717,
+      "end": 3733
+    },
+    {
+      "type": "REACT",
+      "canonical": "Taquicardia",
+      "surface": "pulso rápido",
+      "start": 4086,
+      "end": 4098
+    }
+  ],
+  "raw_long_doc_text": "Resumen del perfil de seguridad\nLa oxitocina, administrada como Syntocinon 10 UI en ampolla, presenta un perfil de seguridad conocido en el contexto obstétrico cuando se utiliza con vigilancia clínica adecuada. La naturaleza de las reacciones observadas se relaciona principalmente con la respuesta farmacológica esperada y con la sensibilidad individual de la paciente. La velocidad de administración, la situación clínica y la monitorización durante el procedimiento son factores relevantes para interpretar cualquier acontecimiento observado. La evaluación debe considerar tanto a la madre como al feto o al recién nacido, sin atribuir automáticamente todos los hallazgos al tratamiento. En caso de aparición de signos clínicamente relevantes, se recomienda revisar la pauta y aplicar las medidas asistenciales habituales.\n\nLista tabulada de reacciones adversas\nA continuación se presentan las reacciones adversas agrupadas según la clasificación de órganos y la frecuencia comunicada.\n\nTrastornos de piel y tejidos\nfrecuencia no conocida: Angioedema.\nno frecuente: Erupción.\n\nTrastornos del sistema cardiovascular\npoco frecuentes: Arritmia.\nfrecuentes: Bradicardia, Taquicardia.\nfrecuencia no conocida: Hipotensión, Isquemia miocárdica, prolongación del intervalo QT del electrocardiograma.\n\nTrastornos de la sangre y órganos hematopoyéticos\nfrecuencia no conocida: Coagulación intravascular diseminada.\n\nTrastornos del sistema reproductor\nfrecuencia no conocida: Hipertonía uterina, Síndrome de sufrimiento fetal, asfixia y muerte, contracciones tetánicas del útero, ruptura del útero.\n\nTrastornos del sistema nervioso\nfrecuentes: Dolor de cabeza.\n\nTrastornos del sistema respiratorio\nfrecuencia no conocida: Edema pulmonar agudo.\n\nTrastornos del metabolismo y la nutrición\nfrecuencia no conocida: Hiponatremia, Hiponatremia neonatal, Intoxicación hídrica.\n\nTrastornos del sistema digestivo\nfrecuentes: Nauseas, vómitos.\n\nTrastornos del sistema inmunológico\nno frecuente: Reacción anafiláctica/anafilactoide asociada a disnea e hipotensión, shock anafiláctico/anafilactoide.\n\nTrastornos del sistema general\nfrecuencia no conocida: Rubor (sofoco).\n\nDescripción de reacciones adversas seleccionadas\nLa Hipertonía uterina, las contracciones tetánicas del útero y la ruptura del útero requieren una valoración inmediata, especialmente si aparecen durante la inducción o estimulación del parto. En ese mismo contexto, el Síndrome de sufrimiento fetal, asfixia y muerte representa una situación de gravedad que debe interpretarse junto con la evolución obstétrica y los datos de monitorización disponibles.\n\nLa Intoxicación hídrica puede asociarse a Hiponatremia y, en el recién nacido, a Hiponatremia neonatal. La observación clínica y analítica resulta útil cuando se administran volúmenes relevantes de fluidos o cuando existen condiciones que favorecen la retención de agua.\n\nAnte Hipotensión, Isquemia miocárdica o prolongación del intervalo QT del electrocardiograma, debe considerarse la situación basal de la paciente y la exposición concomitante a otros factores clínicos. Las manifestaciones digestivas como Nauseas y vómitos suelen manejarse de forma sintomática, mientras que la Reacción anafiláctica/anafilactoide asociada a disnea e hipotensión y el shock anafiláctico/anafilactoide precisan actuación urgente.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "OXITOCINA",
+      "surface": "oxitocina"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "OXITOCINA",
+      "surface": "Syntocinon"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "Trastornos de piel y tejidos"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angioedema",
+      "surface": "Angioedema"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción",
+      "surface": "Erupción"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "Trastornos del sistema cardiovascular"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Arritmia",
+      "surface": "Arritmia"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bradicardia",
+      "surface": "Bradicardia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Taquicardia",
+      "surface": "Taquicardia"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Isquemia miocárdica",
+      "surface": "Isquemia miocárdica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "prolongación del intervalo QT del electrocardiograma",
+      "surface": "prolongación del intervalo QT del electrocardiograma"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "Trastornos de la sangre y órganos hematopoyéticos"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Coagulación intravascular diseminada",
+      "surface": "Coagulación intravascular diseminada"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "Trastornos del sistema reproductor"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertonía uterina",
+      "surface": "Hipertonía uterina"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de sufrimiento fetal, asfixia y muerte",
+      "surface": "Síndrome de sufrimiento fetal, asfixia y muerte"
+    },
+    {
+      "type": "REACT",
+      "canonical": "contracciones tetánicas del útero",
+      "surface": "contracciones tetánicas del útero"
+    },
+    {
+      "type": "REACT",
+      "canonical": "ruptura del útero",
+      "surface": "ruptura del útero"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "Trastornos del sistema nervioso"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor de cabeza",
+      "surface": "Dolor de cabeza"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "Trastornos del sistema respiratorio"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema pulmonar agudo",
+      "surface": "Edema pulmonar agudo"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "Trastornos del metabolismo y la nutrición"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiponatremia",
+      "surface": "Hiponatremia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiponatremia neonatal",
+      "surface": "Hiponatremia neonatal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Intoxicación hídrica",
+      "surface": "Intoxicación hídrica"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "Trastornos del sistema digestivo"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Nauseas",
+      "surface": "Nauseas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "vómitos",
+      "surface": "vómitos"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "Trastornos del sistema inmunológico"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacción anafiláctica/anafilactoide asociada a disnea e hipotensión",
+      "surface": "Reacción anafiláctica/anafilactoide asociada a disnea e hipotensión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "shock anafiláctico/anafilactoide",
+      "surface": "shock anafiláctico/anafilactoide"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "Trastornos del sistema general"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rubor",
+      "surface": "Rubor"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rubor",
+      "surface": "sofoco"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertonía uterina",
+      "surface": "Hipertonía uterina"
+    },
+    {
+      "type": "REACT",
+      "canonical": "contracciones tetánicas del útero",
+      "surface": "contracciones tetánicas del útero"
+    },
+    {
+      "type": "REACT",
+      "canonical": "ruptura del útero",
+      "surface": "ruptura del útero"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de sufrimiento fetal, asfixia y muerte",
+      "surface": "Síndrome de sufrimiento fetal, asfixia y muerte"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Intoxicación hídrica",
+      "surface": "Intoxicación hídrica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiponatremia",
+      "surface": "Hiponatremia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiponatremia neonatal",
+      "surface": "Hiponatremia neonatal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Isquemia miocárdica",
+      "surface": "Isquemia miocárdica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "prolongación del intervalo QT del electrocardiograma",
+      "surface": "prolongación del intervalo QT del electrocardiograma"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Nauseas",
+      "surface": "Nauseas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "vómitos",
+      "surface": "vómitos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacción anafiláctica/anafilactoide asociada a disnea e hipotensión",
+      "surface": "Reacción anafiláctica/anafilactoide asociada a disnea e hipotensión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "shock anafiláctico/anafilactoide",
+      "surface": "shock anafiláctico/anafilactoide"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "SYNTOCINON 10 UI amp 1 ml IV",
+        "pactivo": "OXITOCINA",
+        "reaccion": "Arritmia",
+        "frecuencia": "POCO FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+      },
+      "text": "En pacientes tratados con Syntocinon (oxitocina), la administración intravenosa requiere vigilancia clínica, especialmente cuando se emplean perfusiones o ajustes rápidos de dosis. En la clasificación Trastornos del sistema cardiovascular, se ha descrito la siguiente reacción adversa:\n\n- poco frecuentes: Arritmia (latido irregular).\n\nLa aparición de este evento puede relacionarse con la respuesta cardiovascular a la estimulación uterina y al balance de líquidos durante el tratamiento. Se recomienda monitorizar el estado hemodinámico y revisar la pauta si se observan cambios clínicamente relevantes.",
+      "declared": [
+        {
+          "type": "ACTIVE",
+          "canonical": "OXITOCINA",
+          "surface": "Syntocinon"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "OXITOCINA",
+          "surface": "oxitocina"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "surface": "Trastornos del sistema cardiovascular"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Arritmia",
+          "surface": "Arritmia"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Arritmia",
+          "surface": "latido irregular"
+        }
+      ],
+      "validated": [
+        {
+          "type": "ACTIVE",
+          "canonical": "OXITOCINA",
+          "surface": "Syntocinon",
+          "start": 26,
+          "end": 36
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "OXITOCINA",
+          "surface": "oxitocina",
+          "start": 38,
+          "end": 47
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "surface": "Trastornos del sistema cardiovascular",
+          "start": 201,
+          "end": 238
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes",
+          "start": 289,
+          "end": 304
+        },
+        {
+          "type": "REACT",
+          "canonical": "Arritmia",
+          "surface": "Arritmia",
+          "start": 306,
+          "end": 314
+        },
+        {
+          "type": "REACT",
+          "canonical": "Arritmia",
+          "surface": "latido irregular",
+          "start": 316,
+          "end": 332
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "SYNTOCINON 10 UI amp 1 ml IV",
+        "pactivo": "OXITOCINA",
+        "reaccion": "Taquicardia",
+        "frecuencia": "FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+      },
+      "text": "Trastornos del sistema cardiovascular\n- frecuentes: Taquicardia (pulso rápido).\n\nDurante la administración de oxitocina, especialmente por vía intravenosa, puede observarse Taquicardia como manifestación de respuesta hemodinámica al efecto uterotónico. En pacientes tratadas con Syntocinon se recomienda vigilancia clínica y control de la frecuencia cardiaca durante la perfusión o administración en bolo, ajustando la pauta según la situación obstétrica y la respuesta individual. La aparición de este efecto debe valorarse en el contexto del balance beneficio-riesgo del tratamiento.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "surface": "Trastornos del sistema cardiovascular"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Taquicardia",
+          "surface": "Taquicardia"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Taquicardia",
+          "surface": "pulso rápido"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "OXITOCINA",
+          "surface": "oxitocina"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Taquicardia",
+          "surface": "Taquicardia"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "OXITOCINA",
+          "surface": "Syntocinon"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "surface": "Trastornos del sistema cardiovascular",
+          "start": 0,
+          "end": 37
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes",
+          "start": 40,
+          "end": 50
+        },
+        {
+          "type": "REACT",
+          "canonical": "Taquicardia",
+          "surface": "Taquicardia",
+          "start": 52,
+          "end": 63
+        },
+        {
+          "type": "REACT",
+          "canonical": "Taquicardia",
+          "surface": "pulso rápido",
+          "start": 65,
+          "end": 77
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "OXITOCINA",
+          "surface": "oxitocina",
+          "start": 110,
+          "end": 119
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "OXITOCINA",
+          "surface": "Syntocinon",
+          "start": 279,
+          "end": 289
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "SYNTOCINON 10 UI amp 1 ml IV",
+        "pactivo": "OXITOCINA",
+        "reaccion": "shock anafiláctico/anafilactoide",
+        "frecuencia": "NO FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+      },
+      "text": "En el perfil de seguridad de Syntocinon (oxitocina), dentro de Trastornos del sistema inmunológico, se ha identificado la siguiente reacción adversa:\n\n- shock anafiláctico/anafilactoide: no frecuente.\n\nEste acontecimiento puede aparecer de forma rápida tras la administración intravenosa, por lo que se recomienda mantener vigilancia clínica durante y después de la perfusión, especialmente al inicio del tratamiento. Ante signos compatibles con compromiso sistémico, debe interrumpirse la administración y aplicarse el manejo clínico habitual. La notificación de sospechas contribuye a mantener actualizada la información de seguridad del medicamento.",
+      "declared": [
+        {
+          "type": "ACTIVE",
+          "canonical": "OXITOCINA",
+          "surface": "Syntocinon"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "OXITOCINA",
+          "surface": "oxitocina"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+          "surface": "Trastornos del sistema inmunológico"
+        },
+        {
+          "type": "REACT",
+          "canonical": "shock anafiláctico/anafilactoide",
+          "surface": "shock anafiláctico/anafilactoide"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente"
+        }
+      ],
+      "validated": [
+        {
+          "type": "ACTIVE",
+          "canonical": "OXITOCINA",
+          "surface": "Syntocinon",
+          "start": 29,
+          "end": 39
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "OXITOCINA",
+          "surface": "oxitocina",
+          "start": 41,
+          "end": 50
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+          "surface": "Trastornos del sistema inmunológico",
+          "start": 63,
+          "end": 98
+        },
+        {
+          "type": "REACT",
+          "canonical": "shock anafiláctico/anafilactoide",
+          "surface": "shock anafiláctico/anafilactoide",
+          "start": 153,
+          "end": 185
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente",
+          "start": 187,
+          "end": 199
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

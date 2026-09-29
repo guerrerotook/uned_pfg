@@ -1,0 +1,2376 @@
+{
+  "codigo": "7387014",
+  "variante": 1,
+  "codigo_variant": "7387014_v1",
+  "medicamento": "ADVAGRAF 0,5 MG CAPSULAS DURAS DE LIBERACION PROLONGADA",
+  "model": "gpt-5.5",
+  "style_variant_idx": 0,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil de seguridad observado es el esperado para un medicamento inmunosupresor administrado de forma continuada tras el trasplante. La aparición y la intensidad de los acontecimientos pueden depender de la dosis, de la exposición sistémica, de la función del injerto y de la medicación concomitante. Durante el tratamiento con TACROLIMUS se recomienda vigilancia clínica y analítica regular, especialmente al inicio, tras los ajustes de dosis y cuando existan factores que puedan modificar la exposición. La valoración de causalidad debe realizarse de forma individual, teniendo en cuenta la situación basal del paciente y las complicaciones propias del periodo postrasplante. La información siguiente se presenta agrupada por sistema de clasificación de órganos y categoría de aparición.\n\nLista tabulada de reacciones adversas\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN: muy frecuentes: Diabetes mellitus, Hiperglucemia, Hiperpotasemia; frecuentes: Acidosis metabólica, Disminución del apetito, Hiperlipidemia, Hiperuricemia, Hipomagnesemia, Hipopotasemia; poco frecuentes: Deshidratación, Hiperfosfatemia, Hipoglucemia, Hipoproteinemia.\n\nTRASTORNOS DE PIEL Y TEJIDOS: frecuentes: Acné, Alopecia, Erupción cutánea, Prurito, Sudoración; poco frecuentes: Dermatitis, Fotosensibilidad; no frecuente: Necrólisis epidérmica tóxica (síndrome de Lyell), Síndrome de Stevens-Johnson.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR: muy frecuentes: Hipertensión; frecuentes: Acontecimientos tromboembólicos e isquémicos, Hemorragia, Taquicardia, Trastornos vasculares periféricos; poco frecuentes: Arritmias supraventriculares, Cardiomiopatía, Insuficiencia cardiaca, Palpitaciones, Trombosis venosa profunda; no frecuente: Derrame pericárdico, Torsade des pointes.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS: frecuentes: Acúfenos, Alteraciones oculares, Fotofobia, Visión borrosa; poco frecuentes: Cataratas, Hipoacusia; no frecuente: Ceguera; frecuencia no conocida: Neuropatía óptica.\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS: frecuentes: Anemia, Leucocitosis, Leucopenia, Trombocitopenia; poco frecuentes: Coagulopatía, Microangiopatía trombótica, Neutropenia; no frecuente: Hipoprotrombinemia, Púrpura trombocitopénica trombótica; frecuencia no conocida: Agranulocitosis, Aplasia eritrocitaria pura.\n\nTRASTORNOS DEL SISTEMA NERVIOSO: muy frecuentes: Cefalea, Temblor; frecuentes: Alteraciones de la conciencia, Convulsiones, Mareo, Neuropatía periférica, Parestesias, disestesias; poco frecuentes: Amnesia, Coma, Encefalopatía; no frecuente: Miastenia; frecuencia no conocida: Síndrome de encefalopatía posterior reversible (SEPR).\n\nTRASTORNOS PSIQUIÁTRICOS: muy frecuentes: Insomnio; frecuentes: Alteraciones del humor, Alucinaciones, Ansiedad, Confusión y desorientación, Depresión, Pesadillas; poco frecuentes: Trastornos psicóticos.\n\nTRASTORNOS DEL SISTEMA EXCRETOR: muy frecuentes: Deterioro renal; frecuentes: Anormalidades de la orina, Oliguria, Nefropatía tóxica; poco frecuentes: Anuria, Síndrome hemolítico urémico; no frecuente: Cistitis hemorrágica, Nefropatía.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO: frecuentes: Artralgias, Dolor de espalda, Dolor en una extremidad, Espasmos musculares; poco frecuentes: Trastornos articulares; no frecuente: Disminución de la movilidad.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO: muy frecuentes: Diarrea, Náuseas; frecuentes: Dispepsia, Dolor gastrointestinal y abdominal, Estreñimiento, Flatulencia, Vómitos, Ictericia, Colestasis; poco frecuentes: Enfermedad por reflujo gastroesofágico, Pancreatitis aguda, Íleo paralítico; no frecuente: Insuficiencia hepática, Subíleo.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO: frecuentes: Congestión nasal, Derrame pleural, Disnea, Tos; poco frecuentes: Asma, Insuficiencia respiratoria; no frecuente: Síndrome de distrés respiratorio agudo (SDRA).\n\nTRASTORNOS DEL SISTEMA GENERAL: frecuentes: Astenia, Distermia, Dolor, Edema, Fiebre; poco frecuentes: Cuadro gripal, Inquietud, Sensación anormal; no frecuente: Caída, Opresión torácica, Sed.\n\nPRUEBAS COMPLEMENTARIAS: frecuentes: Aumento de peso, Incremento de fosfatasa alcalina en sangre; poco frecuentes: Disminución de peso, ECG anormal, Incremento de LDH en sangre; no frecuente: Ecocardiograma anormal, Intervalo QT prolongado.\n\nLESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS: muy frecuentes: Pruebas de función hepática anormales; frecuentes: Disfunción primaria del trasplante.\n\nTRASTORNOS DEL SISTEMA REPRODUCTOR: poco frecuentes: Dismenorrea, Hemorragia uterina. TRASTORNOS DEL SISTEMA ENDOCRINO: no frecuente: Hirsutismo. INFECCIONES E INFESTACIONES: muy frecuentes: Infecciones. NEOPLASIAS: frecuencia no conocida: Neoplasia. TRASTORNOS DEL SISTEMA INMUNOLÓGICO: frecuencia no conocida: Reacciones alérgicas y anafilactoides.\n\nDescripción de reacciones adversas seleccionadas\nEn la práctica clínica se aconseja interpretar los hallazgos de laboratorio junto con los datos de exploración y la evolución temporal. Cuando aparezcan manifestaciones clínicamente relevantes, puede ser necesario intensificar la monitorización, revisar la exposición al medicamento y valorar medidas de soporte. La decisión de modificar el tratamiento corresponde al médico responsable y debe considerar el balance entre eficacia y tolerabilidad.\n\nAlgunas manifestaciones pueden aparecer de forma simultánea o en el contexto de complicaciones intercurrentes. La comunicación de sospechas contribuye a caracterizar mejor el perfil de seguridad en condiciones reales de uso y permite actualizar la información disponible cuando procede.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nEn el sistema Trastornos del metabolismo y la nutrición, Diabetes mellitus se incluye entre las reacciones adversas muy frecuentes durante el tratamiento con TACROLIMUS. La aparición de esta alteración es coherente con el efecto del tratamiento inmunosupresor sobre el metabolismo de la glucosa y debe considerarse en pacientes con factores de riesgo. Se recomienda la monitorización clínica y analítica periódica, especialmente al inicio del tratamiento y tras modificaciones de la dosis, de acuerdo con la práctica clínica habitual.\n\n-- Caso 2 --\nEn la evaluación de seguridad de TACROLIMUS, dentro de TRASTORNOS DEL SISTEMA GENERAL, se incluye Intolerancia a la temperatura entre las reacciones adversas poco frecuentes. Esta manifestación debe interpretarse en el contexto del estado clínico del paciente y de la exposición al tratamiento, especialmente cuando exista variabilidad en la percepción de calor o frío. Se recomienda valorar la evolución temporal y la posible relación con el medicamento durante el seguimiento, manteniendo la vigilancia clínica habitual y registrando los hallazgos relevantes para la evaluación continuada del perfil de seguridad.\n\n-- Caso 3 --\nEn el sistema de clasificación de órganos TRASTORNOS DEL SISTEMA NERVIOSO, se han notificado Trastornos del sistema nervioso como reacciones adversas frecuentes durante el tratamiento con TACROLIMUS. La aparición de estos acontecimientos debe valorarse en el contexto del estado clínico del paciente y de la exposición al medicamento, especialmente tras cambios de dosis o en situaciones que puedan modificar la exposición sistémica. Se recomienda seguimiento clínico regular y reevaluación del tratamiento si la intensidad o persistencia de la reacción lo requiere, de acuerdo con la práctica asistencial y el balance beneficio-riesgo individual.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "TACROLIMUS",
+      "surface": "TACROLIMUS",
+      "start": 388,
+      "end": 398
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "start": 889,
+      "end": 930
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes",
+      "start": 932,
+      "end": 946
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diabetes mellitus",
+      "surface": "Diabetes mellitus",
+      "start": 948,
+      "end": 965
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperglucemia",
+      "surface": "Hiperglucemia",
+      "start": 967,
+      "end": 980
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperpotasemia",
+      "surface": "Hiperpotasemia",
+      "start": 982,
+      "end": 996
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 936,
+      "end": 946
+    },
+    {
+      "type": "REACT",
+      "canonical": "Acidosis metabólica",
+      "surface": "Acidosis metabólica",
+      "start": 1010,
+      "end": 1029
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución del apetito",
+      "surface": "Disminución del apetito",
+      "start": 1031,
+      "end": 1054
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperlipidemia",
+      "surface": "Hiperlipidemia",
+      "start": 1056,
+      "end": 1070
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperuricemia",
+      "surface": "Hiperuricemia",
+      "start": 1072,
+      "end": 1085
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipomagnesemia",
+      "surface": "Hipomagnesemia",
+      "start": 1087,
+      "end": 1101
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipopotasemia",
+      "surface": "Hipopotasemia",
+      "start": 1103,
+      "end": 1116
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 1118,
+      "end": 1133
+    },
+    {
+      "type": "REACT",
+      "canonical": "Deshidratación",
+      "surface": "Deshidratación",
+      "start": 1135,
+      "end": 1149
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperfosfatemia",
+      "surface": "Hiperfosfatemia",
+      "start": 1151,
+      "end": 1166
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipoglucemia",
+      "surface": "Hipoglucemia",
+      "start": 1168,
+      "end": 1180
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipoproteinemia",
+      "surface": "Hipoproteinemia",
+      "start": 1182,
+      "end": 1197
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 1200,
+      "end": 1228
+    },
+    {
+      "type": "REACT",
+      "canonical": "Acné",
+      "surface": "Acné",
+      "start": 1242,
+      "end": 1246
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alopecia",
+      "surface": "Alopecia",
+      "start": 1248,
+      "end": 1256
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción cutánea",
+      "surface": "Erupción cutánea",
+      "start": 1258,
+      "end": 1274
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito",
+      "start": 1276,
+      "end": 1283
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sudoración",
+      "surface": "Sudoración",
+      "start": 1285,
+      "end": 1295
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dermatitis",
+      "surface": "Dermatitis",
+      "start": 1314,
+      "end": 1324
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fotosensibilidad",
+      "surface": "Fotosensibilidad",
+      "start": 1326,
+      "end": 1342
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 1344,
+      "end": 1356
+    },
+    {
+      "type": "REACT",
+      "canonical": "Necrólisis epidérmica tóxica (síndrome de Lyell)",
+      "surface": "Necrólisis epidérmica tóxica (síndrome de Lyell)",
+      "start": 1358,
+      "end": 1406
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de Stevens-Johnson",
+      "surface": "Síndrome de Stevens-Johnson",
+      "start": 1408,
+      "end": 1435
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1438,
+      "end": 1475
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertensión",
+      "surface": "Hipertensión",
+      "start": 1493,
+      "end": 1505
+    },
+    {
+      "type": "REACT",
+      "canonical": "Acontecimientos tromboembólicos e isquémicos",
+      "surface": "Acontecimientos tromboembólicos e isquémicos",
+      "start": 1519,
+      "end": 1563
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia",
+      "surface": "Hemorragia",
+      "start": 1565,
+      "end": 1575
+    },
+    {
+      "type": "REACT",
+      "canonical": "Taquicardia",
+      "surface": "Taquicardia",
+      "start": 1577,
+      "end": 1588
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastornos vasculares periféricos",
+      "surface": "Trastornos vasculares periféricos",
+      "start": 1590,
+      "end": 1623
+    },
+    {
+      "type": "REACT",
+      "canonical": "Arritmias supraventriculares",
+      "surface": "Arritmias supraventriculares",
+      "start": 1642,
+      "end": 1670
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cardiomiopatía",
+      "surface": "Cardiomiopatía",
+      "start": 1672,
+      "end": 1686
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia cardiaca",
+      "surface": "Insuficiencia cardiaca",
+      "start": 1688,
+      "end": 1710
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones",
+      "start": 1712,
+      "end": 1725
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombosis venosa profunda",
+      "surface": "Trombosis venosa profunda",
+      "start": 1727,
+      "end": 1752
+    },
+    {
+      "type": "REACT",
+      "canonical": "Derrame pericárdico",
+      "surface": "Derrame pericárdico",
+      "start": 1768,
+      "end": 1787
+    },
+    {
+      "type": "REACT",
+      "canonical": "Torsade des pointes",
+      "surface": "Torsade des pointes",
+      "start": 1789,
+      "end": 1808
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 1811,
+      "end": 1848
+    },
+    {
+      "type": "REACT",
+      "canonical": "Acúfenos",
+      "surface": "Acúfenos",
+      "start": 1862,
+      "end": 1870
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones oculares",
+      "surface": "Alteraciones oculares",
+      "start": 1872,
+      "end": 1893
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fotofobia",
+      "surface": "Fotofobia",
+      "start": 1895,
+      "end": 1904
+    },
+    {
+      "type": "REACT",
+      "canonical": "Visión borrosa",
+      "surface": "Visión borrosa",
+      "start": 1906,
+      "end": 1920
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cataratas",
+      "surface": "Cataratas",
+      "start": 1939,
+      "end": 1948
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipoacusia",
+      "surface": "Hipoacusia",
+      "start": 1950,
+      "end": 1960
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ceguera",
+      "surface": "Ceguera",
+      "start": 1976,
+      "end": 1983
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 1985,
+      "end": 2007
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neuropatía óptica",
+      "surface": "Neuropatía óptica",
+      "start": 2009,
+      "end": 2026
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 2029,
+      "end": 2078
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia",
+      "surface": "Anemia",
+      "start": 2092,
+      "end": 2098
+    },
+    {
+      "type": "REACT",
+      "canonical": "Leucocitosis",
+      "surface": "Leucocitosis",
+      "start": 2100,
+      "end": 2112
+    },
+    {
+      "type": "REACT",
+      "canonical": "Leucopenia",
+      "surface": "Leucopenia",
+      "start": 2114,
+      "end": 2124
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombocitopenia",
+      "surface": "Trombocitopenia",
+      "start": 2126,
+      "end": 2141
+    },
+    {
+      "type": "REACT",
+      "canonical": "Coagulopatía",
+      "surface": "Coagulopatía",
+      "start": 2160,
+      "end": 2172
+    },
+    {
+      "type": "REACT",
+      "canonical": "Microangiopatía trombótica",
+      "surface": "Microangiopatía trombótica",
+      "start": 2174,
+      "end": 2200
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neutropenia",
+      "surface": "Neutropenia",
+      "start": 2202,
+      "end": 2213
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipoprotrombinemia",
+      "surface": "Hipoprotrombinemia",
+      "start": 2229,
+      "end": 2247
+    },
+    {
+      "type": "REACT",
+      "canonical": "Púrpura trombocitopénica trombótica",
+      "surface": "Púrpura trombocitopénica trombótica",
+      "start": 2249,
+      "end": 2284
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agranulocitosis",
+      "surface": "Agranulocitosis",
+      "start": 2310,
+      "end": 2325
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aplasia eritrocitaria pura",
+      "surface": "Aplasia eritrocitaria pura",
+      "start": 2327,
+      "end": 2353
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 2356,
+      "end": 2387
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea",
+      "start": 2405,
+      "end": 2412
+    },
+    {
+      "type": "REACT",
+      "canonical": "Temblor",
+      "surface": "Temblor",
+      "start": 2414,
+      "end": 2421
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones de la conciencia",
+      "surface": "Alteraciones de la conciencia",
+      "start": 2435,
+      "end": 2464
+    },
+    {
+      "type": "REACT",
+      "canonical": "Convulsiones",
+      "surface": "Convulsiones",
+      "start": 2466,
+      "end": 2478
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareo",
+      "surface": "Mareo",
+      "start": 2480,
+      "end": 2485
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neuropatía periférica",
+      "surface": "Neuropatía periférica",
+      "start": 2487,
+      "end": 2508
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parestesias, disestesias",
+      "surface": "Parestesias, disestesias",
+      "start": 2510,
+      "end": 2534
+    },
+    {
+      "type": "REACT",
+      "canonical": "Amnesia",
+      "surface": "Amnesia",
+      "start": 2553,
+      "end": 2560
+    },
+    {
+      "type": "REACT",
+      "canonical": "Coma",
+      "surface": "Coma",
+      "start": 2562,
+      "end": 2566
+    },
+    {
+      "type": "REACT",
+      "canonical": "Encefalopatía",
+      "surface": "Encefalopatía",
+      "start": 2568,
+      "end": 2581
+    },
+    {
+      "type": "REACT",
+      "canonical": "Miastenia",
+      "surface": "Miastenia",
+      "start": 2597,
+      "end": 2606
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de encefalopatía posterior reversible (SEPR)",
+      "surface": "Síndrome de encefalopatía posterior reversible (SEPR)",
+      "start": 2632,
+      "end": 2685
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 2688,
+      "end": 2712
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insomnio",
+      "surface": "Insomnio",
+      "start": 2730,
+      "end": 2738
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones del humor",
+      "surface": "Alteraciones del humor",
+      "start": 2752,
+      "end": 2774
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alucinaciones",
+      "surface": "Alucinaciones",
+      "start": 2776,
+      "end": 2789
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ansiedad",
+      "surface": "Ansiedad",
+      "start": 2791,
+      "end": 2799
+    },
+    {
+      "type": "REACT",
+      "canonical": "Confusión y desorientación",
+      "surface": "Confusión y desorientación",
+      "start": 2801,
+      "end": 2827
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión",
+      "surface": "Depresión",
+      "start": 2829,
+      "end": 2838
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pesadillas",
+      "surface": "Pesadillas",
+      "start": 2840,
+      "end": 2850
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastornos psicóticos",
+      "surface": "Trastornos psicóticos",
+      "start": 2869,
+      "end": 2890
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "start": 2893,
+      "end": 2924
+    },
+    {
+      "type": "REACT",
+      "canonical": "Deterioro renal",
+      "surface": "Deterioro renal",
+      "start": 2942,
+      "end": 2957
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anormalidades de la orina",
+      "surface": "Anormalidades de la orina",
+      "start": 2971,
+      "end": 2996
+    },
+    {
+      "type": "REACT",
+      "canonical": "Oliguria",
+      "surface": "Oliguria",
+      "start": 2998,
+      "end": 3006
+    },
+    {
+      "type": "REACT",
+      "canonical": "Nefropatía tóxica",
+      "surface": "Nefropatía tóxica",
+      "start": 3008,
+      "end": 3025
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anuria",
+      "surface": "Anuria",
+      "start": 3044,
+      "end": 3050
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome hemolítico urémico",
+      "surface": "Síndrome hemolítico urémico",
+      "start": 3052,
+      "end": 3079
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cistitis hemorrágica",
+      "surface": "Cistitis hemorrágica",
+      "start": 3095,
+      "end": 3115
+    },
+    {
+      "type": "REACT",
+      "canonical": "Nefropatía",
+      "surface": "Nefropatía",
+      "start": 3008,
+      "end": 3018
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 3130,
+      "end": 3172
+    },
+    {
+      "type": "REACT",
+      "canonical": "Artralgias",
+      "surface": "Artralgias",
+      "start": 3186,
+      "end": 3196
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor de espalda",
+      "surface": "Dolor de espalda",
+      "start": 3198,
+      "end": 3214
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor en una extremidad",
+      "surface": "Dolor en una extremidad",
+      "start": 3216,
+      "end": 3239
+    },
+    {
+      "type": "REACT",
+      "canonical": "Espasmos musculares",
+      "surface": "Espasmos musculares",
+      "start": 3241,
+      "end": 3260
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastornos articulares",
+      "surface": "Trastornos articulares",
+      "start": 3279,
+      "end": 3301
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de la movilidad",
+      "surface": "Disminución de la movilidad",
+      "start": 3317,
+      "end": 3344
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 3347,
+      "end": 3379
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea",
+      "start": 3397,
+      "end": 3404
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 3406,
+      "end": 3413
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dispepsia",
+      "surface": "Dispepsia",
+      "start": 3427,
+      "end": 3436
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor gastrointestinal y abdominal",
+      "surface": "Dolor gastrointestinal y abdominal",
+      "start": 3438,
+      "end": 3472
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento",
+      "start": 3474,
+      "end": 3487
+    },
+    {
+      "type": "REACT",
+      "canonical": "Flatulencia",
+      "surface": "Flatulencia",
+      "start": 3489,
+      "end": 3500
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos",
+      "start": 3502,
+      "end": 3509
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ictericia",
+      "surface": "Ictericia",
+      "start": 3511,
+      "end": 3520
+    },
+    {
+      "type": "REACT",
+      "canonical": "Colestasis",
+      "surface": "Colestasis",
+      "start": 3522,
+      "end": 3532
+    },
+    {
+      "type": "REACT",
+      "canonical": "Enfermedad por reflujo gastroesofágico",
+      "surface": "Enfermedad por reflujo gastroesofágico",
+      "start": 3551,
+      "end": 3589
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pancreatitis aguda",
+      "surface": "Pancreatitis aguda",
+      "start": 3591,
+      "end": 3609
+    },
+    {
+      "type": "REACT",
+      "canonical": "Íleo paralítico",
+      "surface": "Íleo paralítico",
+      "start": 3611,
+      "end": 3626
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia hepática",
+      "surface": "Insuficiencia hepática",
+      "start": 3642,
+      "end": 3664
+    },
+    {
+      "type": "REACT",
+      "canonical": "Subíleo",
+      "surface": "Subíleo",
+      "start": 3666,
+      "end": 3673
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 3676,
+      "end": 3711
+    },
+    {
+      "type": "REACT",
+      "canonical": "Congestión nasal",
+      "surface": "Congestión nasal",
+      "start": 3725,
+      "end": 3741
+    },
+    {
+      "type": "REACT",
+      "canonical": "Derrame pleural",
+      "surface": "Derrame pleural",
+      "start": 3743,
+      "end": 3758
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disnea",
+      "surface": "Disnea",
+      "start": 3760,
+      "end": 3766
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tos",
+      "surface": "Tos",
+      "start": 3768,
+      "end": 3771
+    },
+    {
+      "type": "REACT",
+      "canonical": "Asma",
+      "surface": "Asma",
+      "start": 3790,
+      "end": 3794
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia respiratoria",
+      "surface": "Insuficiencia respiratoria",
+      "start": 3796,
+      "end": 3822
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de distrés respiratorio agudo (SDRA)",
+      "surface": "Síndrome de distrés respiratorio agudo (SDRA)",
+      "start": 3838,
+      "end": 3883
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 3886,
+      "end": 3916
+    },
+    {
+      "type": "REACT",
+      "canonical": "Astenia",
+      "surface": "Astenia",
+      "start": 3930,
+      "end": 3937
+    },
+    {
+      "type": "REACT",
+      "canonical": "Distermia",
+      "surface": "Distermia",
+      "start": 3939,
+      "end": 3948
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor",
+      "surface": "Dolor",
+      "start": 3198,
+      "end": 3203
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema",
+      "surface": "Edema",
+      "start": 3957,
+      "end": 3962
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fiebre",
+      "surface": "Fiebre",
+      "start": 3964,
+      "end": 3970
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cuadro gripal",
+      "surface": "Cuadro gripal",
+      "start": 3989,
+      "end": 4002
+    },
+    {
+      "type": "REACT",
+      "canonical": "Inquietud",
+      "surface": "Inquietud",
+      "start": 4004,
+      "end": 4013
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sensación anormal",
+      "surface": "Sensación anormal",
+      "start": 4015,
+      "end": 4032
+    },
+    {
+      "type": "REACT",
+      "canonical": "Caída",
+      "surface": "Caída",
+      "start": 4048,
+      "end": 4053
+    },
+    {
+      "type": "REACT",
+      "canonical": "Opresión torácica",
+      "surface": "Opresión torácica",
+      "start": 4055,
+      "end": 4072
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sed",
+      "surface": "Sed",
+      "start": 4074,
+      "end": 4077
+    },
+    {
+      "type": "SYS",
+      "canonical": "PRUEBAS COMPLEMENTARIAS",
+      "surface": "PRUEBAS COMPLEMENTARIAS",
+      "start": 4080,
+      "end": 4103
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de peso",
+      "surface": "Aumento de peso",
+      "start": 4117,
+      "end": 4132
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de fosfatasa alcalina en sangre",
+      "surface": "Incremento de fosfatasa alcalina en sangre",
+      "start": 4134,
+      "end": 4176
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de peso",
+      "surface": "Disminución de peso",
+      "start": 4195,
+      "end": 4214
+    },
+    {
+      "type": "REACT",
+      "canonical": "ECG anormal",
+      "surface": "ECG anormal",
+      "start": 4216,
+      "end": 4227
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de LDH en sangre",
+      "surface": "Incremento de LDH en sangre",
+      "start": 4229,
+      "end": 4256
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ecocardiograma anormal",
+      "surface": "Ecocardiograma anormal",
+      "start": 4272,
+      "end": 4294
+    },
+    {
+      "type": "REACT",
+      "canonical": "Intervalo QT prolongado",
+      "surface": "Intervalo QT prolongado",
+      "start": 4296,
+      "end": 4319
+    },
+    {
+      "type": "SYS",
+      "canonical": "LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS",
+      "surface": "LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS",
+      "start": 4322,
+      "end": 4405
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pruebas de función hepática anormales",
+      "surface": "Pruebas de función hepática anormales",
+      "start": 4423,
+      "end": 4460
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disfunción primaria del trasplante",
+      "surface": "Disfunción primaria del trasplante",
+      "start": 4474,
+      "end": 4508
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "start": 4511,
+      "end": 4545
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dismenorrea",
+      "surface": "Dismenorrea",
+      "start": 4564,
+      "end": 4575
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia uterina",
+      "surface": "Hemorragia uterina",
+      "start": 4577,
+      "end": 4595
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "surface": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "start": 4597,
+      "end": 4629
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hirsutismo",
+      "surface": "Hirsutismo",
+      "start": 4645,
+      "end": 4655
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "INFECCIONES E INFESTACIONES",
+      "start": 4657,
+      "end": 4684
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infecciones",
+      "surface": "Infecciones",
+      "start": 4657,
+      "end": 4668
+    },
+    {
+      "type": "SYS",
+      "canonical": "NEOPLASIAS",
+      "surface": "NEOPLASIAS",
+      "start": 4715,
+      "end": 4725
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neoplasia",
+      "surface": "Neoplasia",
+      "start": 4751,
+      "end": 4760
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 4762,
+      "end": 4797
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacciones alérgicas y anafilactoides",
+      "surface": "Reacciones alérgicas y anafilactoides",
+      "start": 4823,
+      "end": 4860
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "Trastornos del metabolismo y la nutrición",
+      "start": 889,
+      "end": 930
+    },
+    {
+      "type": "REACT",
+      "canonical": "Intolerancia a la temperatura",
+      "surface": "Intolerancia a la temperatura",
+      "start": 6372,
+      "end": 6401
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastornos del sistema nervioso",
+      "surface": "Trastornos del sistema nervioso",
+      "start": 2356,
+      "end": 2387
+    }
+  ],
+  "raw_long_doc_text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil de seguridad observado es el esperado para un medicamento inmunosupresor administrado de forma continuada tras el trasplante. La aparición y la intensidad de los acontecimientos pueden depender de la dosis, de la exposición sistémica, de la función del injerto y de la medicación concomitante. Durante el tratamiento con TACROLIMUS se recomienda vigilancia clínica y analítica regular, especialmente al inicio, tras los ajustes de dosis y cuando existan factores que puedan modificar la exposición. La valoración de causalidad debe realizarse de forma individual, teniendo en cuenta la situación basal del paciente y las complicaciones propias del periodo postrasplante. La información siguiente se presenta agrupada por sistema de clasificación de órganos y categoría de aparición.\n\nLista tabulada de reacciones adversas\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN: muy frecuentes: Diabetes mellitus, Hiperglucemia, Hiperpotasemia; frecuentes: Acidosis metabólica, Disminución del apetito, Hiperlipidemia, Hiperuricemia, Hipomagnesemia, Hipopotasemia; poco frecuentes: Deshidratación, Hiperfosfatemia, Hipoglucemia, Hipoproteinemia.\n\nTRASTORNOS DE PIEL Y TEJIDOS: frecuentes: Acné, Alopecia, Erupción cutánea, Prurito, Sudoración; poco frecuentes: Dermatitis, Fotosensibilidad; no frecuente: Necrólisis epidérmica tóxica (síndrome de Lyell), Síndrome de Stevens-Johnson.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR: muy frecuentes: Hipertensión; frecuentes: Acontecimientos tromboembólicos e isquémicos, Hemorragia, Taquicardia, Trastornos vasculares periféricos; poco frecuentes: Arritmias supraventriculares, Cardiomiopatía, Insuficiencia cardiaca, Palpitaciones, Trombosis venosa profunda; no frecuente: Derrame pericárdico, Torsade des pointes.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS: frecuentes: Acúfenos, Alteraciones oculares, Fotofobia, Visión borrosa; poco frecuentes: Cataratas, Hipoacusia; no frecuente: Ceguera; frecuencia no conocida: Neuropatía óptica.\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS: frecuentes: Anemia, Leucocitosis, Leucopenia, Trombocitopenia; poco frecuentes: Coagulopatía, Microangiopatía trombótica, Neutropenia; no frecuente: Hipoprotrombinemia, Púrpura trombocitopénica trombótica; frecuencia no conocida: Agranulocitosis, Aplasia eritrocitaria pura.\n\nTRASTORNOS DEL SISTEMA NERVIOSO: muy frecuentes: Cefalea, Temblor; frecuentes: Alteraciones de la conciencia, Convulsiones, Mareo, Neuropatía periférica, Parestesias, disestesias; poco frecuentes: Amnesia, Coma, Encefalopatía; no frecuente: Miastenia; frecuencia no conocida: Síndrome de encefalopatía posterior reversible (SEPR).\n\nTRASTORNOS PSIQUIÁTRICOS: muy frecuentes: Insomnio; frecuentes: Alteraciones del humor, Alucinaciones, Ansiedad, Confusión y desorientación, Depresión, Pesadillas; poco frecuentes: Trastornos psicóticos.\n\nTRASTORNOS DEL SISTEMA EXCRETOR: muy frecuentes: Deterioro renal; frecuentes: Anormalidades de la orina, Oliguria, Nefropatía tóxica; poco frecuentes: Anuria, Síndrome hemolítico urémico; no frecuente: Cistitis hemorrágica, Nefropatía.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO: frecuentes: Artralgias, Dolor de espalda, Dolor en una extremidad, Espasmos musculares; poco frecuentes: Trastornos articulares; no frecuente: Disminución de la movilidad.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO: muy frecuentes: Diarrea, Náuseas; frecuentes: Dispepsia, Dolor gastrointestinal y abdominal, Estreñimiento, Flatulencia, Vómitos, Ictericia, Colestasis; poco frecuentes: Enfermedad por reflujo gastroesofágico, Pancreatitis aguda, Íleo paralítico; no frecuente: Insuficiencia hepática, Subíleo.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO: frecuentes: Congestión nasal, Derrame pleural, Disnea, Tos; poco frecuentes: Asma, Insuficiencia respiratoria; no frecuente: Síndrome de distrés respiratorio agudo (SDRA).\n\nTRASTORNOS DEL SISTEMA GENERAL: frecuentes: Astenia, Distermia, Dolor, Edema, Fiebre; poco frecuentes: Cuadro gripal, Inquietud, Sensación anormal; no frecuente: Caída, Opresión torácica, Sed.\n\nPRUEBAS COMPLEMENTARIAS: frecuentes: Aumento de peso, Incremento de fosfatasa alcalina en sangre; poco frecuentes: Disminución de peso, ECG anormal, Incremento de LDH en sangre; no frecuente: Ecocardiograma anormal, Intervalo QT prolongado.\n\nLESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS: muy frecuentes: Pruebas de función hepática anormales; frecuentes: Disfunción primaria del trasplante.\n\nTRASTORNOS DEL SISTEMA REPRODUCTOR: poco frecuentes: Dismenorrea, Hemorragia uterina. TRASTORNOS DEL SISTEMA ENDOCRINO: no frecuente: Hirsutismo. INFECCIONES E INFESTACIONES: muy frecuentes: Infecciones. NEOPLASIAS: frecuencia no conocida: Neoplasia. TRASTORNOS DEL SISTEMA INMUNOLÓGICO: frecuencia no conocida: Reacciones alérgicas y anafilactoides.\n\nDescripción de reacciones adversas seleccionadas\nEn la práctica clínica se aconseja interpretar los hallazgos de laboratorio junto con los datos de exploración y la evolución temporal. Cuando aparezcan manifestaciones clínicamente relevantes, puede ser necesario intensificar la monitorización, revisar la exposición al medicamento y valorar medidas de soporte. La decisión de modificar el tratamiento corresponde al médico responsable y debe considerar el balance entre eficacia y tolerabilidad.\n\nAlgunas manifestaciones pueden aparecer de forma simultánea o en el contexto de complicaciones intercurrentes. La comunicación de sospechas contribuye a caracterizar mejor el perfil de seguridad en condiciones reales de uso y permite actualizar la información disponible cuando procede.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "TACROLIMUS",
+      "surface": "TACROLIMUS"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diabetes mellitus",
+      "surface": "Diabetes mellitus"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperglucemia",
+      "surface": "Hiperglucemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperpotasemia",
+      "surface": "Hiperpotasemia"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Acidosis metabólica",
+      "surface": "Acidosis metabólica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución del apetito",
+      "surface": "Disminución del apetito"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperlipidemia",
+      "surface": "Hiperlipidemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperuricemia",
+      "surface": "Hiperuricemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipomagnesemia",
+      "surface": "Hipomagnesemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipopotasemia",
+      "surface": "Hipopotasemia"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Deshidratación",
+      "surface": "Deshidratación"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperfosfatemia",
+      "surface": "Hiperfosfatemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipoglucemia",
+      "surface": "Hipoglucemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipoproteinemia",
+      "surface": "Hipoproteinemia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Acné",
+      "surface": "Acné"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alopecia",
+      "surface": "Alopecia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción cutánea",
+      "surface": "Erupción cutánea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sudoración",
+      "surface": "Sudoración"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dermatitis",
+      "surface": "Dermatitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fotosensibilidad",
+      "surface": "Fotosensibilidad"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Necrólisis epidérmica tóxica (síndrome de Lyell)",
+      "surface": "Necrólisis epidérmica tóxica (síndrome de Lyell)"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de Stevens-Johnson",
+      "surface": "Síndrome de Stevens-Johnson"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertensión",
+      "surface": "Hipertensión"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Acontecimientos tromboembólicos e isquémicos",
+      "surface": "Acontecimientos tromboembólicos e isquémicos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia",
+      "surface": "Hemorragia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Taquicardia",
+      "surface": "Taquicardia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastornos vasculares periféricos",
+      "surface": "Trastornos vasculares periféricos"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Arritmias supraventriculares",
+      "surface": "Arritmias supraventriculares"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cardiomiopatía",
+      "surface": "Cardiomiopatía"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia cardiaca",
+      "surface": "Insuficiencia cardiaca"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombosis venosa profunda",
+      "surface": "Trombosis venosa profunda"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Derrame pericárdico",
+      "surface": "Derrame pericárdico"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Torsade des pointes",
+      "surface": "Torsade des pointes"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Acúfenos",
+      "surface": "Acúfenos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones oculares",
+      "surface": "Alteraciones oculares"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fotofobia",
+      "surface": "Fotofobia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Visión borrosa",
+      "surface": "Visión borrosa"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cataratas",
+      "surface": "Cataratas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipoacusia",
+      "surface": "Hipoacusia"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ceguera",
+      "surface": "Ceguera"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neuropatía óptica",
+      "surface": "Neuropatía óptica"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia",
+      "surface": "Anemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Leucocitosis",
+      "surface": "Leucocitosis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Leucopenia",
+      "surface": "Leucopenia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombocitopenia",
+      "surface": "Trombocitopenia"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Coagulopatía",
+      "surface": "Coagulopatía"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Microangiopatía trombótica",
+      "surface": "Microangiopatía trombótica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neutropenia",
+      "surface": "Neutropenia"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipoprotrombinemia",
+      "surface": "Hipoprotrombinemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Púrpura trombocitopénica trombótica",
+      "surface": "Púrpura trombocitopénica trombótica"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agranulocitosis",
+      "surface": "Agranulocitosis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aplasia eritrocitaria pura",
+      "surface": "Aplasia eritrocitaria pura"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Temblor",
+      "surface": "Temblor"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones de la conciencia",
+      "surface": "Alteraciones de la conciencia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Convulsiones",
+      "surface": "Convulsiones"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareo",
+      "surface": "Mareo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neuropatía periférica",
+      "surface": "Neuropatía periférica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parestesias, disestesias",
+      "surface": "Parestesias, disestesias"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Amnesia",
+      "surface": "Amnesia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Coma",
+      "surface": "Coma"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Encefalopatía",
+      "surface": "Encefalopatía"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Miastenia",
+      "surface": "Miastenia"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de encefalopatía posterior reversible (SEPR)",
+      "surface": "Síndrome de encefalopatía posterior reversible (SEPR)"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insomnio",
+      "surface": "Insomnio"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones del humor",
+      "surface": "Alteraciones del humor"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alucinaciones",
+      "surface": "Alucinaciones"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ansiedad",
+      "surface": "Ansiedad"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Confusión y desorientación",
+      "surface": "Confusión y desorientación"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión",
+      "surface": "Depresión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pesadillas",
+      "surface": "Pesadillas"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastornos psicóticos",
+      "surface": "Trastornos psicóticos"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Deterioro renal",
+      "surface": "Deterioro renal"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anormalidades de la orina",
+      "surface": "Anormalidades de la orina"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Oliguria",
+      "surface": "Oliguria"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Nefropatía tóxica",
+      "surface": "Nefropatía tóxica"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anuria",
+      "surface": "Anuria"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome hemolítico urémico",
+      "surface": "Síndrome hemolítico urémico"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cistitis hemorrágica",
+      "surface": "Cistitis hemorrágica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Nefropatía",
+      "surface": "Nefropatía"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Artralgias",
+      "surface": "Artralgias"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor de espalda",
+      "surface": "Dolor de espalda"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor en una extremidad",
+      "surface": "Dolor en una extremidad"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Espasmos musculares",
+      "surface": "Espasmos musculares"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastornos articulares",
+      "surface": "Trastornos articulares"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de la movilidad",
+      "surface": "Disminución de la movilidad"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dispepsia",
+      "surface": "Dispepsia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor gastrointestinal y abdominal",
+      "surface": "Dolor gastrointestinal y abdominal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Flatulencia",
+      "surface": "Flatulencia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ictericia",
+      "surface": "Ictericia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Colestasis",
+      "surface": "Colestasis"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Enfermedad por reflujo gastroesofágico",
+      "surface": "Enfermedad por reflujo gastroesofágico"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pancreatitis aguda",
+      "surface": "Pancreatitis aguda"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Íleo paralítico",
+      "surface": "Íleo paralítico"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia hepática",
+      "surface": "Insuficiencia hepática"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Subíleo",
+      "surface": "Subíleo"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Congestión nasal",
+      "surface": "Congestión nasal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Derrame pleural",
+      "surface": "Derrame pleural"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disnea",
+      "surface": "Disnea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tos",
+      "surface": "Tos"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Asma",
+      "surface": "Asma"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia respiratoria",
+      "surface": "Insuficiencia respiratoria"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de distrés respiratorio agudo (SDRA)",
+      "surface": "Síndrome de distrés respiratorio agudo (SDRA)"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Astenia",
+      "surface": "Astenia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Distermia",
+      "surface": "Distermia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor",
+      "surface": "Dolor"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema",
+      "surface": "Edema"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fiebre",
+      "surface": "Fiebre"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cuadro gripal",
+      "surface": "Cuadro gripal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Inquietud",
+      "surface": "Inquietud"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sensación anormal",
+      "surface": "Sensación anormal"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Caída",
+      "surface": "Caída"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Opresión torácica",
+      "surface": "Opresión torácica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sed",
+      "surface": "Sed"
+    },
+    {
+      "type": "SYS",
+      "canonical": "PRUEBAS COMPLEMENTARIAS",
+      "surface": "PRUEBAS COMPLEMENTARIAS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de peso",
+      "surface": "Aumento de peso"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de fosfatasa alcalina en sangre",
+      "surface": "Incremento de fosfatasa alcalina en sangre"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de peso",
+      "surface": "Disminución de peso"
+    },
+    {
+      "type": "REACT",
+      "canonical": "ECG anormal",
+      "surface": "ECG anormal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de LDH en sangre",
+      "surface": "Incremento de LDH en sangre"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ecocardiograma anormal",
+      "surface": "Ecocardiograma anormal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Intervalo QT prolongado",
+      "surface": "Intervalo QT prolongado"
+    },
+    {
+      "type": "SYS",
+      "canonical": "LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS",
+      "surface": "LESIONES TRAUMÁTICAS, INTOXICACIONES, COMPLICACIONES DE PROCEDIMIENTOS TERAPÉUTICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pruebas de función hepática anormales",
+      "surface": "Pruebas de función hepática anormales"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disfunción primaria del trasplante",
+      "surface": "Disfunción primaria del trasplante"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dismenorrea",
+      "surface": "Dismenorrea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia uterina",
+      "surface": "Hemorragia uterina"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "surface": "TRASTORNOS DEL SISTEMA ENDOCRINO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hirsutismo",
+      "surface": "Hirsutismo"
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "INFECCIONES E INFESTACIONES"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infecciones",
+      "surface": "Infecciones"
+    },
+    {
+      "type": "SYS",
+      "canonical": "NEOPLASIAS",
+      "surface": "NEOPLASIAS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neoplasia",
+      "surface": "Neoplasia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacciones alérgicas y anafilactoides",
+      "surface": "Reacciones alérgicas y anafilactoides"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "ADVAGRAF 0,5 MG CAPSULAS DURAS DE LIBERACION PROLONGADA",
+        "pactivo": "TACROLIMUS",
+        "reaccion": "Diabetes mellitus",
+        "frecuencia": "MUY FRECUENTE",
+        "sistema": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN"
+      },
+      "text": "En el sistema Trastornos del metabolismo y la nutrición, Diabetes mellitus se incluye entre las reacciones adversas muy frecuentes durante el tratamiento con TACROLIMUS. La aparición de esta alteración es coherente con el efecto del tratamiento inmunosupresor sobre el metabolismo de la glucosa y debe considerarse en pacientes con factores de riesgo. Se recomienda la monitorización clínica y analítica periódica, especialmente al inicio del tratamiento y tras modificaciones de la dosis, de acuerdo con la práctica clínica habitual.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+          "surface": "Trastornos del metabolismo y la nutrición"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Diabetes mellitus",
+          "surface": "Diabetes mellitus"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "MUY FRECUENTE",
+          "surface": "muy frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "TACROLIMUS",
+          "surface": "TACROLIMUS"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+          "surface": "Trastornos del metabolismo y la nutrición",
+          "start": 14,
+          "end": 55
+        },
+        {
+          "type": "REACT",
+          "canonical": "Diabetes mellitus",
+          "surface": "Diabetes mellitus",
+          "start": 57,
+          "end": 74
+        },
+        {
+          "type": "FREQ",
+          "canonical": "MUY FRECUENTE",
+          "surface": "muy frecuentes",
+          "start": 116,
+          "end": 130
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "TACROLIMUS",
+          "surface": "TACROLIMUS",
+          "start": 158,
+          "end": 168
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "ADVAGRAF 0,5 MG CAPSULAS DURAS DE LIBERACION PROLONGADA",
+        "pactivo": "TACROLIMUS",
+        "reaccion": "Intolerancia a la temperatura",
+        "frecuencia": "POCO FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA GENERAL"
+      },
+      "text": "En la evaluación de seguridad de TACROLIMUS, dentro de TRASTORNOS DEL SISTEMA GENERAL, se incluye Intolerancia a la temperatura entre las reacciones adversas poco frecuentes. Esta manifestación debe interpretarse en el contexto del estado clínico del paciente y de la exposición al tratamiento, especialmente cuando exista variabilidad en la percepción de calor o frío. Se recomienda valorar la evolución temporal y la posible relación con el medicamento durante el seguimiento, manteniendo la vigilancia clínica habitual y registrando los hallazgos relevantes para la evaluación continuada del perfil de seguridad.",
+      "declared": [
+        {
+          "type": "ACTIVE",
+          "canonical": "TACROLIMUS",
+          "surface": "TACROLIMUS"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+          "surface": "TRASTORNOS DEL SISTEMA GENERAL"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Intolerancia a la temperatura",
+          "surface": "Intolerancia a la temperatura"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes"
+        }
+      ],
+      "validated": [
+        {
+          "type": "ACTIVE",
+          "canonical": "TACROLIMUS",
+          "surface": "TACROLIMUS",
+          "start": 33,
+          "end": 43
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+          "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+          "start": 55,
+          "end": 85
+        },
+        {
+          "type": "REACT",
+          "canonical": "Intolerancia a la temperatura",
+          "surface": "Intolerancia a la temperatura",
+          "start": 98,
+          "end": 127
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes",
+          "start": 158,
+          "end": 173
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "ADVAGRAF 0,5 MG CAPSULAS DURAS DE LIBERACION PROLONGADA",
+        "pactivo": "TACROLIMUS",
+        "reaccion": "Trastornos del sistema nervioso",
+        "frecuencia": "FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA NERVIOSO"
+      },
+      "text": "En el sistema de clasificación de órganos TRASTORNOS DEL SISTEMA NERVIOSO, se han notificado Trastornos del sistema nervioso como reacciones adversas frecuentes durante el tratamiento con TACROLIMUS. La aparición de estos acontecimientos debe valorarse en el contexto del estado clínico del paciente y de la exposición al medicamento, especialmente tras cambios de dosis o en situaciones que puedan modificar la exposición sistémica. Se recomienda seguimiento clínico regular y reevaluación del tratamiento si la intensidad o persistencia de la reacción lo requiere, de acuerdo con la práctica asistencial y el balance beneficio-riesgo individual.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Trastornos del sistema nervioso",
+          "surface": "Trastornos del sistema nervioso"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "TACROLIMUS",
+          "surface": "TACROLIMUS"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "start": 42,
+          "end": 73
+        },
+        {
+          "type": "REACT",
+          "canonical": "Trastornos del sistema nervioso",
+          "surface": "Trastornos del sistema nervioso",
+          "start": 42,
+          "end": 73
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes",
+          "start": 150,
+          "end": 160
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "TACROLIMUS",
+          "surface": "TACROLIMUS",
+          "start": 188,
+          "end": 198
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

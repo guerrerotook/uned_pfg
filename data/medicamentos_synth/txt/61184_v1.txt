@@ -1,0 +1,52 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+
+El perfil de seguridad de IPRATROPIO BROMURO se corresponde con el esperado para un medicamento administrado por vía inhalatoria. En los estudios clínicos y en la experiencia posterior a la comercialización, la mayoría de las notificaciones fueron de intensidad leve o moderada y se resolvieron sin medidas específicas. La interpretación de los acontecimientos debe realizarse teniendo en cuenta la enfermedad de base, la técnica de administración y el uso concomitante de otros tratamientos. La aparición temporal tras la nebulización puede orientar la valoración clínica, aunque no sustituye a la evaluación individual del paciente. Se recomienda revisar la correcta utilización del dispositivo y mantener una vigilancia adecuada cuando aparezcan manifestaciones inesperadas tras la administración.
+
+Lista tabulada de reacciones adversas
+
+Las reacciones se presentan por sistema de clasificación de órganos y por categoría de frecuencia. Dentro de cada grupo, los términos se muestran según denominación clínica estándar y sin establecer un orden de gravedad.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+Poco frecuentes: Angioedema, Erupción, Prurito, Urticaria.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+Poco frecuentes: Aumento de la frecuencia cardíaca, Fibrilación auricular, Palpitaciones, Taquicardia supraventricular.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+Poco frecuentes: Aumento de la presión intraocular, Dolor ocular, Edema de córnea, Glaucoma, Haalos visuales, Hiperemia conjuntival, Midriasis, Visión borrosa, Trastorno de la acomodación.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+Frecuentes: Irritación de garganta, Tos.
+Poco frecuentes: Broncoespasmo, Broncoespasmo paradójico, Edema faríngeo, Laringoespasmo, Sequedad de garganta.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+Frecuentes: Náuseas, Sequedad de boca, Trastornos de la motilidad gastrointestinal.
+Poco frecuentes: Diarrea, Edema bucal, Estomatitis, Estreñimiento, Vómitos.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+Frecuentes: Dolor de cabeza, Mareo.
+
+TRASTORNOS DEL SISTEMA INMUNOLÓGICO
+Poco frecuentes: Hipersensibilidad, Reacción anafiláctica.
+
+TRASTORNOS DEL SISTEMA EXCRETOR
+Poco frecuentes: Retención urinaria.
+
+Descripción de reacciones adversas seleccionadas
+
+Algunos acontecimientos pueden aparecer poco después de la administración y requieren valorar la continuidad del tratamiento conforme al estado clínico. La exposición accidental en zonas no previstas debe evitarse mediante una técnica adecuada de nebulización y el ajuste correcto de los accesorios. En pacientes con antecedentes relevantes, la aparición de síntomas de inicio brusco debe motivar una valoración médica, especialmente si se acompaña de deterioro funcional o persistencia de las molestias.
+
+Las notificaciones procedentes de la práctica clínica pueden estar influidas por factores de confusión, como comorbilidades, tratamientos concomitantes o variabilidad en la administración. Por ello, la relación temporal y la repetición tras nuevas administraciones son elementos útiles para la evaluación. La comunicación de sospechas de reacciones adversas contribuye a mantener actualizada la información de seguridad del medicamento.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+Dentro del sistema de clasificación de órganos TRASTORNOS DEL SISTEMA CARDIOVASCULAR, se ha descrito Taquicardia supraventricular como reacción adversa poco frecuentes asociada al uso de IPRATROPIO BROMURO. Este acontecimiento debe interpretarse en el contexto del perfil farmacológico del medicamento y de la susceptibilidad individual del paciente. En caso de aparición de síntomas compatibles durante el tratamiento, se recomienda valorar la situación clínica y mantener el seguimiento adecuado, especialmente en pacientes con antecedentes cardiovasculares o factores predisponentes.
+
+-- Caso 2 --
+En la clasificación por órganos y sistemas, dentro de Trastornos del sistema digestivo, se han notificado Náuseas, clasificadas como frecuentes durante el tratamiento con IPRATROPIO BROMURO. Este acontecimiento puede aparecer tras la administración por nebulización y suele requerir valoración clínica si persiste o interfiere con la tolerancia al tratamiento. En la comunicación de sospechas debe registrarse la relación temporal con la dosis y la evolución tras las medidas de seguimiento habituales.
+
+-- Caso 3 --
+Dentro de Trastornos del sistema cardiovascular, se ha notificado Fibrilación auricular con frecuencia no frecuente durante el tratamiento con IPRATROPIO BROMURO administrado por nebulización. Este acontecimiento debe valorarse en el contexto clínico del paciente, especialmente cuando existan factores predisponentes o tratamiento concomitante que pueda influir en la función cardiovascular. Se recomienda realizar seguimiento clínico adecuado y reevaluar la continuación del tratamiento si el acontecimiento se confirma o resulta clínicamente significativo.

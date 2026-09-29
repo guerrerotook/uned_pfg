@@ -1,0 +1,296 @@
+{
+  "codigo": "73195",
+  "variante": 1,
+  "codigo_variant": "73195_v1",
+  "medicamento": "SULPIRIDA KERN PHARMA 50 mg CAPSULAS EFG",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "SULPIRIDA",
+      "surface": "SULPIRIDA",
+      "start": 81,
+      "end": 90
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1087,
+      "end": 1118
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 1119,
+      "end": 1129
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parkinsonismo",
+      "surface": "Parkinsonismo",
+      "start": 1131,
+      "end": 1144
+    },
+    {
+      "type": "REACT",
+      "canonical": "acatisia",
+      "surface": "acatisia",
+      "start": 1146,
+      "end": 1154
+    },
+    {
+      "type": "REACT",
+      "canonical": "sedación",
+      "surface": "sedación",
+      "start": 1156,
+      "end": 1164
+    },
+    {
+      "type": "REACT",
+      "canonical": "somnolencia",
+      "surface": "somnolencia",
+      "start": 1166,
+      "end": 1177
+    },
+    {
+      "type": "REACT",
+      "canonical": "temblor",
+      "surface": "temblor",
+      "start": 1179,
+      "end": 1186
+    },
+    {
+      "type": "REACT",
+      "canonical": "trastorno extrapiramidal",
+      "surface": "trastorno extrapiramidal",
+      "start": 1188,
+      "end": 1212
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 1214,
+      "end": 1226
+    },
+    {
+      "type": "REACT",
+      "canonical": "crisis oculógiras",
+      "surface": "crisis oculógiras",
+      "start": 1228,
+      "end": 1245
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 1247,
+      "end": 1262
+    },
+    {
+      "type": "REACT",
+      "canonical": "discinesia",
+      "surface": "discinesia",
+      "start": 1264,
+      "end": 1274
+    },
+    {
+      "type": "REACT",
+      "canonical": "distonía",
+      "surface": "distonía",
+      "start": 1276,
+      "end": 1284
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipertonía",
+      "surface": "hipertonía",
+      "start": 1286,
+      "end": 1296
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 1298,
+      "end": 1320
+    },
+    {
+      "type": "REACT",
+      "canonical": "convulsiones",
+      "surface": "convulsiones",
+      "start": 1322,
+      "end": 1334
+    },
+    {
+      "type": "REACT",
+      "canonical": "discinesia tardía",
+      "surface": "discinesia tardía",
+      "start": 1336,
+      "end": 1353
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipoquinesia",
+      "surface": "hipoquinesia",
+      "start": 1355,
+      "end": 1367
+    },
+    {
+      "type": "REACT",
+      "canonical": "síndrome maligno",
+      "surface": "síndrome maligno",
+      "start": 1369,
+      "end": 1385
+    },
+    {
+      "type": "REACT",
+      "canonical": "síndrome neuroléptico maligno",
+      "surface": "síndrome neuroléptico maligno",
+      "start": 1387,
+      "end": 1416
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1419,
+      "end": 1456
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión postural",
+      "surface": "Hipotensión postural",
+      "start": 1474,
+      "end": 1494
+    },
+    {
+      "type": "REACT",
+      "canonical": "arritmias ventriculares",
+      "surface": "arritmias ventriculares",
+      "start": 1496,
+      "end": 1519
+    },
+    {
+      "type": "REACT",
+      "canonical": "taquicardia ventricular",
+      "surface": "taquicardia ventricular",
+      "start": 1521,
+      "end": 1544
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prolongación del intervalo QT",
+      "surface": "Prolongación del intervalo QT",
+      "start": 1570,
+      "end": 1599
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1602,
+      "end": 1634
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de peso",
+      "surface": "Aumento de peso",
+      "start": 1647,
+      "end": 1662
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de enzimas hepáticas.",
+      "surface": "Incremento de enzimas hepáticas.",
+      "start": 1664,
+      "end": 1696
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 1698,
+      "end": 1722
+    },
+    {
+      "type": "REACT",
+      "canonical": "insomnio",
+      "surface": "insomnio",
+      "start": 1735,
+      "end": 1743
+    },
+    {
+      "type": "REACT",
+      "canonical": "confusion",
+      "surface": "confusion",
+      "start": 1769,
+      "end": 1778
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "start": 1781,
+      "end": 1815
+    },
+    {
+      "type": "REACT",
+      "canonical": "hiperprolactemia",
+      "surface": "hiperprolactemia",
+      "start": 1828,
+      "end": 1844
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "surface": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "start": 1847,
+      "end": 1879
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperprolactinemia.",
+      "surface": "Hiperprolactinemia.",
+      "start": 1892,
+      "end": 1911
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 1913,
+      "end": 1941
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rash máculo-papular",
+      "surface": "Rash máculo-papular",
+      "start": 1954,
+      "end": 1973
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 1976,
+      "end": 2025
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tromboembolismo venoso",
+      "surface": "Tromboembolismo venoso",
+      "start": 2050,
+      "end": 2072
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "Trastornos del sistema digestivo",
+      "start": 1602,
+      "end": 1634
+    }
+  ]
+}

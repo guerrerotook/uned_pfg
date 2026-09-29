@@ -1,0 +1,334 @@
+{
+  "model_name": "CIMA-RoBERTa-NER-baseline-CONLL-SYNTH-react-active-freq-sys",
+  "timestamp": "2026-05-15T16:51:06.828150+00:00",
+  "entity_types": [
+    "REACT",
+    "ACTIVE",
+    "FREQ",
+    "SYS"
+  ],
+  "labels": [
+    "O",
+    "B-REACT",
+    "I-REACT",
+    "B-ACTIVE",
+    "I-ACTIVE",
+    "B-FREQ",
+    "I-FREQ",
+    "B-SYS",
+    "I-SYS"
+  ],
+  "summary": {
+    "total_codes": 28,
+    "total_sentences": 1577,
+    "total_tokens": 26213,
+    "label_counts": {
+      "O": 17625,
+      "B-ACTIVE": 180,
+      "B-FREQ": 596,
+      "I-FREQ": 612,
+      "B-SYS": 413,
+      "I-SYS": 1354,
+      "B-REACT": 2177,
+      "I-REACT": 3135,
+      "I-ACTIVE": 121
+    },
+    "missing_txt_files": [],
+    "docs_with_no_tags": []
+  },
+  "seqeval": {
+    "precision": 0.966275659824047,
+    "recall": 0.9789067142008319,
+    "f1": 0.9725501770956317,
+    "per_entity": {
+      "ACTIVE": {
+        "precision": 0.8484848484848485,
+        "recall": 0.9333333333333333,
+        "f1-score": 0.888888888888889,
+        "support": 180
+      },
+      "FREQ": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 596
+      },
+      "REACT": {
+        "precision": 0.9622898682417084,
+        "recall": 0.9728984841525035,
+        "f1-score": 0.9675650982183647,
+        "support": 2177
+      },
+      "SYS": {
+        "precision": 0.9951807228915662,
+        "recall": 1.0,
+        "f1-score": 0.9975845410628019,
+        "support": 413
+      },
+      "micro avg": {
+        "precision": 0.966275659824047,
+        "recall": 0.9789067142008319,
+        "f1-score": 0.9725501770956317,
+        "support": 3366
+      },
+      "macro avg": {
+        "precision": 0.9514888599045308,
+        "recall": 0.9765579543714592,
+        "f1-score": 0.9635096320425138,
+        "support": 3366
+      },
+      "weighted avg": {
+        "precision": 0.9669168016766753,
+        "recall": 0.9789067142008319,
+        "f1-score": 0.9727842050743664,
+        "support": 3366
+      }
+    }
+  },
+  "overall": {
+    "ent_type": {
+      "correct": 3358,
+      "incorrect": 2,
+      "partial": 0,
+      "missed": 6,
+      "spurious": 50,
+      "precision": 0.9848,
+      "recall": 0.9976,
+      "f1": 0.9911
+    },
+    "exact": {
+      "correct": 3297,
+      "incorrect": 63,
+      "partial": 0,
+      "missed": 6,
+      "spurious": 50,
+      "precision": 0.9669,
+      "recall": 0.9795,
+      "f1": 0.9731
+    },
+    "partial": {
+      "correct": 3297,
+      "incorrect": 0,
+      "partial": 63,
+      "missed": 6,
+      "spurious": 50,
+      "precision": 0.9761,
+      "recall": 0.9889,
+      "f1": 0.9824
+    },
+    "strict": {
+      "correct": 3295,
+      "incorrect": 65,
+      "partial": 0,
+      "missed": 6,
+      "spurious": 50,
+      "precision": 0.9663,
+      "recall": 0.9789,
+      "f1": 0.9726
+    }
+  },
+  "entities": {
+    "ACTIVE": {
+      "ent_type": {
+        "correct": 180,
+        "incorrect": 0,
+        "partial": 0,
+        "missed": 0,
+        "spurious": 18,
+        "precision": 0.9091,
+        "recall": 1.0,
+        "f1": 0.9524
+      },
+      "exact": {
+        "correct": 168,
+        "incorrect": 12,
+        "partial": 0,
+        "missed": 0,
+        "spurious": 18,
+        "precision": 0.8485,
+        "recall": 0.9333,
+        "f1": 0.8889
+      },
+      "partial": {
+        "correct": 168,
+        "incorrect": 0,
+        "partial": 12,
+        "missed": 0,
+        "spurious": 18,
+        "precision": 0.8788,
+        "recall": 0.9667,
+        "f1": 0.9206
+      },
+      "strict": {
+        "correct": 168,
+        "incorrect": 12,
+        "partial": 0,
+        "missed": 0,
+        "spurious": 18,
+        "precision": 0.8485,
+        "recall": 0.9333,
+        "f1": 0.8889
+      }
+    },
+    "FREQ": {
+      "ent_type": {
+        "correct": 596,
+        "incorrect": 0,
+        "partial": 0,
+        "missed": 0,
+        "spurious": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "exact": {
+        "correct": 596,
+        "incorrect": 0,
+        "partial": 0,
+        "missed": 0,
+        "spurious": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "partial": {
+        "correct": 596,
+        "incorrect": 0,
+        "partial": 0,
+        "missed": 0,
+        "spurious": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "strict": {
+        "correct": 596,
+        "incorrect": 0,
+        "partial": 0,
+        "missed": 0,
+        "spurious": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      }
+    },
+    "REACT": {
+      "ent_type": {
+        "correct": 2169,
+        "incorrect": 0,
+        "partial": 0,
+        "missed": 8,
+        "spurious": 32,
+        "precision": 0.9855,
+        "recall": 0.9963,
+        "f1": 0.9909
+      },
+      "exact": {
+        "correct": 2118,
+        "incorrect": 51,
+        "partial": 0,
+        "missed": 8,
+        "spurious": 32,
+        "precision": 0.9623,
+        "recall": 0.9729,
+        "f1": 0.9676
+      },
+      "partial": {
+        "correct": 2118,
+        "incorrect": 0,
+        "partial": 51,
+        "missed": 8,
+        "spurious": 32,
+        "precision": 0.9739,
+        "recall": 0.9846,
+        "f1": 0.9792
+      },
+      "strict": {
+        "correct": 2118,
+        "incorrect": 51,
+        "partial": 0,
+        "missed": 8,
+        "spurious": 32,
+        "precision": 0.9623,
+        "recall": 0.9729,
+        "f1": 0.9676
+      }
+    },
+    "SYS": {
+      "ent_type": {
+        "correct": 413,
+        "incorrect": 0,
+        "partial": 0,
+        "missed": 0,
+        "spurious": 2,
+        "precision": 0.9952,
+        "recall": 1.0,
+        "f1": 0.9976
+      },
+      "exact": {
+        "correct": 413,
+        "incorrect": 0,
+        "partial": 0,
+        "missed": 0,
+        "spurious": 2,
+        "precision": 0.9952,
+        "recall": 1.0,
+        "f1": 0.9976
+      },
+      "partial": {
+        "correct": 413,
+        "incorrect": 0,
+        "partial": 0,
+        "missed": 0,
+        "spurious": 2,
+        "precision": 0.9952,
+        "recall": 1.0,
+        "f1": 0.9976
+      },
+      "strict": {
+        "correct": 413,
+        "incorrect": 0,
+        "partial": 0,
+        "missed": 0,
+        "spurious": 2,
+        "precision": 0.9952,
+        "recall": 1.0,
+        "f1": 0.9976
+      }
+    }
+  },
+  "loose_overlap": {
+    "ACTIVE": {
+      "precision": 0.9697,
+      "recall": 1.0,
+      "f1": 0.9846,
+      "matched_pred": 192,
+      "gold": 180,
+      "pred": 198
+    },
+    "FREQ": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "matched_pred": 596,
+      "gold": 596,
+      "pred": 596
+    },
+    "REACT": {
+      "precision": 0.9905,
+      "recall": 0.9977,
+      "f1": 0.9941,
+      "matched_pred": 2180,
+      "gold": 2177,
+      "pred": 2201
+    },
+    "SYS": {
+      "precision": 0.9952,
+      "recall": 1.0,
+      "f1": 0.9976,
+      "matched_pred": 413,
+      "gold": 413,
+      "pred": 415
+    }
+  }
+}

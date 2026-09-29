@@ -1,0 +1,1172 @@
+[
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "infecciones",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "infección por CMV",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "nefropatía asociada a virus BK",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "leucoencefalopatía multifocal progresiva (LMP) asociada a virus JC",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Infecciones e infestaciones"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "neoplasias benignas",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Neoplasias benignas, malignas y no especificadas (incl quistes y pólipos)"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "neoplasias malignas",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Neoplasias benignas, malignas y no especificadas (incl quistes y pólipos)"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "trastornos linfoproliferativos asociados con VEB",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Neoplasias benignas, malignas y no especificadas (incl quistes y pólipos)"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "neoplasias cutáneas asociadas al tratamiento con tacrólimus",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Neoplasias benignas, malignas y no especificadas (incl quistes y pólipos)"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "anemia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "trombocitopenia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "leucopenia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "análisis eritrocitario anormal",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "leucocitosis",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "coagulopatías",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "pancitopenia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "neutropenia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "anomalías en los análisis de la coagulación y del sangrado",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "microangiopatía trombótica",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "púrpura trombocitopénica trombótica",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "hipoprotrombinemia",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "aplasia eritrocitaria pura",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "agranulocitosis",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "anemia hemolítica",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "neutropenia febril",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "reacciones alérgicas y anafilactoides",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del sistema inmunológico"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "hirsutismo",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos endocrinos"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "diabetes mellitus",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "hiperglucemia",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "hiperpotasemia",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "acidosis metabólica",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "otras anomalías electrolíticas",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "hiponatremia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "sobrecarga de líquidos",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "hiperuricemia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "hipomagnesemia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "hipopotasemia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "hipocalcemia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "disminución del apetito",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "hipercolesterolemia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "hiperlipidemia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "hipertrigliceridemia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "hipofosfatemia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "deshidratación",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "hipoglucemia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "hipoproteinemia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "hiperfosfatemia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "insomnio",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "confusión y desorientación",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "depresión",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "síntomas de ansiedad",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "alucinaciones",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "trastornos mentales",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "estado de ánimo deprimido",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "alteraciones del humor",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "pesadillas",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "trastornos psicóticos",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "cefalea",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "temblor",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "trastornos del sistema nervioso",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "convulsiones",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "alteraciones de la conciencia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "neuropatías periféricas",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "mareo",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "parestesias y disestesias",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "alteración de la expresión escrita",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "encefalopatía",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "hemorragias del sistema nervioso central y accidentes cerebrovasculares",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "coma",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "anormalidades del habla y del lenguaje",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "parálisis y paresia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "amnesia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "hipertonía",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "miastenia",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "síndrome de encefalopatía posterior reversible (SEPR)",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "alteraciones oculares",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "visión borrosa",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "fotofobia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "cataratas",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "ceguera",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "neuropatía óptica",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "acúfenos",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del oído y del laberinto"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "hipoacusia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del oído y del laberinto"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "sordera neurosensorial",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del oído y del laberinto"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "audición alterada",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos del oído y del laberinto"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "alteraciones isquémicas de las arterias coronarias",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "taquicardia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "insuficiencia cardíaca",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "arritmias ventriculares y parada cardiaca",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "arritmias supraventriculares",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "cardiomiopatías",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "hipertrofia ventricular",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "palpitaciones",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "derrame pericárdico",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "Torsades de pointes",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos cardiacos"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "hipertensión",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "acontecimientos tromboembólicos e isquémicos",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "trastornos vasculares hipotensivos",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "hemorragias",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "trastornos vasculares periféricos",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "trombosis venosa profunda en miembros",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "shock",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "infarto",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "trastornos pulmonares parenquimatosos",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "disnea",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "derrame pleural",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "tos",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "faringitis",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "congestión e inflamación nasales",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "insuficiencias respiratorias",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "trastornos del tracto respiratorio",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "asma",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "síndrome de sufrimiento respiratorio agudo",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "diarrea",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "náuseas",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "signos y síntomas gastrointestinales",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "vómitos",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "dolores gastrointestinales y abdominales",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "trastornos inflamatorios gastrointestinales",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "hemorragias gastrointestinales",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "perforación y úlceras gastrointestinales",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "ascitis",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "estomatitis y úlceras",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "estreñimiento",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "signos y síntomas dispépticos",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "flatulencia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "distensión",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "deposiciones blandas",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "pancreatitis aguda y crónica",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "íleo paralítico",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "enfermedad por reflujo gastroesofágico",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "vaciamiento gástrico alterado",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "pseudoquiste pancreático",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "subíleo",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "trastornos de los conductos biliares",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "lesión hepatocelular y hepatitis",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "colestasis e ictericia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "enfermedad hepática por oclusión venosa",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "trombosis de la arteria hepática",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "insuficiencia hepática",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "erupción",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "prurito",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "alopecia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "acné",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "aumento de la sudoración",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "dermatitis",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "fotosensibilidad",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "necrólisis epidérmica tóxica (síndrome de Lyell)",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "síndrome de Stevens-Johnson",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "artralgia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "dolor de espalda",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "espasmos musculares",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "dolor en una extremidad",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "trastornos articulares",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "disminución de la movilidad",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "deterioro renal",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "insuficiencia renal",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "insuficiencia renal aguda",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "nefropatía tóxica",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "necrosis tubular renal",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "anormalidades de la orina",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "oliguria",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "síntomas vesicales y uretrales",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "síndrome hemolítico urémico",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "anuria",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "nefropatía",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "cistitis hemorrágica",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "dismenorrea y hemorragia uterina",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos del aparato reproductor y de la mama"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "trastornos febriles",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "dolor y malestar",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "trastornos asténicos",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "edema",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "alteración de la percepción de la temperatura corporal",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "enfermedad de tipo gripal",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "sensación de inquietud",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "sensación anormal",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "insuficiencia multiorgánica",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "sensación de opresión torácica",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "intolerancia a la temperatura",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "caída",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "úlcera",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "opresión torácica",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "sed",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "tejido adiposo aumentado",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "pruebas de función hepática anormales",
+    "frecuencia": "Muy frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "fosfatasa alcalina en sangre aumentada",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "peso aumentado",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "amilasa elevada",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "ECG anormal",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "anomalías en los estudios de ritmo y pulso cardiaco",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "peso disminuido",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "lactatodeshidrogenasa elevada en sangre",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "ecocardiograma anormal",
+    "frecuencia": "Muy raras",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "intervalo QT del electrocardiograma prolongado",
+    "frecuencia": "Muy raras",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "disfunción primaria del trasplante",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Lesiones traumáticas, intoxicaciones y complicaciones de procedimientos terapéuticos"
+  },
+  {
+    "principio activo": "TACROLIMUS",
+    "reacción adversa": "rechazo de trasplantes",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Lesiones traumáticas, intoxicaciones y complicaciones de procedimientos terapéuticos"
+  }
+]

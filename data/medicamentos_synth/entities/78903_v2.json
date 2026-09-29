@@ -1,0 +1,415 @@
+{
+  "codigo": "78903",
+  "variante": 2,
+  "codigo_variant": "78903_v2",
+  "medicamento": "BISOPROLOL CINFA 5 MG COMPRIMIDOS EFG",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "BISOPROLOL FUMARATO",
+      "surface": "BISOPROLOL FUMARATO",
+      "start": 94,
+      "end": 113
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "BISOPROLOL FUMARATO",
+      "surface": "bisoprolol",
+      "start": 94,
+      "end": 104
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "BISOPROLOL FUMARATO",
+      "surface": "BISOPROLOL CINFA",
+      "start": 539,
+      "end": 555
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 931,
+      "end": 959
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 960,
+      "end": 982
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alopecia",
+      "surface": "Alopecia",
+      "start": 984,
+      "end": 992
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupciones similares a la psoriasis",
+      "surface": "Erupciones similares a la psoriasis",
+      "start": 994,
+      "end": 1029
+    },
+    {
+      "type": "REACT",
+      "canonical": "Psoriasis",
+      "surface": "Psoriasis",
+      "start": 1020,
+      "end": 1029
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 1042,
+      "end": 1054
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipersensibilidad (prurito, rubefacción, erupción cutánea, angioedema)",
+      "surface": "Hipersensibilidad (prurito, rubefacción, erupción cutánea, angioedema)",
+      "start": 1056,
+      "end": 1126
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1129,
+      "end": 1166
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes",
+      "start": 1167,
+      "end": 1181
+    },
+    {
+      "type": "REACT",
+      "canonical": "Bradicardia",
+      "surface": "Bradicardia",
+      "start": 1183,
+      "end": 1194
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 1171,
+      "end": 1181
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión",
+      "start": 1208,
+      "end": 1219
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia cardiaca descompensada",
+      "surface": "Insuficiencia cardiaca descompensada",
+      "start": 1221,
+      "end": 1257
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sensación de frío o entumecimiento de extremidades",
+      "surface": "Sensación de frío o entumecimiento de extremidades",
+      "start": 1259,
+      "end": 1309
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 1311,
+      "end": 1326
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones de la conducción AV",
+      "surface": "Alteraciones de la conducción AV",
+      "start": 1328,
+      "end": 1360
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión ortostática",
+      "surface": "Hipotensión ortostática",
+      "start": 1362,
+      "end": 1385
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 1388,
+      "end": 1412
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones del sueño",
+      "surface": "Alteraciones del sueño",
+      "start": 1430,
+      "end": 1452
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión",
+      "surface": "Depresión",
+      "start": 1454,
+      "end": 1463
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alucinación",
+      "surface": "Alucinación",
+      "start": 1479,
+      "end": 1490
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pesadillas",
+      "surface": "Pesadillas",
+      "start": 1492,
+      "end": 1502
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 1505,
+      "end": 1535
+    },
+    {
+      "type": "REACT",
+      "canonical": "Astenia",
+      "surface": "Astenia",
+      "start": 1548,
+      "end": 1555
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "Fatiga",
+      "start": 1557,
+      "end": 1563
+    },
+    {
+      "type": "SYS",
+      "canonical": "PRUEBAS COMPLEMENTARIAS",
+      "surface": "PRUEBAS COMPLEMENTARIAS",
+      "start": 1566,
+      "end": 1589
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de las enzimas hepáticas (AST, ALT)",
+      "surface": "Aumento de las enzimas hepáticas (AST, ALT)",
+      "start": 1604,
+      "end": 1647
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de los triglicéridos",
+      "surface": "Aumento de los triglicéridos",
+      "start": 1649,
+      "end": 1677
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 1680,
+      "end": 1715
+    },
+    {
+      "type": "REACT",
+      "canonical": "Broncoespasmo en pacientes con asma bronquial u obstrucción de las vías aéreas",
+      "surface": "Broncoespasmo en pacientes con asma bronquial u obstrucción de las vías aéreas",
+      "start": 1733,
+      "end": 1811
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rinitis alérgica",
+      "surface": "Rinitis alérgica",
+      "start": 1827,
+      "end": 1843
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 1846,
+      "end": 1888
+    },
+    {
+      "type": "REACT",
+      "canonical": "Calambres",
+      "surface": "Calambres",
+      "start": 1906,
+      "end": 1915
+    },
+    {
+      "type": "REACT",
+      "canonical": "Debilidad muscular",
+      "surface": "Debilidad muscular",
+      "start": 1917,
+      "end": 1935
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1938,
+      "end": 1969
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea",
+      "start": 1982,
+      "end": 1989
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareos",
+      "surface": "Mareos",
+      "start": 1991,
+      "end": 1997
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síncope",
+      "surface": "Síncope",
+      "start": 2013,
+      "end": 2020
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 2023,
+      "end": 2060
+    },
+    {
+      "type": "REACT",
+      "canonical": "Conjuntivitis",
+      "surface": "Conjuntivitis",
+      "start": 2085,
+      "end": 2098
+    },
+    {
+      "type": "REACT",
+      "canonical": "Deterioro de la audición",
+      "surface": "Deterioro de la audición",
+      "start": 2114,
+      "end": 2138
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de la producción de lágrimas (a tener en cuenta si se utiliza lentes de contacto)",
+      "surface": "Disminución de la producción de lágrimas (a tener en cuenta si se utiliza lentes de contacto)",
+      "start": 2140,
+      "end": 2233
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 2236,
+      "end": 2268
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea",
+      "start": 2281,
+      "end": 2288
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento",
+      "start": 2290,
+      "end": 2303
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 2305,
+      "end": 2312
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos",
+      "start": 2314,
+      "end": 2321
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hepatitis",
+      "surface": "Hepatitis",
+      "start": 2337,
+      "end": 2346
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "start": 2349,
+      "end": 2383
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disfunción eréctil",
+      "surface": "Disfunción eréctil",
+      "start": 2398,
+      "end": 2416
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "Trastornos del sistema general",
+      "start": 1505,
+      "end": 1535
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "cansancio",
+      "start": 3677,
+      "end": 3686
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alopecia",
+      "surface": "pérdida de cabello",
+      "start": 4379,
+      "end": 4397
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "Trastornos psiquiátricos",
+      "start": 1388,
+      "end": 1412
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones del sueño",
+      "surface": "problemas para dormir",
+      "start": 4857,
+      "end": 4878
+    }
+  ]
+}

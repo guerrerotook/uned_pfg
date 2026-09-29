@@ -1,0 +1,387 @@
+{
+  "codigo": "69589",
+  "variante": 1,
+  "codigo_variant": "69589_v1",
+  "medicamento": "SPIRIVA RESPIMAT 2,5 microgramos SOLUCION PARA INHALACION",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "TIOTROPIO BROMURO",
+      "surface": "TIOTROPIO BROMURO",
+      "start": 83,
+      "end": 100
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 1177,
+      "end": 1214
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 1215,
+      "end": 1230
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la presión intraocular",
+      "surface": "Aumento de la presión intraocular",
+      "start": 1232,
+      "end": 1265
+    },
+    {
+      "type": "REACT",
+      "canonical": "Glaucoma",
+      "surface": "Glaucoma",
+      "start": 1267,
+      "end": 1275
+    },
+    {
+      "type": "REACT",
+      "canonical": "Visón borrosa",
+      "surface": "Visón borrosa",
+      "start": 1277,
+      "end": 1290
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 1292,
+      "end": 1314
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 1377,
+      "end": 1412
+    },
+    {
+      "type": "REACT",
+      "canonical": "Broncoespasmo",
+      "surface": "Broncoespasmo",
+      "start": 1430,
+      "end": 1443
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disfonía",
+      "surface": "Disfonía",
+      "start": 1445,
+      "end": 1453
+    },
+    {
+      "type": "REACT",
+      "canonical": "Epistaxis",
+      "surface": "Epistaxis",
+      "start": 1455,
+      "end": 1464
+    },
+    {
+      "type": "REACT",
+      "canonical": "Faringitis",
+      "surface": "Faringitis",
+      "start": 1466,
+      "end": 1476
+    },
+    {
+      "type": "REACT",
+      "canonical": "Laringitis",
+      "surface": "Laringitis",
+      "start": 1478,
+      "end": 1488
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tos",
+      "surface": "Tos",
+      "start": 1490,
+      "end": 1493
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sinusitis",
+      "surface": "Sinusitis",
+      "start": 1531,
+      "end": 1540
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1543,
+      "end": 1575
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 1220,
+      "end": 1230
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad de boca",
+      "surface": "Sequedad de boca",
+      "start": 1588,
+      "end": 1604
+    },
+    {
+      "type": "REACT",
+      "canonical": "Candidiasis orofaríngea",
+      "surface": "Candidiasis orofaríngea",
+      "start": 1623,
+      "end": 1646
+    },
+    {
+      "type": "REACT",
+      "canonical": "Caries dental",
+      "surface": "Caries dental",
+      "start": 1648,
+      "end": 1661
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disfagia",
+      "surface": "Disfagia",
+      "start": 1663,
+      "end": 1671
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estomatitis",
+      "surface": "Estomatitis",
+      "start": 1673,
+      "end": 1684
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento",
+      "start": 1686,
+      "end": 1699
+    },
+    {
+      "type": "REACT",
+      "canonical": "Gingivitis",
+      "surface": "Gingivitis",
+      "start": 1701,
+      "end": 1711
+    },
+    {
+      "type": "REACT",
+      "canonical": "Glositis",
+      "surface": "Glositis",
+      "start": 1713,
+      "end": 1721
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reflujo gastroesofágico",
+      "surface": "Reflujo gastroesofágico",
+      "start": 1723,
+      "end": 1746
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 1838,
+      "end": 1845
+    },
+    {
+      "type": "REACT",
+      "canonical": "Obstrucción intestinal, incluyendo íleo paralítico",
+      "surface": "Obstrucción intestinal, incluyendo íleo paralítico",
+      "start": 1847,
+      "end": 1897
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1925,
+      "end": 1956
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea",
+      "start": 1974,
+      "end": 1981
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insonmio",
+      "surface": "Insonmio",
+      "start": 1983,
+      "end": 1991
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareos",
+      "surface": "Mareos",
+      "start": 1993,
+      "end": 1999
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "start": 2002,
+      "end": 2043
+    },
+    {
+      "type": "REACT",
+      "canonical": "Deshidratación",
+      "surface": "Deshidratación",
+      "start": 2068,
+      "end": 2082
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "start": 2085,
+      "end": 2116
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disuria",
+      "surface": "Disuria",
+      "start": 2134,
+      "end": 2141
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infección del tracto urinario",
+      "surface": "Infección del tracto urinario",
+      "start": 2143,
+      "end": 2172
+    },
+    {
+      "type": "REACT",
+      "canonical": "Retención urinaria",
+      "surface": "Retención urinaria",
+      "start": 2174,
+      "end": 2192
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 2279,
+      "end": 2307
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema angioneurótico",
+      "surface": "Edema angioneurótico",
+      "start": 2325,
+      "end": 2345
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción",
+      "surface": "Erupción",
+      "start": 2347,
+      "end": 2355
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipersensibilidad",
+      "surface": "Hipersensibilidad",
+      "start": 2357,
+      "end": 2374
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infección de la piel/úlcera en la piel",
+      "surface": "Infección de la piel/úlcera en la piel",
+      "start": 2376,
+      "end": 2414
+    },
+    {
+      "type": "REACT",
+      "canonical": "Piel seca",
+      "surface": "Piel seca",
+      "start": 2416,
+      "end": 2425
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito",
+      "start": 2427,
+      "end": 2434
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria",
+      "start": 2436,
+      "end": 2445
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacción anafiláctica",
+      "surface": "Reacción anafiláctica",
+      "start": 2541,
+      "end": 2562
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 2565,
+      "end": 2602
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fibrilación auricular",
+      "surface": "Fibrilación auricular",
+      "start": 2620,
+      "end": 2641
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones",
+      "start": 2643,
+      "end": 2656
+    },
+    {
+      "type": "REACT",
+      "canonical": "Taquicardia",
+      "surface": "Taquicardia",
+      "start": 2658,
+      "end": 2669
+    },
+    {
+      "type": "REACT",
+      "canonical": "Taquicardia supraventricular",
+      "surface": "Taquicardia supraventricular",
+      "start": 2671,
+      "end": 2699
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 2792,
+      "end": 2834
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tumefacción en articulación",
+      "surface": "Tumefacción en articulación",
+      "start": 2859,
+      "end": 2886
+    }
+  ]
+}

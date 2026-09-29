@@ -1,0 +1,57 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+El perfil de seguridad de TIOTROPIO BROMURO es coherente con su acción farmacológica y con la experiencia acumulada tras la administración por vía inhalatoria. En los ensayos y en la vigilancia posterior a la comercialización, la mayoría de los acontecimientos notificados fueron de intensidad leve o moderada y generalmente no requirieron medidas específicas distintas del seguimiento clínico habitual. La evaluación de causalidad se ha basado en la relación temporal con la administración, la plausibilidad farmacológica y la ausencia de explicaciones alternativas claras. La interpretación debe realizarse teniendo en cuenta la enfermedad de base, los tratamientos concomitantes y la técnica de uso del dispositivo. En caso de síntomas persistentes o clínicamente relevantes, se recomienda valorar la continuidad del tratamiento de acuerdo con el balance beneficio-riesgo individual.
+
+Lista tabulada de reacciones adversas
+Las reacciones se presentan por sistema de clasificación de órganos y por categoría de frecuencia. Dentro de cada grupo, las reacciones se enumeran utilizando la terminología clínica habitual.
+
+TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS
+poco frecuentes: Aumento de la presión intraocular, Glaucoma, Visón borrosa.
+frecuencia no conocida: Aumento de la presión intraocular, Glaucoma, Visón borrosa.
+
+TRASTORNOS DEL SISTEMA RESPIRATORIO
+poco frecuentes: Broncoespasmo, Disfonía, Epistaxis, Faringitis, Laringitis, Tos.
+frecuencia no conocida: Laringitis, Sinusitis.
+
+TRASTORNOS DEL SISTEMA DIGESTIVO
+frecuentes: Sequedad de boca.
+poco frecuentes: Candidiasis orofaríngea, Caries dental, Disfagia, Estomatitis, Estreñimiento, Gingivitis, Glositis, Reflujo gastroesofágico, Sequedad de boca.
+frecuencia no conocida: Caries dental, Disfagia, Estomatitis, Glositis, Náuseas, Obstrucción intestinal, incluyendo íleo paralítico, Reflujo gastroesofágico.
+
+TRASTORNOS DEL SISTEMA NERVIOSO
+poco frecuentes: Cefalea, Insonmio, Mareos.
+
+TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN
+frecuencia no conocida: Deshidratación.
+
+TRASTORNOS DEL SISTEMA EXCRETOR
+poco frecuentes: Disuria, Infección del tracto urinario, Retención urinaria.
+frecuencia no conocida: Disuria, Infección del tracto urinario, Retención urinaria.
+
+TRASTORNOS DE PIEL Y TEJIDOS
+poco frecuentes: Edema angioneurótico, Erupción, Hipersensibilidad, Infección de la piel/úlcera en la piel, Piel seca, Prurito, Urticaria.
+frecuencia no conocida: Hipersensibilidad, Infección de la piel/úlcera en la piel, Piel seca, Reacción anafiláctica.
+
+TRASTORNOS DEL SISTEMA CARDIOVASCULAR
+poco frecuentes: Fibrilación auricular, Palpitaciones, Taquicardia, Taquicardia supraventricular.
+frecuencia no conocida: Fibrilación auricular, Taquicardia, Taquicardia supraventricular.
+
+TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO
+frecuencia no conocida: Tumefacción en articulación.
+
+Descripción de reacciones adversas seleccionadas
+Algunos acontecimientos pueden relacionarse con el mecanismo local o sistémico esperado tras la administración inhalatoria. La aparición de molestias nuevas después de iniciar el tratamiento debe evaluarse de forma individual, especialmente cuando exista predisposición clínica o uso concomitante de otros medicamentos con efectos farmacológicos similares. La notificación de sospechas permite continuar caracterizando el perfil de seguridad en condiciones reales de uso.
+
+En la práctica clínica, la educación del paciente sobre el manejo correcto del dispositivo, la evitación del contacto accidental con zonas sensibles y la revisión periódica de la respuesta terapéutica contribuyen a reducir incidencias evitables. La decisión de suspender o mantener el tratamiento debe basarse en la gravedad, la recurrencia, la evolución tras medidas de soporte y la disponibilidad de alternativas adecuadas.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+Dentro del sistema de clasificación de órganos TRASTORNOS DEL SISTEMA DIGESTIVO, se ha notificado Obstrucción intestinal, incluyendo íleo paralítico asociada al tratamiento con TIOTROPIO BROMURO, con frecuencia no conocida. Este acontecimiento debe interpretarse en el contexto de la actividad anticolinérgica del medicamento y de los factores predisponentes del paciente. Se recomienda valorar la evolución clínica y considerar medidas de seguimiento apropiadas si aparecen signos compatibles. La notificación de sospechas de reacciones adversas permite continuar evaluando el balance beneficio-riesgo.
+
+-- Caso 2 --
+En el sistema TRASTORNOS DE PIEL Y TEJIDOS, Infección de la piel/úlcera en la piel se clasifica entre las reacciones adversas poco frecuentes durante el tratamiento con TIOTROPIO BROMURO. Este hallazgo debe interpretarse en el contexto del perfil de seguridad conocido y de las condiciones clínicas predisponentes del paciente, sin modificar por sí solo la relación beneficio-riesgo del medicamento. Ante la aparición de signos compatibles, se recomienda seguimiento clínico y valoración individual de la continuidad del tratamiento, de acuerdo con la gravedad y la evolución.
+
+-- Caso 3 --
+Sequedad de boca se ha notificado como una de las reacciones adversas frecuentes asociadas al tratamiento con TIOTROPIO BROMURO, incluida en la clasificación TRASTORNOS DEL SISTEMA DIGESTIVO. Este efecto es coherente con la actividad anticolinérgica local del medicamento administrado por vía inhalatoria. En la mayoría de los casos, la reacción puede ser objeto de seguimiento clínico habitual, valorando su persistencia e intensidad durante el tratamiento. Se recomienda informar al paciente de que comunique cualquier molestia mantenida, especialmente si interfiere con la tolerabilidad o el uso correcto del tratamiento.

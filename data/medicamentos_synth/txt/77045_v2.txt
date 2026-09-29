@@ -1,0 +1,47 @@
+4.8 Reacciones adversas
+
+Resumen del perfil de seguridad
+
+El perfil de seguridad descrito para LEVOTIROXINA SODICA se basa en notificaciones acumuladas durante el uso clínico y en la vigilancia posterior a la comercialización. En general, las manifestaciones notificadas deben valorarse junto con la situación clínica del paciente, la pauta de administración y la evolución temporal tras el inicio o el ajuste del tratamiento. La levotiroxina, también conocida de forma abreviada como T4, se utiliza como sustitución hormonal y requiere una individualización cuidadosa de la dosis. Cuando se observan acontecimientos compatibles con una reacción relacionada con el medicamento, se recomienda revisar la exposición, la adherencia y otros factores concomitantes antes de modificar el tratamiento.
+
+Las notificaciones disponibles no permiten calcular de forma fiable una incidencia para los acontecimientos incluidos a continuación; por ello se presentan como de frecuencia no conocida. La información debe interpretarse de forma descriptiva y no sustituye a la evaluación clínica de cada caso. En la práctica, la aparición de signos en la superficie corporal puede motivar consulta, especialmente si se inicia de manera brusca o se asocia temporalmente al tratamiento. La decisión de continuar, interrumpir temporalmente o ajustar la medicación debe realizarse de acuerdo con el criterio médico y con la gravedad del cuadro observado.
+
+Lista tabulada de reacciones adversas
+
+Trastornos de piel y tejidos
+
+frecuencia no conocida: Angioedema; Erupción cuttánea (sarpullido); Urticaria (ronchas).
+
+Descripción de reacciones adversas seleccionadas
+
+Angioedema puede aparecer como una manifestación de inicio rápido y requiere una valoración clínica inmediata, especialmente si compromete zonas sensibles o progresa en poco tiempo. En estos casos, la relación temporal con la administración del medicamento, la presencia de antecedentes personales y la exposición a otros productos deben documentarse con detalle. La identificación temprana facilita una actuación proporcionada y ayuda a decidir si es necesario suspender la administración de levotiroxina sódica.
+
+Urticaria puede presentarse en forma de lesiones elevadas y transitorias, a veces descritas por el paciente como ronchas. Aunque estas manifestaciones pueden tener múltiples causas, conviene registrar su inicio, duración y posible recurrencia. Si coinciden con cambios recientes en la dosis, con la introducción de otros medicamentos o con variaciones en la forma de administración, esos datos pueden ser relevantes para la evaluación de causalidad.
+
+Erupción cuttánea puede notificarse como un cambio visible de la superficie corporal y, en lenguaje no técnico, como sarpullido. La intensidad, extensión y evolución deben recogerse de manera sistemática. Dado que la información disponible procede de comunicaciones espontáneas, la frecuencia no conocida refleja la imposibilidad de estimar una tasa real con los datos existentes. Cualquier sospecha de reacción debe notificarse mediante los sistemas habituales de farmacovigilancia para mejorar la caracterización del perfil de seguridad.
+
+Descripción de reacciones adversas seleccionadas (extensión):
+
+-- Caso 1 --
+En la experiencia poscomercialización con levotiroxina sódica (levotiroxina), se ha notificado Angioedema (hinchazón localizada) dentro del sistema Trastornos de piel y tejidos, con frecuencia no conocida. La aparición de esta reacción puede ser compatible con un fenómeno de hipersensibilidad y debe valorarse en el contexto clínico del paciente y de la exposición al tratamiento.
+
+Listado tabulado:
+- Trastornos de piel y tejidos: Angioedema; frecuencia no conocida.
+
+Si se sospecha relación temporal con el medicamento, se recomienda seguimiento clínico y considerar las medidas habituales según la gravedad.
+
+-- Caso 2 --
+En el sistema TRASTORNOS DE PIEL Y TEJIDOS se ha notificado Urticaria con levotiroxina (LEVOTIROXINA SODICA), con frecuencia no conocida. Esta reacción puede aparecer durante el tratamiento y debe valorarse junto con la situación clínica del paciente y la exposición al medicamento.
+
+Tabla de reacciones adversas:
+- TRASTORNOS DE PIEL Y TEJIDOS: Urticaria (ronchas), frecuencia no conocida.
+
+Si se identifica Urticaria, se recomienda considerar la continuidad del tratamiento, la necesidad de seguimiento clínico y la posible relación temporal con la administración de levotiroxina, especialmente si existe coincidencia temporal clara.
+
+-- Caso 3 --
+En el perfil de seguridad de LEVOTIROXINA SODICA, la erupción cutánea debe considerarse dentro de los trastornos dermatológicos asociados al tratamiento con levotiroxina. La notificación procede de datos poscomercialización, por lo que su frecuencia no puede estimarse a partir de los datos disponibles.
+
+Lista tabulada de reacciones adversas:
+- TRASTORNOS DE PIEL Y TEJIDOS: Erupción cuttánea, frecuencia no conocida.
+
+Ante la aparición de esta manifestación (sarpullido), se recomienda valorar la relación temporal con la administración y el contexto clínico del paciente. El seguimiento debe realizarse conforme a la práctica clínica habitual, considerando la continuidad del tratamiento según la evaluación individual.

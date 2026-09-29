@@ -1,0 +1,873 @@
+{
+  "codigo": "23622",
+  "variante": 2,
+  "codigo_variant": "23622_v2",
+  "medicamento": "Sulmetin simple 150 mg/ml solución inyectable y para perfusión",
+  "model": "gpt-5.5",
+  "style_variant_idx": 1,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil de seguridad descrito para Sulmetin procede de la administración clínica de preparaciones parenterales con CITRATO TRISODIO y debe interpretarse considerando la velocidad de administración, la situación basal del paciente y la vigilancia durante el tratamiento. En general, las manifestaciones notificadas fueron reversibles tras la interrupción o el ajuste de la perfusión y la aplicación de medidas de soporte habituales. El citrato trisódico puede producir efectos relacionados con cambios transitorios en el tono vascular, la conducción neuromuscular y el estado de alerta. La valoración clínica debe centrarse en la detección temprana de signos de intolerancia, especialmente en pacientes frágiles o con reserva funcional reducida. La información siguiente se presenta siguiendo la clasificación por órganos y la frecuencia indicada en la evaluación disponible.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\nfrecuentes: bradicardia, hipotensión por vasodilatación periférica, rubor.\npoco frecuentes: parada cardiaca o colapso circulatorio, vasodilatación consensación de calor.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\npoco frecuentes: coma, confusión, depresión del SNC que puede preceder a la parálisis respiratoria, dolor de cabeza, mareos, somnolencia.\nfrecuentes: pérdida de reflejo tendinoso.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\npoco frecuentes: debilidad muscular.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\npoco frecuentes: depresión respiratoria debido al bloqueo neuromuscular.\n\nTRASTORNOS DE PIEL Y TEJIDOS\npoco frecuentes: dolor en el punto de inyección.\n\nTRASTORNOS DEL SISTEMA GENERAL\npoco frecuentes: hipotermia.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\npoco frecuentes: náuseas, sed, vómitos.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\npoco frecuentes: problemas de la visión, problemas del habla.\n\nTRASTORNOS DEL SISTEMA ENDOCRINO\npoco frecuentes: sudoración excesiva.\n\nDescripción de reacciones adversas seleccionadas\nLas alteraciones hemodinámicas pueden aparecer durante la administración o poco después de la misma. En este contexto se han descrito bradicardia, hipotensión por vasodilatación periférica y rubor (sofoco), por lo que se recomienda mantener observación clínica adecuada durante el periodo de exposición. En casos aislados dentro de la experiencia disponible se ha comunicado parada cardiaca o colapso circulatorio, situación que requiere actuación inmediata y medidas de soporte.\n\nLas manifestaciones relacionadas con el nivel de conciencia o la transmisión neuromuscular deben evaluarse de forma continuada. La aparición de depresión del SNC que puede preceder a la parálisis respiratoria, coma o depresión respiratoria debido al bloqueo neuromuscular puede indicar una respuesta excesiva al tratamiento o una acumulación funcional en pacientes susceptibles. También pueden presentarse náuseas, vómitos, sed y dolor en el punto de inyección, que generalmente se manejan con vigilancia, ajuste de la administración y tratamiento sintomático si procede.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nDentro del sistema de clasificación de órganos Trastornos del sistema nervioso, se han descrito mareos (sensación de inestabilidad) con una frecuencia poco frecuentes durante el tratamiento con citrato trisodio. En la lista tabulada de reacciones adversas se mantiene la denominación MedDRA: mareos. Este efecto puede relacionarse con cambios transitorios en la tolerabilidad durante la administración de citrato sódico, sin que ello implique necesariamente la interrupción del tratamiento. Se recomienda valorar la evolución clínica y las circunstancias de aparición, especialmente en pacientes que reciben Sulmetin simple en perfusión o inyección.\n\n-- Caso 2 --\nEn la experiencia clínica con Sulmetin simple, el citrato trisódico (citrato de sodio) se ha asociado con una manifestación transitoria, generalmente autolimitada y compatible con el manejo habitual del paciente.\nTrastornos del sistema cardiovascular\n- frecuentes: rubor (enrojecimiento pasajero).\nEsta manifestación debe interpretarse en el contexto de la vía de administración y de la velocidad de perfusión. Se recomienda observar la evolución clínica durante y tras la administración, especialmente en pacientes con antecedentes de intolerancia a soluciones intravenosas, sin modificar por ello la clasificación de frecuencia descrita.\n\n-- Caso 3 --\nEn los datos de seguridad disponibles para citrato trisodio, la somnolencia se clasifica dentro de Trastornos del sistema nervioso y se ha comunicado con una frecuencia de poco frecuentes. Este efecto puede relacionarse con la respuesta individual al tratamiento y suele requerir valoración clínica si interfiere con actividades que precisan atención mantenida.\n\nLista tabulada:\n- Trastornos del sistema nervioso: somnolencia (poco frecuentes).\n\nSe recomienda informar al paciente de que observe la posible aparición de somnolencia (sueño excesivo) tras la administración y que consulte si el cuadro persiste o resulta clínicamente relevante. La notificación de sospechas contribuye a caracterizar mejor el perfil de seguridad del medicamento.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "CITRATO TRISODIO",
+      "surface": "Sulmetin",
+      "start": 94,
+      "end": 102
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "CITRATO TRISODIO",
+      "surface": "CITRATO TRISODIO",
+      "start": 174,
+      "end": 190
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "CITRATO TRISODIO",
+      "surface": "citrato trisódico",
+      "start": 494,
+      "end": 511
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 974,
+      "end": 1011
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 1012,
+      "end": 1022
+    },
+    {
+      "type": "REACT",
+      "canonical": "bradicardia",
+      "surface": "bradicardia",
+      "start": 1024,
+      "end": 1035
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipotensión por vasodilatación periférica",
+      "surface": "hipotensión por vasodilatación periférica",
+      "start": 1037,
+      "end": 1078
+    },
+    {
+      "type": "REACT",
+      "canonical": "rubor",
+      "surface": "rubor",
+      "start": 1080,
+      "end": 1085
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 1087,
+      "end": 1102
+    },
+    {
+      "type": "REACT",
+      "canonical": "parada cardiaca o colapso circulatorio",
+      "surface": "parada cardiaca o colapso circulatorio",
+      "start": 1104,
+      "end": 1142
+    },
+    {
+      "type": "REACT",
+      "canonical": "vasodilatación consensación de calor",
+      "surface": "vasodilatación consensación de calor",
+      "start": 1144,
+      "end": 1180
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1183,
+      "end": 1214
+    },
+    {
+      "type": "REACT",
+      "canonical": "coma",
+      "surface": "coma",
+      "start": 1232,
+      "end": 1236
+    },
+    {
+      "type": "REACT",
+      "canonical": "confusión",
+      "surface": "confusión",
+      "start": 1238,
+      "end": 1247
+    },
+    {
+      "type": "REACT",
+      "canonical": "depresión del SNC que puede preceder a la parálisis respiratoria",
+      "surface": "depresión del SNC que puede preceder a la parálisis respiratoria",
+      "start": 1249,
+      "end": 1313
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor de cabeza",
+      "surface": "dolor de cabeza",
+      "start": 1315,
+      "end": 1330
+    },
+    {
+      "type": "REACT",
+      "canonical": "mareos",
+      "surface": "mareos",
+      "start": 1332,
+      "end": 1338
+    },
+    {
+      "type": "REACT",
+      "canonical": "somnolencia",
+      "surface": "somnolencia",
+      "start": 1340,
+      "end": 1351
+    },
+    {
+      "type": "REACT",
+      "canonical": "pérdida de reflejo tendinoso",
+      "surface": "pérdida de reflejo tendinoso",
+      "start": 1365,
+      "end": 1393
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 1396,
+      "end": 1438
+    },
+    {
+      "type": "REACT",
+      "canonical": "debilidad muscular.",
+      "surface": "debilidad muscular.",
+      "start": 1456,
+      "end": 1475
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 1477,
+      "end": 1512
+    },
+    {
+      "type": "REACT",
+      "canonical": "depresión respiratoria debido al bloqueo neuromuscular",
+      "surface": "depresión respiratoria debido al bloqueo neuromuscular",
+      "start": 1530,
+      "end": 1584
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 1587,
+      "end": 1615
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor en el punto de inyección",
+      "surface": "dolor en el punto de inyección",
+      "start": 1633,
+      "end": 1663
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 1666,
+      "end": 1696
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipotermia",
+      "surface": "hipotermia",
+      "start": 1714,
+      "end": 1724
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1727,
+      "end": 1759
+    },
+    {
+      "type": "REACT",
+      "canonical": "náuseas",
+      "surface": "náuseas",
+      "start": 1777,
+      "end": 1784
+    },
+    {
+      "type": "REACT",
+      "canonical": "sed",
+      "surface": "sed",
+      "start": 1786,
+      "end": 1789
+    },
+    {
+      "type": "REACT",
+      "canonical": "vómitos",
+      "surface": "vómitos",
+      "start": 1791,
+      "end": 1798
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 1801,
+      "end": 1838
+    },
+    {
+      "type": "REACT",
+      "canonical": "problemas de la visión",
+      "surface": "problemas de la visión",
+      "start": 1856,
+      "end": 1878
+    },
+    {
+      "type": "REACT",
+      "canonical": "problemas del habla",
+      "surface": "problemas del habla",
+      "start": 1880,
+      "end": 1899
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "surface": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "start": 1902,
+      "end": 1934
+    },
+    {
+      "type": "REACT",
+      "canonical": "sudoración excesiva",
+      "surface": "sudoración excesiva",
+      "start": 1952,
+      "end": 1971
+    },
+    {
+      "type": "REACT",
+      "canonical": "rubor",
+      "surface": "sofoco",
+      "start": 2221,
+      "end": 2227
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "Trastornos del sistema nervioso",
+      "start": 1183,
+      "end": 1214
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "CITRATO TRISODIO",
+      "surface": "citrato trisodio",
+      "start": 174,
+      "end": 190
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "CITRATO TRISODIO",
+      "surface": "citrato sódico",
+      "start": 3558,
+      "end": 3572
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "CITRATO TRISODIO",
+      "surface": "Sulmetin simple",
+      "start": 3761,
+      "end": 3776
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "CITRATO TRISODIO",
+      "surface": "citrato de sodio",
+      "start": 3886,
+      "end": 3902
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "Trastornos del sistema cardiovascular",
+      "start": 974,
+      "end": 1011
+    },
+    {
+      "type": "REACT",
+      "canonical": "rubor",
+      "surface": "enrojecimiento pasajero",
+      "start": 4089,
+      "end": 4112
+    }
+  ],
+  "raw_long_doc_text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil de seguridad descrito para Sulmetin procede de la administración clínica de preparaciones parenterales con CITRATO TRISODIO y debe interpretarse considerando la velocidad de administración, la situación basal del paciente y la vigilancia durante el tratamiento. En general, las manifestaciones notificadas fueron reversibles tras la interrupción o el ajuste de la perfusión y la aplicación de medidas de soporte habituales. El citrato trisódico puede producir efectos relacionados con cambios transitorios en el tono vascular, la conducción neuromuscular y el estado de alerta. La valoración clínica debe centrarse en la detección temprana de signos de intolerancia, especialmente en pacientes frágiles o con reserva funcional reducida. La información siguiente se presenta siguiendo la clasificación por órganos y la frecuencia indicada en la evaluación disponible.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\nfrecuentes: bradicardia, hipotensión por vasodilatación periférica, rubor.\npoco frecuentes: parada cardiaca o colapso circulatorio, vasodilatación consensación de calor.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\npoco frecuentes: coma, confusión, depresión del SNC que puede preceder a la parálisis respiratoria, dolor de cabeza, mareos, somnolencia.\nfrecuentes: pérdida de reflejo tendinoso.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\npoco frecuentes: debilidad muscular.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\npoco frecuentes: depresión respiratoria debido al bloqueo neuromuscular.\n\nTRASTORNOS DE PIEL Y TEJIDOS\npoco frecuentes: dolor en el punto de inyección.\n\nTRASTORNOS DEL SISTEMA GENERAL\npoco frecuentes: hipotermia.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\npoco frecuentes: náuseas, sed, vómitos.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\npoco frecuentes: problemas de la visión, problemas del habla.\n\nTRASTORNOS DEL SISTEMA ENDOCRINO\npoco frecuentes: sudoración excesiva.\n\nDescripción de reacciones adversas seleccionadas\nLas alteraciones hemodinámicas pueden aparecer durante la administración o poco después de la misma. En este contexto se han descrito bradicardia, hipotensión por vasodilatación periférica y rubor (sofoco), por lo que se recomienda mantener observación clínica adecuada durante el periodo de exposición. En casos aislados dentro de la experiencia disponible se ha comunicado parada cardiaca o colapso circulatorio, situación que requiere actuación inmediata y medidas de soporte.\n\nLas manifestaciones relacionadas con el nivel de conciencia o la transmisión neuromuscular deben evaluarse de forma continuada. La aparición de depresión del SNC que puede preceder a la parálisis respiratoria, coma o depresión respiratoria debido al bloqueo neuromuscular puede indicar una respuesta excesiva al tratamiento o una acumulación funcional en pacientes susceptibles. También pueden presentarse náuseas, vómitos, sed y dolor en el punto de inyección, que generalmente se manejan con vigilancia, ajuste de la administración y tratamiento sintomático si procede.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "CITRATO TRISODIO",
+      "surface": "Sulmetin"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "CITRATO TRISODIO",
+      "surface": "CITRATO TRISODIO"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "CITRATO TRISODIO",
+      "surface": "citrato trisódico"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "bradicardia",
+      "surface": "bradicardia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipotensión por vasodilatación periférica",
+      "surface": "hipotensión por vasodilatación periférica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "rubor",
+      "surface": "rubor"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "parada cardiaca o colapso circulatorio",
+      "surface": "parada cardiaca o colapso circulatorio"
+    },
+    {
+      "type": "REACT",
+      "canonical": "vasodilatación consensación de calor",
+      "surface": "vasodilatación consensación de calor"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "coma",
+      "surface": "coma"
+    },
+    {
+      "type": "REACT",
+      "canonical": "confusión",
+      "surface": "confusión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "depresión del SNC que puede preceder a la parálisis respiratoria",
+      "surface": "depresión del SNC que puede preceder a la parálisis respiratoria"
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor de cabeza",
+      "surface": "dolor de cabeza"
+    },
+    {
+      "type": "REACT",
+      "canonical": "mareos",
+      "surface": "mareos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "somnolencia",
+      "surface": "somnolencia"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "pérdida de reflejo tendinoso",
+      "surface": "pérdida de reflejo tendinoso"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "debilidad muscular.",
+      "surface": "debilidad muscular."
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "depresión respiratoria debido al bloqueo neuromuscular",
+      "surface": "depresión respiratoria debido al bloqueo neuromuscular"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor en el punto de inyección",
+      "surface": "dolor en el punto de inyección"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipotermia",
+      "surface": "hipotermia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "náuseas",
+      "surface": "náuseas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "sed",
+      "surface": "sed"
+    },
+    {
+      "type": "REACT",
+      "canonical": "vómitos",
+      "surface": "vómitos"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "problemas de la visión",
+      "surface": "problemas de la visión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "problemas del habla",
+      "surface": "problemas del habla"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "surface": "TRASTORNOS DEL SISTEMA ENDOCRINO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "sudoración excesiva",
+      "surface": "sudoración excesiva"
+    },
+    {
+      "type": "REACT",
+      "canonical": "bradicardia",
+      "surface": "bradicardia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "hipotensión por vasodilatación periférica",
+      "surface": "hipotensión por vasodilatación periférica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "rubor",
+      "surface": "rubor"
+    },
+    {
+      "type": "REACT",
+      "canonical": "rubor",
+      "surface": "sofoco"
+    },
+    {
+      "type": "REACT",
+      "canonical": "parada cardiaca o colapso circulatorio",
+      "surface": "parada cardiaca o colapso circulatorio"
+    },
+    {
+      "type": "REACT",
+      "canonical": "depresión del SNC que puede preceder a la parálisis respiratoria",
+      "surface": "depresión del SNC que puede preceder a la parálisis respiratoria"
+    },
+    {
+      "type": "REACT",
+      "canonical": "coma",
+      "surface": "coma"
+    },
+    {
+      "type": "REACT",
+      "canonical": "depresión respiratoria debido al bloqueo neuromuscular",
+      "surface": "depresión respiratoria debido al bloqueo neuromuscular"
+    },
+    {
+      "type": "REACT",
+      "canonical": "náuseas",
+      "surface": "náuseas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "vómitos",
+      "surface": "vómitos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "sed",
+      "surface": "sed"
+    },
+    {
+      "type": "REACT",
+      "canonical": "dolor en el punto de inyección",
+      "surface": "dolor en el punto de inyección"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "Sulmetin simple 150 mg/ml solución inyectable y para perfusión",
+        "pactivo": "CITRATO TRISODIO",
+        "reaccion": "mareos",
+        "frecuencia": "POCO FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA NERVIOSO"
+      },
+      "text": "Dentro del sistema de clasificación de órganos Trastornos del sistema nervioso, se han descrito mareos (sensación de inestabilidad) con una frecuencia poco frecuentes durante el tratamiento con citrato trisodio. En la lista tabulada de reacciones adversas se mantiene la denominación MedDRA: mareos. Este efecto puede relacionarse con cambios transitorios en la tolerabilidad durante la administración de citrato sódico, sin que ello implique necesariamente la interrupción del tratamiento. Se recomienda valorar la evolución clínica y las circunstancias de aparición, especialmente en pacientes que reciben Sulmetin simple en perfusión o inyección.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "surface": "Trastornos del sistema nervioso"
+        },
+        {
+          "type": "REACT",
+          "canonical": "mareos",
+          "surface": "mareos"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "CITRATO TRISODIO",
+          "surface": "citrato trisodio"
+        },
+        {
+          "type": "REACT",
+          "canonical": "mareos",
+          "surface": "mareos"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "CITRATO TRISODIO",
+          "surface": "citrato sódico"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "CITRATO TRISODIO",
+          "surface": "Sulmetin simple"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "surface": "Trastornos del sistema nervioso",
+          "start": 47,
+          "end": 78
+        },
+        {
+          "type": "REACT",
+          "canonical": "mareos",
+          "surface": "mareos",
+          "start": 96,
+          "end": 102
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes",
+          "start": 151,
+          "end": 166
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "CITRATO TRISODIO",
+          "surface": "citrato trisodio",
+          "start": 194,
+          "end": 210
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "CITRATO TRISODIO",
+          "surface": "citrato sódico",
+          "start": 405,
+          "end": 419
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "CITRATO TRISODIO",
+          "surface": "Sulmetin simple",
+          "start": 608,
+          "end": 623
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "Sulmetin simple 150 mg/ml solución inyectable y para perfusión",
+        "pactivo": "CITRATO TRISODIO",
+        "reaccion": "rubor",
+        "frecuencia": "FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+      },
+      "text": "En la experiencia clínica con Sulmetin simple, el citrato trisódico (citrato de sodio) se ha asociado con una manifestación transitoria, generalmente autolimitada y compatible con el manejo habitual del paciente.\nTrastornos del sistema cardiovascular\n- frecuentes: rubor (enrojecimiento pasajero).\nEsta manifestación debe interpretarse en el contexto de la vía de administración y de la velocidad de perfusión. Se recomienda observar la evolución clínica durante y tras la administración, especialmente en pacientes con antecedentes de intolerancia a soluciones intravenosas, sin modificar por ello la clasificación de frecuencia descrita.",
+      "declared": [
+        {
+          "type": "ACTIVE",
+          "canonical": "CITRATO TRISODIO",
+          "surface": "citrato trisódico"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "CITRATO TRISODIO",
+          "surface": "citrato de sodio"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "surface": "Trastornos del sistema cardiovascular"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        },
+        {
+          "type": "REACT",
+          "canonical": "rubor",
+          "surface": "rubor"
+        },
+        {
+          "type": "REACT",
+          "canonical": "rubor",
+          "surface": "enrojecimiento pasajero"
+        }
+      ],
+      "validated": [
+        {
+          "type": "ACTIVE",
+          "canonical": "CITRATO TRISODIO",
+          "surface": "citrato trisódico",
+          "start": 50,
+          "end": 67
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "CITRATO TRISODIO",
+          "surface": "citrato de sodio",
+          "start": 69,
+          "end": 85
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+          "surface": "Trastornos del sistema cardiovascular",
+          "start": 213,
+          "end": 250
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes",
+          "start": 253,
+          "end": 263
+        },
+        {
+          "type": "REACT",
+          "canonical": "rubor",
+          "surface": "rubor",
+          "start": 265,
+          "end": 270
+        },
+        {
+          "type": "REACT",
+          "canonical": "rubor",
+          "surface": "enrojecimiento pasajero",
+          "start": 272,
+          "end": 295
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "Sulmetin simple 150 mg/ml solución inyectable y para perfusión",
+        "pactivo": "CITRATO TRISODIO",
+        "reaccion": "somnolencia",
+        "frecuencia": "POCO FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA NERVIOSO"
+      },
+      "text": "En los datos de seguridad disponibles para citrato trisodio, la somnolencia se clasifica dentro de Trastornos del sistema nervioso y se ha comunicado con una frecuencia de poco frecuentes. Este efecto puede relacionarse con la respuesta individual al tratamiento y suele requerir valoración clínica si interfiere con actividades que precisan atención mantenida.\n\nLista tabulada:\n- Trastornos del sistema nervioso: somnolencia (poco frecuentes).\n\nSe recomienda informar al paciente de que observe la posible aparición de somnolencia (sueño excesivo) tras la administración y que consulte si el cuadro persiste o resulta clínicamente relevante. La notificación de sospechas contribuye a caracterizar mejor el perfil de seguridad del medicamento.",
+      "declared": [
+        {
+          "type": "ACTIVE",
+          "canonical": "CITRATO TRISODIO",
+          "surface": "citrato trisodio"
+        },
+        {
+          "type": "REACT",
+          "canonical": "somnolencia",
+          "surface": "somnolencia"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "surface": "Trastornos del sistema nervioso"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "surface": "Trastornos del sistema nervioso"
+        },
+        {
+          "type": "REACT",
+          "canonical": "somnolencia",
+          "surface": "somnolencia"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes"
+        },
+        {
+          "type": "REACT",
+          "canonical": "somnolencia",
+          "surface": "somnolencia"
+        }
+      ],
+      "validated": [
+        {
+          "type": "ACTIVE",
+          "canonical": "CITRATO TRISODIO",
+          "surface": "citrato trisodio",
+          "start": 43,
+          "end": 59
+        },
+        {
+          "type": "REACT",
+          "canonical": "somnolencia",
+          "surface": "somnolencia",
+          "start": 64,
+          "end": 75
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+          "surface": "Trastornos del sistema nervioso",
+          "start": 99,
+          "end": 130
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes",
+          "start": 172,
+          "end": 187
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

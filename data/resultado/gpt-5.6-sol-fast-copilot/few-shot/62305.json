@@ -1,0 +1,620 @@
+[
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Neutropenia",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Agranulocitosis",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Pancitopenia",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Anemia",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Anemia aplásica",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Anemia hemolítica",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Trombocitopenia",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Linfadenopatía",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Eosinofilia",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Enfermedades autoinmunes",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Test ANA positivo",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos de la sangre y del sistema linfático"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Anorexia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Hiperkalemia",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Hipoglucemia",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos del metabolismo y de la nutrición"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Trastornos del sueño",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Confusión",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Depresión",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos psiquiátricos"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Alteración del gusto",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Mareos",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Cefalea",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Parestesia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Somnolencia",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Accidente cerebrovascular, incluyendo ictus",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Síncope",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos del sistema nervioso"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Visión borrosa",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos oculares"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Taquicardia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos cardíacos"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Taquiarritmia",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos cardíacos"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Angina de pecho",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos cardíacos"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Palpitaciones",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos cardíacos"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Parada cardíaca",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos cardíacos"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Shock cardiogénico",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos cardíacos"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Hipotensión",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Síndrome de Raynaud",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Rubor",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Palidez",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Tos seca irritativa no productiva",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Disnea",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Broncoespasmo",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Rinitis",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Alveolitis alérgica",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Neumonía eosinofílica",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Náuseas",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Vómitos",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Irritación gástrica",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Dolor abdominal",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Diarrea",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Estreñimiento",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Sequedad de boca",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Úlcera péptica",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Estomatitis",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Ulceraciones aftosas",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Angioedema intestinal",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Glositis",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Pancreatitis",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos gastrointestinales"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Función hepática deteriorada",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Colestasis",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Ictericia",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Hepatitis",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Necrosis hepática",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Elevación de transaminasas",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Elevación de la fosfatasa alcalina",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Elevación de la bilirrubina",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos hepatobiliares"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Prurito con o sin erupción cutánea",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Erupción cutánea",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Alopecia",
+    "frecuencia": "Frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Angioedema",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Urticaria",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Síndrome de Stevens-Johnson",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Eritema multiforme",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Fotosensibilidad",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Eritrodermia",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Reacciones penfigoides",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Dermatitis exfoliativa",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Mialgia",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Artralgia",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Trastornos de la función renal",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Fallo renal",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Poliuria",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Oliguria",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Polaquiuria",
+    "frecuencia": "Raras",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Síndrome nefrótico",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Nefritis intersticial",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos renales y urinarios"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Disfunción eréctil",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos del aparato reproductor y de la mama"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Ginecomastia",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos del aparato reproductor y de la mama"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Dolor torácico",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Fatiga",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Malestar",
+    "frecuencia": "Poco frecuentes",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Fiebre",
+    "frecuencia": "Muy raras",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Astenia",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Vasculitis",
+    "frecuencia": "Frecuencia no conocida",
+    "trastorno": "Trastornos vasculares"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Proteinuria",
+    "frecuencia": "Muy raras",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Eosinofilia",
+    "frecuencia": "Muy raras",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Incremento del potasio sérico",
+    "frecuencia": "Muy raras",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Descenso del sodio sérico",
+    "frecuencia": "Muy raras",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Elevación del nitrógeno ureico en sangre",
+    "frecuencia": "Muy raras",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Elevación de la creatinina sérica",
+    "frecuencia": "Muy raras",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Elevación de la bilirrubina sérica",
+    "frecuencia": "Muy raras",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Descenso de la hemoglobina",
+    "frecuencia": "Muy raras",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Descenso del hematocrito",
+    "frecuencia": "Muy raras",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Descenso de leucocitos",
+    "frecuencia": "Muy raras",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Descenso de plaquetas",
+    "frecuencia": "Muy raras",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Test ANA positivo",
+    "frecuencia": "Muy raras",
+    "trastorno": "Exploraciones complementarias"
+  },
+  {
+    "principio activo": "CAPTOPRIL",
+    "reacción adversa": "Elevación de la velocidad de sedimentación globular",
+    "frecuencia": "Muy raras",
+    "trastorno": "Exploraciones complementarias"
+  }
+]

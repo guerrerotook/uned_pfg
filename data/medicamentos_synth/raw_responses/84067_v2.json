@@ -1,0 +1,1542 @@
+{
+  "codigo": "84067",
+  "variante": 2,
+  "codigo_variant": "84067_v2",
+  "medicamento": "ATAZANAVIR STADA 200 MG CAPSULAS DURAS EFG",
+  "model": "gpt-5.5",
+  "style_variant_idx": 1,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil de seguridad de ATAZANAVIR SULFATO procede de la experiencia clínica acumulada con el uso del medicamento en pautas antirretrovirales combinadas. En la práctica, atazanavir, también citado de forma abreviada como ATV, se administra junto con otros fármacos, por lo que la valoración de causalidad debe considerar la situación clínica basal, los tratamientos concomitantes y la evolución temporal. La mayoría de los acontecimientos comunicados fueron manejables con seguimiento clínico y no requirieron medidas específicas distintas de la observación habitual. Debe prestarse atención a la aparición de signos persistentes o clínicamente relevantes, especialmente en pacientes con antecedentes médicos complejos. Las categorías se presentan conforme a la terminología MedDRA y a las frecuencias notificadas.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS DE PIEL Y TEJIDOS\nfrecuentes: Rash.\npoco frecuentes: Alopecia, Angioedema, Eritema multiforme, Erupciones cutáneas tóxicas, Prurito, Reacción medicamentosa con eosinofilia y síntomas sistémicos (DRESS), Urticaria.\nno frecuente: Eczema, Rash vesiculobulloso, Síndrome de Stevens - Johnson (SSJ), Vasodilatación.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nfrecuentes: Cefalea (dolor de cabeza).\npoco frecuentes: Amnesia, Disgeusia, Mareos, Neuropatía periférica, Somnolencia, Síncope.\n\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN\npoco frecuentes: Anorexia, Aumento de apetito, Aumento de peso, Disminución de peso.\n\nTRASTORNOS PSIQUIÁTRICOS\npoco frecuentes: Ansiedad, Depresión, Desorientación, Insomnio, Sueños anormales, Trastorno del sueño.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\npoco frecuentes: Artralgia, Atrofia muscular, Mialgia.\nno frecuente: Miopatía.\n\nTRASTORNOS DEL SISTEMA GENERAL\nfrecuentes: Fatiga.\npoco frecuentes: Astenia, Dolor torácico, Fiebre, Malestar general.\nno frecuente: Marcha anormal.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nfrecuentes: Diarrea, Dispepsia, Dolor abdominal, Ictericia, Náuseas, Vómitos.\npoco frecuentes: Colelitiasis, Colestasis, Distensión abdominal, Estomatitis aftosa, Flatulencia, Gastritis, Hepatitis, Pancreatitis, Sequedad de boca.\nno frecuente: Colecistitis, Hepatoesplenomegalia.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\npoco frecuentes: Disnea.\n\nTRASTORNOS DEL SISTEMA EXCRETOR\npoco frecuentes: Enfermedad renal crónica, Hematuria, Nefritis intersticial, Nefrolitiasis, Polaquiuria, Proteinuria.\nno frecuente: Dolor renal.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\npoco frecuentes: Hipertensión, Torsade de pointes.\nno frecuente: Edema, Palpitaciones, Prolongación del QT.\n\nTRASTORNOS DEL SISTEMA REPRODUCTOR\npoco frecuentes: Ginecomastia.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\npoco frecuentes: Hipersensibilidad.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\nfrecuentes: Ictericia ocular.\n\nDescripción de reacciones adversas seleccionadas\nLa evaluación individual debe realizarse de forma continuada durante el tratamiento, teniendo en cuenta que la exposición puede mantenerse durante periodos prolongados. Ante manifestaciones intensas, progresivas o acompañadas de deterioro del estado general, se recomienda revisar la relación temporal con la administración y valorar las alternativas terapéuticas disponibles. La comunicación de sospechas contribuye a una mejor caracterización del perfil de seguridad en condiciones reales de uso.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nEn la clasificación por sistemas, dentro de Trastornos del sistema digestivo, se ha notificado Hepatoesplenomegalia con frecuencia no frecuente durante el tratamiento con atazanavir. Esta alteración, descrita como aumento del tamaño del hígado y del bazo, debe interpretarse en el contexto del perfil hepático basal y del seguimiento clínico habitual del paciente. En pacientes con antecedentes de enfermedad hepática o factores de riesgo, se recomienda valorar la evolución clínica y analítica según la práctica médica, sin que ello implique por sí solo la suspensión automática del tratamiento.\n\n-- Caso 2 --\nEn el tratamiento con ATAZANAVIR SULFATO (atazanavir), la dispepsia se ha notificado dentro de los trastornos del sistema digestivo y se clasifica como frecuentes. La aparición puede relacionarse con la exposición gastrointestinal al medicamento y debe valorarse junto con la tolerabilidad individual y la administración indicada.\n\nLista tabulada:\n- Dispepsia (indigestión): frecuentes.\n\nSe recomienda registrar la evolución clínica y considerar medidas de seguimiento habituales si los síntomas persisten o interfieren con la adherencia. La evaluación debe tener en cuenta el contexto terapéutico y otros factores clínicos del paciente.\n\n-- Caso 3 --\nEn la evaluación de seguridad de ATAZANAVIR SULFATO, administrado como atazanavir (ATV), se ha identificado la siguiente reacción adversa dentro del sistema TRASTORNOS PSIQUIÁTRICOS:\n\n- Sueños anormales: poco frecuentes.\n\nLos sueños anormales (sueños raros) se consideran compatibles con efectos sobre el patrón de descanso durante el tratamiento, sin que ello implique necesariamente la interrupción. Se recomienda registrar la aparición temporal, la persistencia y la repercusión funcional, y valorar medidas de seguimiento clínico si la manifestación resulta molesta para el paciente.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "ATAZANAVIR SULFATO",
+      "surface": "ATAZANAVIR SULFATO",
+      "start": 83,
+      "end": 101
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "ATAZANAVIR SULFATO",
+      "surface": "atazanavir",
+      "start": 83,
+      "end": 93
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "ATAZANAVIR SULFATO",
+      "surface": "ATV",
+      "start": 280,
+      "end": 283
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 914,
+      "end": 942
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 943,
+      "end": 953
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rash",
+      "surface": "Rash",
+      "start": 955,
+      "end": 959
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 961,
+      "end": 976
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alopecia",
+      "surface": "Alopecia",
+      "start": 978,
+      "end": 986
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angioedema",
+      "surface": "Angioedema",
+      "start": 988,
+      "end": 998
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eritema multiforme",
+      "surface": "Eritema multiforme",
+      "start": 1000,
+      "end": 1018
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupciones cutáneas tóxicas",
+      "surface": "Erupciones cutáneas tóxicas",
+      "start": 1020,
+      "end": 1047
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito",
+      "start": 1049,
+      "end": 1056
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacción medicamentosa con eosinofilia y síntomas sistémicos (DRESS)",
+      "surface": "Reacción medicamentosa con eosinofilia y síntomas sistémicos (DRESS)",
+      "start": 1058,
+      "end": 1126
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria",
+      "start": 1128,
+      "end": 1137
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 1139,
+      "end": 1151
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eczema",
+      "surface": "Eczema",
+      "start": 1153,
+      "end": 1159
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rash vesiculobulloso",
+      "surface": "Rash vesiculobulloso",
+      "start": 1161,
+      "end": 1181
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de Stevens - Johnson (SSJ)",
+      "surface": "Síndrome de Stevens - Johnson (SSJ)",
+      "start": 1183,
+      "end": 1218
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vasodilatación",
+      "surface": "Vasodilatación",
+      "start": 1220,
+      "end": 1234
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1237,
+      "end": 1268
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea",
+      "start": 1281,
+      "end": 1288
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "dolor de cabeza",
+      "start": 1290,
+      "end": 1305
+    },
+    {
+      "type": "REACT",
+      "canonical": "Amnesia",
+      "surface": "Amnesia",
+      "start": 1325,
+      "end": 1332
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disgeusia",
+      "surface": "Disgeusia",
+      "start": 1334,
+      "end": 1343
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareos",
+      "surface": "Mareos",
+      "start": 1345,
+      "end": 1351
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neuropatía periférica",
+      "surface": "Neuropatía periférica",
+      "start": 1353,
+      "end": 1374
+    },
+    {
+      "type": "REACT",
+      "canonical": "Somnolencia",
+      "surface": "Somnolencia",
+      "start": 1376,
+      "end": 1387
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síncope",
+      "surface": "Síncope",
+      "start": 1389,
+      "end": 1396
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "start": 1399,
+      "end": 1440
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anorexia",
+      "surface": "Anorexia",
+      "start": 1458,
+      "end": 1466
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de apetito",
+      "surface": "Aumento de apetito",
+      "start": 1468,
+      "end": 1486
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de peso",
+      "surface": "Aumento de peso",
+      "start": 1488,
+      "end": 1503
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de peso",
+      "surface": "Disminución de peso",
+      "start": 1505,
+      "end": 1524
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 1527,
+      "end": 1551
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ansiedad",
+      "surface": "Ansiedad",
+      "start": 1569,
+      "end": 1577
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión",
+      "surface": "Depresión",
+      "start": 1579,
+      "end": 1588
+    },
+    {
+      "type": "REACT",
+      "canonical": "Desorientación",
+      "surface": "Desorientación",
+      "start": 1590,
+      "end": 1604
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insomnio",
+      "surface": "Insomnio",
+      "start": 1606,
+      "end": 1614
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sueños anormales",
+      "surface": "Sueños anormales",
+      "start": 1616,
+      "end": 1632
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastorno del sueño",
+      "surface": "Trastorno del sueño",
+      "start": 1634,
+      "end": 1653
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 1656,
+      "end": 1698
+    },
+    {
+      "type": "REACT",
+      "canonical": "Artralgia",
+      "surface": "Artralgia",
+      "start": 1716,
+      "end": 1725
+    },
+    {
+      "type": "REACT",
+      "canonical": "Atrofia muscular",
+      "surface": "Atrofia muscular",
+      "start": 1727,
+      "end": 1743
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mialgia",
+      "surface": "Mialgia",
+      "start": 1745,
+      "end": 1752
+    },
+    {
+      "type": "REACT",
+      "canonical": "Miopatía",
+      "surface": "Miopatía",
+      "start": 1768,
+      "end": 1776
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 1779,
+      "end": 1809
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "Fatiga",
+      "start": 1822,
+      "end": 1828
+    },
+    {
+      "type": "REACT",
+      "canonical": "Astenia",
+      "surface": "Astenia",
+      "start": 1847,
+      "end": 1854
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor torácico",
+      "surface": "Dolor torácico",
+      "start": 1856,
+      "end": 1870
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fiebre",
+      "surface": "Fiebre",
+      "start": 1872,
+      "end": 1878
+    },
+    {
+      "type": "REACT",
+      "canonical": "Malestar general",
+      "surface": "Malestar general",
+      "start": 1880,
+      "end": 1896
+    },
+    {
+      "type": "REACT",
+      "canonical": "Marcha anormal",
+      "surface": "Marcha anormal",
+      "start": 1912,
+      "end": 1926
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1929,
+      "end": 1961
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea",
+      "start": 1974,
+      "end": 1981
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dispepsia",
+      "surface": "Dispepsia",
+      "start": 1983,
+      "end": 1992
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor abdominal",
+      "surface": "Dolor abdominal",
+      "start": 1994,
+      "end": 2009
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ictericia",
+      "surface": "Ictericia",
+      "start": 2011,
+      "end": 2020
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 2022,
+      "end": 2029
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos",
+      "start": 2031,
+      "end": 2038
+    },
+    {
+      "type": "REACT",
+      "canonical": "Colelitiasis",
+      "surface": "Colelitiasis",
+      "start": 2057,
+      "end": 2069
+    },
+    {
+      "type": "REACT",
+      "canonical": "Colestasis",
+      "surface": "Colestasis",
+      "start": 2071,
+      "end": 2081
+    },
+    {
+      "type": "REACT",
+      "canonical": "Distensión abdominal",
+      "surface": "Distensión abdominal",
+      "start": 2083,
+      "end": 2103
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estomatitis aftosa",
+      "surface": "Estomatitis aftosa",
+      "start": 2105,
+      "end": 2123
+    },
+    {
+      "type": "REACT",
+      "canonical": "Flatulencia",
+      "surface": "Flatulencia",
+      "start": 2125,
+      "end": 2136
+    },
+    {
+      "type": "REACT",
+      "canonical": "Gastritis",
+      "surface": "Gastritis",
+      "start": 2138,
+      "end": 2147
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hepatitis",
+      "surface": "Hepatitis",
+      "start": 2149,
+      "end": 2158
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pancreatitis",
+      "surface": "Pancreatitis",
+      "start": 2160,
+      "end": 2172
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad de boca",
+      "surface": "Sequedad de boca",
+      "start": 2174,
+      "end": 2190
+    },
+    {
+      "type": "REACT",
+      "canonical": "Colecistitis",
+      "surface": "Colecistitis",
+      "start": 2206,
+      "end": 2218
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hepatoesplenomegalia",
+      "surface": "Hepatoesplenomegalia",
+      "start": 2220,
+      "end": 2240
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 2243,
+      "end": 2278
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disnea",
+      "surface": "Disnea",
+      "start": 2296,
+      "end": 2302
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "start": 2305,
+      "end": 2336
+    },
+    {
+      "type": "REACT",
+      "canonical": "Enfermedad renal crónica",
+      "surface": "Enfermedad renal crónica",
+      "start": 2354,
+      "end": 2378
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hematuria",
+      "surface": "Hematuria",
+      "start": 2380,
+      "end": 2389
+    },
+    {
+      "type": "REACT",
+      "canonical": "Nefritis intersticial",
+      "surface": "Nefritis intersticial",
+      "start": 2391,
+      "end": 2412
+    },
+    {
+      "type": "REACT",
+      "canonical": "Nefrolitiasis",
+      "surface": "Nefrolitiasis",
+      "start": 2414,
+      "end": 2427
+    },
+    {
+      "type": "REACT",
+      "canonical": "Polaquiuria",
+      "surface": "Polaquiuria",
+      "start": 2429,
+      "end": 2440
+    },
+    {
+      "type": "REACT",
+      "canonical": "Proteinuria",
+      "surface": "Proteinuria",
+      "start": 2442,
+      "end": 2453
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor renal",
+      "surface": "Dolor renal",
+      "start": 2469,
+      "end": 2480
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 2483,
+      "end": 2520
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertensión",
+      "surface": "Hipertensión",
+      "start": 2538,
+      "end": 2550
+    },
+    {
+      "type": "REACT",
+      "canonical": "Torsade de pointes",
+      "surface": "Torsade de pointes",
+      "start": 2552,
+      "end": 2570
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema",
+      "surface": "Edema",
+      "start": 2586,
+      "end": 2591
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones",
+      "start": 2593,
+      "end": 2606
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prolongación del QT",
+      "surface": "Prolongación del QT",
+      "start": 2608,
+      "end": 2627
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "start": 2630,
+      "end": 2664
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ginecomastia",
+      "surface": "Ginecomastia",
+      "start": 2682,
+      "end": 2694
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 2697,
+      "end": 2732
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipersensibilidad",
+      "surface": "Hipersensibilidad",
+      "start": 2750,
+      "end": 2767
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 2770,
+      "end": 2807
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ictericia ocular",
+      "surface": "Ictericia ocular",
+      "start": 2820,
+      "end": 2836
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "Trastornos del sistema digestivo",
+      "start": 1929,
+      "end": 1961
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dispepsia",
+      "surface": "dispepsia",
+      "start": 1983,
+      "end": 1992
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "trastornos del sistema digestivo",
+      "start": 1929,
+      "end": 1961
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dispepsia",
+      "surface": "indigestión",
+      "start": 4436,
+      "end": 4447
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sueños anormales",
+      "surface": "sueños anormales",
+      "start": 1616,
+      "end": 1632
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sueños anormales",
+      "surface": "sueños raros",
+      "start": 4971,
+      "end": 4983
+    }
+  ],
+  "raw_long_doc_text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil de seguridad de ATAZANAVIR SULFATO procede de la experiencia clínica acumulada con el uso del medicamento en pautas antirretrovirales combinadas. En la práctica, atazanavir, también citado de forma abreviada como ATV, se administra junto con otros fármacos, por lo que la valoración de causalidad debe considerar la situación clínica basal, los tratamientos concomitantes y la evolución temporal. La mayoría de los acontecimientos comunicados fueron manejables con seguimiento clínico y no requirieron medidas específicas distintas de la observación habitual. Debe prestarse atención a la aparición de signos persistentes o clínicamente relevantes, especialmente en pacientes con antecedentes médicos complejos. Las categorías se presentan conforme a la terminología MedDRA y a las frecuencias notificadas.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS DE PIEL Y TEJIDOS\nfrecuentes: Rash.\npoco frecuentes: Alopecia, Angioedema, Eritema multiforme, Erupciones cutáneas tóxicas, Prurito, Reacción medicamentosa con eosinofilia y síntomas sistémicos (DRESS), Urticaria.\nno frecuente: Eczema, Rash vesiculobulloso, Síndrome de Stevens - Johnson (SSJ), Vasodilatación.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nfrecuentes: Cefalea (dolor de cabeza).\npoco frecuentes: Amnesia, Disgeusia, Mareos, Neuropatía periférica, Somnolencia, Síncope.\n\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN\npoco frecuentes: Anorexia, Aumento de apetito, Aumento de peso, Disminución de peso.\n\nTRASTORNOS PSIQUIÁTRICOS\npoco frecuentes: Ansiedad, Depresión, Desorientación, Insomnio, Sueños anormales, Trastorno del sueño.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\npoco frecuentes: Artralgia, Atrofia muscular, Mialgia.\nno frecuente: Miopatía.\n\nTRASTORNOS DEL SISTEMA GENERAL\nfrecuentes: Fatiga.\npoco frecuentes: Astenia, Dolor torácico, Fiebre, Malestar general.\nno frecuente: Marcha anormal.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nfrecuentes: Diarrea, Dispepsia, Dolor abdominal, Ictericia, Náuseas, Vómitos.\npoco frecuentes: Colelitiasis, Colestasis, Distensión abdominal, Estomatitis aftosa, Flatulencia, Gastritis, Hepatitis, Pancreatitis, Sequedad de boca.\nno frecuente: Colecistitis, Hepatoesplenomegalia.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\npoco frecuentes: Disnea.\n\nTRASTORNOS DEL SISTEMA EXCRETOR\npoco frecuentes: Enfermedad renal crónica, Hematuria, Nefritis intersticial, Nefrolitiasis, Polaquiuria, Proteinuria.\nno frecuente: Dolor renal.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\npoco frecuentes: Hipertensión, Torsade de pointes.\nno frecuente: Edema, Palpitaciones, Prolongación del QT.\n\nTRASTORNOS DEL SISTEMA REPRODUCTOR\npoco frecuentes: Ginecomastia.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\npoco frecuentes: Hipersensibilidad.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\nfrecuentes: Ictericia ocular.\n\nDescripción de reacciones adversas seleccionadas\nLa evaluación individual debe realizarse de forma continuada durante el tratamiento, teniendo en cuenta que la exposición puede mantenerse durante periodos prolongados. Ante manifestaciones intensas, progresivas o acompañadas de deterioro del estado general, se recomienda revisar la relación temporal con la administración y valorar las alternativas terapéuticas disponibles. La comunicación de sospechas contribuye a una mejor caracterización del perfil de seguridad en condiciones reales de uso.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "ATAZANAVIR SULFATO",
+      "surface": "ATAZANAVIR SULFATO"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "ATAZANAVIR SULFATO",
+      "surface": "atazanavir"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "ATAZANAVIR SULFATO",
+      "surface": "ATV"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rash",
+      "surface": "Rash"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alopecia",
+      "surface": "Alopecia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Angioedema",
+      "surface": "Angioedema"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eritema multiforme",
+      "surface": "Eritema multiforme"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupciones cutáneas tóxicas",
+      "surface": "Erupciones cutáneas tóxicas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacción medicamentosa con eosinofilia y síntomas sistémicos (DRESS)",
+      "surface": "Reacción medicamentosa con eosinofilia y síntomas sistémicos (DRESS)"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eczema",
+      "surface": "Eczema"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rash vesiculobulloso",
+      "surface": "Rash vesiculobulloso"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de Stevens - Johnson (SSJ)",
+      "surface": "Síndrome de Stevens - Johnson (SSJ)"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vasodilatación",
+      "surface": "Vasodilatación"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "dolor de cabeza"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Amnesia",
+      "surface": "Amnesia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disgeusia",
+      "surface": "Disgeusia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareos",
+      "surface": "Mareos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neuropatía periférica",
+      "surface": "Neuropatía periférica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Somnolencia",
+      "surface": "Somnolencia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síncope",
+      "surface": "Síncope"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anorexia",
+      "surface": "Anorexia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de apetito",
+      "surface": "Aumento de apetito"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de peso",
+      "surface": "Aumento de peso"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de peso",
+      "surface": "Disminución de peso"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ansiedad",
+      "surface": "Ansiedad"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Depresión",
+      "surface": "Depresión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Desorientación",
+      "surface": "Desorientación"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insomnio",
+      "surface": "Insomnio"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sueños anormales",
+      "surface": "Sueños anormales"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastorno del sueño",
+      "surface": "Trastorno del sueño"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Artralgia",
+      "surface": "Artralgia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Atrofia muscular",
+      "surface": "Atrofia muscular"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mialgia",
+      "surface": "Mialgia"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Miopatía",
+      "surface": "Miopatía"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fatiga",
+      "surface": "Fatiga"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Astenia",
+      "surface": "Astenia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor torácico",
+      "surface": "Dolor torácico"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fiebre",
+      "surface": "Fiebre"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Malestar general",
+      "surface": "Malestar general"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Marcha anormal",
+      "surface": "Marcha anormal"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dispepsia",
+      "surface": "Dispepsia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor abdominal",
+      "surface": "Dolor abdominal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ictericia",
+      "surface": "Ictericia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Colelitiasis",
+      "surface": "Colelitiasis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Colestasis",
+      "surface": "Colestasis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Distensión abdominal",
+      "surface": "Distensión abdominal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estomatitis aftosa",
+      "surface": "Estomatitis aftosa"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Flatulencia",
+      "surface": "Flatulencia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Gastritis",
+      "surface": "Gastritis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hepatitis",
+      "surface": "Hepatitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pancreatitis",
+      "surface": "Pancreatitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad de boca",
+      "surface": "Sequedad de boca"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Colecistitis",
+      "surface": "Colecistitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hepatoesplenomegalia",
+      "surface": "Hepatoesplenomegalia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disnea",
+      "surface": "Disnea"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Enfermedad renal crónica",
+      "surface": "Enfermedad renal crónica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hematuria",
+      "surface": "Hematuria"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Nefritis intersticial",
+      "surface": "Nefritis intersticial"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Nefrolitiasis",
+      "surface": "Nefrolitiasis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Polaquiuria",
+      "surface": "Polaquiuria"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Proteinuria",
+      "surface": "Proteinuria"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor renal",
+      "surface": "Dolor renal"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertensión",
+      "surface": "Hipertensión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Torsade de pointes",
+      "surface": "Torsade de pointes"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Edema",
+      "surface": "Edema"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Palpitaciones",
+      "surface": "Palpitaciones"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prolongación del QT",
+      "surface": "Prolongación del QT"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ginecomastia",
+      "surface": "Ginecomastia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipersensibilidad",
+      "surface": "Hipersensibilidad"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ictericia ocular",
+      "surface": "Ictericia ocular"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "ATAZANAVIR STADA 200 MG CAPSULAS DURAS EFG",
+        "pactivo": "ATAZANAVIR SULFATO",
+        "reaccion": "Hepatoesplenomegalia",
+        "frecuencia": "NO FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+      },
+      "text": "En la clasificación por sistemas, dentro de Trastornos del sistema digestivo, se ha notificado Hepatoesplenomegalia con frecuencia no frecuente durante el tratamiento con atazanavir. Esta alteración, descrita como aumento del tamaño del hígado y del bazo, debe interpretarse en el contexto del perfil hepático basal y del seguimiento clínico habitual del paciente. En pacientes con antecedentes de enfermedad hepática o factores de riesgo, se recomienda valorar la evolución clínica y analítica según la práctica médica, sin que ello implique por sí solo la suspensión automática del tratamiento.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "Trastornos del sistema digestivo"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Hepatoesplenomegalia",
+          "surface": "Hepatoesplenomegalia"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "ATAZANAVIR SULFATO",
+          "surface": "atazanavir"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "Trastornos del sistema digestivo",
+          "start": 44,
+          "end": 76
+        },
+        {
+          "type": "REACT",
+          "canonical": "Hepatoesplenomegalia",
+          "surface": "Hepatoesplenomegalia",
+          "start": 95,
+          "end": 115
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente",
+          "start": 131,
+          "end": 143
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "ATAZANAVIR SULFATO",
+          "surface": "atazanavir",
+          "start": 171,
+          "end": 181
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "ATAZANAVIR STADA 200 MG CAPSULAS DURAS EFG",
+        "pactivo": "ATAZANAVIR SULFATO",
+        "reaccion": "Dispepsia",
+        "frecuencia": "FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+      },
+      "text": "En el tratamiento con ATAZANAVIR SULFATO (atazanavir), la dispepsia se ha notificado dentro de los trastornos del sistema digestivo y se clasifica como frecuentes. La aparición puede relacionarse con la exposición gastrointestinal al medicamento y debe valorarse junto con la tolerabilidad individual y la administración indicada.\n\nLista tabulada:\n- Dispepsia (indigestión): frecuentes.\n\nSe recomienda registrar la evolución clínica y considerar medidas de seguimiento habituales si los síntomas persisten o interfieren con la adherencia. La evaluación debe tener en cuenta el contexto terapéutico y otros factores clínicos del paciente.",
+      "declared": [
+        {
+          "type": "ACTIVE",
+          "canonical": "ATAZANAVIR SULFATO",
+          "surface": "ATAZANAVIR SULFATO"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "ATAZANAVIR SULFATO",
+          "surface": "atazanavir"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Dispepsia",
+          "surface": "dispepsia"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "trastornos del sistema digestivo"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Dispepsia",
+          "surface": "Dispepsia"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Dispepsia",
+          "surface": "indigestión"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        }
+      ],
+      "validated": [
+        {
+          "type": "ACTIVE",
+          "canonical": "ATAZANAVIR SULFATO",
+          "surface": "ATAZANAVIR SULFATO",
+          "start": 22,
+          "end": 40
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "ATAZANAVIR SULFATO",
+          "surface": "atazanavir",
+          "start": 22,
+          "end": 32
+        },
+        {
+          "type": "REACT",
+          "canonical": "Dispepsia",
+          "surface": "dispepsia",
+          "start": 58,
+          "end": 67
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "trastornos del sistema digestivo",
+          "start": 99,
+          "end": 131
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes",
+          "start": 152,
+          "end": 162
+        },
+        {
+          "type": "REACT",
+          "canonical": "Dispepsia",
+          "surface": "Dispepsia",
+          "start": 58,
+          "end": 67
+        },
+        {
+          "type": "REACT",
+          "canonical": "Dispepsia",
+          "surface": "indigestión",
+          "start": 361,
+          "end": 372
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "ATAZANAVIR STADA 200 MG CAPSULAS DURAS EFG",
+        "pactivo": "ATAZANAVIR SULFATO",
+        "reaccion": "Sueños anormales",
+        "frecuencia": "POCO FRECUENTE",
+        "sistema": "TRASTORNOS PSIQUIÁTRICOS"
+      },
+      "text": "En la evaluación de seguridad de ATAZANAVIR SULFATO, administrado como atazanavir (ATV), se ha identificado la siguiente reacción adversa dentro del sistema TRASTORNOS PSIQUIÁTRICOS:\n\n- Sueños anormales: poco frecuentes.\n\nLos sueños anormales (sueños raros) se consideran compatibles con efectos sobre el patrón de descanso durante el tratamiento, sin que ello implique necesariamente la interrupción. Se recomienda registrar la aparición temporal, la persistencia y la repercusión funcional, y valorar medidas de seguimiento clínico si la manifestación resulta molesta para el paciente.",
+      "declared": [
+        {
+          "type": "ACTIVE",
+          "canonical": "ATAZANAVIR SULFATO",
+          "surface": "ATAZANAVIR SULFATO"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "ATAZANAVIR SULFATO",
+          "surface": "atazanavir"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "ATAZANAVIR SULFATO",
+          "surface": "ATV"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+          "surface": "TRASTORNOS PSIQUIÁTRICOS"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Sueños anormales",
+          "surface": "Sueños anormales"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Sueños anormales",
+          "surface": "sueños anormales"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Sueños anormales",
+          "surface": "sueños raros"
+        }
+      ],
+      "validated": [
+        {
+          "type": "ACTIVE",
+          "canonical": "ATAZANAVIR SULFATO",
+          "surface": "ATAZANAVIR SULFATO",
+          "start": 33,
+          "end": 51
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "ATAZANAVIR SULFATO",
+          "surface": "atazanavir",
+          "start": 33,
+          "end": 43
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "ATAZANAVIR SULFATO",
+          "surface": "ATV",
+          "start": 83,
+          "end": 86
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+          "surface": "TRASTORNOS PSIQUIÁTRICOS",
+          "start": 157,
+          "end": 181
+        },
+        {
+          "type": "REACT",
+          "canonical": "Sueños anormales",
+          "surface": "Sueños anormales",
+          "start": 186,
+          "end": 202
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes",
+          "start": 204,
+          "end": 219
+        },
+        {
+          "type": "REACT",
+          "canonical": "Sueños anormales",
+          "surface": "sueños anormales",
+          "start": 186,
+          "end": 202
+        },
+        {
+          "type": "REACT",
+          "canonical": "Sueños anormales",
+          "surface": "sueños raros",
+          "start": 244,
+          "end": 256
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

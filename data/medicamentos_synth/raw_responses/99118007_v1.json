@@ -1,0 +1,1364 @@
+{
+  "codigo": "99118007",
+  "variante": 1,
+  "codigo_variant": "99118007_v1",
+  "medicamento": "ARAVA 20 MG COMPRIMIDOS RECUBIERTOS CON PELICULA",
+  "model": "gpt-5.5",
+  "style_variant_idx": 0,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil de seguridad observado con LEFLUNOMIDA es coherente con el de un medicamento inmunomodulador administrado de forma continuada. Los acontecimientos notificados fueron en su mayoría de intensidad leve o moderada y se controlaron con medidas clínicas habituales o con la interrupción del tratamiento cuando fue necesario. La valoración periódica del paciente permite detectar cambios analíticos o clínicos antes de que evolucionen a cuadros de mayor relevancia. Debe considerarse la situación basal, la medicación concomitante y la duración de la exposición al interpretar cualquier hallazgo. La notificación de sospechas permite seguir caracterizando el balance de seguridad en la práctica clínica.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS\nno frecuente: Agranulocitosis, Eosinofilia, Leucopenia (leucocitos > 2G/L), Pancitopenia (probablemente mediada por mecanismo antiproliferativo).\npoco frecuentes: Anemia, Trombocitopenia leve (plaquetas <100 G/L).\nfrecuentes: Leucopenia (leucocitos > 2G/L).\n\nTRASTORNOS DE PIEL Y TEJIDOS\nfrecuentes: Alopecia, Eczema, Erupción cutánea (incluyendo erupción maculopapular), Prurito, Sequedad de piel.\nno frecuente: Eritema multiforme, Necrolisis epidérmica tóxica (NET), Síndrome de Stevens - Johnson (SSJ).\npoco frecuentes: Urticaria.\nfrecuencia no conocida: Lupus eritematoso cutáneo, Psoriasis, Reacción medicamentosa con eosinofilia y síntomas sistémicos (DRESS), Úlcera cutánea.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\npoco frecuentes: Alteraciones del gusto.\n\nTRASTORNOS DEL SISTEMA GENERAL\nfrecuentes: Anorexia, Astenia, Pérdida de peso (normalmente insignificante).\n\nTRASTORNOS PSIQUIÁTRICOS\npoco frecuentes: Ansiedad.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\nfrecuentes: Leve aumento de la presión arterial.\nno frecuente: Aumento pronunciado de la presión arterial.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nfrecuentes: Cefalea, Mareos, Neuropatía periférica, Parestesias.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nfrecuentes: Colitis (incluyendo colitis microscópica como colitis linfocítica, colitis colágena), Diarrea, Dolor abdominal, Estomatitis aftosa, Incremento de enzimas de colestasis, Incremento de transaminasas (especialmente ALT), Náuseas, Vómitos, Úlceras bucales.\nno frecuente: Hepatitis, Ictericia colestásica, Insuficiencia hepática, Necrosis hepática aguda, Pancreatitis.\n\nTRASTORNOS DEL SISTEMA REPRODUCTOR\nfrecuencia no conocida: Disminución del recuento total del esperma, Dismminución de la motilidad progresiva rápida del esperma, Leve disminución (reversible) de la concentración de esperma.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\nno frecuente: Enfermedad pulmonar intersticial incluyendo neumonitis intersticial.\nfrecuencia no conocida: Hipertensión pulmonar.\n\nTRASTORNOS DEL SISTEMA EXCRETOR\nfrecuencia no conocida: Fallo renal.\n\nTRASTORNOS DEL SISTEMA ENDOCRINO\npoco frecuentes: Hiperlipidemia, Hipofosfatemia, Hipopotasemia.\nfrecuencia no conocida: Hipouricemia.\n\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN\nfrecuentes: Incremento de CPK.\nno frecuente: Incremento de LDH.\n\nINFECCIONES E INFESTACIONES\nno frecuente: Infecciones graves incluyendo sepsis.\n\nNEOPLASIAS\nfrecuencia no conocida: Neoplasia.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\nfrecuentes: Reacciones alérgicas leves.\nno frecuente: Reacciones anafilácticas, Vasculitis incluyendo vasculitis necrotizante cutánea.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\nfrecuentes: Tenosinovitis.\npoco frecuentes: Rotura tendinosa.\n\nDescripción de reacciones adversas seleccionadas\nEn la práctica clínica, la interpretación de los hallazgos debe realizarse de forma individualizada y teniendo en cuenta la evolución temporal tras el inicio o ajuste del tratamiento. La aparición de cambios persistentes en controles de laboratorio o de signos clínicos relevantes justifica una reevaluación del tratamiento y de los factores de riesgo del paciente. La retirada temporal o definitiva puede considerarse según la intensidad del cuadro y la respuesta a las medidas adoptadas. En pacientes con comorbilidad, la vigilancia debe ser más estrecha y documentarse de manera sistemática.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nEn la clasificación por sistemas y órganos, dentro de TRASTORNOS DEL SISTEMA GENERAL, se ha notificado Astenia como reacción adversa asociada al tratamiento con LEFLUNOMIDA. Su frecuencia se clasifica como frecuentes, de acuerdo con la terminología utilizada para la presentación tabulada de reacciones adversas.\n\nLa aparición de este acontecimiento debe valorarse en el contexto del estado clínico del paciente y de la evolución durante el tratamiento. Se recomienda realizar seguimiento clínico cuando la intensidad sea persistente o interfiera con la actividad habitual, considerando la necesidad de medidas de manejo individualizadas.\n\n-- Caso 2 --\nEn la clasificación por órganos y sistemas, dentro de TRASTORNOS DEL SISTEMA ENDOCRINO, se ha notificado Hipofosfatemia con una frecuencia de poco frecuentes durante el tratamiento con LEFLUNOMIDA. Este hallazgo debe interpretarse en el contexto de la evaluación clínica habitual del paciente y de los controles analíticos cuando estén indicados. En caso de detectarse alteraciones persistentes o clínicamente relevantes de los parámetros de fosfato, se recomienda valorar la continuidad del tratamiento y aplicar las medidas de seguimiento apropiadas, de acuerdo con la situación clínica individual.\n\n-- Caso 3 --\nDentro de Trastornos del sistema digestivo, se ha notificado Pancreatitis como reacción adversa no frecuente durante el tratamiento con LEFLUNOMIDA. La aparición de dolor abdominal persistente o síntomas compatibles debe evaluarse clínicamente y considerarse en el contexto del tratamiento en curso. En pacientes con factores predisponentes o antecedentes relevantes, se recomienda vigilancia clínica y valoración de la continuidad del tratamiento según la gravedad y la evolución del cuadro. La información disponible no permite establecer subgrupos específicos de mayor riesgo, por lo que la detección precoz y la revisión de la medicación concomitante forman parte del manejo habitual.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "LEFLUNOMIDA",
+      "surface": "LEFLUNOMIDA",
+      "start": 94,
+      "end": 105
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 804,
+      "end": 853
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente",
+      "start": 854,
+      "end": 866
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agranulocitosis",
+      "surface": "Agranulocitosis",
+      "start": 868,
+      "end": 883
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eosinofilia",
+      "surface": "Eosinofilia",
+      "start": 885,
+      "end": 896
+    },
+    {
+      "type": "REACT",
+      "canonical": "Leucopenia (leucocitos > 2G/L)",
+      "surface": "Leucopenia (leucocitos > 2G/L)",
+      "start": 898,
+      "end": 928
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pancitopenia (probablemente mediada por mecanismo antiproliferativo)",
+      "surface": "Pancitopenia (probablemente mediada por mecanismo antiproliferativo)",
+      "start": 930,
+      "end": 998
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes",
+      "start": 1000,
+      "end": 1015
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia",
+      "surface": "Anemia",
+      "start": 1017,
+      "end": 1023
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombocitopenia leve (plaquetas <100 G/L)",
+      "surface": "Trombocitopenia leve (plaquetas <100 G/L)",
+      "start": 1025,
+      "end": 1066
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 1005,
+      "end": 1015
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 1113,
+      "end": 1141
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alopecia",
+      "surface": "Alopecia",
+      "start": 1154,
+      "end": 1162
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eczema",
+      "surface": "Eczema",
+      "start": 1164,
+      "end": 1170
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción cutánea (incluyendo erupción maculopapular)",
+      "surface": "Erupción cutánea (incluyendo erupción maculopapular)",
+      "start": 1172,
+      "end": 1224
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito",
+      "start": 1226,
+      "end": 1233
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad de piel",
+      "surface": "Sequedad de piel",
+      "start": 1235,
+      "end": 1251
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eritema multiforme",
+      "surface": "Eritema multiforme",
+      "start": 1267,
+      "end": 1285
+    },
+    {
+      "type": "REACT",
+      "canonical": "Necrolisis epidérmica tóxica (NET)",
+      "surface": "Necrolisis epidérmica tóxica (NET)",
+      "start": 1287,
+      "end": 1321
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de Stevens - Johnson (SSJ)",
+      "surface": "Síndrome de Stevens - Johnson (SSJ)",
+      "start": 1323,
+      "end": 1358
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria",
+      "start": 1377,
+      "end": 1386
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 1388,
+      "end": 1410
+    },
+    {
+      "type": "REACT",
+      "canonical": "Lupus eritematoso cutáneo",
+      "surface": "Lupus eritematoso cutáneo",
+      "start": 1412,
+      "end": 1437
+    },
+    {
+      "type": "REACT",
+      "canonical": "Psoriasis",
+      "surface": "Psoriasis",
+      "start": 1439,
+      "end": 1448
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacción medicamentosa con eosinofilia y síntomas sistémicos (DRESS)",
+      "surface": "Reacción medicamentosa con eosinofilia y síntomas sistémicos (DRESS)",
+      "start": 1450,
+      "end": 1518
+    },
+    {
+      "type": "REACT",
+      "canonical": "Úlcera cutánea",
+      "surface": "Úlcera cutánea",
+      "start": 1520,
+      "end": 1534
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 1537,
+      "end": 1574
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones del gusto",
+      "surface": "Alteraciones del gusto",
+      "start": 1592,
+      "end": 1614
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 1617,
+      "end": 1647
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anorexia",
+      "surface": "Anorexia",
+      "start": 1660,
+      "end": 1668
+    },
+    {
+      "type": "REACT",
+      "canonical": "Astenia",
+      "surface": "Astenia",
+      "start": 1670,
+      "end": 1677
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pérdida de peso (normalmente insignificante)",
+      "surface": "Pérdida de peso (normalmente insignificante)",
+      "start": 1679,
+      "end": 1723
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS",
+      "start": 1726,
+      "end": 1750
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ansiedad",
+      "surface": "Ansiedad",
+      "start": 1768,
+      "end": 1776
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1779,
+      "end": 1816
+    },
+    {
+      "type": "REACT",
+      "canonical": "Leve aumento de la presión arterial",
+      "surface": "Leve aumento de la presión arterial",
+      "start": 1829,
+      "end": 1864
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento pronunciado de la presión arterial",
+      "surface": "Aumento pronunciado de la presión arterial",
+      "start": 1880,
+      "end": 1922
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 1925,
+      "end": 1956
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea",
+      "start": 1969,
+      "end": 1976
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareos",
+      "surface": "Mareos",
+      "start": 1978,
+      "end": 1984
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neuropatía periférica",
+      "surface": "Neuropatía periférica",
+      "start": 1986,
+      "end": 2007
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parestesias",
+      "surface": "Parestesias",
+      "start": 2009,
+      "end": 2020
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 2023,
+      "end": 2055
+    },
+    {
+      "type": "REACT",
+      "canonical": "Colitis (incluyendo colitis microscópica como colitis linfocítica, colitis colágena)",
+      "surface": "Colitis (incluyendo colitis microscópica como colitis linfocítica, colitis colágena)",
+      "start": 2068,
+      "end": 2152
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea",
+      "start": 2154,
+      "end": 2161
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor abdominal",
+      "surface": "Dolor abdominal",
+      "start": 2163,
+      "end": 2178
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estomatitis aftosa",
+      "surface": "Estomatitis aftosa",
+      "start": 2180,
+      "end": 2198
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de enzimas de colestasis",
+      "surface": "Incremento de enzimas de colestasis",
+      "start": 2200,
+      "end": 2235
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de transaminasas (especialmente ALT)",
+      "surface": "Incremento de transaminasas (especialmente ALT)",
+      "start": 2237,
+      "end": 2284
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 2286,
+      "end": 2293
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos",
+      "start": 2295,
+      "end": 2302
+    },
+    {
+      "type": "REACT",
+      "canonical": "Úlceras bucales",
+      "surface": "Úlceras bucales",
+      "start": 2304,
+      "end": 2319
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hepatitis",
+      "surface": "Hepatitis",
+      "start": 2335,
+      "end": 2344
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ictericia colestásica",
+      "surface": "Ictericia colestásica",
+      "start": 2346,
+      "end": 2367
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia hepática",
+      "surface": "Insuficiencia hepática",
+      "start": 2369,
+      "end": 2391
+    },
+    {
+      "type": "REACT",
+      "canonical": "Necrosis hepática aguda",
+      "surface": "Necrosis hepática aguda",
+      "start": 2393,
+      "end": 2416
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pancreatitis",
+      "surface": "Pancreatitis",
+      "start": 2418,
+      "end": 2430
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "start": 2433,
+      "end": 2467
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución del recuento total del esperma",
+      "surface": "Disminución del recuento total del esperma",
+      "start": 2492,
+      "end": 2534
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dismminución de la motilidad progresiva rápida del esperma",
+      "surface": "Dismminución de la motilidad progresiva rápida del esperma",
+      "start": 2536,
+      "end": 2594
+    },
+    {
+      "type": "REACT",
+      "canonical": "Leve disminución (reversible) de la concentración de esperma",
+      "surface": "Leve disminución (reversible) de la concentración de esperma",
+      "start": 2596,
+      "end": 2656
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 2659,
+      "end": 2694
+    },
+    {
+      "type": "REACT",
+      "canonical": "Enfermedad pulmonar intersticial incluyendo neumonitis intersticial",
+      "surface": "Enfermedad pulmonar intersticial incluyendo neumonitis intersticial",
+      "start": 2709,
+      "end": 2776
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertensión pulmonar",
+      "surface": "Hipertensión pulmonar",
+      "start": 2802,
+      "end": 2823
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "start": 2826,
+      "end": 2857
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fallo renal",
+      "surface": "Fallo renal",
+      "start": 2882,
+      "end": 2893
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "surface": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "start": 2896,
+      "end": 2928
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperlipidemia",
+      "surface": "Hiperlipidemia",
+      "start": 2946,
+      "end": 2960
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipofosfatemia",
+      "surface": "Hipofosfatemia",
+      "start": 2962,
+      "end": 2976
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipopotasemia",
+      "surface": "Hipopotasemia",
+      "start": 2978,
+      "end": 2991
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipouricemia",
+      "surface": "Hipouricemia",
+      "start": 3017,
+      "end": 3029
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "start": 3032,
+      "end": 3073
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de CPK",
+      "surface": "Incremento de CPK",
+      "start": 3086,
+      "end": 3103
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de LDH",
+      "surface": "Incremento de LDH",
+      "start": 3119,
+      "end": 3136
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "INFECCIONES E INFESTACIONES",
+      "start": 3139,
+      "end": 3166
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infecciones graves incluyendo sepsis",
+      "surface": "Infecciones graves incluyendo sepsis",
+      "start": 3181,
+      "end": 3217
+    },
+    {
+      "type": "SYS",
+      "canonical": "NEOPLASIAS",
+      "surface": "NEOPLASIAS",
+      "start": 3220,
+      "end": 3230
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neoplasia",
+      "surface": "Neoplasia",
+      "start": 3255,
+      "end": 3264
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 3267,
+      "end": 3302
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacciones alérgicas leves",
+      "surface": "Reacciones alérgicas leves",
+      "start": 3315,
+      "end": 3341
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacciones anafilácticas",
+      "surface": "Reacciones anafilácticas",
+      "start": 3357,
+      "end": 3381
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vasculitis incluyendo vasculitis necrotizante cutánea",
+      "surface": "Vasculitis incluyendo vasculitis necrotizante cutánea",
+      "start": 3383,
+      "end": 3436
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 3439,
+      "end": 3481
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tenosinovitis",
+      "surface": "Tenosinovitis",
+      "start": 3494,
+      "end": 3507
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rotura tendinosa",
+      "surface": "Rotura tendinosa",
+      "start": 3526,
+      "end": 3542
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "Trastornos del sistema digestivo",
+      "start": 2023,
+      "end": 2055
+    }
+  ],
+  "raw_long_doc_text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil de seguridad observado con LEFLUNOMIDA es coherente con el de un medicamento inmunomodulador administrado de forma continuada. Los acontecimientos notificados fueron en su mayoría de intensidad leve o moderada y se controlaron con medidas clínicas habituales o con la interrupción del tratamiento cuando fue necesario. La valoración periódica del paciente permite detectar cambios analíticos o clínicos antes de que evolucionen a cuadros de mayor relevancia. Debe considerarse la situación basal, la medicación concomitante y la duración de la exposición al interpretar cualquier hallazgo. La notificación de sospechas permite seguir caracterizando el balance de seguridad en la práctica clínica.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS\nno frecuente: Agranulocitosis, Eosinofilia, Leucopenia (leucocitos > 2G/L), Pancitopenia (probablemente mediada por mecanismo antiproliferativo).\npoco frecuentes: Anemia, Trombocitopenia leve (plaquetas <100 G/L).\nfrecuentes: Leucopenia (leucocitos > 2G/L).\n\nTRASTORNOS DE PIEL Y TEJIDOS\nfrecuentes: Alopecia, Eczema, Erupción cutánea (incluyendo erupción maculopapular), Prurito, Sequedad de piel.\nno frecuente: Eritema multiforme, Necrolisis epidérmica tóxica (NET), Síndrome de Stevens - Johnson (SSJ).\npoco frecuentes: Urticaria.\nfrecuencia no conocida: Lupus eritematoso cutáneo, Psoriasis, Reacción medicamentosa con eosinofilia y síntomas sistémicos (DRESS), Úlcera cutánea.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\npoco frecuentes: Alteraciones del gusto.\n\nTRASTORNOS DEL SISTEMA GENERAL\nfrecuentes: Anorexia, Astenia, Pérdida de peso (normalmente insignificante).\n\nTRASTORNOS PSIQUIÁTRICOS\npoco frecuentes: Ansiedad.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\nfrecuentes: Leve aumento de la presión arterial.\nno frecuente: Aumento pronunciado de la presión arterial.\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nfrecuentes: Cefalea, Mareos, Neuropatía periférica, Parestesias.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nfrecuentes: Colitis (incluyendo colitis microscópica como colitis linfocítica, colitis colágena), Diarrea, Dolor abdominal, Estomatitis aftosa, Incremento de enzimas de colestasis, Incremento de transaminasas (especialmente ALT), Náuseas, Vómitos, Úlceras bucales.\nno frecuente: Hepatitis, Ictericia colestásica, Insuficiencia hepática, Necrosis hepática aguda, Pancreatitis.\n\nTRASTORNOS DEL SISTEMA REPRODUCTOR\nfrecuencia no conocida: Disminución del recuento total del esperma, Dismminución de la motilidad progresiva rápida del esperma, Leve disminución (reversible) de la concentración de esperma.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\nno frecuente: Enfermedad pulmonar intersticial incluyendo neumonitis intersticial.\nfrecuencia no conocida: Hipertensión pulmonar.\n\nTRASTORNOS DEL SISTEMA EXCRETOR\nfrecuencia no conocida: Fallo renal.\n\nTRASTORNOS DEL SISTEMA ENDOCRINO\npoco frecuentes: Hiperlipidemia, Hipofosfatemia, Hipopotasemia.\nfrecuencia no conocida: Hipouricemia.\n\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN\nfrecuentes: Incremento de CPK.\nno frecuente: Incremento de LDH.\n\nINFECCIONES E INFESTACIONES\nno frecuente: Infecciones graves incluyendo sepsis.\n\nNEOPLASIAS\nfrecuencia no conocida: Neoplasia.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\nfrecuentes: Reacciones alérgicas leves.\nno frecuente: Reacciones anafilácticas, Vasculitis incluyendo vasculitis necrotizante cutánea.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\nfrecuentes: Tenosinovitis.\npoco frecuentes: Rotura tendinosa.\n\nDescripción de reacciones adversas seleccionadas\nEn la práctica clínica, la interpretación de los hallazgos debe realizarse de forma individualizada y teniendo en cuenta la evolución temporal tras el inicio o ajuste del tratamiento. La aparición de cambios persistentes en controles de laboratorio o de signos clínicos relevantes justifica una reevaluación del tratamiento y de los factores de riesgo del paciente. La retirada temporal o definitiva puede considerarse según la intensidad del cuadro y la respuesta a las medidas adoptadas. En pacientes con comorbilidad, la vigilancia debe ser más estrecha y documentarse de manera sistemática.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "LEFLUNOMIDA",
+      "surface": "LEFLUNOMIDA"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Agranulocitosis",
+      "surface": "Agranulocitosis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eosinofilia",
+      "surface": "Eosinofilia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Leucopenia (leucocitos > 2G/L)",
+      "surface": "Leucopenia (leucocitos > 2G/L)"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pancitopenia (probablemente mediada por mecanismo antiproliferativo)",
+      "surface": "Pancitopenia (probablemente mediada por mecanismo antiproliferativo)"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia",
+      "surface": "Anemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombocitopenia leve (plaquetas <100 G/L)",
+      "surface": "Trombocitopenia leve (plaquetas <100 G/L)"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Leucopenia (leucocitos > 2G/L)",
+      "surface": "Leucopenia (leucocitos > 2G/L)"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alopecia",
+      "surface": "Alopecia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eczema",
+      "surface": "Eczema"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Erupción cutánea (incluyendo erupción maculopapular)",
+      "surface": "Erupción cutánea (incluyendo erupción maculopapular)"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Sequedad de piel",
+      "surface": "Sequedad de piel"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eritema multiforme",
+      "surface": "Eritema multiforme"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Necrolisis epidérmica tóxica (NET)",
+      "surface": "Necrolisis epidérmica tóxica (NET)"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de Stevens - Johnson (SSJ)",
+      "surface": "Síndrome de Stevens - Johnson (SSJ)"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Lupus eritematoso cutáneo",
+      "surface": "Lupus eritematoso cutáneo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Psoriasis",
+      "surface": "Psoriasis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacción medicamentosa con eosinofilia y síntomas sistémicos (DRESS)",
+      "surface": "Reacción medicamentosa con eosinofilia y síntomas sistémicos (DRESS)"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Úlcera cutánea",
+      "surface": "Úlcera cutánea"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones del gusto",
+      "surface": "Alteraciones del gusto"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anorexia",
+      "surface": "Anorexia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Astenia",
+      "surface": "Astenia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pérdida de peso (normalmente insignificante)",
+      "surface": "Pérdida de peso (normalmente insignificante)"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS PSIQUIÁTRICOS",
+      "surface": "TRASTORNOS PSIQUIÁTRICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ansiedad",
+      "surface": "Ansiedad"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Leve aumento de la presión arterial",
+      "surface": "Leve aumento de la presión arterial"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento pronunciado de la presión arterial",
+      "surface": "Aumento pronunciado de la presión arterial"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Cefalea",
+      "surface": "Cefalea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Mareos",
+      "surface": "Mareos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neuropatía periférica",
+      "surface": "Neuropatía periférica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parestesias",
+      "surface": "Parestesias"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Colitis (incluyendo colitis microscópica como colitis linfocítica, colitis colágena)",
+      "surface": "Colitis (incluyendo colitis microscópica como colitis linfocítica, colitis colágena)"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor abdominal",
+      "surface": "Dolor abdominal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estomatitis aftosa",
+      "surface": "Estomatitis aftosa"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de enzimas de colestasis",
+      "surface": "Incremento de enzimas de colestasis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de transaminasas (especialmente ALT)",
+      "surface": "Incremento de transaminasas (especialmente ALT)"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Úlceras bucales",
+      "surface": "Úlceras bucales"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hepatitis",
+      "surface": "Hepatitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ictericia colestásica",
+      "surface": "Ictericia colestásica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Insuficiencia hepática",
+      "surface": "Insuficiencia hepática"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Necrosis hepática aguda",
+      "surface": "Necrosis hepática aguda"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pancreatitis",
+      "surface": "Pancreatitis"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA REPRODUCTOR",
+      "surface": "TRASTORNOS DEL SISTEMA REPRODUCTOR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución del recuento total del esperma",
+      "surface": "Disminución del recuento total del esperma"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dismminución de la motilidad progresiva rápida del esperma",
+      "surface": "Dismminución de la motilidad progresiva rápida del esperma"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Leve disminución (reversible) de la concentración de esperma",
+      "surface": "Leve disminución (reversible) de la concentración de esperma"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Enfermedad pulmonar intersticial incluyendo neumonitis intersticial",
+      "surface": "Enfermedad pulmonar intersticial incluyendo neumonitis intersticial"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertensión pulmonar",
+      "surface": "Hipertensión pulmonar"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fallo renal",
+      "surface": "Fallo renal"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+      "surface": "TRASTORNOS DEL SISTEMA ENDOCRINO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiperlipidemia",
+      "surface": "Hiperlipidemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipofosfatemia",
+      "surface": "Hipofosfatemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipopotasemia",
+      "surface": "Hipopotasemia"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipouricemia",
+      "surface": "Hipouricemia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de CPK",
+      "surface": "Incremento de CPK"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Incremento de LDH",
+      "surface": "Incremento de LDH"
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "INFECCIONES E INFESTACIONES"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infecciones graves incluyendo sepsis",
+      "surface": "Infecciones graves incluyendo sepsis"
+    },
+    {
+      "type": "SYS",
+      "canonical": "NEOPLASIAS",
+      "surface": "NEOPLASIAS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neoplasia",
+      "surface": "Neoplasia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacciones alérgicas leves",
+      "surface": "Reacciones alérgicas leves"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "NO FRECUENTE",
+      "surface": "no frecuente"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacciones anafilácticas",
+      "surface": "Reacciones anafilácticas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vasculitis incluyendo vasculitis necrotizante cutánea",
+      "surface": "Vasculitis incluyendo vasculitis necrotizante cutánea"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Tenosinovitis",
+      "surface": "Tenosinovitis"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "POCO FRECUENTE",
+      "surface": "poco frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rotura tendinosa",
+      "surface": "Rotura tendinosa"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "ARAVA 20 MG COMPRIMIDOS RECUBIERTOS CON PELICULA",
+        "pactivo": "LEFLUNOMIDA",
+        "reaccion": "Astenia",
+        "frecuencia": "FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA GENERAL"
+      },
+      "text": "En la clasificación por sistemas y órganos, dentro de TRASTORNOS DEL SISTEMA GENERAL, se ha notificado Astenia como reacción adversa asociada al tratamiento con LEFLUNOMIDA. Su frecuencia se clasifica como frecuentes, de acuerdo con la terminología utilizada para la presentación tabulada de reacciones adversas.\n\nLa aparición de este acontecimiento debe valorarse en el contexto del estado clínico del paciente y de la evolución durante el tratamiento. Se recomienda realizar seguimiento clínico cuando la intensidad sea persistente o interfiera con la actividad habitual, considerando la necesidad de medidas de manejo individualizadas.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+          "surface": "TRASTORNOS DEL SISTEMA GENERAL"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Astenia",
+          "surface": "Astenia"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LEFLUNOMIDA",
+          "surface": "LEFLUNOMIDA"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+          "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+          "start": 54,
+          "end": 84
+        },
+        {
+          "type": "REACT",
+          "canonical": "Astenia",
+          "surface": "Astenia",
+          "start": 103,
+          "end": 110
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LEFLUNOMIDA",
+          "surface": "LEFLUNOMIDA",
+          "start": 161,
+          "end": 172
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes",
+          "start": 206,
+          "end": 216
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "ARAVA 20 MG COMPRIMIDOS RECUBIERTOS CON PELICULA",
+        "pactivo": "LEFLUNOMIDA",
+        "reaccion": "Hipofosfatemia",
+        "frecuencia": "POCO FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA ENDOCRINO"
+      },
+      "text": "En la clasificación por órganos y sistemas, dentro de TRASTORNOS DEL SISTEMA ENDOCRINO, se ha notificado Hipofosfatemia con una frecuencia de poco frecuentes durante el tratamiento con LEFLUNOMIDA. Este hallazgo debe interpretarse en el contexto de la evaluación clínica habitual del paciente y de los controles analíticos cuando estén indicados. En caso de detectarse alteraciones persistentes o clínicamente relevantes de los parámetros de fosfato, se recomienda valorar la continuidad del tratamiento y aplicar las medidas de seguimiento apropiadas, de acuerdo con la situación clínica individual.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+          "surface": "TRASTORNOS DEL SISTEMA ENDOCRINO"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Hipofosfatemia",
+          "surface": "Hipofosfatemia"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LEFLUNOMIDA",
+          "surface": "LEFLUNOMIDA"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+          "surface": "TRASTORNOS DEL SISTEMA ENDOCRINO",
+          "start": 54,
+          "end": 86
+        },
+        {
+          "type": "REACT",
+          "canonical": "Hipofosfatemia",
+          "surface": "Hipofosfatemia",
+          "start": 105,
+          "end": 119
+        },
+        {
+          "type": "FREQ",
+          "canonical": "POCO FRECUENTE",
+          "surface": "poco frecuentes",
+          "start": 142,
+          "end": 157
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LEFLUNOMIDA",
+          "surface": "LEFLUNOMIDA",
+          "start": 185,
+          "end": 196
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "ARAVA 20 MG COMPRIMIDOS RECUBIERTOS CON PELICULA",
+        "pactivo": "LEFLUNOMIDA",
+        "reaccion": "Pancreatitis",
+        "frecuencia": "NO FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+      },
+      "text": "Dentro de Trastornos del sistema digestivo, se ha notificado Pancreatitis como reacción adversa no frecuente durante el tratamiento con LEFLUNOMIDA. La aparición de dolor abdominal persistente o síntomas compatibles debe evaluarse clínicamente y considerarse en el contexto del tratamiento en curso. En pacientes con factores predisponentes o antecedentes relevantes, se recomienda vigilancia clínica y valoración de la continuidad del tratamiento según la gravedad y la evolución del cuadro. La información disponible no permite establecer subgrupos específicos de mayor riesgo, por lo que la detección precoz y la revisión de la medicación concomitante forman parte del manejo habitual.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "Trastornos del sistema digestivo"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Pancreatitis",
+          "surface": "Pancreatitis"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LEFLUNOMIDA",
+          "surface": "LEFLUNOMIDA"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "Trastornos del sistema digestivo",
+          "start": 10,
+          "end": 42
+        },
+        {
+          "type": "REACT",
+          "canonical": "Pancreatitis",
+          "surface": "Pancreatitis",
+          "start": 61,
+          "end": 73
+        },
+        {
+          "type": "FREQ",
+          "canonical": "NO FRECUENTE",
+          "surface": "no frecuente",
+          "start": 96,
+          "end": 108
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "LEFLUNOMIDA",
+          "surface": "LEFLUNOMIDA",
+          "start": 136,
+          "end": 147
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

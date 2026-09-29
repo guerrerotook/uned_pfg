@@ -1,0 +1,788 @@
+[
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Anafilaxia",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Reacciones adversas posiblemente mediadas por histamina",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Edema pulmonar",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS RESPIRATORIOS, TORÁCICOS Y MEDIASTÍNICOS"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Síndrome de distrés respiratorio del adulto (SDRA)",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS RESPIRATORIOS, TORÁCICOS Y MEDIASTÍNICOS"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Infiltrados radiográficos",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS RESPIRATORIOS, TORÁCICOS Y MEDIASTÍNICOS"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Dolor/sensibilidad a la presión",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Supuración",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Sensación de ardor",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Hemoglobina disminuida",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Hematocrito disminuido",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Recuento disminuido de leucocitos",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Anemia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Trombocitopenia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Coagulopatía",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Leucopenia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Recuento elevado de eosinófilos (pacientes adultos)",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Recuento disminuido de plaquetas",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Recuento plaquetario elevado",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Recuento disminuido de linfocitos",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Recuento elevado de leucocitos",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Recuento disminuido de neutrófilos",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA SANGRE Y DEL SISTEMA LINFÁTICO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Hipocaliemia",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Sobrecarga de líquido",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Hipomagnesemia (pacientes adultos)",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Anorexia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Desequilibrio electrolítico",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Hiperglucemia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Hipocalcemia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Acidosis metabólica",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DEL METABOLISMO Y DE LA NUTRICIÓN"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Ansiedad",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Desorientación",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Insomnio",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS PSIQUIÁTRICOS"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Cefalea",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Mareo",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Disgeusia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Parestesia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Somnolencia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Temblor",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Hipoestesia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DEL SISTEMA NERVIOSO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Ictericia ocular",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS OCULARES"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Visión borrosa",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS OCULARES"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Edema palpebral",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS OCULARES"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Lagrimeo aumentado",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS OCULARES"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Palpitaciones",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS CARDIACOS"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Taquicardia (pacientes adultos)",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS CARDIACOS"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Arritmia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS CARDIACOS"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Fibrilación auricular",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS CARDIACOS"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Insuficiencia cardiaca congestiva",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS CARDIACOS"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Flebitis",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS VASCULARES"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Tromboflebitis",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS VASCULARES"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Rubefacción (pacientes adultos)",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS VASCULARES"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Acaloramiento",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS VASCULARES"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Hipertensión",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS VASCULARES"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Hipotensión (pacientes adultos)",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS VASCULARES"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Disnea",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS RESPIRATORIOS, TORÁCICOS Y MEDIASTÍNICOS"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Congestión nasal",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS RESPIRATORIOS, TORÁCICOS Y MEDIASTÍNICOS"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Dolor faringolaríngeo",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS RESPIRATORIOS, TORÁCICOS Y MEDIASTÍNICOS"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Taquipnea",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS RESPIRATORIOS, TORÁCICOS Y MEDIASTÍNICOS"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Broncoespasmo",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS RESPIRATORIOS, TORÁCICOS Y MEDIASTÍNICOS"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Tos",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS RESPIRATORIOS, TORÁCICOS Y MEDIASTÍNICOS"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Disnea paroxística nocturna",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS RESPIRATORIOS, TORÁCICOS Y MEDIASTÍNICOS"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Hipoxia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS RESPIRATORIOS, TORÁCICOS Y MEDIASTÍNICOS"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Estertores",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS RESPIRATORIOS, TORÁCICOS Y MEDIASTÍNICOS"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Sibilancia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS RESPIRATORIOS, TORÁCICOS Y MEDIASTÍNICOS"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Náuseas",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Diarrea",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Vómitos",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Dolor abdominal",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Dolor en la zona superior del abdomen",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Boca seca",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Dispepsia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Molestias en el estómago",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Distensión abdominal",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Ascitis",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Estreñimiento",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Disfagia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Flatulencia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS GASTROINTESTINALES"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Elevación de los valores hepáticos (alanina aminotransferasa, aspartato aminotransferasa, fosfatasa alcalina en sangre, bilirrubina conjugada, bilirrubina en sangre)",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS HEPATOBILIARES"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Colestasis",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS HEPATOBILIARES"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Hepatomegalia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS HEPATOBILIARES"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Hiperbilirrubinemia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS HEPATOBILIARES"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Ictericia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS HEPATOBILIARES"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Función hepática anormal",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS HEPATOBILIARES"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Hepatotoxicidad",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS HEPATOBILIARES"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Trastorno hepático",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS HEPATOBILIARES"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Glutamiltransferasa gamma elevada",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS HEPATOBILIARES"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Erupción",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Prurito",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Eritema",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Hiperhidrosis",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Eritema multiforme",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Erupción macular",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Erupción maculopapular",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Erupción prurítica",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Urticaria",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Dermatitis alérgica",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Prurito generalizado",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Erupción eritematosa",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Erupción generalizada",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Erupción morbiliforme",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Lesión de la piel",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Necrólisis epidérmica tóxica",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Síndrome de Stevens-Johnson",
+    "frecuencia": "FRECUENCIA NO CONOCIDA",
+    "trastorno": "TRASTORNOS DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Artralgia",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS MUSCULOESQUELÉTICOS Y DEL TEJIDO CONJUNTIVO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Dolor de espalda",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS MUSCULOESQUELÉTICOS Y DEL TEJIDO CONJUNTIVO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Dolor en una extremidad",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS MUSCULOESQUELÉTICOS Y DEL TEJIDO CONJUNTIVO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Dolor óseo",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS MUSCULOESQUELÉTICOS Y DEL TEJIDO CONJUNTIVO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Pérdida de fuerza muscular",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS MUSCULOESQUELÉTICOS Y DEL TEJIDO CONJUNTIVO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Mialgia",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS MUSCULOESQUELÉTICOS Y DEL TEJIDO CONJUNTIVO"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Fallo renal",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS RENALES Y URINARIOS"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Insuficiencia renal aguda",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS RENALES Y URINARIOS"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Pirexia",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Escalofrío",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Prurito en el lugar de perfusión",
+    "frecuencia": "FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Dolor",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Dolor en el lugar de entrada de un catéter (pacientes adultos)",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Fatiga",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Sensación de frío",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Sensación de calor",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Eritema en la zona de perfusión",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Induración del lugar de perfusión",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Dolor en el lugar de perfusión",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Hinchazón en la zona de perfusión",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Flebitis en la zona de inyección",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Edema periférico",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Dolor a la palpación",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Malestar torácico",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Dolor torácico",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Edema de cara",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Sensación de cambio de la temperatura corporal",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  },
+  {
+    "principio activo": "CASPOFUNGINA",
+    "reacción adversa": "Induración",
+    "frecuencia": "POCO FRECUENTE",
+    "trastorno": "TRASTORNOS GENERALES Y ALTERACIONES EN EL LUGAR DE ADMINISTRACIÓN"
+  }
+]

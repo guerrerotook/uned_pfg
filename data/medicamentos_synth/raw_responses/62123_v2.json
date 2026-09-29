@@ -1,0 +1,1498 @@
+{
+  "codigo": "62123",
+  "variante": 2,
+  "codigo_variant": "62123_v2",
+  "medicamento": "CARBOPLATINO PHARMACIA 10 MG/ML CONCENTRADO PARA SOLUCIÓN PARA PERFUSION EFG",
+  "model": "gpt-5.5",
+  "style_variant_idx": 1,
+  "attempts": 1,
+  "discard_ratio": 0.0,
+  "text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil de seguridad de CARBOPLATINO es el esperado para un agente citotóxico utilizado por perfusión intravenosa. La tolerabilidad depende de la dosis, del estado basal del paciente y de la exposición previa a tratamientos de naturaleza similar. El carboplatino requiere seguimiento clínico y analítico periódico durante todo el ciclo terapéutico. En algunos entornos asistenciales puede identificarse con un nombre breve como Paraplatin, aunque la evaluación de seguridad debe mantenerse vinculada al mismo principio activo. Las incidencias notificadas deben valorarse junto con la evolución de la enfermedad de base y con los tratamientos concomitantes.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nfrecuencia no conocida: Accidente cerebrovascular, Síndrome de leucoencefalopatía posterior reversible (SLPR).\nfrecuentes: Alteraciones sensoriales, Disgeusia, Disminución de reflejos osteotendinosos, Neuropatía periférica, Parestesias (hormigueo).\n\nTRASTORNOS DE PIEL Y TEJIDOS\nfrecuentes: Alopecia, Alteraciones de la piel.\nfrecuencia no conocida: Eritema, Prurito, Rash, Urticaria.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nfrecuentes: Alteración de las membranas mucosas, Diarrea, Estreñimiento.\nmuy frecuentes: Dolor abdominal, Náuseas, Vómitos.\nfrecuencia no conocida: Estomatitis, Pancreatitis.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\nfrecuentes: Alteraciones cardiacas.\nfrecuencia no conocida: Embolismo, Fallo cardiaco, Hipertensión, Hipotensión, Síndrome de Kounis.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\nfrecuentes: Alteraciones musculoesqueléticas.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\nfrecuentes: Alteraciones respiratorias, Broncoespasmo, Enfermedad pulmonar intersticial.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\nfrecuentes: Alteraciones visuales, Ceguera, Ototoxicidad.\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS\nmuy frecuentes: Anemia, Leucopenia, Neutropenia, Trombocitopenia.\nfrecuencia no conocida: Anemia hemolítica, Fallo de médula ósea, Neutropenia febril, Síndrome hemolítico urémico.\nfrecuentes: Hemorragia.\n\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN\nfrecuencia no conocida: Anorexia, Deshidratación, Hiponatremia, Síndrome de lisis tumoral.\n\nTRASTORNOS DEL SISTEMA GENERAL\nfrecuentes: Astenia.\nmuy frecuentes: Disminución del aclaramiento de creatinina.\nfrecuencia no conocida: Eritema en el lugar de inyección, Extravasación del lugar de inyección, Malestar general, Necrosis en el lugar de inyección, Neoplasia, Reacción en el lugar de inyección.\n\nPRUEBAS COMPLEMENTARIAS\nmuy frecuentes: Aumento de la AST en sangre, Aumento de la fosfatasa alcalina en sangre, Aumento de la urea en sangre, Disminución de los niveles de calcio en sangre, Disminución de los niveles de magnesio en sangre, Disminución de los niveles de potasio en sangre, Disminución de los niveles de sodio en sangre.\nfrecuentes: Aumento de la bilirrubina en sangre, Aumento de la creatinina en sangre, Aumento del ácido úrico en sangre.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\nfrecuentes: Hipersensibilidad, Reacciones de tipo anafiláctico.\n\nINFECCIONES E INFESTACIONES\nfrecuentes: Infecciones.\nfrecuencia no conocida: Neumonía.\n\nTRASTORNOS DEL SISTEMA EXCRETOR\nfrecuentes: Trastornos urogenitales.\n\nDescripción de reacciones adversas seleccionadas\nLa interpretación de la lista debe realizarse considerando el momento de aparición, la intensidad y la reversibilidad tras la interrupción o el ajuste del tratamiento. En pacientes con factores de riesgo, la vigilancia estrecha permite detectar cambios clínicos relevantes antes de que condicionen la continuidad de la administración. Las determinaciones de laboratorio son útiles para confirmar tendencias y apoyar decisiones de manejo.\n\nLas alteraciones incluidas en la lista pueden presentarse de forma aislada o asociadas entre sí. Debe prestarse atención a los síntomas comunicados por el paciente, especialmente cuando se describan con términos no técnicos, y registrar la denominación clínica adecuada en la historia. Las manifestaciones relacionadas con el lugar de administración requieren comprobación de la vía de perfusión y medidas locales según la práctica clínica habitual.\n\nLa notificación de sospechas de reacciones adversas después de la autorización del medicamento es importante. Permite una supervisión continuada de la relación beneficio/riesgo y contribuye a identificar patrones de aparición en la práctica real. Los profesionales sanitarios deben comunicar cualquier sospecha por los canales establecidos.\n\nDescripción de reacciones adversas seleccionadas (extensión):\n\n-- Caso 1 --\nEn pacientes tratados con carboplatino, también conocido como CBDCA, se ha notificado la siguiente reacción adversa dentro del sistema INFECCIONES E INFESTACIONES. La frecuencia se considera frecuencia no conocida, ya que no puede estimarse a partir de los datos disponibles.\n\n- Neumonía.\n\nEsta reacción debe valorarse en el contexto del estado clínico del paciente y de los controles habituales durante el tratamiento. Ante signos clínicos compatibles con un proceso respiratorio, se recomienda seguimiento médico y aplicar las medidas asistenciales pertinentes, considerando la relación temporal con la administración del medicamento.\n\n-- Caso 2 --\nDurante el tratamiento con carboplatino, también referido de forma abreviada como Carboplatino Pharmacia, las Náuseas (ganas de vomitar) forman parte de Trastornos del sistema digestivo y se clasifican como muy frecuentes. La aparición suele relacionarse con la exposición al fármaco y debe valorarse en el contexto del esquema de perfusión y de las medidas de soporte habituales, sin modificar por ello la categoría de frecuencia.\n\nLista tabulada:\n- Trastornos del sistema digestivo: Náuseas; muy frecuentes.\n\n-- Caso 3 --\nEn el sistema TRASTORNOS DEL SISTEMA INMUNOLÓGICO, se han notificado Reacciones de tipo anafiláctico con carboplatino (CBDCA); se clasifican como frecuentes. Se recomienda vigilancia durante la perfusión y disponer de medidas de actuación inmediata, especialmente en pacientes con exposición previa. Estos episodios pueden aparecer durante la administración o poco después, sin que ello implique una frecuencia distinta a la descrita.\n\nLista tabulada:\n- Reacciones de tipo anafiláctico: frecuentes.\n",
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "CARBOPLATINO",
+      "surface": "CARBOPLATINO",
+      "start": 83,
+      "end": 95
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "CARBOPLATINO",
+      "surface": "carboplatino",
+      "start": 83,
+      "end": 95
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "CARBOPLATINO",
+      "surface": "Paraplatin",
+      "start": 487,
+      "end": 497
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "start": 756,
+      "end": 787
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida",
+      "start": 788,
+      "end": 810
+    },
+    {
+      "type": "REACT",
+      "canonical": "Accidente cerebrovascular",
+      "surface": "Accidente cerebrovascular",
+      "start": 812,
+      "end": 837
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de leucoencefalopatía posterior reversible (SLPR)",
+      "surface": "Síndrome de leucoencefalopatía posterior reversible (SLPR)",
+      "start": 839,
+      "end": 897
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 899,
+      "end": 909
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones sensoriales",
+      "surface": "Alteraciones sensoriales",
+      "start": 911,
+      "end": 935
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disgeusia",
+      "surface": "Disgeusia",
+      "start": 937,
+      "end": 946
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de reflejos osteotendinosos",
+      "surface": "Disminución de reflejos osteotendinosos",
+      "start": 948,
+      "end": 987
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neuropatía periférica",
+      "surface": "Neuropatía periférica",
+      "start": 989,
+      "end": 1010
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parestesias",
+      "surface": "Parestesias",
+      "start": 1012,
+      "end": 1023
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "start": 1038,
+      "end": 1066
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alopecia",
+      "surface": "Alopecia",
+      "start": 1079,
+      "end": 1087
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones de la piel",
+      "surface": "Alteraciones de la piel",
+      "start": 1089,
+      "end": 1112
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eritema",
+      "surface": "Eritema",
+      "start": 1138,
+      "end": 1145
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito",
+      "start": 1147,
+      "end": 1154
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rash",
+      "surface": "Rash",
+      "start": 1156,
+      "end": 1160
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria",
+      "start": 1162,
+      "end": 1171
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "start": 1174,
+      "end": 1206
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteración de las membranas mucosas",
+      "surface": "Alteración de las membranas mucosas",
+      "start": 1219,
+      "end": 1254
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea",
+      "start": 1256,
+      "end": 1263
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento",
+      "start": 1265,
+      "end": 1278
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes",
+      "start": 1280,
+      "end": 1294
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor abdominal",
+      "surface": "Dolor abdominal",
+      "start": 1296,
+      "end": 1311
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas",
+      "start": 1313,
+      "end": 1320
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos",
+      "start": 1322,
+      "end": 1329
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estomatitis",
+      "surface": "Estomatitis",
+      "start": 1355,
+      "end": 1366
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pancreatitis",
+      "surface": "Pancreatitis",
+      "start": 1368,
+      "end": 1380
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "start": 1383,
+      "end": 1420
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones cardiacas",
+      "surface": "Alteraciones cardiacas",
+      "start": 1433,
+      "end": 1455
+    },
+    {
+      "type": "REACT",
+      "canonical": "Embolismo",
+      "surface": "Embolismo",
+      "start": 1481,
+      "end": 1490
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fallo cardiaco",
+      "surface": "Fallo cardiaco",
+      "start": 1492,
+      "end": 1506
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertensión",
+      "surface": "Hipertensión",
+      "start": 1508,
+      "end": 1520
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión",
+      "start": 1522,
+      "end": 1533
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de Kounis",
+      "surface": "Síndrome de Kounis",
+      "start": 1535,
+      "end": 1553
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "start": 1556,
+      "end": 1598
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones musculoesqueléticas",
+      "surface": "Alteraciones musculoesqueléticas",
+      "start": 1611,
+      "end": 1643
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "start": 1646,
+      "end": 1681
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones respiratorias",
+      "surface": "Alteraciones respiratorias",
+      "start": 1694,
+      "end": 1720
+    },
+    {
+      "type": "REACT",
+      "canonical": "Broncoespasmo",
+      "surface": "Broncoespasmo",
+      "start": 1722,
+      "end": 1735
+    },
+    {
+      "type": "REACT",
+      "canonical": "Enfermedad pulmonar intersticial",
+      "surface": "Enfermedad pulmonar intersticial",
+      "start": 1737,
+      "end": 1769
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "start": 1772,
+      "end": 1809
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones visuales",
+      "surface": "Alteraciones visuales",
+      "start": 1822,
+      "end": 1843
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ceguera",
+      "surface": "Ceguera",
+      "start": 1845,
+      "end": 1852
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ototoxicidad",
+      "surface": "Ototoxicidad",
+      "start": 1854,
+      "end": 1866
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "start": 1869,
+      "end": 1918
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia",
+      "surface": "Anemia",
+      "start": 1935,
+      "end": 1941
+    },
+    {
+      "type": "REACT",
+      "canonical": "Leucopenia",
+      "surface": "Leucopenia",
+      "start": 1943,
+      "end": 1953
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neutropenia",
+      "surface": "Neutropenia",
+      "start": 1955,
+      "end": 1966
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombocitopenia",
+      "surface": "Trombocitopenia",
+      "start": 1968,
+      "end": 1983
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia hemolítica",
+      "surface": "Anemia hemolítica",
+      "start": 2009,
+      "end": 2026
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fallo de médula ósea",
+      "surface": "Fallo de médula ósea",
+      "start": 2028,
+      "end": 2048
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neutropenia febril",
+      "surface": "Neutropenia febril",
+      "start": 2050,
+      "end": 2068
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome hemolítico urémico",
+      "surface": "Síndrome hemolítico urémico",
+      "start": 2070,
+      "end": 2097
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia",
+      "surface": "Hemorragia",
+      "start": 2111,
+      "end": 2121
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "start": 2124,
+      "end": 2165
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anorexia",
+      "surface": "Anorexia",
+      "start": 2190,
+      "end": 2198
+    },
+    {
+      "type": "REACT",
+      "canonical": "Deshidratación",
+      "surface": "Deshidratación",
+      "start": 2200,
+      "end": 2214
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiponatremia",
+      "surface": "Hiponatremia",
+      "start": 2216,
+      "end": 2228
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de lisis tumoral",
+      "surface": "Síndrome de lisis tumoral",
+      "start": 2230,
+      "end": 2255
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL",
+      "start": 2258,
+      "end": 2288
+    },
+    {
+      "type": "REACT",
+      "canonical": "Astenia",
+      "surface": "Astenia",
+      "start": 2301,
+      "end": 2308
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución del aclaramiento de creatinina",
+      "surface": "Disminución del aclaramiento de creatinina",
+      "start": 2326,
+      "end": 2368
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eritema en el lugar de inyección",
+      "surface": "Eritema en el lugar de inyección",
+      "start": 2394,
+      "end": 2426
+    },
+    {
+      "type": "REACT",
+      "canonical": "Extravasación del lugar de inyección",
+      "surface": "Extravasación del lugar de inyección",
+      "start": 2428,
+      "end": 2464
+    },
+    {
+      "type": "REACT",
+      "canonical": "Malestar general",
+      "surface": "Malestar general",
+      "start": 2466,
+      "end": 2482
+    },
+    {
+      "type": "REACT",
+      "canonical": "Necrosis en el lugar de inyección",
+      "surface": "Necrosis en el lugar de inyección",
+      "start": 2484,
+      "end": 2517
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neoplasia",
+      "surface": "Neoplasia",
+      "start": 2519,
+      "end": 2528
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacción en el lugar de inyección",
+      "surface": "Reacción en el lugar de inyección",
+      "start": 2530,
+      "end": 2563
+    },
+    {
+      "type": "SYS",
+      "canonical": "PRUEBAS COMPLEMENTARIAS",
+      "surface": "PRUEBAS COMPLEMENTARIAS",
+      "start": 2566,
+      "end": 2589
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la AST en sangre",
+      "surface": "Aumento de la AST en sangre",
+      "start": 2606,
+      "end": 2633
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la fosfatasa alcalina en sangre",
+      "surface": "Aumento de la fosfatasa alcalina en sangre",
+      "start": 2635,
+      "end": 2677
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la urea en sangre",
+      "surface": "Aumento de la urea en sangre",
+      "start": 2679,
+      "end": 2707
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de los niveles de calcio en sangre",
+      "surface": "Disminución de los niveles de calcio en sangre",
+      "start": 2709,
+      "end": 2755
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de los niveles de magnesio en sangre",
+      "surface": "Disminución de los niveles de magnesio en sangre",
+      "start": 2757,
+      "end": 2805
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de los niveles de potasio en sangre",
+      "surface": "Disminución de los niveles de potasio en sangre",
+      "start": 2807,
+      "end": 2854
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de los niveles de sodio en sangre",
+      "surface": "Disminución de los niveles de sodio en sangre",
+      "start": 2856,
+      "end": 2901
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la bilirrubina en sangre",
+      "surface": "Aumento de la bilirrubina en sangre",
+      "start": 2915,
+      "end": 2950
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la creatinina en sangre",
+      "surface": "Aumento de la creatinina en sangre",
+      "start": 2952,
+      "end": 2986
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento del ácido úrico en sangre",
+      "surface": "Aumento del ácido úrico en sangre",
+      "start": 2988,
+      "end": 3021
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "start": 3024,
+      "end": 3059
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipersensibilidad",
+      "surface": "Hipersensibilidad",
+      "start": 3072,
+      "end": 3089
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacciones de tipo anafiláctico",
+      "surface": "Reacciones de tipo anafiláctico",
+      "start": 3091,
+      "end": 3122
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "INFECCIONES E INFESTACIONES",
+      "start": 3125,
+      "end": 3152
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infecciones",
+      "surface": "Infecciones",
+      "start": 3125,
+      "end": 3136
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neumonía",
+      "surface": "Neumonía",
+      "start": 3202,
+      "end": 3210
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "start": 3213,
+      "end": 3244
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastornos urogenitales",
+      "surface": "Trastornos urogenitales",
+      "start": 3257,
+      "end": 3280
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "CARBOPLATINO",
+      "surface": "CBDCA",
+      "start": 4702,
+      "end": 4707
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "CARBOPLATINO",
+      "surface": "Carboplatino Pharmacia",
+      "start": 5373,
+      "end": 5395
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "ganas de vomitar",
+      "start": 5410,
+      "end": 5426
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "Trastornos del sistema digestivo",
+      "start": 1174,
+      "end": 1206
+    }
+  ],
+  "raw_long_doc_text": "4.8 Reacciones adversas\n\nResumen del perfil de seguridad\nEl perfil de seguridad de CARBOPLATINO es el esperado para un agente citotóxico utilizado por perfusión intravenosa. La tolerabilidad depende de la dosis, del estado basal del paciente y de la exposición previa a tratamientos de naturaleza similar. El carboplatino requiere seguimiento clínico y analítico periódico durante todo el ciclo terapéutico. En algunos entornos asistenciales puede identificarse con un nombre breve como Paraplatin, aunque la evaluación de seguridad debe mantenerse vinculada al mismo principio activo. Las incidencias notificadas deben valorarse junto con la evolución de la enfermedad de base y con los tratamientos concomitantes.\n\nLista tabulada de reacciones adversas\n\nTRASTORNOS DEL SISTEMA NERVIOSO\nfrecuencia no conocida: Accidente cerebrovascular, Síndrome de leucoencefalopatía posterior reversible (SLPR).\nfrecuentes: Alteraciones sensoriales, Disgeusia, Disminución de reflejos osteotendinosos, Neuropatía periférica, Parestesias (hormigueo).\n\nTRASTORNOS DE PIEL Y TEJIDOS\nfrecuentes: Alopecia, Alteraciones de la piel.\nfrecuencia no conocida: Eritema, Prurito, Rash, Urticaria.\n\nTRASTORNOS DEL SISTEMA DIGESTIVO\nfrecuentes: Alteración de las membranas mucosas, Diarrea, Estreñimiento.\nmuy frecuentes: Dolor abdominal, Náuseas, Vómitos.\nfrecuencia no conocida: Estomatitis, Pancreatitis.\n\nTRASTORNOS DEL SISTEMA CARDIOVASCULAR\nfrecuentes: Alteraciones cardiacas.\nfrecuencia no conocida: Embolismo, Fallo cardiaco, Hipertensión, Hipotensión, Síndrome de Kounis.\n\nTRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO\nfrecuentes: Alteraciones musculoesqueléticas.\n\nTRASTORNOS DEL SISTEMA RESPIRATORIO\nfrecuentes: Alteraciones respiratorias, Broncoespasmo, Enfermedad pulmonar intersticial.\n\nTRASTORNOS DE ÓRGANOS DE LOS SENTIDOS\nfrecuentes: Alteraciones visuales, Ceguera, Ototoxicidad.\n\nTRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS\nmuy frecuentes: Anemia, Leucopenia, Neutropenia, Trombocitopenia.\nfrecuencia no conocida: Anemia hemolítica, Fallo de médula ósea, Neutropenia febril, Síndrome hemolítico urémico.\nfrecuentes: Hemorragia.\n\nTRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN\nfrecuencia no conocida: Anorexia, Deshidratación, Hiponatremia, Síndrome de lisis tumoral.\n\nTRASTORNOS DEL SISTEMA GENERAL\nfrecuentes: Astenia.\nmuy frecuentes: Disminución del aclaramiento de creatinina.\nfrecuencia no conocida: Eritema en el lugar de inyección, Extravasación del lugar de inyección, Malestar general, Necrosis en el lugar de inyección, Neoplasia, Reacción en el lugar de inyección.\n\nPRUEBAS COMPLEMENTARIAS\nmuy frecuentes: Aumento de la AST en sangre, Aumento de la fosfatasa alcalina en sangre, Aumento de la urea en sangre, Disminución de los niveles de calcio en sangre, Disminución de los niveles de magnesio en sangre, Disminución de los niveles de potasio en sangre, Disminución de los niveles de sodio en sangre.\nfrecuentes: Aumento de la bilirrubina en sangre, Aumento de la creatinina en sangre, Aumento del ácido úrico en sangre.\n\nTRASTORNOS DEL SISTEMA INMUNOLÓGICO\nfrecuentes: Hipersensibilidad, Reacciones de tipo anafiláctico.\n\nINFECCIONES E INFESTACIONES\nfrecuentes: Infecciones.\nfrecuencia no conocida: Neumonía.\n\nTRASTORNOS DEL SISTEMA EXCRETOR\nfrecuentes: Trastornos urogenitales.\n\nDescripción de reacciones adversas seleccionadas\nLa interpretación de la lista debe realizarse considerando el momento de aparición, la intensidad y la reversibilidad tras la interrupción o el ajuste del tratamiento. En pacientes con factores de riesgo, la vigilancia estrecha permite detectar cambios clínicos relevantes antes de que condicionen la continuidad de la administración. Las determinaciones de laboratorio son útiles para confirmar tendencias y apoyar decisiones de manejo.\n\nLas alteraciones incluidas en la lista pueden presentarse de forma aislada o asociadas entre sí. Debe prestarse atención a los síntomas comunicados por el paciente, especialmente cuando se describan con términos no técnicos, y registrar la denominación clínica adecuada en la historia. Las manifestaciones relacionadas con el lugar de administración requieren comprobación de la vía de perfusión y medidas locales según la práctica clínica habitual.\n\nLa notificación de sospechas de reacciones adversas después de la autorización del medicamento es importante. Permite una supervisión continuada de la relación beneficio/riesgo y contribuye a identificar patrones de aparición en la práctica real. Los profesionales sanitarios deben comunicar cualquier sospecha por los canales establecidos.",
+  "raw_long_doc_entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "CARBOPLATINO",
+      "surface": "CARBOPLATINO"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "CARBOPLATINO",
+      "surface": "carboplatino"
+    },
+    {
+      "type": "ACTIVE",
+      "canonical": "CARBOPLATINO",
+      "surface": "Paraplatin"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA NERVIOSO",
+      "surface": "TRASTORNOS DEL SISTEMA NERVIOSO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Accidente cerebrovascular",
+      "surface": "Accidente cerebrovascular"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de leucoencefalopatía posterior reversible (SLPR)",
+      "surface": "Síndrome de leucoencefalopatía posterior reversible (SLPR)"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones sensoriales",
+      "surface": "Alteraciones sensoriales"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disgeusia",
+      "surface": "Disgeusia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de reflejos osteotendinosos",
+      "surface": "Disminución de reflejos osteotendinosos"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neuropatía periférica",
+      "surface": "Neuropatía periférica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Parestesias",
+      "surface": "Parestesias"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE PIEL Y TEJIDOS",
+      "surface": "TRASTORNOS DE PIEL Y TEJIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alopecia",
+      "surface": "Alopecia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones de la piel",
+      "surface": "Alteraciones de la piel"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eritema",
+      "surface": "Eritema"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Prurito",
+      "surface": "Prurito"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rash",
+      "surface": "Rash"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Urticaria",
+      "surface": "Urticaria"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+      "surface": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteración de las membranas mucosas",
+      "surface": "Alteración de las membranas mucosas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Diarrea",
+      "surface": "Diarrea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estreñimiento",
+      "surface": "Estreñimiento"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Dolor abdominal",
+      "surface": "Dolor abdominal"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Náuseas",
+      "surface": "Náuseas"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Vómitos",
+      "surface": "Vómitos"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Estomatitis",
+      "surface": "Estomatitis"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Pancreatitis",
+      "surface": "Pancreatitis"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR",
+      "surface": "TRASTORNOS DEL SISTEMA CARDIOVASCULAR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones cardiacas",
+      "surface": "Alteraciones cardiacas"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Embolismo",
+      "surface": "Embolismo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fallo cardiaco",
+      "surface": "Fallo cardiaco"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipertensión",
+      "surface": "Hipertensión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipotensión",
+      "surface": "Hipotensión"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de Kounis",
+      "surface": "Síndrome de Kounis"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO",
+      "surface": "TRASTORNOS DEL SISTEMA MÚSCULO-ESQUELÉTICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones musculoesqueléticas",
+      "surface": "Alteraciones musculoesqueléticas"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA RESPIRATORIO",
+      "surface": "TRASTORNOS DEL SISTEMA RESPIRATORIO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones respiratorias",
+      "surface": "Alteraciones respiratorias"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Broncoespasmo",
+      "surface": "Broncoespasmo"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Enfermedad pulmonar intersticial",
+      "surface": "Enfermedad pulmonar intersticial"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS",
+      "surface": "TRASTORNOS DE ÓRGANOS DE LOS SENTIDOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Alteraciones visuales",
+      "surface": "Alteraciones visuales"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ceguera",
+      "surface": "Ceguera"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Ototoxicidad",
+      "surface": "Ototoxicidad"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS",
+      "surface": "TRASTORNOS DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia",
+      "surface": "Anemia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Leucopenia",
+      "surface": "Leucopenia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neutropenia",
+      "surface": "Neutropenia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trombocitopenia",
+      "surface": "Trombocitopenia"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anemia hemolítica",
+      "surface": "Anemia hemolítica"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Fallo de médula ósea",
+      "surface": "Fallo de médula ósea"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neutropenia febril",
+      "surface": "Neutropenia febril"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome hemolítico urémico",
+      "surface": "Síndrome hemolítico urémico"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hemorragia",
+      "surface": "Hemorragia"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Anorexia",
+      "surface": "Anorexia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Deshidratación",
+      "surface": "Deshidratación"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hiponatremia",
+      "surface": "Hiponatremia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Síndrome de lisis tumoral",
+      "surface": "Síndrome de lisis tumoral"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA GENERAL",
+      "surface": "TRASTORNOS DEL SISTEMA GENERAL"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Astenia",
+      "surface": "Astenia"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución del aclaramiento de creatinina",
+      "surface": "Disminución del aclaramiento de creatinina"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Eritema en el lugar de inyección",
+      "surface": "Eritema en el lugar de inyección"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Extravasación del lugar de inyección",
+      "surface": "Extravasación del lugar de inyección"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Malestar general",
+      "surface": "Malestar general"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Necrosis en el lugar de inyección",
+      "surface": "Necrosis en el lugar de inyección"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neoplasia",
+      "surface": "Neoplasia"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacción en el lugar de inyección",
+      "surface": "Reacción en el lugar de inyección"
+    },
+    {
+      "type": "SYS",
+      "canonical": "PRUEBAS COMPLEMENTARIAS",
+      "surface": "PRUEBAS COMPLEMENTARIAS"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la AST en sangre",
+      "surface": "Aumento de la AST en sangre"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la fosfatasa alcalina en sangre",
+      "surface": "Aumento de la fosfatasa alcalina en sangre"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la urea en sangre",
+      "surface": "Aumento de la urea en sangre"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de los niveles de calcio en sangre",
+      "surface": "Disminución de los niveles de calcio en sangre"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de los niveles de magnesio en sangre",
+      "surface": "Disminución de los niveles de magnesio en sangre"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de los niveles de potasio en sangre",
+      "surface": "Disminución de los niveles de potasio en sangre"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Disminución de los niveles de sodio en sangre",
+      "surface": "Disminución de los niveles de sodio en sangre"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la bilirrubina en sangre",
+      "surface": "Aumento de la bilirrubina en sangre"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento de la creatinina en sangre",
+      "surface": "Aumento de la creatinina en sangre"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Aumento del ácido úrico en sangre",
+      "surface": "Aumento del ácido úrico en sangre"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+      "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipersensibilidad",
+      "surface": "Hipersensibilidad"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Reacciones de tipo anafiláctico",
+      "surface": "Reacciones de tipo anafiláctico"
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "INFECCIONES E INFESTACIONES"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infecciones",
+      "surface": "Infecciones"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENCIA NO CONOCIDA",
+      "surface": "frecuencia no conocida"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Neumonía",
+      "surface": "Neumonía"
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL SISTEMA EXCRETOR",
+      "surface": "TRASTORNOS DEL SISTEMA EXCRETOR"
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes"
+    },
+    {
+      "type": "REACT",
+      "canonical": "Trastornos urogenitales",
+      "surface": "Trastornos urogenitales"
+    }
+  ],
+  "snippets": [
+    {
+      "seed": {
+        "medicamento": "CARBOPLATINO PHARMACIA 10 MG/ML CONCENTRADO PARA SOLUCIÓN PARA PERFUSION EFG",
+        "pactivo": "CARBOPLATINO",
+        "reaccion": "Neumonía",
+        "frecuencia": "SIN FRECUENCIA",
+        "sistema": "INFECCIONES E INFESTACIONES"
+      },
+      "text": "En pacientes tratados con carboplatino, también conocido como CBDCA, se ha notificado la siguiente reacción adversa dentro del sistema INFECCIONES E INFESTACIONES. La frecuencia se considera frecuencia no conocida, ya que no puede estimarse a partir de los datos disponibles.\n\n- Neumonía.\n\nEsta reacción debe valorarse en el contexto del estado clínico del paciente y de los controles habituales durante el tratamiento. Ante signos clínicos compatibles con un proceso respiratorio, se recomienda seguimiento médico y aplicar las medidas asistenciales pertinentes, considerando la relación temporal con la administración del medicamento.",
+      "declared": [
+        {
+          "type": "ACTIVE",
+          "canonical": "CARBOPLATINO",
+          "surface": "carboplatino"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "CARBOPLATINO",
+          "surface": "CBDCA"
+        },
+        {
+          "type": "SYS",
+          "canonical": "INFECCIONES E INFESTACIONES",
+          "surface": "INFECCIONES E INFESTACIONES"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Neumonía",
+          "surface": "Neumonía"
+        }
+      ],
+      "validated": [
+        {
+          "type": "ACTIVE",
+          "canonical": "CARBOPLATINO",
+          "surface": "carboplatino",
+          "start": 26,
+          "end": 38
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "CARBOPLATINO",
+          "surface": "CBDCA",
+          "start": 62,
+          "end": 67
+        },
+        {
+          "type": "SYS",
+          "canonical": "INFECCIONES E INFESTACIONES",
+          "surface": "INFECCIONES E INFESTACIONES",
+          "start": 135,
+          "end": 162
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENCIA NO CONOCIDA",
+          "surface": "frecuencia no conocida",
+          "start": 191,
+          "end": 213
+        },
+        {
+          "type": "REACT",
+          "canonical": "Neumonía",
+          "surface": "Neumonía",
+          "start": 279,
+          "end": 287
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "CARBOPLATINO PHARMACIA 10 MG/ML CONCENTRADO PARA SOLUCIÓN PARA PERFUSION EFG",
+        "pactivo": "CARBOPLATINO",
+        "reaccion": "Náuseas",
+        "frecuencia": "MUY FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA DIGESTIVO"
+      },
+      "text": "Durante el tratamiento con carboplatino, también referido de forma abreviada como Carboplatino Pharmacia, las Náuseas (ganas de vomitar) forman parte de Trastornos del sistema digestivo y se clasifican como muy frecuentes. La aparición suele relacionarse con la exposición al fármaco y debe valorarse en el contexto del esquema de perfusión y de las medidas de soporte habituales, sin modificar por ello la categoría de frecuencia.\n\nLista tabulada:\n- Trastornos del sistema digestivo: Náuseas; muy frecuentes.",
+      "declared": [
+        {
+          "type": "ACTIVE",
+          "canonical": "CARBOPLATINO",
+          "surface": "carboplatino"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "CARBOPLATINO",
+          "surface": "Carboplatino Pharmacia"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Náuseas",
+          "surface": "Náuseas"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Náuseas",
+          "surface": "ganas de vomitar"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "Trastornos del sistema digestivo"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "MUY FRECUENTE",
+          "surface": "muy frecuentes"
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "Trastornos del sistema digestivo"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Náuseas",
+          "surface": "Náuseas"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "MUY FRECUENTE",
+          "surface": "muy frecuentes"
+        }
+      ],
+      "validated": [
+        {
+          "type": "ACTIVE",
+          "canonical": "CARBOPLATINO",
+          "surface": "carboplatino",
+          "start": 27,
+          "end": 39
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "CARBOPLATINO",
+          "surface": "Carboplatino Pharmacia",
+          "start": 82,
+          "end": 104
+        },
+        {
+          "type": "REACT",
+          "canonical": "Náuseas",
+          "surface": "Náuseas",
+          "start": 110,
+          "end": 117
+        },
+        {
+          "type": "REACT",
+          "canonical": "Náuseas",
+          "surface": "ganas de vomitar",
+          "start": 119,
+          "end": 135
+        },
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA DIGESTIVO",
+          "surface": "Trastornos del sistema digestivo",
+          "start": 153,
+          "end": 185
+        },
+        {
+          "type": "FREQ",
+          "canonical": "MUY FRECUENTE",
+          "surface": "muy frecuentes",
+          "start": 207,
+          "end": 221
+        }
+      ],
+      "discard_ratio": 0.0
+    },
+    {
+      "seed": {
+        "medicamento": "CARBOPLATINO PHARMACIA 10 MG/ML CONCENTRADO PARA SOLUCIÓN PARA PERFUSION EFG",
+        "pactivo": "CARBOPLATINO",
+        "reaccion": "Reacciones de tipo anafiláctico",
+        "frecuencia": "FRECUENTE",
+        "sistema": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+      },
+      "text": "En el sistema TRASTORNOS DEL SISTEMA INMUNOLÓGICO, se han notificado Reacciones de tipo anafiláctico con carboplatino (CBDCA); se clasifican como frecuentes. Se recomienda vigilancia durante la perfusión y disponer de medidas de actuación inmediata, especialmente en pacientes con exposición previa. Estos episodios pueden aparecer durante la administración o poco después, sin que ello implique una frecuencia distinta a la descrita.\n\nLista tabulada:\n- Reacciones de tipo anafiláctico: frecuentes.",
+      "declared": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+          "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Reacciones de tipo anafiláctico",
+          "surface": "Reacciones de tipo anafiláctico"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "CARBOPLATINO",
+          "surface": "carboplatino"
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "CARBOPLATINO",
+          "surface": "CBDCA"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        },
+        {
+          "type": "REACT",
+          "canonical": "Reacciones de tipo anafiláctico",
+          "surface": "Reacciones de tipo anafiláctico"
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes"
+        }
+      ],
+      "validated": [
+        {
+          "type": "SYS",
+          "canonical": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+          "surface": "TRASTORNOS DEL SISTEMA INMUNOLÓGICO",
+          "start": 14,
+          "end": 49
+        },
+        {
+          "type": "REACT",
+          "canonical": "Reacciones de tipo anafiláctico",
+          "surface": "Reacciones de tipo anafiláctico",
+          "start": 69,
+          "end": 100
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "CARBOPLATINO",
+          "surface": "carboplatino",
+          "start": 105,
+          "end": 117
+        },
+        {
+          "type": "ACTIVE",
+          "canonical": "CARBOPLATINO",
+          "surface": "CBDCA",
+          "start": 119,
+          "end": 124
+        },
+        {
+          "type": "FREQ",
+          "canonical": "FRECUENTE",
+          "surface": "frecuentes",
+          "start": 146,
+          "end": 156
+        }
+      ],
+      "discard_ratio": 0.0
+    }
+  ]
+}

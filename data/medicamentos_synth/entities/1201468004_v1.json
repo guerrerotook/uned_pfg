@@ -1,0 +1,93 @@
+{
+  "codigo": "1201468004",
+  "variante": 1,
+  "codigo_variant": "1201468004_v1",
+  "medicamento": "KAFTRIO 75 MG/50 MG/100 MG GRANULADO EN SOBRE",
+  "discard_ratio": 0.0,
+  "entities": [
+    {
+      "type": "ACTIVE",
+      "canonical": "NOVALE",
+      "surface": "NOVALE",
+      "start": 83,
+      "end": 89
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "INFECCIONES E INFESTACIONES",
+      "start": 1151,
+      "end": 1178
+    },
+    {
+      "type": "FREQ",
+      "canonical": "MUY FRECUENTE",
+      "surface": "muy frecuentes",
+      "start": 1179,
+      "end": 1193
+    },
+    {
+      "type": "REACT",
+      "canonical": "Infección de las vías respiratorias altas",
+      "surface": "Infección de las vías respiratorias altas",
+      "start": 1195,
+      "end": 1236
+    },
+    {
+      "type": "REACT",
+      "canonical": "nasofaringitis",
+      "surface": "nasofaringitis",
+      "start": 1238,
+      "end": 1252
+    },
+    {
+      "type": "FREQ",
+      "canonical": "FRECUENTE",
+      "surface": "frecuentes",
+      "start": 1183,
+      "end": 1193
+    },
+    {
+      "type": "REACT",
+      "canonical": "Gripe",
+      "surface": "Gripe",
+      "start": 1266,
+      "end": 1271
+    },
+    {
+      "type": "REACT",
+      "canonical": "Rinitis",
+      "surface": "Rinitis",
+      "start": 1273,
+      "end": 1280
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "start": 1283,
+      "end": 1324
+    },
+    {
+      "type": "REACT",
+      "canonical": "Hipoglucemia",
+      "surface": "Hipoglucemia",
+      "start": 1337,
+      "end": 1349
+    },
+    {
+      "type": "SYS",
+      "canonical": "TRASTORNOS DEL METABOLISMO Y LA NUTRICIÓN",
+      "surface": "Trastornos del metabolismo y la nutrición",
+      "start": 1283,
+      "end": 1324
+    },
+    {
+      "type": "SYS",
+      "canonical": "INFECCIONES E INFESTACIONES",
+      "surface": "Infecciones e infestaciones",
+      "start": 1151,
+      "end": 1178
+    }
+  ]
+}
