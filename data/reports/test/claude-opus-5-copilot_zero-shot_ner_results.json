@@ -1,0 +1,1283 @@
+{
+  "model_name": "claude-opus-5-copilot_zero-shot",
+  "timestamp": "2026-09-29T20:27:04.209482+00:00",
+  "summary": {
+    "total_codes": 8,
+    "missing_files": 0,
+    "total_csv_reactions": 676,
+    "total_json_reactions": 679,
+    "total_matched": 503,
+    "detection_rate": 74.41
+  },
+  "overall": {
+    "ent_type": {
+      "correct": 1036,
+      "incorrect": 0,
+      "partial": 0,
+      "missed": 992,
+      "spurious": 176,
+      "precision": 0.8548,
+      "recall": 0.5108,
+      "f1": 0.6395
+    },
+    "exact": {
+      "correct": 1036,
+      "incorrect": 0,
+      "partial": 0,
+      "missed": 992,
+      "spurious": 176,
+      "precision": 0.8548,
+      "recall": 0.5108,
+      "f1": 0.6395
+    },
+    "partial": {
+      "correct": 1036,
+      "incorrect": 0,
+      "partial": 0,
+      "missed": 992,
+      "spurious": 176,
+      "precision": 0.8548,
+      "recall": 0.5108,
+      "f1": 0.6395
+    },
+    "strict": {
+      "correct": 1036,
+      "incorrect": 0,
+      "partial": 0,
+      "missed": 992,
+      "spurious": 176,
+      "precision": 0.8548,
+      "recall": 0.5108,
+      "f1": 0.6395
+    }
+  },
+  "entities": {
+    "REACADV": {
+      "ent_type": {
+        "correct": 503,
+        "incorrect": 0,
+        "partial": 0,
+        "missed": 173,
+        "spurious": 176,
+        "precision": 0.7408,
+        "recall": 0.7441,
+        "f1": 0.7424
+      },
+      "exact": {
+        "correct": 503,
+        "incorrect": 0,
+        "partial": 0,
+        "missed": 173,
+        "spurious": 176,
+        "precision": 0.7408,
+        "recall": 0.7441,
+        "f1": 0.7424
+      },
+      "partial": {
+        "correct": 503,
+        "incorrect": 0,
+        "partial": 0,
+        "missed": 173,
+        "spurious": 176,
+        "precision": 0.7408,
+        "recall": 0.7441,
+        "f1": 0.7424
+      },
+      "strict": {
+        "correct": 503,
+        "incorrect": 0,
+        "partial": 0,
+        "missed": 173,
+        "spurious": 176,
+        "precision": 0.7408,
+        "recall": 0.7441,
+        "f1": 0.7424
+      }
+    },
+    "FRECUENCIA": {
+      "ent_type": {
+        "correct": 248,
+        "incorrect": 0,
+        "partial": 0,
+        "missed": 428,
+        "spurious": 0,
+        "precision": 1.0,
+        "recall": 0.3669,
+        "f1": 0.5368
+      },
+      "exact": {
+        "correct": 248,
+        "incorrect": 0,
+        "partial": 0,
+        "missed": 428,
+        "spurious": 0,
+        "precision": 1.0,
+        "recall": 0.3669,
+        "f1": 0.5368
+      },
+      "partial": {
+        "correct": 248,
+        "incorrect": 0,
+        "partial": 0,
+        "missed": 428,
+        "spurious": 0,
+        "precision": 1.0,
+        "recall": 0.3669,
+        "f1": 0.5368
+      },
+      "strict": {
+        "correct": 248,
+        "incorrect": 0,
+        "partial": 0,
+        "missed": 428,
+        "spurious": 0,
+        "precision": 1.0,
+        "recall": 0.3669,
+        "f1": 0.5368
+      }
+    },
+    "SISTEMA": {
+      "ent_type": {
+        "correct": 285,
+        "incorrect": 0,
+        "partial": 0,
+        "missed": 391,
+        "spurious": 0,
+        "precision": 1.0,
+        "recall": 0.4216,
+        "f1": 0.5931
+      },
+      "exact": {
+        "correct": 285,
+        "incorrect": 0,
+        "partial": 0,
+        "missed": 391,
+        "spurious": 0,
+        "precision": 1.0,
+        "recall": 0.4216,
+        "f1": 0.5931
+      },
+      "partial": {
+        "correct": 285,
+        "incorrect": 0,
+        "partial": 0,
+        "missed": 391,
+        "spurious": 0,
+        "precision": 1.0,
+        "recall": 0.4216,
+        "f1": 0.5931
+      },
+      "strict": {
+        "correct": 285,
+        "incorrect": 0,
+        "partial": 0,
+        "missed": 391,
+        "spurious": 0,
+        "precision": 1.0,
+        "recall": 0.4216,
+        "f1": 0.5931
+      }
+    }
+  },
+  "hallucinations": {
+    "total": 176,
+    "by_code": {
+      "06960": {
+        "count": 2,
+        "entries": [
+          {
+            "principio_activo": "SULFADIAZINA",
+            "reaccion_adversa": "vómitos",
+            "frecuencia": "Frecuentes",
+            "trastorno": "Trastornos gastrointestinales"
+          },
+          {
+            "principio_activo": "SULFADIAZINA",
+            "reaccion_adversa": "insomnio",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos del sistema nervioso"
+          }
+        ]
+      },
+      "113845016": {
+        "count": 21,
+        "entries": [
+          {
+            "principio_activo": "IMATINIB MESILATO",
+            "reaccion_adversa": "Hemorragia tumoral/necrosis tumoral",
+            "frecuencia": "Frecuencia no conocida",
+            "trastorno": "Neoplasias benignas, malignas y no especificadas (incluyendo quistes y pólipos)"
+          },
+          {
+            "principio_activo": "IMATINIB MESILATO",
+            "reaccion_adversa": "Convulsiones",
+            "frecuencia": "Raras",
+            "trastorno": "Trastornos del sistema nervioso"
+          },
+          {
+            "principio_activo": "IMATINIB MESILATO",
+            "reaccion_adversa": "Papiloedema",
+            "frecuencia": "Raras",
+            "trastorno": "Trastornos oculares"
+          },
+          {
+            "principio_activo": "IMATINIB MESILATO",
+            "reaccion_adversa": "Pérdida de audición",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos del oído y del laberinto"
+          },
+          {
+            "principio_activo": "IMATINIB MESILATO",
+            "reaccion_adversa": "Insuficiencia cardiaca congestiva",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos cardiacos"
+          },
+          {
+            "principio_activo": "IMATINIB MESILATO",
+            "reaccion_adversa": "Paro cardiaco",
+            "frecuencia": "Raras",
+            "trastorno": "Trastornos cardiacos"
+          },
+          {
+            "principio_activo": "IMATINIB MESILATO",
+            "reaccion_adversa": "Tamponamiento cardiaco",
+            "frecuencia": "Frecuencia no conocida",
+            "trastorno": "Trastornos cardiacos"
+          },
+          {
+            "principio_activo": "IMATINIB MESILATO",
+            "reaccion_adversa": "Trombosis/embolismo",
+            "frecuencia": "Frecuencia no conocida",
+            "trastorno": "Trastornos vasculares"
+          },
+          {
+            "principio_activo": "IMATINIB MESILATO",
+            "reaccion_adversa": "Náuseas",
+            "frecuencia": "Muy frecuentes",
+            "trastorno": "Trastornos gastrointestinales"
+          },
+          {
+            "principio_activo": "IMATINIB MESILATO",
+            "reaccion_adversa": "Sequedad de la boca",
+            "frecuencia": "Frecuentes",
+            "trastorno": "Trastornos gastrointestinales"
+          },
+          {
+            "principio_activo": "IMATINIB MESILATO",
+            "reaccion_adversa": "Obstrucción ilíaca/intestinal",
+            "frecuencia": "Frecuencia no conocida",
+            "trastorno": "Trastornos gastrointestinales"
+          },
+          {
+            "principio_activo": "IMATINIB MESILATO",
+            "reaccion_adversa": "Aumento de enzimas hepáticos",
+            "frecuencia": "Frecuentes",
+            "trastorno": "Trastornos hepatobiliares"
+          },
+          {
+            "principio_activo": "IMATINIB MESILATO",
+            "reaccion_adversa": "Dermatitis/eccema/erupción",
+            "frecuencia": "Muy frecuentes",
+            "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+          },
+          {
+            "principio_activo": "IMATINIB MESILATO",
+            "reaccion_adversa": "Síndrome de Stevens-Johnson",
+            "frecuencia": "Raras",
+            "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+          },
+          {
+            "principio_activo": "IMATINIB MESILATO",
+            "reaccion_adversa": "Dolor musculoesquelético incluyendo mialgia",
+            "frecuencia": "Muy frecuentes",
+            "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+          },
+          {
+            "principio_activo": "IMATINIB MESILATO",
+            "reaccion_adversa": "Hinchazón de las articulaciones",
+            "frecuencia": "Frecuentes",
+            "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+          },
+          {
+            "principio_activo": "IMATINIB MESILATO",
+            "reaccion_adversa": "Rabdomiolisis/miopatía",
+            "frecuencia": "Raras",
+            "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+          },
+          {
+            "principio_activo": "IMATINIB MESILATO",
+            "reaccion_adversa": "Necrosis avascular/necrosis de cadera",
+            "frecuencia": "Frecuencia no conocida",
+            "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+          },
+          {
+            "principio_activo": "IMATINIB MESILATO",
+            "reaccion_adversa": "Cuerpo lúteo hemorrágico/quiste de ovario hemorrágico",
+            "frecuencia": "Raras",
+            "trastorno": "Trastornos del aparato reproductor y de la mama"
+          },
+          {
+            "principio_activo": "IMATINIB MESILATO",
+            "reaccion_adversa": "Retención de líquidos y edema",
+            "frecuencia": "Muy frecuentes",
+            "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+          },
+          {
+            "principio_activo": "IMATINIB MESILATO",
+            "reaccion_adversa": "Aumento de amilasa sérica",
+            "frecuencia": "Raras",
+            "trastorno": "Exploraciones complementarias"
+          }
+        ]
+      },
+      "40537": {
+        "count": 25,
+        "entries": [
+          {
+            "principio_activo": "INDOMETACINA",
+            "reaccion_adversa": "Anemia aplástica",
+            "frecuencia": "Muy raras",
+            "trastorno": "Trastornos de la sangre y del sistema linfático"
+          },
+          {
+            "principio_activo": "INDOMETACINA",
+            "reaccion_adversa": "Anemia hemolítica",
+            "frecuencia": "Muy raras",
+            "trastorno": "Trastornos de la sangre y del sistema linfático"
+          },
+          {
+            "principio_activo": "INDOMETACINA",
+            "reaccion_adversa": "Trastornos psicológicos (como despersonalización)",
+            "frecuencia": "Raras",
+            "trastorno": "Trastornos psiquiátricos"
+          },
+          {
+            "principio_activo": "INDOMETACINA",
+            "reaccion_adversa": "Cansancio (incluido malestar y languidez)",
+            "frecuencia": "Frecuentes",
+            "trastorno": "Trastornos del sistema nervioso"
+          },
+          {
+            "principio_activo": "INDOMETACINA",
+            "reaccion_adversa": "Síncope",
+            "frecuencia": "Raras",
+            "trastorno": "Trastornos del sistema nervioso"
+          },
+          {
+            "principio_activo": "INDOMETACINA",
+            "reaccion_adversa": "Movimientos musculares involuntarios",
+            "frecuencia": "Raras",
+            "trastorno": "Trastornos del sistema nervioso"
+          },
+          {
+            "principio_activo": "INDOMETACINA",
+            "reaccion_adversa": "Convulsiones",
+            "frecuencia": "Raras",
+            "trastorno": "Trastornos del sistema nervioso"
+          },
+          {
+            "principio_activo": "INDOMETACINA",
+            "reaccion_adversa": "Diplopía",
+            "frecuencia": "Raras",
+            "trastorno": "Trastornos oculares"
+          },
+          {
+            "principio_activo": "INDOMETACINA",
+            "reaccion_adversa": "Dolor orbitario y peri-orbitario",
+            "frecuencia": "Raras",
+            "trastorno": "Trastornos oculares"
+          },
+          {
+            "principio_activo": "INDOMETACINA",
+            "reaccion_adversa": "Alteraciones retinianas incluidas alteraciones en la mácula",
+            "frecuencia": "Muy raras",
+            "trastorno": "Trastornos oculares"
+          },
+          {
+            "principio_activo": "INDOMETACINA",
+            "reaccion_adversa": "Insuficiencia cardiaca congestiva",
+            "frecuencia": "Raras",
+            "trastorno": "Trastornos cardíacos"
+          },
+          {
+            "principio_activo": "INDOMETACINA",
+            "reaccion_adversa": "Infarto de miocardio",
+            "frecuencia": "Frecuencia no conocida",
+            "trastorno": "Trastornos cardíacos"
+          },
+          {
+            "principio_activo": "INDOMETACINA",
+            "reaccion_adversa": "Ictus",
+            "frecuencia": "Frecuencia no conocida",
+            "trastorno": "Trastornos vasculares"
+          },
+          {
+            "principio_activo": "INDOMETACINA",
+            "reaccion_adversa": "Aumento de las transaminasas séricas",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos hepatobiliares"
+          },
+          {
+            "principio_activo": "INDOMETACINA",
+            "reaccion_adversa": "Empeoramiento del dolor abdominal en pacientes con colitis ulcerosa",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos gastrointestinales"
+          },
+          {
+            "principio_activo": "INDOMETACINA",
+            "reaccion_adversa": "Hemorragia en el colon sigmoide",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos gastrointestinales"
+          },
+          {
+            "principio_activo": "INDOMETACINA",
+            "reaccion_adversa": "Úlceras únicas o múltiples en esófago, estómago, duodeno e intestino delgado o grueso (incluida perforación y hemorragia)",
+            "frecuencia": "Raras",
+            "trastorno": "Trastornos gastrointestinales"
+          },
+          {
+            "principio_activo": "INDOMETACINA",
+            "reaccion_adversa": "Melena",
+            "frecuencia": "Frecuencia no conocida",
+            "trastorno": "Trastornos gastrointestinales"
+          },
+          {
+            "principio_activo": "INDOMETACINA",
+            "reaccion_adversa": "Hematemesis",
+            "frecuencia": "Frecuencia no conocida",
+            "trastorno": "Trastornos gastrointestinales"
+          },
+          {
+            "principio_activo": "INDOMETACINA",
+            "reaccion_adversa": "Dispepsia",
+            "frecuencia": "Frecuencia no conocida",
+            "trastorno": "Trastornos gastrointestinales"
+          },
+          {
+            "principio_activo": "INDOMETACINA",
+            "reaccion_adversa": "Exacerbación de colitis ulcerosa y enfermedad de Crohn",
+            "frecuencia": "Frecuencia no conocida",
+            "trastorno": "Trastornos gastrointestinales"
+          },
+          {
+            "principio_activo": "INDOMETACINA",
+            "reaccion_adversa": "Insuficiencia renal incluido fallo renal",
+            "frecuencia": "Muy raras",
+            "trastorno": "Trastornos renales y urinarios"
+          },
+          {
+            "principio_activo": "INDOMETACINA",
+            "reaccion_adversa": "Reacciones ampollosas incluyendo síndrome de Stevens-Johnson",
+            "frecuencia": "Muy raras",
+            "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+          },
+          {
+            "principio_activo": "INDOMETACINA",
+            "reaccion_adversa": "Cambios en las mamas incluido aumento de las mamas",
+            "frecuencia": "Raras",
+            "trastorno": "Trastornos del aparato reproductor y de la mama"
+          },
+          {
+            "principio_activo": "INDOMETACINA",
+            "reaccion_adversa": "Sensibilidad mamaria",
+            "frecuencia": "Raras",
+            "trastorno": "Trastornos del aparato reproductor y de la mama"
+          }
+        ]
+      },
+      "48557": {
+        "count": 8,
+        "entries": [
+          {
+            "principio_activo": "SULPIRIDA",
+            "reaccion_adversa": "Reacciones anafilácticas",
+            "frecuencia": "Frecuencia no conocida",
+            "trastorno": "Trastornos del sistema inmunológico"
+          },
+          {
+            "principio_activo": "SULPIRIDA",
+            "reaccion_adversa": "Síndrome de secreción inadecuada de hormona antidiurética (SIHAD)",
+            "frecuencia": "Frecuencia no conocida",
+            "trastorno": "Trastornos del metabolismo y de la nutrición"
+          },
+          {
+            "principio_activo": "SULPIRIDA",
+            "reaccion_adversa": "Confusión",
+            "frecuencia": "Frecuencia no conocida",
+            "trastorno": "Trastornos psiquiátricos"
+          },
+          {
+            "principio_activo": "SULPIRIDA",
+            "reaccion_adversa": "Sedación o somnolencia",
+            "frecuencia": "Frecuentes",
+            "trastorno": "Trastornos del sistema nervioso"
+          },
+          {
+            "principio_activo": "SULPIRIDA",
+            "reaccion_adversa": "Convulsiones",
+            "frecuencia": "Frecuencia no conocida",
+            "trastorno": "Trastornos del sistema nervioso"
+          },
+          {
+            "principio_activo": "SULPIRIDA",
+            "reaccion_adversa": "Síntomas extrapiramidales en recién nacidos",
+            "frecuencia": "Frecuencia no conocida",
+            "trastorno": "Embarazo, puerperio y enfermedades perinatales"
+          },
+          {
+            "principio_activo": "SULPIRIDA",
+            "reaccion_adversa": "Síndrome de retirada en recién nacidos",
+            "frecuencia": "Frecuencia no conocida",
+            "trastorno": "Embarazo, puerperio y enfermedades perinatales"
+          },
+          {
+            "principio_activo": "SULPIRIDA",
+            "reaccion_adversa": "Aumento de la creatina fosfoquinasa en sangre",
+            "frecuencia": "Frecuencia no conocida",
+            "trastorno": "Exploraciones complementarias"
+          }
+        ]
+      },
+      "62223": {
+        "count": 16,
+        "entries": [
+          {
+            "principio_activo": "METRONIDAZOL",
+            "reaccion_adversa": "Superinfecciones con cándida (p. ej., infecciones genitales)",
+            "frecuencia": "Frecuentes",
+            "trastorno": "Infecciones e infestaciones"
+          },
+          {
+            "principio_activo": "METRONIDAZOL",
+            "reaccion_adversa": "Agranulocitosis",
+            "frecuencia": "Muy raras",
+            "trastorno": "Trastornos de la sangre y del sistema linfático"
+          },
+          {
+            "principio_activo": "METRONIDAZOL",
+            "reaccion_adversa": "Reacciones graves de hipersensibilidad sistémica aguda (anafilaxia)",
+            "frecuencia": "Raras",
+            "trastorno": "Trastornos del sistema inmunológico"
+          },
+          {
+            "principio_activo": "METRONIDAZOL",
+            "reaccion_adversa": "Shock anafiláctico",
+            "frecuencia": "Raras",
+            "trastorno": "Trastornos del sistema inmunológico"
+          },
+          {
+            "principio_activo": "METRONIDAZOL",
+            "reaccion_adversa": "Reacciones de hipersensibilidad leves a moderadas (reacciones cutáneas)",
+            "frecuencia": "Frecuencia no conocida",
+            "trastorno": "Trastornos del sistema inmunológico"
+          },
+          {
+            "principio_activo": "METRONIDAZOL",
+            "reaccion_adversa": "Angioedema",
+            "frecuencia": "Frecuencia no conocida",
+            "trastorno": "Trastornos del sistema inmunológico"
+          },
+          {
+            "principio_activo": "METRONIDAZOL",
+            "reaccion_adversa": "Trastornos psicóticos, incluyendo confusión y alucinaciones",
+            "frecuencia": "Muy raras",
+            "trastorno": "Trastornos psiquiátricos"
+          },
+          {
+            "principio_activo": "METRONIDAZOL",
+            "reaccion_adversa": "Temblores",
+            "frecuencia": "Muy raras",
+            "trastorno": "Trastornos del sistema nervioso"
+          },
+          {
+            "principio_activo": "METRONIDAZOL",
+            "reaccion_adversa": "Alteraciones visuales (visión doble, miopía)",
+            "frecuencia": "Muy raras",
+            "trastorno": "Trastornos oculares"
+          },
+          {
+            "principio_activo": "METRONIDAZOL",
+            "reaccion_adversa": "Neuropatía óptica/neuritis",
+            "frecuencia": "Frecuencia no conocida",
+            "trastorno": "Trastornos oculares"
+          },
+          {
+            "principio_activo": "METRONIDAZOL",
+            "reaccion_adversa": "Aumento de las enzimas hepáticas (AST, ALT, fosfatasa alcalina)",
+            "frecuencia": "Muy raras",
+            "trastorno": "Trastornos hepatobiliares"
+          },
+          {
+            "principio_activo": "METRONIDAZOL",
+            "reaccion_adversa": "Prurito",
+            "frecuencia": "Muy raras",
+            "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+          },
+          {
+            "principio_activo": "METRONIDAZOL",
+            "reaccion_adversa": "Urticaria",
+            "frecuencia": "Muy raras",
+            "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+          },
+          {
+            "principio_activo": "METRONIDAZOL",
+            "reaccion_adversa": "Síndrome de Stevens-Johnson",
+            "frecuencia": "Muy raras",
+            "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+          },
+          {
+            "principio_activo": "METRONIDAZOL",
+            "reaccion_adversa": "Necrólisis epidérmica tóxica",
+            "frecuencia": "Frecuencia no conocida",
+            "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+          },
+          {
+            "principio_activo": "METRONIDAZOL",
+            "reaccion_adversa": "Orina oscura",
+            "frecuencia": "Muy raras",
+            "trastorno": "Trastornos renales y urinarios"
+          }
+        ]
+      },
+      "62305": {
+        "count": 19,
+        "entries": [
+          {
+            "principio_activo": "CAPTOPRIL",
+            "reaccion_adversa": "Neutropenia/agranulocitosis",
+            "frecuencia": "Muy raras",
+            "trastorno": "Trastornos de la sangre y del sistema linfático"
+          },
+          {
+            "principio_activo": "CAPTOPRIL",
+            "reaccion_adversa": "Pancitopenia",
+            "frecuencia": "Muy raras",
+            "trastorno": "Trastornos de la sangre y del sistema linfático"
+          },
+          {
+            "principio_activo": "CAPTOPRIL",
+            "reaccion_adversa": "Anemia (incluyendo anemia aplásica y hemolítica)",
+            "frecuencia": "Muy raras",
+            "trastorno": "Trastornos de la sangre y del sistema linfático"
+          },
+          {
+            "principio_activo": "CAPTOPRIL",
+            "reaccion_adversa": "Enfermedades autoinmunes y/o test ANA-positivo",
+            "frecuencia": "Muy raras",
+            "trastorno": "Trastornos de la sangre y del sistema linfático"
+          },
+          {
+            "principio_activo": "CAPTOPRIL",
+            "reaccion_adversa": "Accidente cerebrovascular incluyendo ictus",
+            "frecuencia": "Muy raras",
+            "trastorno": "Trastornos del sistema nervioso"
+          },
+          {
+            "principio_activo": "CAPTOPRIL",
+            "reaccion_adversa": "Taquicardia o taquiarritmia",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos cardíacos"
+          },
+          {
+            "principio_activo": "CAPTOPRIL",
+            "reaccion_adversa": "Tos seca irritativa (no productiva)",
+            "frecuencia": "Frecuentes",
+            "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+          },
+          {
+            "principio_activo": "CAPTOPRIL",
+            "reaccion_adversa": "Alveolitis alérgica/neumonía eosinofílica",
+            "frecuencia": "Muy raras",
+            "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+          },
+          {
+            "principio_activo": "CAPTOPRIL",
+            "reaccion_adversa": "Estomatitis/ulceraciones aftosas",
+            "frecuencia": "Raras",
+            "trastorno": "Trastornos gastrointestinales"
+          },
+          {
+            "principio_activo": "CAPTOPRIL",
+            "reaccion_adversa": "Función hepática deteriorada y colestasis (incluyendo ictericia)",
+            "frecuencia": "Muy raras",
+            "trastorno": "Trastornos hepatobiliares"
+          },
+          {
+            "principio_activo": "CAPTOPRIL",
+            "reaccion_adversa": "Hepatitis incluyendo necrosis hepática",
+            "frecuencia": "Muy raras",
+            "trastorno": "Trastornos hepatobiliares"
+          },
+          {
+            "principio_activo": "CAPTOPRIL",
+            "reaccion_adversa": "Elevación de enzimas hepáticas y bilirrubina",
+            "frecuencia": "Muy raras",
+            "trastorno": "Trastornos hepatobiliares"
+          },
+          {
+            "principio_activo": "CAPTOPRIL",
+            "reaccion_adversa": "Prurito con o sin erupción cutánea",
+            "frecuencia": "Frecuentes",
+            "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+          },
+          {
+            "principio_activo": "CAPTOPRIL",
+            "reaccion_adversa": "Síndrome de Stevens-Johnson",
+            "frecuencia": "Muy raras",
+            "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+          },
+          {
+            "principio_activo": "CAPTOPRIL",
+            "reaccion_adversa": "Trastornos de la función renal incluyendo fallo renal",
+            "frecuencia": "Raras",
+            "trastorno": "Trastornos renales y urinarios"
+          },
+          {
+            "principio_activo": "CAPTOPRIL",
+            "reaccion_adversa": "Malestar",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+          },
+          {
+            "principio_activo": "CAPTOPRIL",
+            "reaccion_adversa": "Elevación del nitrógeno ureico (BUN), creatinina sérica y bilirrubina sérica",
+            "frecuencia": "Muy raras",
+            "trastorno": "Exploraciones complementarias"
+          },
+          {
+            "principio_activo": "CAPTOPRIL",
+            "reaccion_adversa": "Descensos en hemoglobina, hematocrito, leucocitos y plaquetas",
+            "frecuencia": "Muy raras",
+            "trastorno": "Exploraciones complementarias"
+          },
+          {
+            "principio_activo": "CAPTOPRIL",
+            "reaccion_adversa": "Síndrome con fiebre, mialgia, artralgia, nefritis intersticial, vasculitis, erupción, eosinofilia y VSG elevada",
+            "frecuencia": "Frecuencia no conocida",
+            "trastorno": "Trastornos del sistema inmunológico"
+          }
+        ]
+      },
+      "84067": {
+        "count": 83,
+        "entries": [
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "hipersensibilidad",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos del sistema inmunológico"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "disminución de peso",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos del metabolismo y de la nutrición"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "aumento de peso",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos del metabolismo y de la nutrición"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "anorexia",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos del metabolismo y de la nutrición"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "aumento del apetito",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos del metabolismo y de la nutrición"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "depresión",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos psiquiátricos"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "desorientación",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos psiquiátricos"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "ansiedad",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos psiquiátricos"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "insomnio",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos psiquiátricos"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "trastornos del sueño",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos psiquiátricos"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "sueños anormales",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos psiquiátricos"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "dolor de cabeza",
+            "frecuencia": "Frecuentes",
+            "trastorno": "Trastornos del sistema nervioso"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "neuropatía periférica",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos del sistema nervioso"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "síncope",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos del sistema nervioso"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "amnesia",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos del sistema nervioso"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "mareos",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos del sistema nervioso"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "somnolencia",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos del sistema nervioso"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "disgeusia",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos del sistema nervioso"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "ictericia ocular",
+            "frecuencia": "Frecuentes",
+            "trastorno": "Trastornos oculares"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "torsades de pointes",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos cardiacos"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "prolongación del QTc",
+            "frecuencia": "Raras",
+            "trastorno": "Trastornos cardiacos"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "edema",
+            "frecuencia": "Raras",
+            "trastorno": "Trastornos cardiacos"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "palpitaciones",
+            "frecuencia": "Raras",
+            "trastorno": "Trastornos cardiacos"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "hipertensión",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos vasculares"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "disnea",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos respiratorios, torácicos y mediastínicos"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "vómitos",
+            "frecuencia": "Frecuentes",
+            "trastorno": "Trastornos gastrointestinales"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "diarrea",
+            "frecuencia": "Frecuentes",
+            "trastorno": "Trastornos gastrointestinales"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "dolor abdominal",
+            "frecuencia": "Frecuentes",
+            "trastorno": "Trastornos gastrointestinales"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "náuseas",
+            "frecuencia": "Frecuentes",
+            "trastorno": "Trastornos gastrointestinales"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "dispepsia",
+            "frecuencia": "Frecuentes",
+            "trastorno": "Trastornos gastrointestinales"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "pancreatitis",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos gastrointestinales"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "gastritis",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos gastrointestinales"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "distensión abdominal",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos gastrointestinales"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "estomatitis aftosa",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos gastrointestinales"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "flatulencia",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos gastrointestinales"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "sequedad de boca",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos gastrointestinales"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "ictericia",
+            "frecuencia": "Frecuentes",
+            "trastorno": "Trastornos hepatobiliares"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "hepatitis",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos hepatobiliares"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "colelitiasis",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos hepatobiliares"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "colestasis",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos hepatobiliares"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "hepatoesplenomegalia",
+            "frecuencia": "Raras",
+            "trastorno": "Trastornos hepatobiliares"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "colecistitis",
+            "frecuencia": "Raras",
+            "trastorno": "Trastornos hepatobiliares"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "rash",
+            "frecuencia": "Frecuentes",
+            "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "eritema multiforme",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "erupciones cutáneas tóxicas",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "síndrome de rash medicamentoso con eosinofilia y síntomas sistémicos (DRESS)",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "angioedema",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "urticaria",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "alopecia",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "prurito",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "síndrome de Stevens-Johnson",
+            "frecuencia": "Raras",
+            "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "rash vesiculobulloso",
+            "frecuencia": "Raras",
+            "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "eccema",
+            "frecuencia": "Raras",
+            "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "vasodilatación",
+            "frecuencia": "Raras",
+            "trastorno": "Trastornos de la piel y del tejido subcutáneo"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "atrofia muscular",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "artralgia",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "mialgia",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "miopatía",
+            "frecuencia": "Raras",
+            "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "nefrolitiasis",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos renales y urinarios"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "hematuria",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos renales y urinarios"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "proteinuria",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos renales y urinarios"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "polaquiuria",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos renales y urinarios"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "nefritis intersticial",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos renales y urinarios"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "enfermedad renal crónica",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos renales y urinarios"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "dolor renal",
+            "frecuencia": "Raras",
+            "trastorno": "Trastornos renales y urinarios"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "ginecomastia",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos del aparato reproductor y de la mama"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "fatiga",
+            "frecuencia": "Frecuentes",
+            "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "dolor torácico",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "malestar",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "fiebre",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "astenia",
+            "frecuencia": "Poco frecuentes",
+            "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "marcha anormal",
+            "frecuencia": "Raras",
+            "trastorno": "Trastornos generales y alteraciones en el lugar de administración"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "síndrome inflamatorio de reconstitución inmune",
+            "frecuencia": "Frecuencia no conocida",
+            "trastorno": "Trastornos del sistema inmunológico"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "trastornos autoinmunitarios (enfermedad de Graves, hepatitis autoinmune)",
+            "frecuencia": "Frecuencia no conocida",
+            "trastorno": "Trastornos del sistema inmunológico"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "osteonecrosis",
+            "frecuencia": "Frecuencia no conocida",
+            "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "aumento de la bilirrubina total",
+            "frecuencia": "Muy frecuentes",
+            "trastorno": "Exploraciones complementarias"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "elevación de creatinquinasa",
+            "frecuencia": "Frecuentes",
+            "trastorno": "Exploraciones complementarias"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "elevación de ALT/SGPT",
+            "frecuencia": "Frecuentes",
+            "trastorno": "Exploraciones complementarias"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "descenso de los neutrófilos",
+            "frecuencia": "Frecuentes",
+            "trastorno": "Trastornos de la sangre y del sistema linfático"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "elevación de AST/SGOT",
+            "frecuencia": "Frecuentes",
+            "trastorno": "Exploraciones complementarias"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "elevación de lipasa",
+            "frecuencia": "Frecuentes",
+            "trastorno": "Exploraciones complementarias"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "bloqueo auriculoventricular asintomático (población pediátrica)",
+            "frecuencia": "Muy frecuentes",
+            "trastorno": "Trastornos cardiacos"
+          },
+          {
+            "principio_activo": "ATAZANAVIR SULFATO",
+            "reaccion_adversa": "aumento de amilasa (población pediátrica)",
+            "frecuencia": "Muy frecuentes",
+            "trastorno": "Exploraciones complementarias"
+          }
+        ]
+      },
+      "84088": {
+        "count": 2,
+        "entries": [
+          {
+            "principio_activo": "SUXAMETONIO CLORURO",
+            "reaccion_adversa": "Arritmias (incluidas arritmias ventriculares)",
+            "frecuencia": "Raras",
+            "trastorno": "Trastornos cardiacos"
+          },
+          {
+            "principio_activo": "SUXAMETONIO CLORURO",
+            "reaccion_adversa": "Rabdomiólisis",
+            "frecuencia": "Frecuencia no conocida",
+            "trastorno": "Trastornos musculoesqueléticos y del tejido conjuntivo"
+          }
+        ]
+      }
+    }
+  }
+}
